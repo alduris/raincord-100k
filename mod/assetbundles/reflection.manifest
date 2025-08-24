@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 2342979363
+CRC: 1057032409
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 8e88ac64bc363ee607ddcbd24e2d153e
+    Hash: 4bc0fefb15c3947b9bb11fa35d0a6263
   TypeTreeHash:
     serializedVersion: 2
     Hash: 68c985bf88fecc38b460cdb825182138
@@ -13,5 +13,6 @@ ClassTypes:
   Script: {instanceID: 0}
 SerializeReferenceClassIdentifiers: []
 Assets:
+- Assets/Shaders/WaterReflection.shader
 - Assets/Shaders/Reflection.shader
 Dependencies: []

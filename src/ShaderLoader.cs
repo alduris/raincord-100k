@@ -11,11 +11,18 @@ public static class ShaderLoader
     public static int ReflectionFadeStrength { get; } = Shader.PropertyToID("_ReflectionFadeStrength");
     public static int ReflectionBlurStrength { get; } = Shader.PropertyToID("_ReflectionBlurStrength");
 
+    public static FShader WaterReflection { get; set; } = null!;
+    public static int ReflectionRippleSpeed { get; } = Shader.PropertyToID("_ReflectionRippleSpeed");
+    public static int ReflectionRippleAspect { get; } = Shader.PropertyToID("_ReflectionRippleAspect");
+    public static int ReflectionRippleFrequency { get; } = Shader.PropertyToID("_ReflectionRippleFrequency");
+    public static int ReflectionRippleStrength { get; } = Shader.PropertyToID("_ReflectionRippleStrength");
+
     public static void LoadShaders()
     {
         var bundle = AssetBundle.LoadFromFile(AssetManager.ResolveFilePath("assetbundles/reflection"));
 
-        Reflection = bundle.LoadShader(nameof(Reflection), "Assets/Shaders/reflection.shader");
+        Reflection = bundle.LoadShader(nameof(Reflection), "Assets/Shaders/Reflection.shader");
+        WaterReflection = bundle.LoadShader(nameof(WaterReflection), "Assets/Shaders/WaterReflection.shader");
     }
 
     public static FShader LoadShader(this AssetBundle bundle, string shaderName, string shaderPath)

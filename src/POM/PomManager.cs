@@ -14,5 +14,8 @@ public static class PomManager
 
         // Reflective floor
         Pom.Pom.RegisterManagedObject<Reflection, ReflectionData, Pom.Pom.ManagedRepresentation>("100kReflection", Category, true);
+
+        // Reflective floor with rain droplets
+        Pom.Pom.RegisterManagedObject<WaterReflection, WaterReflectionData, Pom.Pom.ManagedRepresentation>("100kWaterReflection", Category, true);
     }
 }

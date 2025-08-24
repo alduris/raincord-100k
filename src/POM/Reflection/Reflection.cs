@@ -9,6 +9,8 @@ public class Reflection : UpdatableAndDeletable, IDrawable
     public PlacedObject PlacedObject { get; }
     public ReflectionData Data { get; }
 
+    protected virtual FShader ReflectionShader => ShaderLoader.Reflection;
+
     public Reflection(Room room, PlacedObject placedObject)
     {
         this.room = room;
@@ -63,6 +65,8 @@ public class Reflection : UpdatableAndDeletable, IDrawable
 
         main.scaleX = Data.size.x;
         main.scaleY = Data.size.y;
+
+        main.shader = ReflectionShader;
     }
 
     public void ApplyPalette(RoomCamera.SpriteLeaser sLeaser, RoomCamera rCam, RoomPalette palette) { }
@@ -85,10 +89,7 @@ public class Reflection : UpdatableAndDeletable, IDrawable
         {
             SLeaser.sprites = new FSprite[(int)Sprite.Count];
 
-            SetSprite(Sprite.Main, new FSprite("pixel")
-            {
-                shader = ShaderLoader.Reflection,
-            });
+            SetSprite(Sprite.Main, new FSprite("pixel"));
         }
 
         private T GetSprite<T>(Sprite sprite)
