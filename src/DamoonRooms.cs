@@ -60,7 +60,7 @@ namespace Raincord100k
             return ValidGateLocation(player);
         }
 
-        private void OEWallShelterHUD(ILContext il)
+        private void ShelterHUD(ILContext il)
         {
             try
             {
@@ -165,3 +165,4 @@ namespace Raincord100k
     }
 
 }
+
