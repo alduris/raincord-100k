@@ -14,6 +14,11 @@ namespace Raincord100k
         {
             On.RainWorld.OnModsInit += Extras.WrapInit(LoadResources);
             MenuHooks.Apply();
+
+            On.MoreSlugcats.OEsphere.AddToContainer += OESphereFix;
+            On.ShelterDoor.ShelterEntranceOverrides += ShelterEntrance;
+            On.HUD.HUD.InitSinglePlayerHud += ShelterHUDInit;
+            On.HUD.HUD.Update += ShelterHUDHide;
         }
 
         public void OnDisable()
