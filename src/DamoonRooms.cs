@@ -20,7 +20,7 @@ namespace Raincord100k
             bool flag = false;
             if (self.owner.GetOwnerType() == HUD.HUD.OwnerType.Player && (self.owner as Player).room != null)
             {
-                flag = (self.owner as Player).room.abstractRoom.name == "TREETOP_SHELTER";
+                flag = (self.owner as Player).room.abstractRoom.name == "OE_DAMOONLORD_SHELTER";
             }
 
             if (flag && !ValidGateLocation(self.owner as Player))
@@ -33,7 +33,7 @@ namespace Raincord100k
         {
             orig(self, cam);
 
-            bool flag = cam.room.abstractRoom.name == "TREETOP_SHELTER";
+            bool flag = cam.room.abstractRoom.name == "OE_DAMOONLORD_SHELTER";
 
             if (flag && !ValidGateLocation(self.owner as Player))
             {
@@ -45,7 +45,7 @@ namespace Raincord100k
 
         private IntVector2? ShelterEntrance(On.ShelterDoor.orig_ShelterEntranceOverrides orig, ShelterDoor self)
         {
-            if (self.room.abstractRoom.name == "TREETOP_SHELTER")
+            if (self.room.abstractRoom.name == "OE_DAMOONLORD_SHELTER")
             {
                 self.dir = new Vector2(-1f, 0f);
                 return new IntVector2(15, 22);
@@ -105,7 +105,7 @@ namespace Raincord100k
 		
         static bool ValidGateLocation(Player self)
         {
-            if (self.room.abstractRoom.name == "TREETOP_SHELTER")
+            if (self.room.abstractRoom.name == "OE_DAMOONLORD_SHELTER")
             {
                 return
                     self.room.GetTile(self.mainBodyChunk.pos).Y < 19 &&
@@ -165,4 +165,5 @@ namespace Raincord100k
     }
 
 }
+
 
