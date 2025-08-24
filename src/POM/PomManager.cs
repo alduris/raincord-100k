@@ -1,5 +1,3 @@
-using EffExt;
-
 namespace Raincord100k;
 
 // Placed Objects Manager Manager :D
