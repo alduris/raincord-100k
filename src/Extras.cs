@@ -30,6 +30,9 @@ internal static class Extras
                 {
                     _initialized = true;
                     loadResources(self);
+                    
+                    IL.Player.Update += ShelterCheck;
+                    IL.HUD.FoodMeter.MeterCircle.Update += ShelterHUD;
                 }
             }
             catch (Exception e)
