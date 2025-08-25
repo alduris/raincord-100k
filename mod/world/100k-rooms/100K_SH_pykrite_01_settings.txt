@@ -1,0 +1,12 @@
+Template: NONE
+CeilingDrips: 0.2391304
+Clouds: 0.2717391
+Grime: 0
+RandomItemDensity: 0.5217391
+RandomItemSpearChance: 0.2217391
+WaterReflectionAlpha: 0
+Palette: 10
+EffectColorA: 0
+Effects: SunBlock-0-46-100, Darkness-0.8586956-72-143, Contrast-0-58-356, Desaturation-1-92-401, DarkenLights-0-55-127, WaterLights-0-341-438, GeyserFrequency-0-57-517, DirtyWater-0-0-0, InvertedWater-0-225-234, FireFlies-0.9456522-218-170, SkyBloom-0-319-348, LightBurn-0-433-587, ZeroG-0-320-204, DayNight-0-443-428, Fog-0.4565217-259-84, 
+PlacedObjects: Lantern><449.181><1288.415><88~88~4~9, LillyPuck><570.9153><94.61252><-23~113~2~3, LillyPuck><-200.9158><389.1814><37~-150~2~3, LillyPuck><682.3112><97.30957><-25~91~2~3, 
+FadePalette: 0, 0, 0

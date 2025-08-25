@@ -1,0 +1,12 @@
+Template: NONE
+CeilingDrips: 0
+RainIntensity: 0.6
+RumbleIntensity: 0.06
+Clouds: 0.4021288
+Grime: 0
+Palette: 2
+EffectColorA: 11
+EffectColorB: 11
+Effects: SkyDandelions-0.6056046-20-20, 
+PlacedObjects: DandelionPatch><745.034><1915.243><0~100, DandelionPatch><690.7264><1257.278><0~100, DandelionPatch><282.3199><1261.714><0~100, DandelionPatch><366.7626><1653.833><-1.422913~113.5111, DandelionPatch><592.4131><1643.966><2.845825~119.2, CustomDecal><246.6643><1596.489><-46.24478~362.8445~508.851~340.0889~511.6968~-25.59998~-463.8708~123.0222~0.5799932~1~0~snt~0.5~0~0.5~0~0.5~0~0.5~0, DandelionPeach><771.0361><1932.925><54.07086~48.35556~2~3, DandelionPeach><726.1652><1929.12><-64.03125~76.79999~2~3, 
+AmbientSounds: OMNI><AM_WIN-MedWind.ogg><143.3295><491.6454><0.6086956><1, 

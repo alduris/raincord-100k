@@ -1,0 +1,13 @@
+Template: NONE
+CeilingDrips: 0.6304348
+WaveSpeed: 0.5760869
+WaveLength: 0.7826087
+WaveAmplitude: 0.1630435
+SecondWaveLength: 0.1666667
+SecondWaveAmplitude: 0.3695652
+Clouds: 0.3152174
+Grime: 0.3478261
+WaterReflectionAlpha: 1
+Palette: 4
+EffectColorB: 6
+PlacedObjects: WaterCurrent><45.42706><200.407><2388~1~57.99976~214.3101, 

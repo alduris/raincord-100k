@@ -1,0 +1,13 @@
+Notes about specific rooms, either general or user requests.
+
+ROOMS:
+100K_OE_damoonlord_01 is a shelter
+100K_SL_nimble_01 is a swarm room
+
+AV3RY rooms:
+- LM 01 connects to LM 02 via 4th entrance
+- LM 02 connects to LM 01 and LM 03 in that order
+- LM 03 only connects to LM 02 and is a shelter
+
+SONGS:
+sequoia_stratocumulus.ogg put somewhere high

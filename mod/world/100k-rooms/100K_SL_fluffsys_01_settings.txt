@@ -1,0 +1,13 @@
+Template: NONE
+DangerType: Flood
+CeilingDrips: 0.6195652
+WaveLength: 0.9992784
+WaveAmplitude: 0.04679568
+SecondWaveLength: 0.1666667
+SecondWaveAmplitude: 0
+Grime: 0.3478261
+Palette: 34
+EffectColorA: 0
+EffectColorB: 7
+Effects: Fog-0.6195652-20-20, 
+PlacedObjects: WaterNut><322.5735><398.3441><58~109~2~3, WaterNut><345.3072><401.4417><3~-120~2~3, 

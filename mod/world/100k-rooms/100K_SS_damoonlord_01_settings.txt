@@ -1,0 +1,13 @@
+DangerType: None
+CeilingDrips: 0
+RainIntensity: 0
+RumbleIntensity: 0
+Grime: 0
+RandomItemDensity: 0
+RandomItemSpearChance: 0
+Palette: 10
+EffectColorA: 9
+EffectColorB: 5
+Effects: ZeroGSpecks-1-337.35-102.5687, GreenSparks-0.2010643-333.7927-18.61666, ZeroG-0.9999996-32.13437-73.39896, SuperStructureProjector-0-1035.291-77.66771, SunBlock-1-20-20, 
+PlacedObjects: LightFixture><1014.08><75.88828><DeepProcessing~17.32051~-10~45, LightFixture><3765.082><2545.662><DeepProcessing~17.32051~-10~24, LightFixture><45.47456><2583.884><DeepProcessing~17.32051~-10~48, LightFixture><2254.544><2528.909><DeepProcessing~17.32051~-10~22, LightFixture><1613.533><2531.073><DeepProcessing~17.32051~-10~12, LightFixture><2998.406><32.68338><DeepProcessing~17.32051~-10~13, LightFixture><34.7619><50.75374><DeepProcessing~17.32051~-10~45, LightFixture><2252.468><108.1187><DeepProcessing~17.32051~-10~97, LightFixture><1614.972><103.0543><DeepProcessing~17.32051~-10~66, LightFixture><3807.958><51.13733><DeepProcessing~17.32051~-10~86, LightFixture><3811.691><1114.913><DeepProcessing~17.32051~-10~100, LightFixture><91.33191><933.8716><DeepProcessing~17.32051~-10~17, LightFixture><3848.623><519.225><DeepProcessing~17.32051~-10~32, LightFixture><2815.784><2568.029><DeepProcessing~17.32051~-10~21, LightFixture><1797.448><1453.379><DeepProcessing~17.32051~-10~67, LightFixture><2219.953><1039.061><DeepProcessing~17.32051~-10~28, LightFixture><3118.107><2586.21><DeepProcessing~17.32051~-10~36, LightFixture><656.0509><2547.534><DeepProcessing~17.32051~-10~67, LightFixture><114.9003><1600.324><DeepProcessing~17.32051~-10~16, LightFixture><3793.482><1562.391><DeepProcessing~17.32051~-10~92, SuperStructureFuses><1668.587><1070.984><528.0603~505.2938, DeepProcessing><-2.510132><-6.647125><23.47812~2640.38~3888.99~2643.938~3866.223~25.6125~0~0~1~1~0.08747731, ProjectedStars><1727.983><1297.671><862.2875~400.2354, 
+AmbientSounds: OMNI><Weird Deep Hole.wav><680.1213><328.545><0.2293363><1, SPOT><SO_SFX-Doomsday.ogg><445.7062><362.9><1><0.8516708><1760.155><1331.629><605.6686><370.8874><0><0.2034766, SPOT><SO_SFX-Pi.ogg><767.6873><182.7857><0.3658752><1.162249><1786.169><1302.344><530.9655><238.5561><0><0.1, SPOT><SO_SFX-PulseWav.ogg><569.1559><159.5373><0.5463993><1.013919><1801.075><1336.012><865.3514><236.4218><0><0.1237322, SPOT><AM_SFX-RandomGods.ogg><829.4203><447.4918><0.3066685><0.1278396><1831.539><1320.175><419.2665><254.9197><0><0.1386659, OMNI><AM_IND-SuperStructure.ogg><685.8181><489.7379><0.3685349><1, 

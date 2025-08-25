@@ -1,0 +1,11 @@
+Template: NONE
+DangerType: None
+CeilingDrips: 0
+RainIntensity: 0.5
+RumbleIntensity: 0.5
+Grime: 0
+Palette: 19
+EffectColorA: 20
+EffectColorB: 21
+Effects: AboveCloudsView-0.4021739-20-20, Fog-0.8695652-38-78, 
+PlacedObjects: CustomDecal><695.3353><1329.387><-6~162~359~169~358~0~-144~-418~0~1~0~alienletterb&w~0.326087~0.5108696~0.326087~0.5108696~0.326087~0.5108696~0.326087~0.5108696, ReliableSpear><556.6167><678.0723><, ReliableSpear><515.798><677.6942><, ReliableSpear><418.2964><1780.055><, CustomDecal><812.8998><147.8816><-2~189~367~190~365~-9~-312~-19.99999~0~1~0~candytag~0.6195652~0.4673913~0.6195652~0.4673913~0.6195652~0.4673913~0.6195652~0.4673913, DangleFruit><1036.576><1812.066><0~0~2~3, DangleFruit><996.1999><1796.258><0~0~2~3, DangleFruit><957.6999><1810.494><0~0~2~3, 

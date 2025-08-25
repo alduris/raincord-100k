@@ -1,0 +1,10 @@
+Template: NONE
+Clouds: 0.173913
+Grime: 0.2173913
+Palette: 61
+EffectColorA: 2
+EffectColorB: 2
+Effects: SilenceWater-0.4130435-20-20, SkyBloom-0.3586957-30-30, Flies-0.2608696-40-40, 
+PlacedObjects: SteamPipe><409.4298><243.3376><25~52, SteamPipe><550.3755><361.8435><-26~54, CustomDecal><272.0961><-35.92542><-42~778~631~777~643~1~533~286~0~1~0~blackrust1~0.5~1~0.5~1~0.5~1~0.5~1, 
+AmbientSounds: OMNI><am_env-wallhum.ogg><726.415><403.9311><0.6304348><1, OMNI><basic mech.wav><309.6375><339.0846><0.1956522><1, 
+FadePalette: 11, 0.07608695

@@ -1,0 +1,10 @@
+Template: NONE
+WaveSpeed: 0.3695652
+WaveAmplitude: 0.06521739
+SecondWaveAmplitude: 0
+Clouds: 0.4021739
+Grime: 0.2717391
+Palette: 4
+Effects: Fog-0.1086956-20-20, Flies-0.1521739-64-74, 
+PlacedObjects: WaterNut><1002.876><453.0945><82~50~2~3, WaterNut><974.6331><457.1494><96~-101~2~3, 
+AmbientSounds: OMNI><am_ind-factory02.ogg><576.4727><182.6981><0.423913><0.6478261, OMNI><am_win-subwnd.ogg><547.8007><470.5165><0.5434783><0.7652174, 

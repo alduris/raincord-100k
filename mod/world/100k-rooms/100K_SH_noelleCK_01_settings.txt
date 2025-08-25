@@ -1,0 +1,5 @@
+Template: NONE
+Palette: 10
+Effects: LightBurn-0.3043478-20-20, BkgOnlyLightning-0.5-18-69, FireFlies-0.2065217-270-70, 
+PlacedObjects: LightSource><3080.479><636.6989><1~Environment~123~-498~50~86.60254~1~0~None~0~0, 
+FadePalette: 9, 0.1304348, 0.1304348, 0.1304348, 0.1304348, 0.1304348

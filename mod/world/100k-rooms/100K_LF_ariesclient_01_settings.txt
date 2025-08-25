@@ -1,0 +1,9 @@
+Template: NONE
+DangerType: Flood
+RainIntensity: 0.05434782
+Grime: 0.1086956
+Palette: 14
+EffectColorA: 19
+EffectColorB: 5
+PlacedObjects: PuffBall><278.7988><163.556><0~0~0~3, PuffBall><25.93524><222.9392><0~0~0~3, Lantern><205.1929><159.0527><0~0~0~9, Lantern><120.6707><125.1458><0~0~0~9, Lantern><200.6526><409.6293><0~0~0~9, Lantern><562.3944><164.5802><0~0~0~9, Lantern><723.0533><401.7866><0~0~0~9, LanternOnStick><250.1379><271.3551><28~-136, LanternOnStick><86><236><-39~-92, LanternOnStick><773><500><25.00006~-123, LanternOnStick><655.0001><281><-51.99988~-146, LanternOnStick><757><563><-42.99976~-93, ScavengerTreasury><441.1442><243.8303><0~473, 
+FadePalette: 0, 0

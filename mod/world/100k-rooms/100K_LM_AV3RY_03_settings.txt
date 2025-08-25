@@ -1,0 +1,8 @@
+Template: NONE
+Clouds: 0.3369565
+Palette: 11
+EffectColorA: 12
+Effects: Fog-0.4673911-20-20, 
+PlacedObjects: ColouredLightSource><774.9478><242.4708><100~50~001AFF~0^46~0.423913~True~1~0~0.5~Always~0~100, ColouredLightSource><794.1785><306.8402><-565~-182~001CFF~-1^42~0.4347826~True~1~0~0.5~Always~0~100, ColouredLightSource><749.4393><339.0594><-487~64~0021FF~1^48~0.4456522~True~1~0~0.5~Always~0~100, 
+AmbientSounds: OMNI><AM_WAT-Sea01.ogg><686.1245><486.5935><0.423913><1, OMNI><MSC-UnrelentingBreakage.ogg><624.9498><647.2405><0.07608695><1, OMNI><AM_ENV-LightWind.ogg><831.1455><642.5795><0.423913><1, OMNI><MSC-HeavyCreaking.ogg><438.8279><645.0658><0.08695652><1, OMNI><MSC-StructureStrain.ogg><625.3441><563.3235><0.1630435><1, 
+FadePalette: 35, 0.7934784

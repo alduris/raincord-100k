@@ -1,0 +1,10 @@
+Template: NONE
+RainIntensity: 0.6
+RumbleIntensity: 0.06
+Clouds: 0.2065217
+WaterReflectionAlpha: 0.40454
+Palette: 14
+EffectColorA: 5
+EffectColorB: 18
+Effects: LightBurn-0.3043478-20-20, 
+PlacedObjects: PuffBall><3905.045><152.6328><54.78223~-6.400009~2~3, PuffBall><3869.307><154.027><-4.980103~32.71111~2~3, HangingPearls><3889.266><542.1954><, HangingPearls><3777.35><544.4314><, HangingPearls><3621.315><547.5875><, PuffBall><3740.118><150.0673><106.0073~-112.3556~2~3, GooieDuck><751.9538><507.0905><34.14996~56.88889~2~3, CustomDecal><1413.988><383.0714><-13.51767~207.1112~723.7115~204.9778~720.1542~2.844452~-462.4479~-174.2223~0.6418593~1~0~unq - big fishes~0.5~0~0.5~0~0.5~0~0.5~0, FluxWaterfall><860><540><2~0.5~D~0~0, CustomDecal><-243.7155><310.5315><0~40~40~40~40~0~251.1449~-169.9556~0~1~0~PH~0.5~0~0.5~0~0.5~0~0.5~0, FluxWaterfall><1020><540><1~0.5~D~0~0, FluxWaterfall><1180><480><1~0.5~D~0~0, FluxWaterfall><1340><520><1~0.5~D~0~0, FluxWaterfall><1460><500><1~0.5~D~0~0, FluxWaterfall><1580><500><1~0.5~D~0~0, FluxWaterfall><1760><520><1~0.5~D~0~0, FluxWaterfall><1880><500><1~0.5~D~0~0, FluxWaterfall><2040><520><1~0.5~D~0~0, FluxWaterfall><2240><540><2~0.5~D~0~0, ColouredLanternStick><3836.917><469.9356><0~0~0~0~#FF4C00~#FF4C00~18.49786~-79.91113~False~False~False~False~False~False~False~False~False, ColouredLanternStick><3685.721><316.9934><0~0~0~0~#D74C00~#FF4C00~-10.67188~-67.11111~False~False~False~False~False~False~False, CustomDecal><2961.484><49.25459><-2.845856~107.5555~307.5083~115.3778~298.2593~1.422203~0~0~0~1~0~ghostgraffiti~0.5~0~0.5~0~0.5~0~0.5~0, 

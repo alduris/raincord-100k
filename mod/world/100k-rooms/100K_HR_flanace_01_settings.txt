@@ -1,0 +1,25 @@
+Template: NONE
+DangerType: Flood
+CeilingDrips: 0
+RainIntensity: 0
+RumbleIntensity: 1
+WaveSpeed: 0.51
+WaveLength: 1
+WaveAmplitude: 0.0001
+SecondWaveLength: 1
+SecondWaveAmplitude: 0.0001
+Clouds: 0.8469563
+Grime: 0
+BkgDroneVolume: 0
+BkgDroneNoThreatVolume: 1
+RandomItemDensity: 0.5
+RandomItemSpearChance: 0.2
+WaterReflectionAlpha: 0
+Palette: 31
+EffectColorA: 15
+EffectColorB: 13
+Effects: FairyParticles-0.3434783-687-497, Darkness-0.3834783-411-394, DarkenLights-0.1452174-667-569, FireFlies-1-30-30, HeatWave-0.8026087-40-40, LethalWater-1-50-50, LightBurn-0.1413043-60-60, WaterViscosity-0.8043478-380-21, VoidMelt-0.2-214-147, InvertedWater-0-950-443, WaterDepth-0-348-226, Fog-1-20-20, FireFlies-0-697-438, LavaSurface-1-1036-273, 
+PlacedObjects: FairyParticleSettings><422.5823><241.5677><464~-495.3398~1~7.065217~37.5~0~3.534896~5.863743~60~180~40~100~0~27.91722~0~0~0~0.1413043~1~1~0.4889155~0.5217391~0.7065217~0.2717391~9.51087~Star_Thin~SIN_IO~SIN_IO~46.39946~0.07201087~20, LightBeam><6.939087><117.8152><-277~601~3126~601~3173~-2~571~4~0.1826092~0~0~0~None~0~0, LightBeam><13><161><-277~601~3126~601~3173~-2~541~218~0.1934788~0~0~0~Fade~0.4347826~0, WaterCycleTop><2463.2><512.99><, WaterCycleBottom><2463.55><623.4949><, 
+AmbientSounds: OMNI><SO_SFX-Doomsday.ogg><716.0696><428.6875><0.1086956><1, OMNI><SO_NAT-Fire.ogg><477.6736><431.3493><0><1, OMNI><SO_SFX-UnderWaterSub.ogg><506.0446><324.195><0.3369565><0.7847826, OMNI><AM_SUB-MysticCave1.ogg><489.6217><229.9087><0.326087><0.823913, OMNI><Weird Deep Hole.wav><739.3003><380.3064><0.04347826><0.8826087, OMNI><AM_WIN-HowlingWnd.ogg><723.0932><507.8231><0.5760869><0.5695652, OMNI><AM_WAT-Shoreline.ogg><730.6066><583.8606><0.5760869><0.3934783, 
+FadePalette: 75, 0.4130435, 0.4130435, 0.4130435
+WetTerrain: OFF

@@ -1,0 +1,11 @@
+Template: NONE
+CeilingDrips: 0.5760869
+WaveSpeed: 0.6521739
+WaveLength: 0.2173913
+WaveAmplitude: 0.01086957
+SecondWaveLength: 0.1666667
+SecondWaveAmplitude: 0
+Palette: 4
+Effects: RockFlea-0.2934783-20-20, Flies-0.1086956-139-97, 
+AmbientSounds: SPOT><so_wat-lildrips.ogg><79.99957><432.95><0.25><1><220.9996><533.95><-60.35535><-83.35535><0><0.1, SPOT><so_wat-lildrips.ogg><807.95><365.2543><0.1195652><1><3774.95><586.2543><-130.3553><-79.35535><0><0.1, 
+FadePalette: 8, 0.2173913, 0.2065217, 0.2173913, 0.2065217

@@ -1,0 +1,7 @@
+Template: NONE
+Palette: 4
+EffectColorA: 2
+EffectColorB: 6
+Effects: RockFlea-0.1086956-20-20, 
+PlacedObjects: InsectGroup><364.55><332.7502><-25~101~0~0~StandardFly~0.09782609, InsectGroup><848><283><-25~101~0~0~StandardFly~0.09782609, 
+FadePalette: 8, 0.2065217

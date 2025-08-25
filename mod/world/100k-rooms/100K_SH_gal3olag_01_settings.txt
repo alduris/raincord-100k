@@ -1,0 +1,8 @@
+Template: NONE
+Clouds: 0.1304348
+Grime: 0.0326087
+Palette: 10
+EffectColorA: 0
+Effects: LightBurn-0.5760869-20-20, SSMusic-0-30-30, 
+PlacedObjects: UrbanLife><830.8666><758.149><-46~69~830.8666~758.149~-100~100~20~50~0~-150~-18~1~0.5~True~0v0|0v0|0v0, FlareBomb><1076.648><291.1718><0~0~2~3, FlareBomb><1029.635><256.1637><0~0~2~3, FlareBomb><1107.891><224.8578><0~0~2~3, 
+FadePalette: 12, 0.326087, 0.3043478, 0.1847826

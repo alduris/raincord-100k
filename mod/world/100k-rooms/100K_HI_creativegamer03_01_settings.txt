@@ -1,0 +1,7 @@
+Template: NONE
+Clouds: 0.2173913
+Palette: 5
+EffectColorA: 10
+EffectColorB: 2
+Effects: Contrast-0.1304348-20-20, Brightness-0.07608695-22-66, Darkness-0.1195652-25-118, 
+PlacedObjects: CustomDecal><2896.057><266.9418><-3~182~455~196~442~-11~-318~96~0.25~1~0~alienletterb&w~0.2717391~0.3043478~0.3152174~0.3043478~0.3152174~0.3043478~0.3152174~0.3043478, VultureGrub><3043.854><170.3864><0~0~7~10, VultureGrub><3329><173><0~0~7~10, LightSource><379.7682><495.5508><1~Environment~253~-10~50~86.60254~1~0~None~0~0, LightSource><1211.144><235.3305><1~Environment~-10~136~50~86.60254~1~0~None~0~0, LightSource><4095.604><491.1708><0.4565217~EffectColor1~-197~-4~50~86.60254~1~0~None~0~0, 

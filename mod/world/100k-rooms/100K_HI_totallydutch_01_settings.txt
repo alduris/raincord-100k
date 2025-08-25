@@ -1,0 +1,12 @@
+Template: NONE
+DangerType: Flood
+WaveSpeed: 0.5043572
+WaveLength: 0.9978214
+WaveAmplitude: 0.04736541
+SecondWaveLength: 0.1666667
+SecondWaveAmplitude: 0
+Clouds: 0.1507247
+Grime: 0.6391307
+Palette: 5
+PlacedObjects: CustomDecal><541.1875><299.5593><-7.466675~68.80002~76.79999~83.19998~112.0001~12.26666~0~0~0~1~0~owlface~0.3434786~0.144928~0.3434786~0.144928~0.3434786~0.144928~0.3434786~0.144928, 
+FadePalette: 8, 0.2782609
