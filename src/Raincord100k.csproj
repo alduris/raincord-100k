@@ -1,34 +1,33 @@
 ﻿<Project Sdk="Microsoft.NET.Sdk">
-    
-    <PropertyGroup>
-        <TargetFramework>net48</TargetFramework>
-        <DebugType>portable</DebugType>
 
-        <Nullable>enable</Nullable>
-        <LangVersion>latest</LangVersion>
-        
-        <AppOutputBase>$(MSBuildProjectDirectory)\</AppOutputBase>
-        <PathMap>$(AppOutputBase)=(MSBuildProjectName)\</PathMap>
-        <RootNamespace>(MSBuildProjectName)</RootNamespace>
-    </PropertyGroup>
-    
-    <ItemGroup>
-        <Reference Include="../lib/*.dll">
-            <Private>false</Private>
-        </Reference>
-    </ItemGroup>
-    
-    <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|AnyCPU'">
-        <DebugType>portable</DebugType>
-    </PropertyGroup>
+	<PropertyGroup>
+		<TargetFramework>net48</TargetFramework>
+		<LangVersion>13</LangVersion>
+		<AppendTargetFrameworkToOutputPath>false</AppendTargetFrameworkToOutputPath>
+		<OutputPath>../mod/newest/plugins</OutputPath>
+		<PathMap>$(MSBuildProjectDirectory)=/$(SolutionName)</PathMap>
+	</PropertyGroup>
 
-    <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|AnyCPU'">
-        <DebugType>portable</DebugType>
-        <DebugSymbols>true</DebugSymbols>
-    </PropertyGroup> 
+	<PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|AnyCPU'">
+		<DebugType>portable</DebugType>
+	</PropertyGroup>
 
-  <Target Name="PostBuild" AfterTargets="PostBuildEvent">
-    <Exec Command="copy /Y &quot;$(TargetDir)&quot; &quot;$(MSBuildProjectDirectory)\..\mod\newest\plugins&quot;" />
-  </Target>
+	<PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|AnyCPU'">
+		<DebugType>none</DebugType>
+	</PropertyGroup>
+
+	<ItemGroup>
+		<Reference Include="../lib/*.dll">
+			<Private>false</Private>
+		</Reference>
+	</ItemGroup>
+
+	<Target Name="GenerateMod" AfterTargets="PostBuildEvent" Condition="'$(Configuration)|$(Platform)'=='Release|AnyCPU'">
+		<ItemGroup>
+			<RemovePlugins Include="../mod/newest/plugins/*.pdb" />
+		</ItemGroup>
+
+		<Delete Files="@(RemovePlugins)" />
+	</Target>
     
 </Project>
