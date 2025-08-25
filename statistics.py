@@ -8,9 +8,13 @@ ALL_REGIONS = ["CC", "CL", "DM", "DS", "GW", "HI", "HR", "LC", "LF", "LM", "MS",
 regions = dict()
 authors = dict()
 missing = set(ALL_REGIONS)
+screens_regions = dict()
+screens_authors = dict()
+user_to_author = dict()
 
 screen_count = 0
 room_count = 0
+real_room_count = 0
 
 def incr_count(dct, key):
 	if key not in dct:
@@ -66,6 +70,11 @@ def get_strs(arr, iteration, grab_per):
 def dict_to_list(d):
 	return [str(k) + ": " + str(v) for k,v in d.items()]
 
+def subsort_lists(arr):
+	for i in range(len(arr)):
+		arr[i] = sorted(arr[i], key=lambda x: str(x).upper())
+
+# count up files
 for file in os.listdir(BASE_PATH):
 	if file.endswith("_credits.txt"):
 		room_count += 1
@@ -77,33 +86,92 @@ for file in os.listdir(BASE_PATH):
 			missing.discard(region)
 			incr_count(regions, region)
 		# author
+		author = ""
 		with open(os.path.join(BASE_PATH, file), "r", encoding="utf8") as f:
 			for line in f:
 				if ": " in line:
-					incr_count(authors, line.split(": ")[1].strip())
+					author = line.split(": ")[1].strip()
 				else:
-					incr_count(authors, line.strip())
+					author = line.strip()
+		incr_count(authors, author)
+		user = file.split("_")[2]
+		if author not in user_to_author:
+			user_to_author[user] = author
+		elif user_to_author[user] != author:
+			print("WARNING: author mismatch ('" + user_to_author[user] + "' != '" + author + "' for key '" + user + "')")
+	elif file.endswith("_settings.txt"):
+		real_room_count += 1
 	elif file.endswith(".png"):
 		screen_count += 1
+		region = file.split("_")[1]
+		user = file.split("_")[2]
+		incr_count(screens_regions, region)
+		incr_count(screens_authors, user)
 
-# print time
+# double check we didn't miss any
+if room_count != real_room_count:
+	print("ERROR: settings count and credits count DO NOT MATCH!!!")
+	print("Off factor: " + str(real_room_count - room_count))
+	exit()
+
+# update screens_authors
+temp = dict()
+for user, count in screens_authors.items():
+	if user in user_to_author:
+		author = user_to_author[user]
+		if author in temp:
+			dups = [u for u, a in user_to_author.items() if a == author]
+			print("WARNING: duplicate author '" + author + "' found in keys: '" + ("', '".join(dups)) + "'")
+			temp[author] += count
+		else:
+			temp[author] = count
+	else:
+		print("WARNING: unknown user '" + user + "'")
+screens_authors = temp
+temp = None
+
+# print overall statistics
 print()  # initial space
 print("ROOM COUNT: " + str(room_count) + " / SCREEN COUNT: " + str(screen_count))
 print()  # another space lol
 
 # vars
 overratios = [1, 1, 3]
-arrayorder = [sorted(dict_to_list(regions), key=lambda x:x.upper()), sorted(missing, key=lambda x:x.upper()), sorted(dict_to_list(authors), key=lambda x:x.upper())]
+arrayorder = [dict_to_list(regions), missing, dict_to_list(authors)]
 innerratios  = [[1,1], [1,1,1], [1,1,1]]
 subseps = [" ", " ", " "]
+subsort_lists(arrayorder)
 
 # header
-print_cols(["SUBMISSIONS", "NOT TAKEN YET", "AUTHORS"], overratios, COLS, " | ")
 print_hr("-", overratios, COLS, "-+-")
+print_cols(["SUBMISSIONS", "NOT TAKEN YET", "AUTHORS"], overratios, COLS, " | ")
+print_hr("-", overratios, COLS, " | ")
 
 # body
 rowcount = calc_row_count(arrayorder, [len(x) for x in innerratios])
 for i in range(rowcount):
 	print_subcols([get_strs(strs, i, len(ratios)) for strs, ratios in zip(arrayorder, innerratios)], overratios, innerratios, COLS, " | ", subseps)
 
+print_hr("-", overratios, COLS, "-+-")
+
+# another section! init vars
+overratios = [1, 3]
+arrayorder = [dict_to_list(screens_regions), dict_to_list(screens_authors)]
+innerratios = [[1,1,1], [1,1,1,1]]
+subseps = [" ", " "]
+subsort_lists(arrayorder)
+
+# new header
+print_hr("-", overratios, COLS, "-+-")
+print_cols(["SCREENS PER REGION", "SCREENS PER AUTHOR"], overratios, COLS, " | ")
+print_hr("-", overratios, COLS, " | ")
+
+# new body
+rowcount = calc_row_count(arrayorder, [len(x) for x in innerratios])
+for i in range(rowcount):
+	print_subcols([get_strs(strs, i, len(ratios)) for strs, ratios in zip(arrayorder, innerratios)], overratios, innerratios, COLS, " | ", subseps)
+
+print_hr("-", overratios, COLS, "-+-")
+
+# stay on screen until user presses enter to close
 input("\nPress enter to continue...")

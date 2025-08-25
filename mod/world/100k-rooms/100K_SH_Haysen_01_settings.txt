@@ -1,0 +1,11 @@
+Template: NONE
+CeilingDrips: 0.2065217
+RainIntensity: 0.6
+RumbleIntensity: 0.06
+Grime: 0
+Palette: 10
+EffectColorA: 13
+EffectColorB: 13
+Effects: BkgOnlyLightning-0.8506567-20-20, 
+PlacedObjects: SlimeMold><837.5505><2487.735><15~65~2~3~0<lc>0, SlimeMold><873.379><2487.841><10~124~2~3~0<lc>0, CosmeticSlimeMold><858.8062><2494.951><6~88, 
+FadePalette: 0, 0.03888138, 0.03888122, 0.04661461, 0.031148, 0.01546661, 0.1114021
