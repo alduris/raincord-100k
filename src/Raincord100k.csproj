@@ -2,8 +2,14 @@
     
     <PropertyGroup>
         <TargetFramework>net48</TargetFramework>
-        <LangVersion>11</LangVersion>
         <DebugType>portable</DebugType>
+
+        <Nullable>enable</Nullable>
+        <LangVersion>latest</LangVersion>
+        
+        <AppOutputBase>$(MSBuildProjectDirectory)\</AppOutputBase>
+        <PathMap>$(AppOutputBase)=(MSBuildProjectName)\</PathMap>
+        <RootNamespace>(MSBuildProjectName)</RootNamespace>
     </PropertyGroup>
     
     <ItemGroup>
@@ -12,16 +18,17 @@
         </Reference>
     </ItemGroup>
     
-    <Target Name="GenerateMod" AfterTargets="PostBuildEvent">
-		<ItemGroup>
-			<RemovePlugins Include="../mod/plugins/*.dll" />
-		</ItemGroup>
-		<ItemGroup>
-			<CopyPlugins Include="$(TargetPath)" />
-		</ItemGroup>
-		
-        <Delete Files="@(RemovePlugins)" />
-        <Copy SourceFiles="@(CopyPlugins)" DestinationFolder="../mod/newest/plugins/" />
-    </Target>
+    <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|AnyCPU'">
+        <DebugType>portable</DebugType>
+    </PropertyGroup>
+
+    <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|AnyCPU'">
+        <DebugType>portable</DebugType>
+        <DebugSymbols>true</DebugSymbols>
+    </PropertyGroup> 
+
+  <Target Name="PostBuild" AfterTargets="PostBuildEvent">
+    <Exec Command="copy /Y &quot;$(TargetDir)&quot; &quot;$(MSBuildProjectDirectory)\..\mod\newest\plugins&quot;" />
+  </Target>
     
 </Project>
