@@ -12,6 +12,9 @@ screens_regions = dict()
 screens_authors = dict()
 user_to_author = dict()
 
+counted_credits = set()
+counted_settings = set()
+
 screen_count = 0
 room_count = 0
 real_room_count = 0
@@ -78,6 +81,7 @@ def subsort_lists(arr):
 for file in os.listdir(BASE_PATH):
 	if file.endswith("_credits.txt"):
 		room_count += 1
+		counted_credits.add(file[:-12])
 		# region
 		region = file.split("_")[1]
 		if region not in ALL_REGIONS:
@@ -101,6 +105,7 @@ for file in os.listdir(BASE_PATH):
 			print("WARNING: author mismatch ('" + user_to_author[user] + "' != '" + author + "' for key '" + user + "')")
 	elif file.endswith("_settings.txt"):
 		real_room_count += 1
+		counted_settings.add(file[:-13])
 	elif file.endswith(".png"):
 		screen_count += 1
 		region = file.split("_")[1]
@@ -112,6 +117,8 @@ for file in os.listdir(BASE_PATH):
 if room_count != real_room_count:
 	print("ERROR: settings count and credits count DO NOT MATCH!!!")
 	print("Off factor: " + str(real_room_count - room_count))
+	print("Affected rooms: " + ", ".join((counted_credits | counted_settings) - (counted_credits & counted_settings)))
+	input("\nPress enter to continue...")
 	exit()
 
 # update screens_authors
