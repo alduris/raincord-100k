@@ -1,0 +1,6 @@
+Template: NONE
+Grime: 0.1133386
+Palette: 35
+EffectColorB: 21
+PlacedObjects: LightSource><451.3455><730.9864><0.5128044~Environment~199.2083~-432.8823~50~86.60254~1~0~None~0~0, LightSource><235.1982><653.4213><0.1725437~Environment~159.3667~-412.25~50~86.60254~1~0~None~0~0, LightSource><665.6245><471.2748><0.1416108~Environment~191.3823~-335.4125~50~86.60254~1~0~None~0~0, DayNightSettings><224.9852><251.6202><-619.6604~-334.9742~23~10, 
+FadePalette: 8, 0.7501244
