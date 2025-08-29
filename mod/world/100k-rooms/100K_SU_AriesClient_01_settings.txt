@@ -1,0 +1,12 @@
+Template: NONE
+DangerType: FloodAndRain
+RainIntensity: 0.5000004
+RumbleIntensity: 0.5000004
+Clouds: 1
+Grime: 0.1086956
+Palette: 0
+EffectColorA: 8
+EffectColorB: 8
+Effects: LightBurn-0.1086956-20-20, Fog-0.2065217-30-30, Flies-0.304348-40-40, Desaturation-0.4021741-70-122, 
+PlacedObjects: DangleFruit><1108.411><1831.381><-3~-212~0~3, DangleFruit><1073><1798><-3~-212~0~3, LightBeam><1026.375><1699.594><-2~180~290~179~363~-4~-295~2~0.5086955~0~0~0~Flash~0.5000013~0, InsectGroup><1621.149><1875.137><0~267~0~0~Moth~1, CustomDecal><1956.081><1620.568><0~250~265~266~295~-8~-268.0001~69~0~0.5326074~0.2391298~sadcat~1~0.07608695~1~0.07608695~1~0.07608695~0.3043472~0.07608695, ReliableSpear><1303.876><1701.908><, MultiplayerItem><1578.666><1704.863><ExplosiveSpear~17.32051~-10~1, 
+FadePalette: 5, 0.6086955, 0.6086956, 0.6086956, 0.6086956, 0.6086956, 0.6086956

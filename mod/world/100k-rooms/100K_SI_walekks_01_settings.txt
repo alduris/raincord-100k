@@ -1,0 +1,10 @@
+Template: NONE
+Clouds: 0.2717391
+Grime: 0.4021739
+Palette: 2
+EffectColorA: 10
+EffectColorB: 10
+Effects: Flies-0.0326087-20-20, SkyDandelions-0.5434783-30-30, 
+PlacedObjects: DandelionPeach><660.1724><280.6486><0~0~2~3, DandelionPeach><633.4431><292.8022><0~0~2~3, DandelionPeach><355.6885><727.3169><-150~-233~2~3, DandelionPeach><321.3213><757.1603><473~47~2~3, CustomDecal><325.384><429.8512><-46~128~88~142~99~2~141~-23~0.0326087~1~0~walekks_mysterious_signature~0.8478261~0.2717391~0.2173913~0.1304348~0.7934783~0.1195652~0.25~0.2173913, DandelionPatch><307.6027><708.6353><45~67, DandelionPatch><655.4465><261.7127><1~63, DandelionPatch><839.3372><2060.82><50~54, DandelionPatch><237.8062><1405.95><0~100, 
+AmbientSounds: OMNI><AM_ENV-NatWind.ogg><787.2535><488.7><0.2065217><1, OMNI><AM_ENV-LightWind.ogg><786.5602><521.3093><0.3043478><1, 
+FadePalette: 18, 0.1630435, 0.1630435, 0.1630435

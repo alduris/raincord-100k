@@ -1,0 +1,9 @@
+Template: NONE
+CeilingDrips: 0.7065217
+Grime: 0.6086956
+Palette: 4
+EffectColorA: 4
+EffectColorB: 6
+Effects: WaterFluxSpeed-0.4021739-20-20, WaterFluxMinLevel-0.1086956-30-78, WaterFluxMaxLevel-0.5-313-81, 
+PlacedObjects: FluxDrain><1560><120><4~0.5~D~0~0, FluxDrain><1660><120><4~0.5~D~0~0, WaterCycleBottom><1857.696><230.2902><, WaterCycleTop><1856.667><389.3181><, FluxDrain><1760><120><4~0.5~D~0~0, FluxDrain><1860><120><4~0.5~D~0~0, FluxDrain><1960><120><4~0.5~D~0~0, FluxWaterfall><1580><820><4~0.9130435~D~0~0, FluxWaterfall><1680><820><4~0.9456522~D~0~0, FluxWaterfall><1820><820><4~0.9021739~D~0~0, FluxWaterfall><1920><820><4~0.9347826~D~0~0, CustomDecal><359.7124><476.6964><-7~100~159~226~168~-15~303~76~0~1~0~lc_groupgraffiti2~0.5~0~0.5~0~0.5~0~0.5~0, CustomDecal><1597.814><354.824><-6~92~186~83~259~-19~-609~-45~0~1~0~hoko can~0.5~0~0.5~0~0.5~0~0.5~0, LillyPuck><1725.55><342.5131><2~123~2~3, LillyPuck><1985.89><343.6425><-127~86~2~3, LillyPuck><1864.554><344.5398><217~244~2~3, LillyPuck><1648.562><341.4327><2~32~2~3, ClimbableWire><2041><774.3002><-504~3~-761.6795~-93~Black~148, GlowWeed><1506.942><246.0586><0~0~2~3, GlowWeed><1461.949><264.2324><0~0~2~3, GlowWeed><2156.61><241.3333><0~0~2~3, GlowWeed><2104.689><275.5637><0~0~2~3, BubbleGrass><2291.8><434.9887><22~125~4~9, BubbleGrass><2270.644><423.8307><0~0~4~9, 
+FadePalette: 8, 0, 0

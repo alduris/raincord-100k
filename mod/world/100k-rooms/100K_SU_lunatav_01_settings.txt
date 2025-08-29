@@ -1,0 +1,11 @@
+Template: NONE
+Clouds: 0.0326087
+Grime: 0.2608696
+BkgDroneVolume: 0.423913
+Palette: 0
+EffectColorA: 9
+EffectColorB: 7
+Effects: Darkness-0.3152174-20-20, 
+PlacedObjects: LightSource><482.0917><318.8778><1~Environment~-6~-140~50~86.60254~0~0~None~1~0, 
+AmbientSounds: OMNI><am_ind-factory02.ogg><834.4185><481.5674><0.25><0.7065217, SPOT><am_ind-deephum.ogg><700.4355><492.1754><0.5652174><1><479.4355><307.175><-3.355347><-200.3553><0.1304348><0.1, SPOT><am_ind-utility01.ogg><718.8625><236.6452><0.5><1><420.8625><95.64524><-35.35534><-35.35534><0><0.1, SPOT><am_ind-utility01.ogg><711.6666><236.6107><0.5><1><535.6666><93.61076><-35.35534><-35.35534><0><0.1, 
+FadePalette: 0, 0

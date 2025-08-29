@@ -6,6 +6,7 @@ ROOMS:
 100K_SS_Zaraza_01 may need corruption dev tools adjusted to not obstruct bottom entrance
 100K_HI_wonk_02 is a shelter and connects to the second pipe in 100K_HI_wonk_01
 100K_DS_luckykitkat_01 is a swarm room and needs two garbage worms
+100K_GW_bat_01 is a toll
 
 AV3RY rooms:
 - LM 01 connects to LM 02 via 4th entrance

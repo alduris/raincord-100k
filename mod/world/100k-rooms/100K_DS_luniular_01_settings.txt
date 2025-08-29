@@ -1,0 +1,11 @@
+Template: NONE
+DangerType: FloodAndRain
+CeilingDrips: 0.6314651
+Clouds: 0.6805254
+Grime: 0.3298685
+Palette: 4
+EffectColorA: 2
+EffectColorB: 6
+TerrainLight: 0.5050739
+Effects: WaterLights-0--1000--1000, Darkness-0.06959936--1000--1000, BkgOnlyLightning-0.2034753-774.8572-512.3292, Brightness-0.378929-20-20, Contrast-0.549059-362.9625-287.5479, 
+FadePalette: 14, 0.3040085

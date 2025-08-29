@@ -1,0 +1,9 @@
+Template: NONE
+DangerType: Flood
+Grime: 0.1086956
+BkgDroneVolume: 0
+Palette: 10
+EffectColorA: 19
+EffectColorB: 21
+PlacedObjects: LightFixture><614.8305><1430.683><RedLight~234.3206~-277~56, LightFixture><-276.8419><1259.628><RedLight~-140.6795~-164~39, LightFixture><-295.1703><1258.355><RedLight~-123.6795~-142~91, LightFixture><511.1673><889.3598><RedLight~115.3205~-14~94, LightFixture><500.3068><545.1985><RedLight~326.3205~-93~39, 
+FadePalette: 0, 0, 0

@@ -1,0 +1,4 @@
+Template: NONE
+Palette: 0
+PlacedObjects: LightSource><396.0503><365.4893><0.5217391~Environment~27~-115~50~86.60254~1~0~None~0~0, LightSource><638.8693><366.8486><0~Environment~-31~-118~50~86.60254~1~0~None~0~0, LightSource><240.3489><136.6738><0.5978261~Environment~58~-44~-238~107.6025~1~0~None~0~0, LightSource><204.6139><585.1644><0.5652174~Environment~-58~-16~50~86.60254~1~0~None~0~0, LightSource><836.5652><383.6737><0.6630435~Environment~34~-85~50~86.60254~1~0~None~0~0, LightSource><795.0171><151.6992><0.3913043~Environment~-52~-98~50~86.60254~1~0~None~0~0, LightSource><758.8542><578.6707><0.5~Environment~-123~23~50~86.60254~1~0~None~0~0, LightSource><673.1723><648.1016><0.4239134~Environment~-36~-64~-217~-308.3975~1~0~None~0~0, LightSource><64.43747><640.8101><0.5869567~Environment~26~-74~84~-95.39743~1~0~None~0~0, 
+FadePalette: 8, 0.2065217

@@ -99,7 +99,7 @@ for file in os.listdir(BASE_PATH):
 					author = line.strip()
 		incr_count(authors, author)
 		user = file.split("_")[2]
-		if author not in user_to_author:
+		if user not in user_to_author:
 			user_to_author[user] = author
 		elif user_to_author[user] != author:
 			print("WARNING: author mismatch ('" + user_to_author[user] + "' != '" + author + "' for key '" + user + "')")

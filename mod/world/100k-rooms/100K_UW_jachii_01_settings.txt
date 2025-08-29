@@ -1,0 +1,9 @@
+Template: NONE
+Clouds: 0.01086957
+Grime: 0
+Palette: 17
+EffectColorA: 18
+Effects: LightBurn-0.75-20-20, BkgOnlyLightning-1-27-88, 
+PlacedObjects: LightSource><599.1652><400.8872><0.1956522~Environment~653~-409~-58~-68.39746~1~1~None~0~0, LightFixture><151.2461><389.2><RedLight~126.3205~-120~0, LightSource><1043.998><277.8><0.3369565~Environment~-344~-285~-23~-115.3975~1~1~None~0~0, LightSource><726.4662><722.0463><0.423913~Environment~149~-356~-182~-223.3975~1~1~None~0~0, LightSource><1028.804><592.5413><0.3478261~Environment~-127~-291~-174~-120.3975~1~1~None~0~0, LightSource><1093.548><153.8058><0.1521739~Environment~-201~178~-277~154.6025~1~1~None~0~0, CustomDecal><105.4459><227.7096><12~491~363~400~275~-50~150~58.94434~0.3043478~0.3478261~0~oki~0~1~0~1~1~1~1~1, LightSource><150.8999><387.8824><0.2717391~EffectColor1~66~175~-1~-356.3975~1~1~None~0~0, 
+AmbientSounds: OMNI><AM_ENV-WallHum.ogg><793.3021><487.5287><0.4565217><0.726087, OMNI><AM_IND-Warehouse01.ogg><710.6085><416.3587><0.3804348><1, OMNI><AM_RAIN-QuietThunder.ogg><772.8107><327.1855><0.5><1, 
+FadePalette: 16, 0.5434783
