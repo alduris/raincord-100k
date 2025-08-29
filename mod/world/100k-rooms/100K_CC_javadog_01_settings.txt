@@ -1,0 +1,10 @@
+Template: NONE
+CeilingDrips: 0.5326087
+Clouds: 0.3369565
+Grime: 0.2826087
+Palette: 6
+EffectColorA: 10
+EffectColorB: 2
+PlacedObjects: InsectGroup><288.8014><583.0233><68~67~39.00003~52~Moth~0.5, 
+AmbientSounds: OMNI><AM_ENV-LightWind.ogg><798.058><530.4438><0.423913><1, OMNI><AM_ENV-NatWind.ogg><797.4421><460.6915><0.4021739><1, 
+FadePalette: 15, 0.5543478
