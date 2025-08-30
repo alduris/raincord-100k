@@ -1,5 +1,9 @@
+using Raincord100k;
+using Raincord100k.Damoonlord;
+using Raincord100k.Damoonlord.Peanut;
 using System;
 using System.Security.Permissions;
+using UnityEngine;
 
 /*
  * This file contains fixes to some common problems when modding Rain World.
@@ -29,6 +33,8 @@ internal static class Extras
                 {
                     _initialized = true;
                     loadResources(self);
+
+                    DamoonRooms.EnableILHooks();
                 }
             }
             catch (Exception e)
