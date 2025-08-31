@@ -1,0 +1,13 @@
+Template: NONE
+CeilingDrips: 0.1956522
+RumbleIntensity: 0.0326087
+Clouds: 0.1195652
+Grime: 0.2065217
+RandomItemDensity: 0.2608696
+RandomItemSpearChance: 0.1456521
+Palette: 2
+EffectColorA: 10
+EffectColorB: 2
+Effects: SkyDandelions-0.6304348-20-20, Flies-0.3695652-77-70, SkyBloom-0.6847826-30-30, 
+PlacedObjects: SeedCob><1536.741><1420.95><-286~-147~3~19, DeadSeedCob><1179.301><1262.52><, SeedCob><1744><1173><-281~211~3~19, DeadSeedCob><1480.175><929.1527><, DeadSeedCob><2305.189><1005.265><, WaterFallDepth><393.823><354.1568><, 
+FadePalette: 18, 0.1630435, 0.1195652, 0.1630435, 0.1413043, 0.1630435, 0.08695652
