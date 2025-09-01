@@ -1,0 +1,10 @@
+Template: NONE
+DangerType: None
+RainIntensity: 0
+RumbleIntensity: 0
+Grime: 0
+Palette: 24
+EffectColorA: 0
+EffectColorB: 12
+Effects: BrokenZeroG-1-20-20, SunBlock-1-267-92, Bloom-1-333-54, CorruptionSpores-0.5543478-230-126, ZeroGSpecks-0.1956522-209-154, 
+PlacedObjects: Corruption><113.5207><300.3011><162~218, CorruptionDarkness><33.78442><326.803><253~151, CorruptionTube><33.7417><326.8002><492~240, CorruptionTube><780.8674><375.6619><-243~189, LightSource><901.7988><360.3061><1~Environment~-474~-205~-318~125.6025~1~0~None~0~0, 

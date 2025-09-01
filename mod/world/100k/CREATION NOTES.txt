@@ -8,6 +8,9 @@ ROOMS:
 100K_DS_luckykitkat_01 is a swarm room and needs two garbage worms
 100K_GW_bat_01 is a toll
 
+Past GW rooms:
+- 100K_GW_wonk_01
+
 AV3RY rooms:
 - LM 01 connects to LM 02 via 4th entrance
 - LM 02 connects to LM 01 and LM 03 in that order

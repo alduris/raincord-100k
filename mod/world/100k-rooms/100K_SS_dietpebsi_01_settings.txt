@@ -1,0 +1,14 @@
+Template: NONE
+DangerType: None
+CeilingDrips: 0
+RainIntensity: 0
+RumbleIntensity: 0
+WaveSpeed: 0.4958098
+WaveLength: 0.9678549
+WaveAmplitude: 0.008046612
+SecondWaveLength: 0.1666667
+SecondWaveAmplitude: 0
+Grime: 0
+Palette: 24
+Effects: SunBlock-1-40-40, ZeroG-1-20-20, SSSwarmers-0.2065217-320-99, Bloom-1-224-112, SuperStructureProjector-0.1521739-194-146, ProjectedScanLines-0.1195652-114-36, 
+PlacedObjects: WallMycelia><872.1058><2682.17><-229~59, CoralNeuron><592.2><2699.503><-152~316, LightSource><877.9435><2774.449><1~Environment~-498~-22~50~86.60254~1~0~None~0~0, CoralNeuron><451.7361><3311.552><53~380, WallMycelia><199.8708><3263.16><0~116, WallMycelia><833.9402><3251.06><-3~116, WallMycelia><569.3945><3784.113><-5~-247, LightSource><761.7444><3691.301><1~Environment~-564~-197~50~86.60254~1~0~None~0~0, LightSource><100.0873><3278.135><1~Environment~406~382~50~86.60254~1~0~None~0~0, LightSource><93.06378><2509.323><1~Environment~278~190~50~86.60254~1~0~None~0~0, LightSource><92.81241><1639.819><1~Environment~347~381~50~86.60254~1~0~None~0~0, LightSource><886.1693><1949.356><1~Environment~-447~215~50~86.60254~1~0~None~0~0, LightSource><100.439><1370.56><1~Environment~335~-160~50~86.60254~1~0~None~0~0, WallMycelia><72.18896><921.0654><120~125, WallMycelia><32.61984><1220.402><125~63, CoralNeuron><361.6968><1056.262><229~290, LightSource><903.9302><1340.014><1~Environment~-597~-182~50~86.60254~1~0~None~0~0, LightSource><200.2331><161.8007><1~Environment~70~415~-128~72.60254~1~0~None~0~0, LightSource><893.0939><107.9266><1~Environment~-253~354~50~86.60254~1~0~None~0~0, CoralNeuron><415.4193><558.573><118~302, CoralStem><115.1422><417.8594><259~-63, CoralStem><900.413><2606.866><-299~147, CoralStem><732.4057><3244.324><-176~-158, CoralNeuron><653.4919><1771.2><-274~405, CoralStem><84.35968><1011.417><257~173, 

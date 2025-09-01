@@ -1,0 +1,8 @@
+Template: NONE
+Palette: 4
+EffectColorA: 18
+EffectColorB: 6
+Effects: HeatWave-0.3043478-0-0, Flies-0.25-471-233, 
+PlacedObjects: BlinkingFlower><89.93063><345.5624><, BlinkingFlower><195.0683><185.9165><, BlinkingFlower><191.1973><226.0326><, BlinkingFlower><310.5374><266.0535><, CustomDecal><351.3801><382.9019><-267~239~151~123~97~-155~138~-31~0~1~0.6195652~dirtone~0.5~0~0.7391304~0~0.5~0~0.5~0.4130435, LightSource><407.9408><632.941><1~Environment~-238~-12~50~86.60254~1~0~None~0~0, LanternOnStick><263.632><272.6614><-25~-130, 
+AmbientSounds: OMNI><am_win-nicewnd.ogg><275.8762><495.3449><0.173913><0.55, OMNI><am_env-outside.ogg><464.9478><501.2203><0.8586956><1, OMNI><am_env-lushnight.ogg><558.8581><620.8591><0.5434783><0.9021739, OMNI><am_env-woods.ogg><669.5722><504.5916><0.4673913><1, 
+FadePalette: 11, 0.5978261
