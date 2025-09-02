@@ -1,0 +1,5 @@
+Template: NONE
+Palette: 10
+Effects: LightBurn-0.2934783-20-20, Contrast-0.1086956-26-64, Brightness-0.08695652-27-121, 
+PlacedObjects: Lantern><220.1089><268.1083><0~0~4~9, LanternOnStick><632.8965><507.1711><58~-129, 
+FadePalette: 0, 0.2608696

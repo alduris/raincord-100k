@@ -1,0 +1,8 @@
+Template: NONE
+Clouds: 0.1777785
+Grime: 0.445894
+Palette: 53
+EffectColorA: 13
+EffectColorB: 13
+Effects: AboveCloudsView-0.1082115-20-20, Bloom-0.2550726-20.75555-72.66666, Contrast-0.06183558-18.62222-114.6222, Moth-0.2086956-245.4666-117.4667, 
+PlacedObjects: OEsphere><7.950241><550.6219><-7.82222~141.2445~50~86.60254~5~1, OEsphere><1235.689><568.2214><0~100~50~86.60254~17~1, 

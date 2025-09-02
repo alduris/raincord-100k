@@ -4,8 +4,8 @@
 	"version": "1.0",
 	"authors": "Rain World Modding Community<LINE>========================<LINE><LINE>--- HOSTS ---<LINE>alduris<LINE>kalumrw<LINE>theshiningshadow<LINE><LINE>--- CODERS ---<LINE>Alduris<LINE>Forthfora<LINE><LINE>--- ROOM SUBMISSIONS ---<LINE>todo: put participants here<LINE><LINE>--- MUSIC MAKERS ---<LINE>Sequoia7<LINE><LINE>--- DECAL ARTISTS ---<LINE>todo: put participants here<LINE><LINE>--- PEARL WRITERS ---<LINE>todo: put participants here",
 	"description": "Special gallery region celebrating 100k members in the official Rain World Discord Server",
-	"requirements": [ "crs", "pom", "regionkit", "ludocrypt.betterdecals", "chromaticalblight.chromatoolsandstuff", "slime-cubed.slugbase" ],
-	"requirements_names": [ "Custom Region Support", "POM", "RegionKit", "BetterDecals", "ChromaToolsAndStuff", "SlugBase" ],
+	"requirements": [ "crs", "pom", "regionkit", "ludocrypt.betterdecals", "chromaticalblight.chromatoolsandstuff", "slime-cubed.slugbase", "fisobs", "lb-fgf-m4r-ik.modpack" ],
+	"requirements_names": [ "Custom Region Support", "POM", "RegionKit", "BetterDecals", "ChromaToolsAndStuff", "SlugBase", "Fisobs", "The M4rblelous Entity Pack" ],
 	"tags": [ "Regions", "Campaigns", "Custom Slugcat" ],
 	"checksum_override_version": false
 }

@@ -7,14 +7,20 @@ ROOMS:
 100K_HI_wonk_02 is a shelter and connects to the second pipe in 100K_HI_wonk_01
 100K_DS_luckykitkat_01 is a swarm room and needs two garbage worms
 100K_GW_bat_01 is a toll
+Connect two OE Zamtreon rooms
+100K_WSSR_wonk_01 needs corruption spores fixed (maybe all of rotted region rooms tbh, check if it's a hardcoded thing)
+100K_SU_crafterz_01 needs REPLACEROOM conditional link for future, to 100K_SU_crafterz_01_future
+100K_LF_chromaticalblight_01 requests a green lizard in the den
+
 
 Past GW rooms:
 - 100K_GW_wonk_01
 
 AV3RY rooms:
-- LM 01 connects to LM 02 via 4th entrance
+- LM 01 connects to LM 04 and LM 02 in that order
 - LM 02 connects to LM 01 and LM 03 in that order
 - LM 03 only connects to LM 02 and is a shelter
+- LM 04 connects to LM 01 via its 2nd entrance
 
 Thysi rooms:
 - WBLA 01, 02, and 03 connect. 01 and 02 connect bottom to top respectively, and 03 to 02 on the left.

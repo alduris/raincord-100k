@@ -1,0 +1,14 @@
+Template: NONE
+DangerType: None
+WaveSpeed: 0.4968961
+WaveLength: 0.9483647
+WaveAmplitude: 0.04451086
+SecondWaveLength: 0.1666667
+SecondWaveAmplitude: 0
+Palette: 10
+EffectColorA: 9
+EffectColorB: 9
+Effects: ZeroGSpecks-1-23-74, CorruptionSpores-0-31-131, ModifyEffectColorB-0,0,0-715-497, ZeroG-1-20-20, 
+PlacedObjects: LightSource><516.0308><3388.052><0.3043478~Environment~-557~8~50~86.60254~1~0~None~0~0, LightSource><495.9033><2824.675><0.2065217~Environment~-423~21~50~86.60254~1~0~None~0~0, LightSource><342.6219><2720.346><0.1521739~Environment~-295~-255~50~86.60254~1~0~None~0~0, LightSource><612.5758><2715.098><0.1413043~Environment~325~5~50~86.60254~1~0~None~0~0, LightSource><471.1508><2625.369><0.1521739~Environment~-323~-241~50~86.60254~1~0~None~0~0, LightSource><475.6719><2106.102><0.25~Environment~-257~-375~50~86.60254~1~0~None~0~0, LightSource><538.0625><1278.19><0.25~Environment~392~-260~50~86.60254~1~0~None~0~0, LightSource><329.5571><1066.053><0.1413043~Environment~-297~193~50~86.60254~1~0~None~0~0, LightSource><475.5667><540.3301><0.25~Environment~-392~-300~50~86.60254~1~0~None~0~0, LightSource><480.1886><807.6833><0.2065217~Environment~-570~45~50~86.60254~1~0~None~0~0, LightSource><493.8434><1797.323><0.25~Environment~-455~391~-170~242.6025~1~0~None~0~0, LightSource><496.6973><3049.283><0.2065217~Environment~-360~-190~-478~-104.3975~1~0~None~0~0, LightSource><516.9498><289.2426><0.1086956~Environment~-617~11~50~86.60254~1~0~None~0~0, 
+FadePalette: 0, 0, 0, 0, 0, 0
+WetTerrain: OFF

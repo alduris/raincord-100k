@@ -1,4 +1,5 @@
 Template: NONE
+DangerType: Flood
 RandomItemDensity: 0.2065217
 RandomItemSpearChance: 0.05434782
 Palette: 4

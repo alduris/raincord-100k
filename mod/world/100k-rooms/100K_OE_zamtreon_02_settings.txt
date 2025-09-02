@@ -1,0 +1,10 @@
+Template: NONE
+CeilingDrips: 1
+Clouds: 0.5874398
+Grime: 0.1753626
+WaterReflectionAlpha: 0.4357492
+Palette: 53
+EffectColorA: 15
+EffectColorB: 8
+Effects: Bloom-0.2966186-14.35556-139.5111, ModifyEffectColorB-0.7188405,0.337681,0.5541064-20-20, Brightness-0.07729506-268.9333-145.2, Contrast-0.1004831-271.7778-89.73334, 
+PlacedObjects: OEsphere><463.5878><578.0979><49.06659~-79.91113~50~86.60254~17~1, 
