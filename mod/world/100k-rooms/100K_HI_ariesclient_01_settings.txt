@@ -1,0 +1,12 @@
+Template: NONE
+DangerType: FloodAndRain
+RainIntensity: 0.2065217
+Clouds: 0.1847826
+Grime: 0.1086956
+Palette: 5
+EffectColorA: 5
+EffectColorB: 10
+Effects: LightBurn-0.1086956-20-20, Darkness-0.2065217-46-73, Dustpuffs-0.2065214-244-125, 
+PlacedObjects: DangleFruit><1049.693><1129.448><0~0~0~3, DangleFruit><1087.374><1153.907><0~0~0~3, DangleFruit><1559.074><1163.404><0~0~0~3, DangleFruit><1591.098><1122.87><0~0~0~3, DangleFruit><409.3041><1216.459><0~0~0~3, DangleFruit><440.4492><1179.017><0~0~0~3, DangleFruit><2039.937><1099.82><0~0~0~3, DangleFruit><2096.102><1133.116><0~0~0~3, DangleFruit><2167.831><1075.357><0~0~0~3, DangleFruit><2220.617><1179.35><0~0~0~3, DataPearl><2206.835><246.1822><0~0~0~0~Misc~0, DangleFruit><2156.486><304.8005><0~0~0~3, DangleFruit><2255.071><274.4109><0~0~0~3, InsectGroup><1293.561><1056.565><6~223~0~0~Moth~1, InsectGroup><2217.301><265.7324><0~100~0~0~StandardFly~1, 
+AmbientSounds: OMNI><AM_IND-Factory03.ogg><-1000><-1000><1><1, SPOT><AM_ENV-LightWind.ogg><-1000><-1000><1><1><1305.2><1018.491><-84.35535><-70.35535><0><0.1, 
+FadePalette: 15, 0.5, 0.5, 0.5, 0.5, 0.5

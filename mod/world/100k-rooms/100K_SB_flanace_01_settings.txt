@@ -1,0 +1,14 @@
+Template: NONE
+DangerType: FloodAndRain
+WaveSpeed: 0.4987272
+WaveLength: 0.9993636
+WaveAmplitude: 0.04812603
+SecondWaveLength: 0.1666667
+SecondWaveAmplitude: 0
+Clouds: 0.3695652
+Grime: 0.2934783
+Palette: 21
+EffectColorB: 7
+Effects: LightBurn-0.3586957-20-20, 
+PlacedObjects: LightBeam><673.9377><381.5691><-51~494~56~489~269~-68~-337~-110~0.4326086~0~0~1~None~0~0, LightSource><764.0603><421.3134><0.4130435~Environment~227~-131~50~86.60254~1~0~None~0~0, LightSource><732><346><0.3586957~Environment~227~-131~50~86.60254~1~0~None~0~0, LightSource><767.66><602.63><0.2717391~Environment~134~-131~50~86.60254~1~1~None~0~0, InsectGroup><439.4554><367.805><209~-34~0~0~Beetle~0.2934785, InsectGroup><995><360><209~-34~0~0~Beetle~0.2934785, LightSource><783><363><0.3586957~Environment~214~-180~50~86.60254~1~1~None~0~0, WormgrassRect><390.9352><312.0756><5^1, 
+FadePalette: 10, 0.1195652

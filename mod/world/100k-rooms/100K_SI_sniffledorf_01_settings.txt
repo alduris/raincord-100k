@@ -1,0 +1,6 @@
+Template: NONE
+Palette: 2
+Effects: SkyBloom-0.3093297-20-20, LightBurn-0.3093298-30-30, AboveCloudsView-1-40-40, SkyDandelions-0.3093297-50-50, 
+PlacedObjects: DandelionPatch><521.8251><373.6067><4.268677~87.19373, 
+AmbientSounds: OMNI><so_ind-turbine.ogg><719.9943><343.9206><0.7087973><1, OMNI><so_sfx-alienscythe.ogg><704.4977><222.9347><0.5050719><1, OMNI><rwtw_ar_squeakymachine.ogg><795.2884><445.8699><0.3066678><1, 
+BackgroundOffset: 0,-1288.047

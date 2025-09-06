@@ -1,0 +1,14 @@
+Template: NONE
+DangerType: Flood
+WaveSpeed: 0.5457226
+WaveLength: 0.9988778
+WaveAmplitude: 0.2661033
+SecondWaveLength: 1
+SecondWaveAmplitude: 0
+Palette: 31
+EffectColorA: 15
+EffectColorB: 15
+Effects: InvertedWater-1-20-20, LavaSurface-1-122-109, LethalWater-1-277-193, WaterFluxMinLevel-0.8586956-30-30, WaterFluxMaxLevel-0.8695652-216-275, WaterDepth-0-50-128, Darkness-0.173913-40-40, DarkenLights-0.1086956-315-51, Lightning-1-50-50, 
+PlacedObjects: LightSource><3368.241><53.16068><1~Environment~-11~231~50~86.60254~1~0~None~0~0, LightSource><2352.139><60.14289><1~Environment~-21~228~50~86.60254~1~0~None~0~0, LightSource><1130.63><46.63124><1~Environment~-28~314~50~86.60254~1~0~None~0~0, LightSource><350.3465><48.62619><1~Environment~-16~224~50~86.60254~1~0~None~0~0, LightSource><753.1568><50.58189><1~Environment~-8~259~50~86.60254~1~0~None~0~0, CellDistortion><2400.583><342.1393><1125~-88~-257~136.6025~0.04697054~0.9131642~0.2500066~0.1304268, CellDistortion><383.3545><348.1131><1087~-116~50~86.60254~0.07695804~0.8367741~0~0.3716703, CellDistortion><3733.176><537.0573><-1551~-344~146.9983~28.60236~0.05627441~0.9456522~0~0.25, 
+AmbientSounds: OMNI><SO_SFX-Doomsday.ogg><716.0696><428.6875><0.1086956><1, OMNI><SO_NAT-Fire.ogg><477.6736><431.3493><0><1, OMNI><SO_SFX-UnderWaterSub.ogg><506.0446><324.195><0.3369565><0.7847826, OMNI><AM_SUB-MysticCave1.ogg><489.6217><229.9087><0.326087><0.823913, OMNI><Weird Deep Hole.wav><739.3003><380.3064><0.04347826><0.8826087, OMNI><AM_IND-SuperStructure.ogg><828.0748><625.8145><0.1847826><1, OMNI><AM_RAIN-Rumbles.ogg><833.9593><554.1958><0.4347826><1, OMNI><AM_WIN-HowlingWnd.ogg><835.5965><486.3718><0.5><0.5304348, OMNI><AM_WIN-StrongWnd2.ogg><654.8931><613.8604><0.3152174><1, SPOT><so_wat-openflow.ogg><736.1364><236.8354><0.5><0.7065217><743.8552><129.5066><9.644653><192.6447><0><0.2086958, SPOT><so_wat-openflow.ogg><688.4561><137.8049><0.5><0.7065217><1183.72><122.6997><-169.3553><-3.355347><0><0.2086958, SPOT><so_wat-splashes.ogg><838.149><339.8665><0.4021739><0.726087><926.1559><631.9816><-61.35535><-288.3553><0><0.1652175, 
+FadePalette: 75, 0.5217391, 0.5217391, 0.5326087, 0.5217391

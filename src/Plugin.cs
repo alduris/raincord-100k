@@ -22,21 +22,15 @@ namespace Raincord100k
         
             On.RainWorld.OnModsInit += Extras.WrapInit(LoadResources);
             MenuHooks.Apply();
-
             DamoonRooms.EnableHooks();
             PeanutMeta.EnableHooks();
-        }
-
-        public void OnDisable()
-        {
-            MenuHooks.Unapply();
-
-            PeanutMeta.Disable();
         }
         
         // Load any resources, such as sprites or sounds
         private void LoadResources(RainWorld rainWorld)
         {
+            Constants.RegisterCredits();
+
             ShaderLoader.LoadShaders();
             PomManager.RegisterPlacedObjects();
             

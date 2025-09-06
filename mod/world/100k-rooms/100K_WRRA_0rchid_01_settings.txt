@@ -1,0 +1,28 @@
+Template: NONE
+CeilingDrips: 0.6413044
+WaveSpeed: 0.5543478
+WaveLength: 0.9239131
+WaveAmplitude: 0.2608696
+SecondWaveLength: 0.1666667
+SecondWaveAmplitude: 0.1413043
+Clouds: 0.1413043
+Grime: 0.173913
+RandomItemDensity: 0.75
+RandomItemSpearChance: 0.4499999
+Palette: 464
+EffectColorA: 14
+EffectColorB: 6
+TerrainStainAmount: 0.6086956
+TerrainStainBrightness: 1
+TerrainStainHeight: 0.2065217
+TerrainWaves: 0.6521739
+TerrainEdgeRadius: 200
+TerrainGooHeight: 0.04347826
+TerrainGrain: 0.6086956
+TerrainDepth: -0.4347894
+TerrainSkyFade: 1
+TerrainPalette: rustedwrecks
+Effects: Bloom-0.3043478-177-138, SilenceWater-0.7065217-0-0, Flies-0.04347826-460-295, RockFlea-0.6086956-648-403, WaterGlowworm-1-217-23, Ant-0.3478261-422-50, Wasp-0.1086956-444-382, Beetle-0.04347826-617-33, ModifyEffectColorA-0.9782609,0.8043478,0.5652174-0-0, 
+PlacedObjects: CustomDecal><2404.552><44.46875><-1~777~-1831~774~-2367~0~-1353~241~0~1~0.6086956~megarust~0.6086956~1~0.6086956~1~0.6086956~1~0.6086956~1, CustomDecal><1174.071><615.9112><-108~-634~1175~-637~1174~-243~-125~-185~0~1~0~rust1~0.4021739~1~0.4021739~1~0.4021739~1~0.4021739~1, CustomDecal><428.0635><567.1778><-267~-527~722~-530~732~-37~353~-248~0~1~0~rust1~0.6086956~1~0.6086956~1~0.6086956~1~0.6086956~1, LightSource><2404.113><819.335><0.0326087~Environment~-743~-767~-672~-286.3975~1~1~None~0~0, LightSource><1591><809><0.0326087~Environment~-743~-767~-672~-286.3975~1~1~None~0~0, LightSource><574.3202><269.0876><0.1086956~Environment~-374~167~50~86.60254~1~0~None~0~0, TerrainHandle><286.5693><127.8357><-42~-28~39~20~126, TerrainHandle><539.8104><97.8093><-41~10~40~0~69, TerrainHandle><403.8874><136.8954><-41~2~40~-6~57, TerrainHandle><686.1761><89.84473><-45~14~39~3~71, TerrainHandle><804.8263><108.8151><-45~-24~40~0~55, TerrainHandle><932.6146><135.6639><-42~3~40~1~70, TerrainHandle><1073.689><141.9356><-40~10~40~0~67, TerrainHandle><1217.614><150.6645><-45~-19~40~0~32, TerrainHandle><1355.316><153.6707><-41~-9~41~-3~38, TerrainHandle><1444.189><149.8094><-39~-13~40~0~53, TerrainHandle><1558.637><124.4153><-40~-3~42~-12~40, TerrainHandle><1672.056><91.9532><-38~16~22~-26~43, TerrainHandle><1750.095><50.42584><-40~21~25~-21~50, CustomDecal><1289.682><110.4174><-74~645~883~806~946~-69~-256~131~0~1~0~runningwhite~0.08695652~1~0.08695652~1~0.08695652~1~0.08695652~1, JellyFish><2128.757><155.5501><0~0~2~3, JellyFish><2193.052><154.0301><0~0~2~3, JellyFish><1687.502><145.7><0~0~2~3, JellyFish><614.6447><144.17><0~0~2~3, 
+AmbientSounds: OMNI><AM_WAT-Sea01.ogg><706.4533><189.7615><0.3807692><0.9220831, OMNI><AM_ENV-NatWind.ogg><580.1889><566.3622><0.1882994><0.8052076, OMNI><AM_ENV-Outside.ogg><740.8303><470.1019><0.3053025><0.8636453, SPOT><rwtw_ambseaside.ogg><815.6406><557.6422><0.2065217><1><2402.641><203.6422><-897.3553><9.644653><0><1, SPOT><am_wat-sea03.ogg><871.9437><378.1919><0.1521739><1.45><2401.944><202.1919><-805.3553><8.644653><0><1, OMNI><am_env-cricketswnd.ogg><741.3629><322.1456><0.5><1, SPOT><om.wav><681.5522><322.5569><0.326087><1><33.55219><819.5569><408.6447><-241.3553><0><0.3065219, 
+FadePalette: 8, 0.1630435, 0.06521739

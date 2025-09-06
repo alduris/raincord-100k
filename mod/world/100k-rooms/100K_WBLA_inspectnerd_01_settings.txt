@@ -1,0 +1,17 @@
+Template: NONE
+DangerType: Sandstorm
+CeilingDrips: 0
+Clouds: 0.2043848
+Grime: 0.1562619
+Palette: 98
+EffectColorB: 18
+TerrainLight: 0.3049078
+TerrainStainAmount: 0.4552188
+TerrainStainHeight: 1
+TerrainWaves: 0.4273509
+TerrainGooHeight: 0.1081384
+TerrainDepth: 0.3609031
+TerrainPalette: badlands
+Effects: ModifyEffectColorA-0.260126,0.5,0.1098112-20-20, SandPuffs-1-277.8629-71.85984, HeatWave-0.05574135-238.2903-146.7853, LocustSwarmConfig-0.05434782,0.5,0.4021739,0.1086956,0.2065217-325-246, 
+PlacedObjects: TerrainHandle><3945.968><250.9474><-40~0~43~4~20, TerrainHandle><3604.059><173.8099><-132~-8~296~72~30, TerrainHandle><4130><276><-40~0~114~17~20, TerrainHandle><3172.198><254.7242><-40~0~135~-11~20, TerrainHandle><3414.411><198.6793><-150~43~40~0~20, TerrainHandle><2754><230><-111~-12~40~0~20, TerrainHandle><2364><183><-85~-4~115~18~20, TerrainHandle><1891><167><-76~3~189~-6~20, TerrainHandle><1563><174><-102~1~43~4~22, TerrainHandle><1361><176><-14~-27~43~4~20, TerrainHandle><600><215><-35~-3~1~-130~20, TerrainHandle><340><179><-43~-3~49~-2~20, TerrainHandle><89><200><-40~0~43~4~20, BlackSpot><80.31494><-34.67407><299~168~553~265~535~-141, BlackSpot><73.67828><-35.34064><-5~220~251~172~181~0, BlackSpot><1369.05><-40.74329><-50~192~424~186~369~-4, BlackSpot><2300.198><-40.2449><147~206~776~259~932~-1, LocustCloud><4177.875><705.5939><-115~4, LocustCloud><3708.636><681.4143><-109~3, LocustCloud><3239><679><-109~3, LocustCloud><2321.959><699><-109~3, LocustCloud><1872><674><-109~3, LocustCloud><1119><736><-109~3, LocustCloud><-81><666><-109~3, CustomDecal><2692.569><274.8355><-198~146~368~158~380~-23~-692~-3~0.3152174~1~0~xsaad~0.2934783~1~0.2934783~1~0.2934783~1~0.2934783~1, CustomDecal><2440.901><130.0762><-90~450~298~477~211~-44~-478~-198~0.6195652~1~0~rust2~0.3369565~1~0.3369565~1~0.3369565~1~0.3369565~1, TerrainRubble><329.8302><182.1443><95~161, TerrainRubble><1669><249><95~161, TerrainRubble><2055><237><95~161, TerrainRubble><2352><255><95~161, TerrainRubble><3150><291><95~161, TerrainRubble><3470><271><95~161, TerrainRubble><3830><309><95~161, TerrainRubble><4236><375><95~161, 
+FadePalette: 99, 0, 0, 0, 0

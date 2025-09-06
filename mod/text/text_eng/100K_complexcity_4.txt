@@ -1,0 +1,14 @@
+0-100K_complexcity_4
+It's a pearl meant for use with a personal computer. Do you know what that is?
+
+They were small rectangular devices sometimes decorated in printed patterns or lights. <LINE>Some would include a small spot where one of these pearls could be inserted. <LINE>A mechanism on the other side of the port would read off the data and display it.
+
+The pearl's contents are not in plain text, but due to its use case, it is trivial to decode it.
+
+It contains several games, random programs, hundreds of old text documents, art, and 3D models. <LINE>It's all standard of the time, I don't see any games or tools that were uncommon then.
+
+I couldn't possibly go into more detail - all together it adds up to three terabytes of information, far too large for you to reasonably want to hear.
+
+If I had to say, I do enjoy the art and writing they stored on this! It gives me a peaceful feeling, <LINE>wondering about this person's daily life bringing joy to another's life, even for a brief moment.
+
+Thank you for this, <PLAYERNAME>.

@@ -1,0 +1,28 @@
+Template: NONE
+DangerType: Blizzard
+CeilingDrips: 0.7065217
+WaveSpeed: 0.3911394
+WaveLength: 0.8954864
+WaveAmplitude: 0.0004200673
+SecondWaveLength: 0.1666667
+SecondWaveAmplitude: 0
+Clouds: 0.05434782
+Grime: 0.2826087
+Palette: 0
+EffectColorA: 1
+EffectColorB: 8
+TerrainLight: 0
+TerrainStainAmount: 0.4456522
+TerrainStainBrightness: 0.4130435
+TerrainStainHeight: 0.1630435
+TerrainWaves: 0
+TerrainEdgeRadius: 133.913
+TerrainGooHeight: 0.3478261
+TerrainGrain: 0.8260869
+TerrainDepth: -0.5978328
+TerrainSkyFade: 1
+TerrainPalette: ridgesnow
+Effects: SkyBloom-0.1413043-20-20, Coldness-1-0-0, Dustpuffs-0.173913-700-419, 
+PlacedObjects: ReliableSpear><371.7093><389.1958><, DangleFruit><803.4379><564.5599><-873~13~2~4, DangleFruit><847.9214><573.0661><0~0~2~4, LightBeam><162.3257><244.5981><138~517~740~518~290~-61~-293~-71~0.3021738~0~0~1~None~0~0, LightSource><586.5357><722.8032><0.173913~Environment~289~-225~-629~-517.3975~1~1~None~0~0, CustomDecal><730.902><629.38><10~110~206~102~158~-14~-444~-144~0~1~0.1413043~radio~0.4130435~0.5543478~0.7065217~0~1~0.4456522~1~0.2282609, SpotLight><-264.8959><342.4207><0~40~40~40~40~0, InsectGroup><465><244><127~137~293~149~Moth~0.7065217, CustomDecal><-198.8142><266.3241><-26~92~126~380~380~-44~288~-593~0~1~0.4456522~rustb3~0~0.3695652~0.3586957~0.4456522~0.8152174~0.6847826~0.5760869~0.2391304, CustomDecal><129.8113><65.31616><-17~124~714~60~636~-130~341~-296~0~1~0~big tag~0.4673913~0.3695652~0.4456522~0.5978261~0.4347826~0.1521739~0.3804348~0.6956522, LanternOnStick><724.0637><542.5728><49~-95, LanternOnStick><286><228><-28~-103, SnowSource><187.16><449.37><Radial~237~188~78~-100.3975~0.7934783~0.75, SnowSource><424.6358><258.8358><Radial~410~127~112~-40.39746~0.6956522~1, SnowSource><765.3016><508.7247><Radial~-203~64~-555~-174.3975~0.8586956~0.5652174, TerrainHandle><75.99426><176.4999><-120~9~106~-152~71, BlackSpot><887.3977><145.3652><146~300~434~437~480~3, TerrainHandle><495.3025><159.057><-164~-92~127~85~125, TerrainHandle><839.4481><440.2776><-95~-40~97~-4~-51, TerrainHandle><1085.661><446.3688><-142~-43~53~3~48, BlackSpot><773><101><-650~-116~-805~-366~-12~-225, TerrainHandle><-186><159><-120~9~245~26~71, BlackSpot><199><-29.99999><-255~259~-850~397~-88~-396, TerrainSunOffset><531.0815><106.3922><-51~192, 
+AmbientSounds: OMNI><AM_ENV-Outside.ogg><771.8311><409.643><0.3804348><0.9021739, OMNI><AM_ENV-NatWind.ogg><700.9156><-58.18134><0.3043478><1, 
+FadePalette: 10, 0.08695652

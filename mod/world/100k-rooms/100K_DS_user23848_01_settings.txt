@@ -1,0 +1,12 @@
+Template: NONE
+DangerType: Flood
+RainIntensity: 1
+RumbleIntensity: 0.7908697
+Grime: 0.4347826
+RandomItemDensity: 0.4782609
+Palette: 4
+EffectColorA: 0
+EffectColorB: 7
+PlacedObjects: InsectGroup><589.3763><44.155><67~100~0~0~RockFlea~0.326087, 
+AmbientSounds: OMNI><SO_NAT-LilDrips.ogg><445.3101><511.0626><0.2608696><0.9608696, OMNI><SO_WAT-DripTap.ogg><709.55><508.2499><0.3586957><0.9608696, 
+FadePalette: 8, 0.3913043

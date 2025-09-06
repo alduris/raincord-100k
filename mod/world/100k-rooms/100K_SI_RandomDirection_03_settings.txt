@@ -1,0 +1,13 @@
+Template: NONE
+CeilingDrips: 0.1956522
+RumbleIntensity: 0.0326087
+Clouds: 0.1195652
+Grime: 0.2065217
+RandomItemDensity: 0.2608696
+RandomItemSpearChance: 0.1456521
+Palette: 2
+EffectColorA: 10
+EffectColorB: 2
+Effects: SkyDandelions-0.6304348-20-20, Flies-0.3695652-77-70, SkyBloom-0.6847826-30-30, 
+PlacedObjects: NeedleEgg><422.5694><1900.585><0~0~4~9, NeedleEgg><490.7227><1938.698><0~0~4~9, FirecrackerPlant><1214.312><2109.309><0~0~2~3, FirecrackerPlant><1244.413><2113.616><0~0~2~3, DandelionPeach><983.6908><199.8377><0~0~2~3, DandelionPeach><879.8448><143.1261><0~0~2~3, DandelionPatch><949.3795><188.6523><-55~143, DandelionPatch><1003.429><130.1869><1~77, DandelionPatch><886.3699><129.1519><-19~97, 
+FadePalette: 18, 0.1413043, 0.1630435, 0.1413043

@@ -1,0 +1,18 @@
+0-100K_theburgerbox_3
+These are the global schematics for a particular Iterator structure.
+
+Whether it was ever built or not I sadly do not know, but judging from the designs it seems it would have been quite the ordeal if it was!
+
+It seems this one was designed to be built high above the surface of this world by repeatedly launching materials <LINE>and organisms into space. I am curious to learn how this idea was ever considered feasible.
+
+Especially the logistics of keeping such a structure elevated like that! While it agrees with some theoretical models of <LINE>gravitational acceleration around spherical bodies, I don't recall such models applying to reality in this way.
+
+Then again, I don't recall a lot of things...
+
+But even despite that issue, this Iterator structure seems to rely heavily on the possibility of resupplies by cargo rocket. <LINE>With the state of my equipment and what I can see near Pebbles, I highly doubt such methods would still be functional, <LINE>let alone fit to carry such significant masses up so far...
+
+Not to mention the fact that a lack of propellant would mean certain destruction...
+
+...
+
+Don't worry, <PLAYERNAME>. I doubt that such a structure would ever have been built.

@@ -1,0 +1,8 @@
+Template: NONE
+Palette: 11
+EffectColorA: 7
+EffectColorB: 13
+Effects: Fog-0.1521739-20-20, LethalWater-1-174-71, WaterViscosity-0.6521739-235-122, DirtyWater-1-114-317, 
+PlacedObjects: LightSource><887.9468><218.5357><0.6086956~EffectColor1~5~203~-1~369.6025~1~0~None~0~0, SteamPipe><861.6937><288.2995><7~35, SteamPipe><943.3628><290.1045><-8~38, SteamPipe><892.4874><286.5504><2~42, LightSource><1211.152><236.6295><0.6086956~EffectColor1~-3~185~50~86.60254~1~0~None~0~0, SteamPipe><1178.813><270.0717><10~52, SteamPipe><1252.198><265.9433><-8~66, SteamPipe><1215.317><276.1885><-1~57, LightSource><1592.08><238.4333><0.6086956~EffectColor1~3~176~-63~268.6025~1~0~None~0~0, SteamPipe><1623.016><282.9493><-9~48, SteamPipe><1548.446><277.0402><11~50, SteamPipe><1588.052><277.0271><-1~64, LightSource><1943.083><245.6394><0.5326087~EffectColor1~-5~168~50~86.60254~1~0~None~0~0, SteamPipe><1901.358><283.1088><14~43, SteamPipe><1967.56><283.1882><-8~47, SteamPipe><1938.167><271.1819><0~48, SteamPipe><2404.244><286.0501><8~27, SteamPipe><2448.882><284.6503><-8~35, LightSource><2431.671><263.8164><0.4565217~EffectColor1~5~174~-18~229.6025~1~0~None~0~0, LightSource><2702.385><261.1027><0.5~EffectColor1~2~181~50~86.60254~1~0~None~0~0, SteamPipe><2671.416><276.9313><8~40, SteamPipe><2732.606><286.1384><-8~30, 
+FadePalette: 35, 0.75, 0.6739131, 0.6413044, 0.6195652
+WetTerrain: OFF

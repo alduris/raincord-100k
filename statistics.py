@@ -143,9 +143,9 @@ print("ROOM COUNT: " + str(room_count) + " / SCREEN COUNT: " + str(screen_count)
 print()  # another space lol
 
 # vars
-overratios = [1, 1, 3]
+overratios = [1, 1, 5]
 arrayorder = [dict_to_list(regions), missing, dict_to_list(authors)]
-innerratios  = [[1,1], [1,1,1], [1,1,1]]
+innerratios  = [[1,1], [1,1], [1,1,1]]
 subseps = [" ", " ", " "]
 subsort_lists(arrayorder)
 
@@ -162,9 +162,9 @@ for i in range(rowcount):
 print_hr("-", overratios, COLS, "-+-")
 
 # another section! init vars
-overratios = [1, 3]
+overratios = [1, 4]
 arrayorder = [dict_to_list(screens_regions), dict_to_list(screens_authors)]
-innerratios = [[1,1,1], [1,1,1,1]]
+innerratios = [[1,1], [1,1,1,1]]
 subseps = [" ", " "]
 subsort_lists(arrayorder)
 

@@ -1,0 +1,7 @@
+Template: NONE
+Clouds: 0.1630435
+Palette: 6
+EffectColorA: 10
+EffectColorB: 2
+AmbientSounds: OMNI><AM_ENV-NatWind.ogg><761.6189><490.599><0.1847826><1, OMNI><AM_ENV-LightWind.ogg><751.1595><583.1206><0.3478261><0.8630434, 
+FadePalette: 15, 0.2391304, 0.2282609

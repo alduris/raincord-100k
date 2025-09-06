@@ -1,0 +1,11 @@
+Template: NONE
+DangerType: Flood
+CeilingDrips: 0.2717391
+RumbleIntensity: 0.7391304
+Grime: 0.2173913
+Palette: 3
+EffectColorA: 11
+EffectColorB: 2
+Effects: SkyDandelions-0.6847826-20-20, Flies-0.25-108-93, SkyAndLightBloom-1-40-40, 
+PlacedObjects: InsectGroup><341.563><257.0708><36~149~0~0~TinyDragonFly~0.6195652, FirecrackerPlant><566.5627><299.3204><0~0~2~3, FirecrackerPlant><347><175><0~0~2~3, FirecrackerPlant><376><168><0~0~2~3, FirecrackerPlant><84><315><0~0~2~3, FirecrackerPlant><118><293><0~0~2~3, 
+FadePalette: 2, 0.5652174
