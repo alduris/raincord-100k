@@ -1,0 +1,6 @@
+0-100K_imbadatusernamesokay_2-Artificer
+An early attempt to solve a problem. Like most first solutions, it proved ineffective. 
+
+As for this organism specifically, it rarely behaved as intended, and the corrosion was more of a problem than expected.
+
+I have since moved on to more sophisticated methods.

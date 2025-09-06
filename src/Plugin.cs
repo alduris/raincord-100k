@@ -18,16 +18,14 @@ namespace Raincord100k
 
             On.RainWorld.OnModsInit += Extras.WrapInit(LoadResources);
             MenuHooks.Apply();
-        }
-
-        public void OnDisable()
-        {
-            MenuHooks.Unapply();
+            CreditHooks.Apply();
         }
         
         // Load any resources, such as sprites or sounds
         private void LoadResources(RainWorld rainWorld)
         {
+            Constants.RegisterCredits();
+
             ShaderLoader.LoadShaders();
             PomManager.RegisterPlacedObjects();
         }
