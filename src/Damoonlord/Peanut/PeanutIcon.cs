@@ -1,4 +1,5 @@
 ﻿using Fisobs.Core;
+using RWCustom;
 using UnityEngine;
 
 namespace Raincord100k.Damoonlord.Peanut
@@ -9,9 +10,9 @@ namespace Raincord100k.Damoonlord.Peanut
         {
             if (AbsObject is AbstractPeanut peanut)
             {
-                int h = (int)(peanut.Hue * 1000f);
-                int s = (int)(peanut.Sat * 10000000f);
-                int l = (int)(peanut.Lit * 100000000000f);
+                int h = (int)(peanut.Hue * 360f);
+                int s = (int)(peanut.Sat * 100f) * 360;
+                int l = (int)(peanut.Lit * 100f) * 36000;
 
                 return h + s + l;
             }
@@ -21,14 +22,13 @@ namespace Raincord100k.Damoonlord.Peanut
 
         public override Color SpriteColor(int data)
         {
-            float h = (data - Mathf.Floor(data / 10000) * 10000) / 1000;
-            float s = Mathf.Floor((data - Mathf.Floor(data / 100000000) * 100000000) / 100000) / 100;
-            float l = Mathf.Floor(data / 1000000000000) * 1000000000000 / 100000000000;
-
+            float h = (data % 360) / 360f;
+            float s = ((data / 360) % 100) / 100f;
+            float l = (data / 36000) / 100f;
 
             if (data == 1)
             {
-                h = Mathf.Lerp(0.20f, 1.00f, Random.value);
+                h = 0.20f;
                 s = 1f;
                 l = 0.7f;
             }
@@ -39,7 +39,7 @@ namespace Raincord100k.Damoonlord.Peanut
                 l = 0.70f;
             }
 
-            return RWCustom.Custom.HSL2RGB(h, s, l);
+            return Custom.HSL2RGB(h, s, l);
         }
 
         public override string SpriteName(int data)
