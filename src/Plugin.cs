@@ -1,6 +1,10 @@
 ﻿using BepInEx;
-using BepInEx.Logging;
+﻿using BepInEx.Logging;
+using Fisobs.Core;
+using Raincord100k.Damoonlord;
+using Raincord100k.Damoonlord.Peanut;
 using Raincord100k.Hooks;
+using System.IO;
 
 namespace Raincord100k
 {
@@ -15,10 +19,11 @@ namespace Raincord100k
         public void OnEnable()
         {
             Logger = base.Logger;
-
+        
             On.RainWorld.OnModsInit += Extras.WrapInit(LoadResources);
             MenuHooks.Apply();
-            CreditHooks.Apply();
+            DamoonRooms.EnableHooks();
+            PeanutMeta.EnableHooks();
         }
         
         // Load any resources, such as sprites or sounds
@@ -28,6 +33,8 @@ namespace Raincord100k
 
             ShaderLoader.LoadShaders();
             PomManager.RegisterPlacedObjects();
+            
+            Futile.atlasManager.LoadAtlas("assets" + Path.DirectorySeparatorChar + "Peanut_Sprites");
         }
     }
 }
