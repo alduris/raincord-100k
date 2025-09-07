@@ -34,7 +34,7 @@ for file in os.listdir("./mod/text/text_eng/"):
 		continue
 	while inp.lower() != "next" and (not name in credits or do_repeats):
 		print()
-		print("CURRENT: " + name + " (" + file + "))
+		print("CURRENT: " + name + " (" + file + ")")
 		if name in credits:
 			print("DISPLAY NAME: " + credits[name])
 		else:
@@ -61,8 +61,12 @@ for file in os.listdir("./mod/text/text_eng/"):
 
 print(credits)
 
+writemap = list()
+for k,v in credits.items():
+	writemap.append(k + " : " + v + "\n")
+writemap = sorted(writemap)
 with open("100K_credits_map.txt", "w", encoding="utf8") as f:
-	for k,v in credits.items():
-		f.write(k + " : " + v + "\n")
+	for item in writemap:
+		f.write(item)
 
 input("Done!")
