@@ -1,0 +1,20 @@
+0-100K_complexcity_6
+This pearl is very interesting!
+
+It's a set of schematics for a conduit system for an iterator intended to be built far south of here.
+
+Do you know what conduits are?
+
+Conduits are an array of mechanisms located near the bottom of the main superstructure. <LINE>They're a vital part of a large system and even more important to the Iterator's life.
+
+The system that conduits are a part of starts in the ground below. Iterators need to be built near a large groundwater supply. <LINE>Water is drawn up through a large pipe system from lakes, oceans, or underwater reservoirs and funneled through more pipes in the structure's legs.
+
+Once this water is inside the structure, it goes to a conduit. Conduits themselves serve to prepare the water for use throughout the structure. <LINE>They feed micro-organisms, generate power for electrical and biomechanical functions, cool electical components, and more that I can't get into.
+
+Then the remaining waste is simply ejected back down the legs and thrown into a drainage system near the Iterator's complex. It is no longer useful.
+
+Conduits can also overdraw groundwater, but alongside greatly increasing performance this is very dangerous for everyone involved...
+
+Simply put, if the conduits are compromised the Iterator will slowly die. <LINE>It pains me to imagine how many of us out there are in this very predicament.
+
+Thank you for listening to my lecture, <PLAYERNAME>. I appreciate it.

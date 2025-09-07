@@ -50,6 +50,7 @@
 [ADD]100K_complexcity_3 : ffffff : 6564c9 : 100K_complexcity_3
 [ADD]100K_complexcity_4 : ffffff : 6564c9 : 100K_complexcity_4
 [ADD]100K_complexcity_5 : ffffff : 6564c9 : 100K_complexcity_5
+[ADD}100K_complexcity_6 : ffffff : 6564c9 : 100K_complexcity_6
 [ADD]100K_soulwing98_1 : b7a05d : 72b56c : 100K_soulwing98_1
 [ADD]100K_germtlemaam_1 : 0000ff : ff0000 : 100K_germtlemaam_1
 [ADD]100K_sparkproot_1 : 111111 : 78d7e9 : 100K_sparkproot_1
@@ -66,3 +67,6 @@
 [ADD]100K_domezthedragon_1 : e5e5e5 : a8e0de : 100K_domezthedragon_1
 [ADD]100K_wonk_1 : cbbbac : 805630 : 100K_wonk_1
 [ADD]100K_drymm_1 : e8e7b6 : d2b480 : 100K_drymm_1
+[ADD]100K_karlmatito_1 : 7f3317 : ffaa60 : 100K_karlmatito_1
+[ADD]100K_piotr08_1 : ff4f00 : ffaa66 : 100K_piotr08_1
+[ADD]100K_3circles_1 : 008567 : aaffdd : 100K_3circles_1

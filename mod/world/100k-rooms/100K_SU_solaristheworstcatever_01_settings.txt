@@ -1,0 +1,5 @@
+Template: NONE
+EffectColorA: 9
+EffectColorB: 8
+Effects: Fog-0.6109261-20-20, Flies-0.1623981-30-30, RockFlea-0.0850656-40-40, 
+FadePalette: 8, 0.2087975

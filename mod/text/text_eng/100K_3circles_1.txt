@@ -1,0 +1,24 @@
+0-100K_3circles_1
+I'm sorry, but this pearl is badly damaged!
+
+It seems to have contained a table for some timestamped data... perhaps maintenance logs or production orders?
+
+The only intact partitions of data I can make out are the timestamps.
+
+... Oh! This is rather fascinating! The timestamp format changes partway through the time period stored in this pearl.
+
+You've found a very old piece of data! This dates back to when the first of us were constructed.<LINE>My creators had a system to store time in a standardized format that could be easily read and compared against itself.
+
+It split the "year" into 12 "months", which were further divided into 42 "cycles", on average.<LINE>However, those were unintuitive values to work with, and often made calculations with dates frustrating and time-consuming.
+
+When the Great Equalizer rendered the concept of seasons obsolete, my creators opted to redefine the date format.<LINE>The new system simply counted up from an agreed-upon timestamp: the Initiation cycle of the oldest of us.
+
+...
+
+Most of us had little issue changing our date format. Our creators on the other hand...
+
+I still remember when they were implementing the new date format. <LINE>There were a myriad of conflicts and issues with transitioning their whole society.
+
+I would receive countless requests for date conversions. <LINE>From confused citizens, to entire Houses requesting conversions of their historical records.
+
+It was... not a very pleasant time for anyone.
