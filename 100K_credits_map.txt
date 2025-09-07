@@ -38,6 +38,7 @@ drymm : Drymm
 dumpstirfire : dumpstirfire
 dylanplayz2286 : dylanplayz2286
 echidna1 : Mataneko
+eeveeisepic : Eeveeisepic
 emptyraider101 : EmptyRaider101
 equino : Equino
 erm424242 : Erm42

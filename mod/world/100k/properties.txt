@@ -20,3 +20,17 @@ Subregion: Looks to the Moon
 Subregion: Waterfront Facility
 Subregion: Undergrowth
 Subregion: Rubicon
+Subregion: Aether Ridge
+Subregion: Fetid Glen
+Subregion: Ancient Urban
+Subregion: Badlands
+Subregion: Rotten World
+Subregion: Outer Rim
+Subregion: Signal Spires
+Subregion: Coral Caves
+Subregion: Rusted Wrecks
+Subregion: Daemon
+Subregion: Stormy Coast
+Subregion: Torrid Desert
+Subregion: Desolate Tract
+Subregion: Verdant Waterways
