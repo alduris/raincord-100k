@@ -1,31 +1,32 @@
 Notes about specific rooms, either general or user requests.
 
 ROOMS:
-100K_OE_damoonlord_01 is a shelter
-100K_SL_nimble_01 is a swarm room
-100K_SS_Zaraza_01 may need corruption dev tools adjusted to not obstruct bottom entrance
-100K_HI_wonk_02 is a shelter and connects to the second pipe in 100K_HI_wonk_01
-100K_DS_luckykitkat_01 is a swarm room and needs two garbage worms
-100K_GW_bat_01 is a toll
+100K_OE_damoonlord_1 is a shelter
+100K_SL_nimble109_1 is a swarm room
+100K_SS_zar4za_1 may need corruption dev tools adjusted to not obstruct bottom entrance
+100K_HI_wonk_2 is a shelter and connects to the second pipe in 100K_HI_wonk_01
+100K_DS_luckykitkat_1 is a swarm room and needs two garbage worms
+100K_GW_milksmansrevenge_1 is a toll
 Connect two OE Zamtreon rooms
-100K_WSSR_wonk_01 needs corruption spores fixed (maybe all of rotted region rooms tbh, check if it's a hardcoded thing)
-100K_SU_crafterz_01 is a swarm room
-100K_LF_chromaticalblight_01 requests a green lizard in the den
-100K_UW_funkytrashcan_01 -> den 2: pole plant | den 3: cyan lizard(s) | also put a pearl probably
-100K_UW_creativegamer03_01 -> cyan lizards in the orb and a dropwig near the bottom
-100K_SI_ethanwantsfood_01 is a shelter
-100K_HR_dragonly44_01 is a shelter
-100K_WVWA_hennyburgr_01 needs leeches in the water and monster kelp in center ceiling den
-100K_GW_damoonlord_01 is a shelter (warning: corruption)
-100K_RM_damoonlord_02 is *supposed* to be a shelter but I think it'd be better if it's a "fake" shelter with a custom "glitchy" icon
-100K_SB_novatheskeledragon_01 is a shelter
+100K_WSSR_wonk_1 needs corruption spores fixed (maybe all of rotted region rooms tbh, check if it's a hardcoded thing)
+100K_SU_crafterz_1 is a swarm room
+100K_LF_chromaticalblight_1 requests a green lizard in the den
+100K_UW_funkytrashcan_1 -> den 2: pole plant | den 3: cyan lizard(s) | also put a pearl probably
+100K_UW_creativegamer03_1 -> cyan lizards in the orb and a dropwig near the bottom
+100K_SI_ethanwantsfood_1 is a shelter
+100K_HR_dragonly44_1 is a shelter
+100K_WVWA_hennyburgr_1 needs leeches in the water and monster kelp in center ceiling den
+100K_GW_damoonlord_1 is a shelter (warning: corruption)
+100K_RM_damoonlord_2 is *supposed* to be a shelter but I think it'd be better if it's a "fake" shelter with a custom "glitchy" icon
+100K_SB_novatheskeledragon_1 is a shelter
 100K_WPTA_chromaticalblight_1 is a swarm room
-100K_HI_creativegamer03_02 is a shelter but also needs settings file made for it
-100K_WAUA_blobtic_02 is a "shelter"???? wjhy is it so incomprehensible and why is it green, WAUA's whole shtick is that it *doesn't* have color. needs change
-100K_HI_katolato_01 should have poleplant
-100K_SS_flanace_02 is AI room
-100K_DS_lwrcsv_01 is a shelter
-100K_SS_lwrcsv_01 is a shelter
+100K_HI_creativegamer03_2 is a shelter but also needs settings file made for it
+100K_WAUA_blobtic_2 is a "shelter"???? wjhy is it so incomprehensible and why is it green, WAUA's whole shtick is that it *doesn't* have color. needs change
+100K_HI_katolato_1 should have poleplant
+100K_SS_flanace_2 is AI room
+100K_DS_lwrcsv_1 is a shelter
+100K_SS_lwrcsv_1 is a shelter
+100K_WHIR_creativegamer03_2 is a shelter
 
 
 Past GW rooms:

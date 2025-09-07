@@ -1,0 +1,4 @@
+Template: NONE
+Grime: 0.3043478
+Palette: 29
+Effects: WaterDepth-0.1086956-20-20, 

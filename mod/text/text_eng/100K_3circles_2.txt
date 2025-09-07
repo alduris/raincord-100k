@@ -1,0 +1,116 @@
+0-100K_3circles_2
+It's a broadcast log from one of the numerous regional threads. Many of these had failed, even when I was still standing.
+
+I'm surprised some of these are still operational, to say the least.
+
+It appears to be some idle conversation, I'll read it out for you:
+
+"[LIVE BROADCAST]<LINE>1678.352 - REGIONAL THREAD<LINE>5 participants (999+ idling)
+
+EEH: my colony just insisted on maintaining as direct of a path as possible for their brand new rail line!
+
+AW: Isn't there a mountain range directly between you and HA?
+
+EEH: "mountain in the way??" "not with that attitude!"
+
+EEH: they just entirely annihilated those mountains! whatever they left behind was flatter than the tops of our cans!
+
+PV: Greetings all of you!
+
+EEH: oh hai voltie!<LINE>IJC: Greetings PV.<LINE>AW: Welcome back PV.<LINE>DO: PV has returned from the endless depths of their simulations!
+
+PV: Oh shush~! My last broadcasts weren't that long ago.
+
+DO: I'm just poking fun~ Welcome back Voltage!
+
+DO: Got anything new to share? You always show up here with something to say.
+
+PV: You know me too well~ I do in fact have some results to share!
+
+PV: I have been iterating on a long-term climate model for the global climate, mostly standard stuff...
+
+EEH: nerd
+
+IJC: EEH...
+
+AW: You call everyone here a nerd...
+
+PV: But with a twist~! I tweaked some of the variables and observed the effect they had on the global climate.
+
+EEH: wait thats actually pretty neat, tell me more
+
+AW: Oh?
+
+DO: Interesting... any reason why?
+
+IJC: Finally something remotely captivating around here.
+
+PV: To be honest, no real reason. I'm currently waiting on a set of karmic transpositions on the 7th and 9th alignments to complete. As per usual.
+
+PV: By nature of the research I'm pursuing, I have spare processing power I have no real use for. I just figured something to stave off the boredom couldn't hurt.
+
+EEH: i didn't know you were the fun and whimsy type of iterator
+
+PV: I don't come off as that boring, do I?
+
+DO: Not in my opinion~
+
+PV: Heh, anyways~
+
+PV: Unsurprisingly, most of the results had little variation. After all, the Great Equalizer has been proven to be extremely resilient to changes in conditions.
+
+PV: There was one run of... particular note though.
+
+IJC: Hmm?
+
+PV: I reduced the combined heat output of all Iterators, enough so that polar conditions could occur at extreme latitudes.
+
+PV: As expected, in such temperatures, we cannot generate enough heat to melt the surrounding ice and snow into sufficient quantities of feedwater. The Iterators unfortunate enough to be initially caught in those conditions collapsed.
+
+PV: However, the collapse of those Iterators further reduced our total heat output, causing the polar conditions to spread towards the equator.
+
+PV: Those that suddenly found themselves in icy temperatures also collapsed. A feedback loop formed. Temperatures would decrease, and more Iterators would collapse, causing further global cooling, etc.
+
+PV: By the end of the simulation, the vast majority of Iterators had collapsed. The few who were fortunate enough to have the local geography or wind patterns work in their favor, were barely melting enough feedwater to sustain themselves.
+
+PV: So much destruction... caused by so little.
+
+AW: ... Wow... I-
+
+EEH: how much did you decrease our combined heat output by?
+
+IJC: May we see the full details of your simulation?
+
+PV: [FILE ATTACHMENT: climatological_run_079.vdyt]
+
+DO: Those are some intriguing results... however, I can see from the initialization conditions that this would practically never occur.
+
+AW: I agree with DO here, there's no way our heat output could get reduced by so much.
+
+EEH: well, maybe if a lot of us get incapacitated or smth then maybe?
+
+EEH: but like, we don't really collapse at all to begin with
+
+IJC: Theoretically, it could be met if all of us were operating at reduced capacity.
+
+IJC: That would only really occur through long-term decay though, assuming that we didn't perform regular maintenance for some reason.
+
+PV: It was more of a curiosity than anything else. I doubt the requirements for this scenario to play out will ever be met, even in the distant future.
+
+PV: It was just something cool I wanted to share though!
+
+EEH: i agree, it was pretty "cool"!
+
+DO: EEH... that has to be among the worst wordplays I've seen. Thanks for sharing PV, that is a pretty interesting result!
+
+EEH: oh cmon can't an iterator have some whimsy?<LINE>EEH: it wasnt that bad!
+
+IJC: It kind of was that bad...
+
+AW: That is a pretty fascinating output!<LINE>AW: Apologies for the change in topic. PV, I wanted to ask-"
+
+The broadcast log abruptly cuts off here. Almost everything else is corrupted, due to the damage the pearl has received.
+
+I don't recall who any of these Iterators are, but... polar conditions at this latitude?
+
+I find myself agreeing with them. Such a chain of events could never occur, even in the distant future.

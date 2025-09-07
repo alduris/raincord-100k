@@ -1,0 +1,6 @@
+Template: NONE
+Clouds: 0.1413043
+Grime: 0.2391304
+EffectColorB: 6
+PlacedObjects: InsectGroup><287.8199><120.0626><-99~138~0~0~RockFlea~0.5, 
+FadePalette: 1, 0.2282609

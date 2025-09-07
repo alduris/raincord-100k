@@ -1,0 +1,8 @@
+Template: NONE
+Clouds: 0
+Grime: 0
+Palette: 31
+EffectColorA: 15
+Effects: LightBurn-1-20-20, 
+PlacedObjects: KarmaFlower><543.1421><249.0816><-393~-125~5~7, LightSource><541.3149><246.3258><1~EffectColor1~-89~-8~138~-52.39746~1~0~None~0~0, LightSource><549><265><0.5543465~Environment~-226~-87~134~-79.39746~1~0~None~0~0, CosmeticSlimeMold2><712.3514><421.6724><-74.99994~12, SlimeMold><697.8055><429.2034><0~0~2~3, SlimeMold><178.1717><360.4341><0~0~2~3, CosmeticSlimeMold2><176.0369><400.0534><-4~79, LightBeam><357.8484><491.6305><46~-377~330.0001~-344~222~-15~329~-385~0.3782614~0~0~1~None~0~0, 
+FadePalette: 12, 0.1086956

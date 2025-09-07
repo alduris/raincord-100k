@@ -1,0 +1,10 @@
+Template: NONE
+Clouds: 0.3618658
+Grime: 0.2382249
+Palette: 14
+EffectColorA: 13
+EffectColorB: 18
+Effects: FireFlies-0.2617753-20-20, LightRain-0.0923913-30-30, Fog-0.4311593-40-40, Darkness-0.2771739-50-50, 
+PlacedObjects: LanternOnStick><1152.995><1075.786><65.87488~-104.8, LanternOnStick><1177.583><1140.711><56.66663~-170.2222, LanternOnStick><2824.667><1294.311><90.66663~-91.99997, LanternOnStick><2820.417><1252.356><90.66663~-57.15552, 
+AmbientSounds: OMNI><AM_ENV-LushNight.ogg><731.2833><502.8585><0.5><1, OMNI><SO_WAT-Splashes.ogg><721.9633><400.725><0.3460143><1, 
+FadePalette: 10, 0.6159416, 0.6005435, 0.5620475, 0.6390398

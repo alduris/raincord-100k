@@ -131,6 +131,7 @@ skqrw : Sekq
 slithersss : Slithersss
 slythy : Slythy
 sniffledorf : Sniffledorf
+solarisowl : Solaris Owl
 solaristheworstcatever : Solar
 somerandomtarr : Tarr
 soulwing98 : Soulwing98
@@ -142,6 +143,7 @@ tankium : Tankium
 tapok109 : Tapok
 tetraneo : TetraNeo
 theburgerbox : TheBurgerBox
+thecubifyer : TheCubifyer
 thenotsogoodgamer : thenotsogoodgamer
 therealflarf : Flarf
 thiccmothchick : Soup Moth
