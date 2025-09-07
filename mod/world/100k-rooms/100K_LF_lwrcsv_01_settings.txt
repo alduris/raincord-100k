@@ -1,0 +1,22 @@
+Template: NONE
+CeilingDrips: 0.5
+RainIntensity: 1
+RumbleIntensity: 1
+WaveSpeed: 0.75
+WaveLength: 0.5
+WaveAmplitude: 0
+SecondWaveLength: 0.1666668
+SecondWaveAmplitude: 0
+Clouds: 0.5073454
+Grime: 0.5
+BkgDroneVolume: 0.2551973
+BkgDroneNoThreatVolume: 1
+RandomItemDensity: 0.5
+RandomItemSpearChance: 0.1999999
+WaterReflectionAlpha: 1
+Palette: 14
+EffectColorB: 18
+PlacedObjects: LightSource><446.7845><1141.619><0.3272068~Environment~-260.9275~-103.2993~-277.093~41.7807~1~0~None~0~0, InsectGroup><473.727><1142.153><131.7977~-115.0382~204.3665~-40.01953~Beetle~0.5, PuffBall><107.5654><511.7215><-235.3148~38.4187~2~3, PuffBall><149.9057><501.1126><-272.6664~-105.118~2~3, LightSource><460.9894><1146.333><0.06041087~Environment~507.4477~42.90546~50~86.60254~1~1~None~0~0, LightSource><446.7449><518.7574><0.01981055~Environment~564.5421~24.76318~70.81012~-106.5583~1~1~None~0~0, 
+AmbientSounds: OMNI><AM_ENV-LightWind.ogg><729.0897><517.959><0.3550017><0.6868036, SPOT><AM_ENV-Outside.ogg><436.9472><518.6667><0.372402><1><547.7004><1373.733><-4.406738><-517.1906><0><0.1579995, SPOT><SO_NAT-LilDrips.ogg><42.60185><333.4099><0.262203><1><521.5347><1027.331><-77.50928><-89.78195><0><0.1, SPOT><SO_NAT-LilDrips.ogg><43.03148><446.8528><0.2564031><1><337.3409><1027.119><79.90088><-83.91238><0><0.1, SPOT><AM_IND-ElectricHum01.ogg><344.2148><208.6843><0.343402><0.8538418><560.086><412.6436><-92.44971><-89.78189><0><0.1231998, 
+FadePalette: 8, 0.3247961, 0.5045939
+

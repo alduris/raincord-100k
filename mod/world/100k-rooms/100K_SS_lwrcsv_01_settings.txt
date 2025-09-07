@@ -1,0 +1,24 @@
+Template: NONE
+DangerType: None
+CeilingDrips: 0.5
+RainIntensity: 1
+RumbleIntensity: 1
+WaveSpeed: 0.5
+WaveLength: 0.75
+WaveAmplitude: 0.03256624
+SecondWaveLength: 0.1666667
+SecondWaveAmplitude: 0
+Clouds: 1
+Grime: 0
+BkgDroneVolume: 0.3000001
+BkgDroneNoThreatVolume: 1
+RandomItemDensity: 0.5
+RandomItemSpearChance: 0.1999999
+WaterReflectionAlpha: 1
+Palette: 23
+EffectColorA: 0
+EffectColorB: 0
+Effects: ZeroGSpecks-0.2667968-54.54532-66.26666, ZeroG-1-52.54919-122.4, 
+PlacedObjects: LightSource><375.8809><345.9225><1~Environment~-225.7101~54.6666~50~86.60254~0~0~None~0~0, LightSource><731.6635><543.2537><1~Environment~-64.56482~-92.53336~50~86.60254~0~0~None~0~0, LightSource><329.8317><181.1574><1~Environment~0~100~50~86.60254~0~0~None~1~0, LightSource><106.153><433.0947><1~Environment~0~100~50~86.60254~0~0~None~0~0, LightSource><736.1083><148.5345><1~Environment~0~100~50~86.60254~0~0~Fade~0.1590098~0, LightSource><441.9257><463.9349><1~Environment~0~100~50~86.60254~1~0~None~0~0, 
+AmbientSounds: OMNI><SO_SFX-Drowning.ogg><722.1578><335.7346><0.3550017><1, 
+FadePalette: 24, 0.5915932
