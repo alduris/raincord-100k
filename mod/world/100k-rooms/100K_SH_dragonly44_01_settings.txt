@@ -1,0 +1,8 @@
+Template: NONE
+Clouds: 0.4891304
+Grime: 0
+Palette: 18
+EffectColorA: 8
+Effects: ModifyEffectColorA-0,0,0.06521739-20-20, 
+PlacedObjects: LightBeam><757.5784><217.1027><-347~386~-213~406~240~9~-795~162~0.3565216~0.1086956~0~1~None~0~0, LightSource><497.1006><277.0771><0.1630435~Environment~-100~51~198~222.6025~1~0~None~0~0, 
+FadePalette: 10, 0.8152174

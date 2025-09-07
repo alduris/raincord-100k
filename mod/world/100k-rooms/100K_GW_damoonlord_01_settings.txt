@@ -1,0 +1,10 @@
+Template: NONE
+Clouds: 0.3634624
+Grime: 0.3221356
+Palette: 9
+EffectColorA: 13
+EffectColorB: 18
+Effects: ReplaceCorruptionColor-1-855.9635-416.9938-Color-0.5309329-0.3463984-0.06186577, 
+PlacedObjects: CorruptionDarkness><491.7479><573.5128><9.960327~78.65631, Corruption><487.2028><559.2131><-67.5885~50.19788, 
+AmbientSounds: OMNI><OM.wav><720.9899><553.2864><0.2912027><1, OMNI><SO_WAT-LilDrips.ogg><736.5225><481.1166><0.3762671><1, 
+FadePalette: 8, 0.1469315

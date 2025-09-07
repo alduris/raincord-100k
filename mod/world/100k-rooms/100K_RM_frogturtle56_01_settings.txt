@@ -1,0 +1,18 @@
+Template: NONE
+DangerType: Flood
+WaveSpeed: 0.5
+WaveLength: 0.75
+WaveAmplitude: 0.04074392
+SecondWaveLength: 0.1666667
+SecondWaveAmplitude: 0
+Clouds: 0.9239131
+Grime: 0.5326087
+BkgDroneVolume: 0.4086957
+Palette: 44
+EffectColorA: 12
+EffectColorB: 12
+Effects: BrokenZeroG-1-300-111, Fog-0.5869565-7-67, CorruptionSpores-0.6521739-0-0, 
+PlacedObjects: Corruption><925.0076><228.7931><-27~-62, Corruption><913.6418><551.2441><-110~-8, Corruption><519.5403><12.7148><99~82, Corruption><868.3785><3.803013><-123~123, Corruption><468.5168><154.4878><106~-24, Corruption><38.3521><579.0924><149~-46, PassiveCorruption><154.7145><130.9556><127~28~584.0001~-67.99998~2.760872~10.76097~0.8~0.3~0.55~0.05~0.15~0.2~0.2~Default~Dot~Passive~1.671443~0.5~0.3913043, PassiveCorruption><434.4115><641.736><-192~-49~0~0~5.34658~10.1088~0.8~0.3~0.55~0.05~0.15~0.2~0.2~Default~Dot~Passive~1.324943~0.2391258~1, CorruptionTube><548.7043><552.1023><351~-85, Corruption><528.324><645.2462><97~-84, Corruption><69.71906><214.9538><101~33, CorruptionDarkness><573.5995><22.7718><47~109, CorruptionDarkness><899.3321><675.5106><-71~-95, CorruptionDarkness><530.8463><699.842><72~-77, Corruption><112.9349><158.7459><103~21, WallMycelia><471.6265><467.9536><-4~-81, CorruptionTube><547.7429><586.4263><357~115, CorruptionTube><559.259><36.80028><339~268, ColouredLightSource><241.4416><617.5905><100~50~FF0000~322^-135~1~False~0.4320791~0.506408~0.5~Always~0.08695652~100, 
+AmbientSounds: OMNI><AM_IND-DeepHum.ogg><749.1415><311.6414><0.4456522><1, 
+FadePalette: 27, 0.2065217
+MorePalette0: 29, 0.0326087

@@ -1,0 +1,10 @@
+Template: NONE
+DangerType: None
+BkgDroneVolume: 0
+BkgDroneNoThreatVolume: 0
+Palette: 69
+EffectColorA: 8
+EffectColorB: 16
+PlacedObjects: ShelterSpawnPoint><463.3242><258.3455><, LightSource><513.0791><105.646><0.6304348~Environment~-8~179~152~-158.3975~1~0~None~0~0, CustomDecal><205.6935><173.0505><-13~505~546~503~558~-8~-324~126~0~1~0~rustb3~0.326087~1~0.326087~1~0.326087~1~0.326087~1, FloatingDebris><396.3303><453.6442><481~17~1234900834~7~30~0.25~0.5~50~132|-16~-164|96~0.5|0.25~0|0~0|0~Stardust~0.5~0v0v0v0|-0.15v-0.36v0v0~0, 
+AmbientSounds: OMNI><RWTW_DustStorm_Deep.ogg><794.6978><549.4431><0.1521739><0.6086956, SPOT><RWTW_DustStorm_Gusting.ogg><560.0724><538.0921><0.1086956><1><509.0724><55.0921><-3.355347><43.64466><0><0.1, OMNI><RWTW_RotAmb_VanillaRot.ogg><793.1525><474.1747><0.1521739><1, 
+FadePalette: 22, 0.1195652

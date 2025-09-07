@@ -1,0 +1,14 @@
+Template: NONE
+DangerType: None
+CeilingDrips: 0
+RainIntensity: 0
+RumbleIntensity: 0
+Grime: 0.08063507
+Palette: 28
+EffectColorA: 5
+EffectColorB: 6
+Effects: Fog-0-273.7943-282.234, PixelShift-0.5045478-271.383-208.0851, AboveCloudsView-0.5151092-278.617-127.9078, DayNight-0.8059669-267.766-44.11348, 
+PlacedObjects: KarmaFlower><491.1953><185.6756><0~0~5~7, DayNightSettings><-59.31923><493.4921><-34.78722~68.94385~3~33, 
+AmbientSounds: OMNI><AM_ENV-LightWind.ogg><557.6416><578.1543><0.2051345><0.9056429, OMNI><AM_ENV-NatWind.ogg><755.1125><584.9083><0.209683><1, SPOT><AM_ENV-LightWind.ogg><42.37494><443.2005><0.5><1><562.928><676.449><-0.9934082><-597.1993><0><0.1262097, SPOT><AM_ENV-NatWind.ogg><226.0226><445.6577><0.5><1><553.0651><675.8918><-1.596497><-596.5964><0><0.1262104, SPOT><AM_IND-DeepHum.ogg><409.0486><444.4002><0.2510021><1><1518.957><335.8399><-27.51843><-28.72415><0><0.1262104, 
+FadePalette: 42, 0, 0
+WetTerrain: OFF

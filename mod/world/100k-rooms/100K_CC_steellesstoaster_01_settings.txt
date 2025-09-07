@@ -1,0 +1,6 @@
+Template: NONE
+Clouds: 0.3369565
+Grime: 0.06521739
+Palette: 6
+AmbientSounds: OMNI><AM_ENV-LightWind.ogg><772.2032><520.9445><0.2608696><0.6673913, SPOT><AM_ENV-WallHum.ogg><739.6611><333.8815><0.2934783><1><341.6611><406.8815><-35.35534><-35.35534><0><0.154348, 
+FadePalette: 8, 0.326087

@@ -1,0 +1,11 @@
+Template: NONE
+Clouds: 0.1086956
+Grime: 0
+RandomItemDensity: 0.1304348
+RandomItemSpearChance: 1
+Palette: 459
+EffectColorA: 10
+EffectColorB: 3
+Effects: ModifyEffectColorA-0.3695652,0.4021739,0.5-448-520, SkyBloom-1-852-569, RockFlea-0.08695652-799-455, RedSwarmer-0.02173913-797-403, Moth-0.05434782-799-350, Wasp-0.08695652-1052-456, Ant-0.05434782-1052-401, 
+PlacedObjects: LightSource><465.0629><615.5707><0.2391304~EffectColor1~-115~26~-319~-160.3975~0~1~None~0~0, LightSource><578.6072><624.4188><0.2717391~EffectColor1~-81~-94~-20~-141.3975~0~1~None~0~0, LightSource><617.267><390.6993><0.3804348~EffectColor1~-92~-56~130~-87.39746~0~0~None~0~0, LightBeam><543.8287><457.1467><132~-15~315~-254~-96~-194~-316~-183~0.4~0~0~0~None~0~0, FirecrackerPlant><593.8479><246.6744><23~-18~2~3, Mushroom><735.9376><530.6899><0~0~2~3, Mushroom><774.1699><557.3943><0~0~2~3, Mushroom><799.9125><536.3202><0~0~2~3, 
+FadePalette: 8, 0.4891304

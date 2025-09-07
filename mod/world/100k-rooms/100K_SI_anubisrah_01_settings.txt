@@ -1,0 +1,10 @@
+Template: NONE
+Grime: 0.3369565
+RandomItemDensity: 0
+Palette: 2
+EffectColorA: 10
+EffectColorB: 2
+Effects: SkyDandelions-0.4021739-20-20, SkyBloom-0.2717391-35-98, RedSwarmer-0.1086956-30-30, 
+PlacedObjects: DeadSeedCob><3189.086><352.3854><, DeadSeedCob><2426.2><248.2497><, SeedCob><2786.19><373.4407><0~0~7~10, 
+AmbientSounds: OMNI><AM_ENV-LightWind.ogg><609.5919><539.1776><0.3695652><1, SPOT><AM_IND-Warehouse01.ogg><63.33929><367.869><0.3152174><1><3473.339><390.869><-76.35535><-81.35535><0><0.2630434, SPOT><AM_IND-ElectricHum02.ogg><744.3317><277.8581><0.2717391><1><510.3317><424.8581><-35.35534><-35.35534><0><0.1, 
+FadePalette: 3, 0.06521739, 0.07608695, 0.1413043, 0.1847826

@@ -1,0 +1,10 @@
+Template: NONE
+Clouds: 0.2282609
+Grime: 0.3586957
+Palette: 2
+EffectColorA: 13
+EffectColorB: 2
+Effects: SkyDandelions-0.4782609-24-79, 
+PlacedObjects: DandelionPatch><2.450012><549.5563><0~100, DandelionPatch><23.92346><304.4005><0~56, DandelionPatch><5.077118><535.8995><9~56, DandelionPatch><544.3824><598.0883><0~48, DandelionPatch><581.3809><624.5894><0~100, DandelionPatch><1086.562><522.8179><0~100, DandelionPatch><513.1934><470.6989><0~49, 
+AmbientSounds: OMNI><AM_ENV-NatWind.ogg><735.4952><89.19995><0.3695652><0.9608696, SPOT><AM_IND-50hz.ogg><719.0289><342.0521><0.5><1><481.0289><430.0521><-35.35534><-35.35534><0><0.1, 
+FadePalette: 18, 0.2065217

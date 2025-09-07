@@ -1,0 +1,11 @@
+Template: NONE
+DangerType: FloodAndRain
+CeilingDrips: 0.6521739
+Clouds: 0.2173913
+Grime: 0.3369565
+RandomItemDensity: 0.6630435
+RandomItemSpearChance: 0.2434782
+Palette: 6
+EffectColorB: 13
+AmbientSounds: OMNI><AM_ENV-LightWind.ogg><763.8297><580.6049><0.3804348><1, 
+FadePalette: 8, 0.3804348

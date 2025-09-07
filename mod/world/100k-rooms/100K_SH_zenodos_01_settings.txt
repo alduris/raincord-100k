@@ -1,0 +1,8 @@
+Template: NONE
+DangerType: Flood
+Clouds: 0.1413043
+Grime: 0
+Palette: 10
+Effects: Flies-0.1304348-22-129, 
+AmbientSounds: OMNI><Weird Deep Hole.wav><691.0977><513.3704><0.06521739><1, OMNI><AM_IND-Utility01.ogg><481.0522><567.72><0.2608696><0.5695652, 
+FadePalette: 0, 0.1086956, 0.1304348

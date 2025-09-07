@@ -1,0 +1,9 @@
+Template: NONE
+Grime: 0.3943949
+Palette: 53
+EffectColorA: 13
+EffectColorB: 18
+TerrainLight: 1
+Effects: LightBurn-0.1029438-20-20, SkyBloom-0.8221354-14.34792-94.74272, SkyAndLightBloom-0-330.2355-79.80207, Fog-0.2498753-683.8302-331.6583, Bloom-1-690.2334-397.824, 
+PlacedObjects: Vine><70.5777><477.3024><82.52924~-184.5832, Vine><913.8115><271.4742><-148.6946~347.5875, 
+FadePalette: 42, 0.2474639

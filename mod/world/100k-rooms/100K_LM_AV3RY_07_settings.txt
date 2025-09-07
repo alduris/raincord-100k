@@ -1,0 +1,11 @@
+Template: NONE
+Clouds: 0.3043478
+BkgDroneVolume: 0
+BkgDroneNoThreatVolume: 0
+Palette: 35
+EffectColorA: 2
+Effects: AboveCloudsView-0-20-20, BrokenZeroG-0.01086957-18-88, ElectricDeath-0.01086957-296-28, Fog-0.3043475-286-104, PixelShift-0.5000002-27-142, GreenSparks-0.5217391-255-142, 
+PlacedObjects: DangleFruit><287.4135><396.6152><0~0~2~3, DangleFruit><177.5505><396.2642><0~0~2~3, UniqueDataPearl><580.3019><664.7227><-35~-179~0~0~Misc~0, LightSource><648.0107><394.4497><0.2391304~Environment~-694~372~50~86.60254~1~1~None~0~0, 
+AmbientSounds: OMNI><AM_WAT-Sea01.ogg><654.1245><638.5935><0><1, OMNI><MSC-StructureStrain.ogg><625.3441><563.3235><0.1630435><0.6282609, OMNI><MSC-UnrelentingBreakage.ogg><624.9498><647.2405><0.08695652><0.8826087, OMNI><MSC-HeavyCreaking.ogg><438.8279><645.0658><0.07608695><1, OMNI><AM_ENV-WallHum.ogg><718.8008><430.7324><0.5543478><1, OMNI><AM_WIN-MedWind.ogg><710.5938><332.1766><0.6739131><1, 
+FadePalette: 6, 0.7608697
+BackgroundOffset: 0,652.1738

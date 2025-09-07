@@ -1,0 +1,9 @@
+Template: NONE
+Clouds: 0.6413044
+Grime: 0.3695652
+EffectColorA: 8
+EffectColorB: 8
+TerrainLight: 0.4565217
+Effects: Darkness-0.7065217-20-20, Desaturation-0.5-0-0, GreenSparks-0.5108696-0-0, ModifyEffectColorA-0,0.5,0.5-0-0, ModifyEffectColorB-0,0.2608696,0.5-0-0, 
+PlacedObjects: InsectGroup><189.6675><447.1093><0~100~0~0~StandardFly~0.5, InsectGroup><812.0968><387.325><0~100~0~0~StandardFly~0.5, 
+FadePalette: 60, 0.3913043

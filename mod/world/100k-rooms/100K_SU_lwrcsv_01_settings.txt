@@ -1,0 +1,11 @@
+Template: NONE
+Clouds: 0.5217391
+Grime: 0.2173913
+RandomItemDensity: 0.3369565
+RandomItemSpearChance: 0.1130434
+Palette: 0
+EffectColorA: 9
+EffectColorB: 8
+PlacedObjects: LightSource><219.55><1098.255><1~Environment~0~100~50~86.60254~0~0~None~0~0, LightSource><219.6722><969.6017><1~Environment~0~100~50~86.60254~0~0~None~0~0, 
+AmbientSounds: SPOT><AM_IND-50hz.ogg><449.603><422.8788><0.3840013><0.8016418><207.6507><1027.726><97.50946><-54.56471><0><0.1637991, SPOT><AM_ENV-LightWind.ogg><729.3378><514.6563><0.285403><0.9060419><694.9535><1056.005><-253.5952><-55.63197><0><0.2101991, SPOT><AM_ENV-LightWind.ogg><936.8497><344.2533><0.2854017><0.9060406><912.6038><231.7917><-234.3858><20.67195><0><0.2159988, 
+FadePalette: 8, 0.423913, 0.2717391

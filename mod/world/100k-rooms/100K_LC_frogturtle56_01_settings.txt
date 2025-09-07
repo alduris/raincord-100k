@@ -1,0 +1,7 @@
+Template: NONE
+Palette: 29
+EffectColorA: 8
+EffectColorB: 0
+Effects: Darkness-0.4782609-20-20, Bloom-0.2173913-264-82, DayNight-1--1000--1000, Advertisements-0.5217391--1000--1000, SandPuffs-1--1000--1000, 
+PlacedObjects: LightSource><333.8453><311.6233><0.1521739~EffectColor1~138~46~50~86.60254~1~0~None~0~0, LightSource><619><416><0.2934783~EffectColor1~138~46~50~86.60254~1~0~None~0~0, LightSource><290><549><0.173913~EffectColor1~82~19~42~-34.39746~1~1~None~0~0, LanternOnStick><358.45><183.9945><-28~-84, LanternOnStick><209.3015><417.3067><13~-80, HangingPearls><177.1108><481.3937><, HangingPearls><273.8777><522.6539><, HangingPearls><778.4482><622.2231><, 
+FadePalette: 10, 0.3804348

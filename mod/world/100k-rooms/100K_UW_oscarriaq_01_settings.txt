@@ -1,0 +1,9 @@
+Template: NONE
+Clouds: 0.1630435
+Grime: 0.3586957
+Palette: 16
+EffectColorA: 18
+EffectColorB: 3
+Effects: ElectricDeath-1-20-20, Lightning-0.8913044-30-30, BkgOnlyLightning-0.2391304-40-40, GreenSparks-0.4565217-50-50, 
+PlacedObjects: DangleFruit><1761.944><451.9435><0~0~2~3, DangleFruit><1816.356><383.9112><0~0~2~3, DangleFruit><2754.69><285.6891><0~0~2~3, DangleFruit><2791.641><232.8916><0~0~2~3, 
+FadePalette: 17, 0.3804348, 0.4021739, 0.3695652

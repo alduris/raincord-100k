@@ -1,0 +1,26 @@
+Template: NONE
+DangerType: Sandstorm
+WaveSpeed: 0.4984481
+WaveLength: 0.9491407
+WaveAmplitude: 0.04737809
+SecondWaveLength: 0.1666667
+SecondWaveAmplitude: 0
+Clouds: 0.2065217
+Grime: 0
+Palette: 14
+EffectColorA: 5
+EffectColorB: 18
+TerrainLight: 0
+TerrainStainAmount: 0.4891304
+TerrainStainBrightness: 0
+TerrainStainHeight: 1
+TerrainWaves: 1
+TerrainEdgeRadius: 23.04342
+TerrainGooHeight: 0.1304348
+TerrainGrain: 1
+TerrainDepth: -10
+TerrainPalette: rustedwrecks
+Effects: ModifyEffectColorA-0.7608697,0.5108696,0.1739129-0-0, LocustSwarmConfig-0.25,0.4021739,1,0.25,1-1054-554, 
+PlacedObjects: FragilePole><594.1642><743.1359><, MudPit><192.3926><-34.58127><382.9999~338~355, TerrainHandle><3629.134><36.14828><-100~35~150~-26~163, TerrainHandle><3126.317><169.0799><-153~-8~164.9999~-18~99, TerrainHandle><2651.677><12.31418><-70~-33~46.99988~49~190, TerrainHandle><2462.847><-45.32477><-62~-29~70~45~255, BlackSpot><2670.601><110.7567><286.0001~81~397~-13~-19~-102, MudPit><2272.145><-93.13812><932.0001~97~464.0001, MudPit><2868><41><154.0001~100~177.0001, BlackSpot><4003.595><72.62398><-344.0001~-200~408~-285~377~-28, MudPit><3557.856><-101.6384><453.9999~42~272, MudPit><3899.618><-113.9066><161~126~133, LocustCloud><236.625><1206.467><280.9999~-113, LocustCloud><745><1110><437~150, LocustCloud><1525.127><961.5955><500.9999~-76, LocustCloud><2630.637><575.665><363~60, LocustCloud><3794.158><539.6779><341~-46, PlacedDrillCrab><4206.854><476.3033><, InsectGroup><1047.554><356.5419><-270~86~-140~-99.00134~RedSwarmer~0.6521739, InsectGroup><271.9462><999.5039><-192~120~0~0~RedSwarmer~0.5, InsectGroup><573.6125><396.3952><-295~132~-99.99994~56~Beetle~0.5, CustomDecal><564.9786><678.9224><-59.00012~668~662~544~566~-79~-383.9864~207.5479~0~1~0~big rust 3~1~1~1~1~1~1~1~1, CustomDecal><1001.048><772.9103><-54.00012~341~220~318~240~-20~288.0221~169.5479~0~1~0~scavscule cute~1~1~1~1~1~1~1~1, CustomDecal><780.6639><735.148><22.00006~322~210~318~236~18~-303.0114~221.8307~0~1~0~weirdpaint~1~1~1~1~1~1~1~1, PlacedDrillCrab><-12.59399><1240.875><, NoSpearStickZone><227.055><935.9559><95~23, NoSpearStickZone><596.7701><742.4492><-37~2, CustomDecal><881.9603><1037.446><-7~50~271~35~298~-7~-579.9999~-151~0~1~0~big ogsporing~1~1~1~1~1~1~1~1, CustomDecal><464.7897><1186.304><-10~156~323.0001~199~296.0001~-116~318~-257~0~1~0~scav vandalism fail~1~1~1~1~1~1~1~1, CustomDecal><680><697.0002><-120~-3~-140.9999~483~31~506~-579~137~0~1~0~scav paint footprints~1~1~1~1~1~1~1~1, CustomDecal><137><1076><-16~427~-421.9999~399~-410.9999~1~457.9999~-17~0~1~0~scavscule ominous aurascule aurafarming~1~0~1~0~1~0~1~0.6630435, MudPit><2385.073><18.64392><133~80~284, MudPit><3369.001><-69.99997><161~80~227, PuffBall><253.4474><819.7821><105~4~1~2, 
+FadePalette: 98, 0.2391304, 0.3043478, 0.3804348, 0.4021739, 0.5869564, 0.8478262
+TerrainFadePalette: badlands, 0, 0, 0, 0, 0, 0.2282609

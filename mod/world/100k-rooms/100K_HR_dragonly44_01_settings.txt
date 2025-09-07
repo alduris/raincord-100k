@@ -1,0 +1,17 @@
+Template: NONE
+CeilingDrips: 0.4891304
+RainIntensity: 1
+WaveSpeed: 0.545516
+WaveLength: 0.977242
+WaveAmplitude: 3.933478E-05
+SecondWaveLength: 0.1666667
+SecondWaveAmplitude: 0
+Clouds: 0.5108696
+Grime: 0
+WaterReflectionAlpha: 0
+Palette: 75
+Effects: SilenceWater-1-209-133, LavaSurface-1-20-20, LethalWater-1-30-80, FireFlies-1-707-559, HeatWave-0.4891304-940-458, FairyParticles-0.1630435-1066-169, DarkenLights-0.8369565-974-565, SkyAndLightBloom-0.0326087-688-362, 
+PlacedObjects: FairyParticleSettings><254.7908><268.5542><-496~-449.3398~1~7.065217~37.5~0~1~2.09349~60~180~40~100~0~19.56522~0~23.47826~0~0.09782609~1~1~0.4347826~0.5217391~0.7065217~0.2717391~9.51087~Leaf~SIN_IO~SIN_IO~77.82593~1~0.6521739, LightSource><676.757><360.4499><1~Environment~270~10~50~86.60254~0~1~None~0~0, LightSource><306><369><1~Environment~424~110~50~86.60254~0~1~None~0~0, LightSource><-59><249><1~Environment~424~110~50~86.60254~0~1~None~0~0, LightSource><923><197><1~Environment~424~110~50~86.60254~0~1~None~0~0, LightFixture><726.5746><343.5961><HolyFire~-196.6795~178~29, LightFixture><107><384><HolyFire~-196.6795~178~51, LightFixture><-23><290><HolyFire~-196.6795~178~22, LightFixture><711><405><HolyFire~-196.6795~178~95, LightFixture><738><343><HolyFire~-196.6795~178~77, InsectGroup><796><235><97~75~0~0~FireFly~1, 
+AmbientSounds: OMNI><so_sfx-doomsday.ogg><742.9531><196.4444><0.3369565><0.7847826, OMNI><so_sfx-underwatersub.ogg><787.0504><477.2617><0.6739131><0.6086956, OMNI><AM_SUB-MysticCave1.ogg><751.2727><126.1987><0.326087><0.8434783, OMNI><RWTW_AmbFlowMed.ogg><525.1559><91.37524><0.173913><0.1, OMNI><SO_NAT-Fire.ogg><775.4479><393.7209><0.3695652><0.8043478, OMNI><weird deep hole.wav><548.9442><326.4521><0.06521739><1, OMNI><watergurgleloop2.wav><787.6819><284.8332><0.3804348><0.2565217, 
+FadePalette: 31, 0.9130435
+BackgroundOffset: -3478.261,0

@@ -1,0 +1,9 @@
+Template: NONE
+DangerType: None
+RainIntensity: 0
+RumbleIntensity: 0
+Grime: 0
+Palette: 24
+Effects: ZeroG-1-20-20, SSSwarmers-0.3478261-30-30, SuperStructureProjector-0.1413043-333-128, ProjectedScanLines-0-130-110, SunBlock-1-602-467, Bloom-1-263-61, ZeroGSpecks-0.4891304-328-313, SSMusic-0.1195652-40-40, 
+PlacedObjects: CoralStem><1095.6><957.6731><701~175, CoralNeuron><1172.682><1109.583><-72~157, CoralCircuit><583.4482><1199.057><6~120, CoralNeuron><495.6989><795.2284><91~200, LightningMachine><1277.039><870.3038><315~166~0~0~202~1.602539~-100~-4.371139E-06~0.08913057~0~0~0.2999997~0.7130432~0.2999997~1~0.4021739~1~0.3478261~0~0~1, LightningMachine><1472.265><948.1472><-789~35~0~0~78~-178.3975~-131~-182~0.078261~0~0~0.3~0.7456519~0.3~1~0.4673913~1~0.326087~0~0~1, CoralNeuron><1555.886><1103.914><-153~239, CoralNeuron><351.2793><921.1979><-9~324, WallMycelia><611.7491><1427.05><-10~-152, WallMycelia><1237.544><1419.055><37~-156, WallMycelia><1894.847><1149.879><-228~101, CoralStemWithNeurons><1174.603><614.3287><490~67, CoralStem><851.3418><631.3776><-459~-393, CoralCircuit><597.5526><489.193><3~129, CoralNeuron><772.1341><191.8984><-412~443, CoralCircuit><1443.898><489.1349><2~107, 
+FadePalette: 17, 0, 0, 0, 0

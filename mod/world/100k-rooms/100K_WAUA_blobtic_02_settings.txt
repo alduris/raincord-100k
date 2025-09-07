@@ -1,0 +1,8 @@
+Template: NONE
+DangerType: None
+Palette: 22
+EffectColorA: 21
+EffectColorB: 6
+Effects: Darkness-0.1630435-20-20, DarkenLights-0.08695652-30-30, Bloom-0.1413043-40-40, Fog-0.04347826-50-50, Ant-0.2608696-60-60, RedSwarmer-0.1413043-70-70, TinyDragonFly-0.25-80-80, WaterGlowworm-0.0326087-90-90, Beetle-0.06521739-100-100, Moth-0.09782609-110-110, RockFlea-0.1847826-120-120, FireFlies-0.06521739-130-130, FlowerWind-0.5,1,0.75-140-140, 
+PlacedObjects: Vine><686.0511><392.6934><-241~-65, Vine><457.3907><433.4175><186~-159, CentipedeAttractor><614.578><435.6841><-10~64, PlacedRats><704.1196><301.4016><, PlacedRats><528.8082><268.3067><, DeadVultureGrub><601.4278><301.9365><-162~-168~7~10, Mushroom><471.8284><288.566><-31~-157~2~3, Mushroom><487.4366><282.928><-48~-151~2~3, DangleFruit><591.9086><406.6219><-153~-275~2~3, SeedCob><569.5157><290.9494><-131~-158~7~10, CosmeticSlimeMold><413.1393><272.1066><-23~168, CosmeticSlimeMold2><653.8513><166.8663><-101~147, LightBeam><591.262><210.9496><68~189~96~188~75~40~203.9999~203~0.09565271~0~0~1~None~0~0, 
+FadePalette: 80670, 0.5760869

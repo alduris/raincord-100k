@@ -1,0 +1,10 @@
+Template: NONE
+RainIntensity: 0
+Clouds: 0.3043478
+BkgDroneVolume: 0
+BkgDroneNoThreatVolume: 0
+Palette: 35
+Effects: ElectricDeath-1-21-67, Flies-0.1521739-17-129, RockFlea-0.05434749-295-156, GreenSparks-0.3043475-282-85, 
+PlacedObjects: LightSource><1660.042><364.6954><0.2065224~Environment~6~291~50~86.60254~1~1~None~0~0, LightSource><461><405><0.2065224~Environment~-2~243~50~86.60254~1~1~None~0~0, SuperStructureFuses><74><569><150~112, 
+AmbientSounds: OMNI><AM_WAT-Sea01.ogg><680.1245><472.5935><0.01087023><1, OMNI><MSC-StructureStrain.ogg><625.3441><563.3235><0.1630435><1, OMNI><MSC-UnrelentingBreakage.ogg><624.9498><647.2405><0.1413043><0.3543478, OMNI><MSC-HeavyCreaking.ogg><438.8279><645.0658><0.07608695><0.5891304, OMNI><AM_WIN-MedWind.ogg><803.2803><544.1977><0.4130435><1, OMNI><AM_ENV-WallHum.ogg><673.1378><398.3549><0.5543478><1, 
+FadePalette: 6, 0.7608697, 0.7608694

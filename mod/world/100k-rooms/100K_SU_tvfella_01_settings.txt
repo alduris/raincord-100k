@@ -1,0 +1,3 @@
+Template: NONE
+Effects: Moth-0.7717391-20-20, Flies-0.3913043-30-30, 
+FadePalette: 8, 0.3043478

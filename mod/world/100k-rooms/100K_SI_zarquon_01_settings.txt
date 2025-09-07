@@ -1,0 +1,8 @@
+Template: NONE
+Clouds: 0.06521739
+Grime: 0.3478261
+Palette: 2
+Effects: SkyDandelions-0.5652174-20-20, LightBurn-0.05434782-176-78, 
+PlacedObjects: DandelionPatch><385.6404><325.8924><15~73, DandelionPatch><817.5254><643.9484><-52~18, DandelionPatch><543.2471><316.2><-69~10, DandelionPatch><140.3221><200.6585><-6~55, DandelionPatch><126.8334><653.8607><5~-55, 
+AmbientSounds: OMNI><am_env-natwind.ogg><734.8594><429.0826><0.2173913><1, 
+FadePalette: 3, 0.02173913

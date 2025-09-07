@@ -1,0 +1,9 @@
+Template: NONE
+DangerType: None
+Clouds: 0
+Grime: 0
+RandomItemDensity: 0
+Palette: 26
+Effects: ZeroG-1-20-20, SunBlock-1-30-30, SSMusic-0.2826087-58-83, 
+PlacedObjects: LightSource><193.8206><647.1617><0.7934783~Environment~1366~-761~-169~-110.3975~0~0~Fade~0.6086956~0, LightSource><782><651><0.7934783~Environment~1366~-761~-169~-110.3975~0~0~Fade~0.6086956~0, LightSource><195><45.00002><0.7934783~Environment~1366~-761~-169~-110.3975~0~0~Fade~0.6086956~0, LightSource><788><51.00002><0.7934783~Environment~1366~-761~-169~-110.3975~0~0~Fade~0.6086956~0, ProjectedStars><493.167><357.4319><174~-4, 
+AmbientSounds: OMNI><AM_WIN-StrongWnd2.ogg><783.5608><503.6905><0.326087><1, OMNI><AM_IND-SuperStructure.ogg><748.8552><488.6379><0.326087><1, OMNI><SO_SFX-DataTrans.ogg><717.5124><412.9496><0.2065217><1, 

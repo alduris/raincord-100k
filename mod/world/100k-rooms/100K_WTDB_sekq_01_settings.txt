@@ -1,0 +1,13 @@
+Template: NONE
+DangerType: Sandstorm
+WaveSpeed: 0.4747927
+WaveLength: 0.9873964
+WaveAmplitude: 0.002942462
+SecondWaveLength: 0.1666667
+SecondWaveAmplitude: 0
+Grime: 0.3043478
+Palette: 333
+EffectColorA: 9
+EffectColorB: 9
+PlacedObjects: LightBeam><284.5944><49.42627><-2~738~337~730~336~-1~31~62~0.1413043~1~0~1~None~0~0, LightBeam><728.3971><25.67151><-11~765~314~759~319~-4~0~0~0.1499999~0~0~1~None~0~0, LightSource><445.3284><802.184><0.423913~Environment~-21~277~-120~-303.3975~1~1~None~0~0, LightSource><882.0551><807.0449><1~Environment~-10~-29~76~-72.39746~1~1~Flash~0~1, LightSource><871><810><0.423913~Environment~-21~277~81~-262.3975~1~1~None~0~0, CustomDecal><88.13599><38.91431><-82~724~1214~720~1211~9~0~0~0~1~0~greybones~0.326087~1~0.326087~1~0.326087~1~0.326087~1, 
+FadePalette: 334, 0.4021739

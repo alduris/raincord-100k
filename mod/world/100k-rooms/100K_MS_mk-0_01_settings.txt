@@ -1,0 +1,16 @@
+Template: NONE
+DangerType: AerieBlizzard
+RainIntensity: 0.3043478
+WaveSpeed: 0.5006014
+WaveLength: 0.9996994
+WaveAmplitude: 2.398575E-05
+SecondWaveLength: 0.1666667
+SecondWaveAmplitude: 0
+Clouds: 0.4021739
+Grime: 0
+Palette: 37
+EffectColorA: 10
+Effects: Dustpuffs-0.4021739-21-96, 
+PlacedObjects: SnowSource><348.693><275.8026><Radial~186~147~50~86.60254~1~0.3043478, SnowSource><744.2865><390.6967><Radial~82~299~50~86.60254~1~0.3043478, SnowSource><134.6886><698.4403><Radial~211~-46~50~86.60254~1~0, SnowSource><1238.949><244.5172><Strip~164~479~50~86.60254~1~0, SnowSource><1033.289><315.4462><Radial~-163~127~50~86.60254~0.2065217~0, SnowSource><2206.577><245.6503><Radial~-799~537~-85~84.60254~0.7282609~0, SnowSource><2733.895><242.1125><Radial~469~448~44~193.6025~0.4782609~0.3043478, NoSpearStickZone><171.415><507.387><-20~155, SnowSource><654.6763><69.56406><Radial~-54~95~50~86.60254~0.3043478~0.1086956, SnowSource><148.6389><74.10616><Radial~-3~152~50~86.60254~0.3913043~0, SnowSource><42.05122><502.228><Radial~27~114~50~86.60254~0.326087~0, 
+FadePalette: 40, 0.4565217, 0.5543478, 0.7065217
+WetTerrain: OFF

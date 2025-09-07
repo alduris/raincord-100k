@@ -1,0 +1,17 @@
+Template: NONE
+DangerType: None
+RainIntensity: 0
+RumbleIntensity: 0.05434816
+Clouds: 0.2173913
+Grime: 0.05434782
+Palette: 30
+EffectColorA: 21
+EffectColorB: 19
+Effects: DayNight-0.5000002-280-33, RoofTopView-1-299-106, LightBurn-0.05434782-275-123, Dustpuffs-1-316-64, Advertisements-1-326-18, ModifyEffectColorB-0.01086957,1,0.2934783-400-477, 
+PlacedObjects: MultiplayerItem><959.0585><1921.058><Bomb~17.32051~-10~1, HangingPearls><1296.061><2116.065><, ScavengerTreasury><1004.426><2001.155><3~261, 
+AmbientSounds: OMNI><AM_ENV-CityTone.ogg><742.4486><563.4763><1><0.5500012, SPOT><Mech Basic.wav><686.5985><354.1194><1><0.4130435><978.5985><2021.119><-35.35534><-35.35534><0><0.1, 
+Triggers: Spot<tA>event<tB>MusicEvent<eA>songName<eB>rw_51 - swaying fronds<eA>vol<eB>1<eA>prio<eB>1<eA>mxThrt<eB>1<eA>loop<eB>0<eA>droneTol<eB>0<eA>rooms<eB>-1<eA>rest<eB>0<eA>fadeIn<eB>0<eA>oneSongPerCycle<eB>0<eA>stopAtDeath<eB>0<eA>stopAtGate<eB>0<tA>multiUse<tB>0<tA>toCycle<tB>-1<tA>fromCycle<tB>0<tA>delay<tB>0<tA>panPos<tB>667.1275<tB>217.5919<tA>fireChance<tB>1<tA>entrance<tB>-1<tA>karma<tB>0<tA>slugcats<tB><tA>pos<tB>329.1275<tB>1023.592<tA>handlePos<tB>-176.3553<tB>-206.3553, 
+FadePalette: 42, 0.1086956, 0.1086956, 0.1086956, 0.1086956, 0.1086956, 0.1086956, 0.1086956, 0.1086956, 0.1086956
+WetTerrain: OFF
+BackgroundOffset: -3586.957,0
+BackgroundType: rf_lc_approx

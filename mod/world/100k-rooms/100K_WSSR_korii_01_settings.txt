@@ -1,0 +1,9 @@
+Template: NONE
+DangerType: None
+RandomItemDensity: 0
+Palette: 10
+EffectColorA: 9
+EffectColorB: 9
+Effects: ZeroG-1-21.42294-13.59688, ZeroGSpecks-1-16.48228-66.28438, CorruptionSpores-1-278.3385-15.09893, Desaturation-1-276.876-71.26458, ModifyEffectColorB-0.5954603,0.5232,0-349.4447-150.9479, 
+PlacedObjects: LightSource><485.5765><2020.506><0.265343~Environment~-416.2031~-145.4532~50~86.60254~0~0~None~0~0, LightSource><484.2467><1309.229><0.265343~Environment~20.63232~486.3218~50~86.60254~0~0~None~0~0, LightSource><478.6177><152.21><0.2653417~Environment~547.1115~208.8531~153.1615~102.2546~1~0~None~0~0, LightSource><484.4297><1745.205><0.265341~Environment~-331.5396~64.42706~51.42291~82.3338~0~0~None~0~0, LightSource><460.0739><488.1483><0.2653417~Environment~-510.1156~12.4906~50~86.60254~0~0~None~0~0, LightSource><472.015><986.017><0.2653424~Environment~1.422974~-388.7719~50~86.60254~0~0~None~0~0, 
+AmbientSounds: OMNI><RWTW_RotAmb_UnfortEvo.ogg><10.4577><101.8412><0.1537018><1, OMNI><SO_SFX-Heartbeat2.ogg><11.52005><246.4702><0.4226671><0.1648098, OMNI><SO_SFX-Drowning.ogg><11.5407><173.9003><0.2448034><0.721604, 

@@ -98,18 +98,19 @@ for file in os.listdir(BASE_PATH):
 				else:
 					author = line.strip()
 		incr_count(authors, author)
-		user = file.split("_")[2]
+		user = file.split("_")[2].lower()
 		if user not in user_to_author:
 			user_to_author[user] = author
 		elif user_to_author[user] != author:
 			print("WARNING: author mismatch ('" + user_to_author[user] + "' != '" + author + "' for key '" + user + "')")
+			print("  file: " + file[:-12])
 	elif file.endswith("_settings.txt"):
 		real_room_count += 1
 		counted_settings.add(file[:-13])
 	elif file.endswith(".png"):
 		screen_count += 1
 		region = file.split("_")[1]
-		user = file.split("_")[2]
+		user = file.split("_")[2].lower()
 		incr_count(screens_regions, region)
 		incr_count(screens_authors, user)
 

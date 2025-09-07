@@ -1,0 +1,13 @@
+Template: sl_settingstemplate_sewer
+CeilingDrips: 0.5978261
+WaveSpeed: 0.6521739
+WaveLength: 0.6195652
+WaveAmplitude: 0.07608695
+SecondWaveLength: 0.1666664
+SecondWaveAmplitude: 0
+Clouds: 1
+Grime: 0.423913
+Palette: 34
+EffectColorB: 7
+PlacedObjects: BubbleGrass><390.4391><404.3095><-246~55~2~5, BubbleGrass><423.1068><417.9191><-8~69~2~5, 
+FadePalette: 10, 0.4673913

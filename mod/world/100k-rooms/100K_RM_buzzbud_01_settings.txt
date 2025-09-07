@@ -1,0 +1,8 @@
+Template: NONE
+Palette: 44
+EffectColorA: 18
+EffectColorB: 12
+Effects: Fog-1-584.8979-157.2444, Darkness-0.5297273-774.1459-235.4666, 
+PlacedObjects: LightFixture><505.2789><387.9984><RedLight~17.32051~-10~20, 
+AmbientSounds: OMNI><msc-wetconduits.ogg><-7.776489><401.8967><0.4586726><0.7912036, OMNI><am_ind-superstructure.ogg><-11.00674><542.9496><0.3620068><0.805124, OMNI><so_sfx-heartbeat2.ogg><-10.80254><469.8678><0.5193329><0.5128053, OMNI><so_ind-mechhum02.ogg><0.617569><319.4321><0.5><0.4014469, SPOT><so_ind-flourlight.ogg><720.334><458.7334><0.5><1><476.0695><389.7556><-72.35114><-95.79977><0><0.1, 
+FadePalette: 10, 0.4910617

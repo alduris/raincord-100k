@@ -1,0 +1,12 @@
+Template: NONE
+RainIntensity: 0.6
+RumbleIntensity: 0.06
+Clouds: 0.04639966
+Grime: 0
+Palette: 16
+EffectColorA: 2
+EffectColorB: 8
+Effects: Lightning-0.711459-1071.575-49.91111, ExtraLoudThunder-0.3015973-1075.844-105.3778, GreenSparks-0.4021288-1072.286-178.6222, SKLightning-0.5026607,1,0.5021286-1057.306-236.8889, SKLightningHue-0.3093298-20-20, 
+PlacedObjects: LightFixture><1082.524><2891.688><RedLight~-265.84~71.06671~23, LightFixture><1417.388><2859.502><RedLight~-370.4935~-123.3334~20, LightFixture><1405.7><139.3091><RedLight~-3.316772~114.4415~51, LightFixture><608.5057><440.0294><RedLight~61.67123~166.7407~14, LightFixture><497.6044><2974.18><RedLight~8.071472~293.6445~23, LightFixture><1120.185><2286.166><RedLight~45.0704~113.7304~14, LightFixture><923.5945><3828.307><RedLight~30.09369~126.7101~22, 
+AmbientSounds: OMNI><RWTW_AmbIndustrial.ogg><762.3408><342.0043><0.5><1, 
+FadePalette: 17, 0.5026608, 0.5026607, 0.5026608, 0.5026608, 0.5026608, 0.5026608

@@ -8,4 +8,5 @@ EffectColorA: 13
 EffectColorB: 13
 Effects: BkgOnlyLightning-0.8506567-20-20, 
 PlacedObjects: SlimeMold><837.5505><2487.735><15~65~2~3~0<lc>0, SlimeMold><873.379><2487.841><10~124~2~3~0<lc>0, CosmeticSlimeMold><858.8062><2494.951><6~88, 
-FadePalette: 0, 0.03888138, 0.03888122, 0.04661461, 0.031148, 0.01546661, 0.1114021
+AmbientSounds: OMNI><AM_RAIN-Rumbles.ogg><153.0677><426.3258><0.1056044><1, 
+FadePalette: 0, 0, 0, 0, 0, 0, 0

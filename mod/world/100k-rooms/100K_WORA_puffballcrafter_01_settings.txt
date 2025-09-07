@@ -1,0 +1,29 @@
+Template: NONE
+DangerType: Sandstorm
+CeilingDrips: 0.01086957
+WaveSpeed: 0.4953625
+WaveLength: 0.9976813
+WaveAmplitude: 0.01622401
+SecondWaveLength: 0.1666667
+SecondWaveAmplitude: 0
+BkgDroneVolume: 0.3043478
+BkgDroneNoThreatVolume: 1
+Palette: 69
+EffectColorA: 8
+EffectColorB: 16
+TerrainLight: 0.1304348
+TerrainStainAmount: 1
+TerrainStainBrightness: 0
+TerrainStainHeight: 0.9565217
+TerrainWaves: 1
+TerrainEdgeRadius: 7.826034
+TerrainGooHeight: 0.05434782
+TerrainGrain: 1
+TerrainDepth: 1.358689
+TerrainSkyFade: 0
+TerrainPalette: outerrim
+Effects: SandPuffs-1-20-20, 
+PlacedObjects: FloatingDebris><385.9579><302.3045><94.00012~108~2091167078~0~30~0.25~0.9565191~50~-162|371~200|24~0.85|1.01~0|0~0.01|0~Stardust~0.5~0v0v0v0|0v0v0v0~0, RottenSeedCob><99.36682><449.3508><-333~65.00003~2~3, RottenDangleFruit><807.8611><557.6061><65~23~2~3, RottenDangleFruit><749.8724><593.0959><56.99994~-80~2~3, CustomDecal><28.55225><127.6931><19~550~883~556~901~-2~843~-9.999985~0~1~0~rustb3~0.326087~1~0.326087~1~0.326087~1~0.326087~1, TerrainHandle><809.2335><195.8007><-78~-4~40~0~45, TerrainHandle><543.5538><-0.5389709><-40~0~40~0~20, TerrainRubble><763.8258><171.9351><0~100, TerrainHandle><638.8919><102.891><-40~0~40~0~20, 
+AmbientSounds: OMNI><RWTW_RotAmb_VanillaRot.ogg><783.634><208.8985><0.1521739><1, OMNI><RWTW_DustStorm_Deep.ogg><820.1563><555.0734><0.1521739><0.6086956, SPOT><RWTW_DustStorm_Gusting.ogg><236.2836><471.5529><0.1086956><1><80.28357><573.5529><-0.3553467><-48.35535><0><0.1, 
+FadePalette: 22, 0.1195652
+TerrainFadePalette: test_dirt_dark, 0.02173913
