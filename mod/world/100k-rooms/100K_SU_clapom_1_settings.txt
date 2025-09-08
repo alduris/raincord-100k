@@ -7,7 +7,7 @@ SecondWaveLength: 0.1666667
 SecondWaveAmplitude: 0
 Clouds: 0.5
 Grime: 0.6521739
-Palette: 3
+Palette: 0
 EffectColorA: 7
 EffectColorB: 2
 TerrainLight: 0.6195652

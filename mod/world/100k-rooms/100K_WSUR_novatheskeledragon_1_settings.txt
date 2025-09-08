@@ -1,0 +1,10 @@
+Template: NONE
+Clouds: 0.2608696
+Grime: 0.2282609
+Palette: 467
+EffectColorA: 12
+EffectColorB: 12
+Effects: ModifyEffectColorA-0.08695652,0.2934781,0.4347823-17-83, ModifyEffectColorB-0.07608762,0.2934783,0.4347826-276-87, Sentient Rot Spores-1-20-20, Flies-1-282-23, Ant-1-30-30, RockFlea-1-40-40, 
+PlacedObjects: NoSpearStickZone><45.33929><646.869><-1~156, RottenSeedCob><227.3881><616.9158><0~0~2~3, RottenDangleFruit><953.1797><372.1623><0~0~2~3, RottenDangleFruit><348.3512><281.0775><0~0~2~3, RottenDangleFruit><234.3442><307.5736><0~0~2~3, PassiveCorruption><157.1643><286.8193><100~18~97.99997~47~7~15~0.8~0.3~0.55~0.05~0.15~0.2~0.2~EffectColorA~Dot~Passive~2~0~1, PassiveCorruption><801.1986><114.4776><-88.99994~58~0~0~7~15~0.8~0.3~0.55~0.05~0.15~0.2~0.2~EffectColorA~Dot~Passive~2~0~1, KarmaFlowerPatch><473.6677><98.81769><0~100~0.5~20~-6~0.25~0.5, PrinceFilter><473.8744><93.90659><-1~64~31~65~3~1~1, PassiveCorruption><993.8726><115.0921><0~100~0~0~7~15~0.8~0.3~0.55~0.05~0.15~0.2~0.2~EffectColorA~Cross~Hostile~2~0~1, 
+AmbientSounds: OMNI><RWTW_RotAmb_Deep.ogg><450.035><623.6969><0.1956528><1, OMNI><RWTW_RotAmb_Goo.ogg><642.3081><624.0566><0.1847826><1, SPOT><Basic Mech.ogg><713.7455><443.3><0.2934789><1><189.7455><562.3><-42.35535><-77.35535><0><0.2195653, 
+FadePalette: 10, 0.08695652

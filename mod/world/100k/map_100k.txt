@@ -1,0 +1,176 @@
+100K_SU_ariesclient_1: -51><-3537><-155><-2476><NONE><Outskirts
+100K_SU_clapom_1: -538.5><-4035><-444><-2758><Outskirts><Outskirts
+100K_SU_cocoaraptor_1: 2253><-4189.5><1454><-2830><Outskirts><Outskirts
+100K_SU_crafterz_1: 1347><-4093.5><850><-2766><Outskirts><Outskirts
+100K_SU_flanace_1: 522><-4279.5><280><-2894><Outskirts><Outskirts
+100K_SU_gogurtyuri_1: 699><-4117.5><418><-2782><Outskirts><Outskirts
+100K_SU_kizorke_1: 1278><-3724.5><794><-2554><NONE><Outskirts
+100K_SU_lunatav_1: 189><-3826.5><78><-2588><NONE><Outskirts
+100K_SU_lwrcsv_1: 990><-3387><612><-2336><NONE><
+100K_SU_memorycrypts_1: 1134><-4021.5><708><-2718><NONE><Outskirts
+100K_SU_pelicaninimpiety_1: -291><-4228.5><-242><-2856><NONE><Outskirts
+100K_SU_solaristheworstcatever_1: 2142><-3751.5><1380><-2538><NONE><Outskirts
+100K_SU_tapok109_1: 918><-3958.5><564><-2714><NONE><Outskirts
+100K_SU_tetraneo_1: 1710><-3682.5><1018><-2498><NONE><Outskirts
+100K_SU_vividyon_1: 1623><-4084.5><1026><-2762><NONE><Outskirts
+100K_SU_vividyon_2: 558><-3886.5><264><-2630><NONE><Outskirts
+100K_SU_ultimateunity_1: 1923><-4129.5><1234><-2790><Outskirts><Outskirts
+100K_DS_addystrawbry_1: 72><-49.5><628><-3476><NONE><Drainage System
+100K_DS_aprilistheworstmonth_1: 306><-49.5><1380><-3446><NONE><Drainage System
+100K_DS_aprilistheworstmonth_2: 76.5><-49.5><418><-3502><NONE><Drainage System
+100K_DS_dragonpropaganda_1: 228><-49.5><-314><-3730><NONE><Drainage System
+100K_DS_haysen_1: 228><-109.5><160><-3310><NONE><Drainage System
+100K_DS_iyonkoi_1: 99><-52.5><210><-3518><NONE><Drainage System
+100K_DS_luckykitkat_1: 90><-52.5><670><-3342><NONE><Drainage System
+100K_DS_luniular_1: 72><-49.5><984><-3400><NONE><Drainage System
+100K_DS_lwrcsv_1: 72><-49.5><776><-3496><0><Drainage System
+100K_DS_maxthelord_1: 72><-49.5><110><-3704><NONE><Drainage System
+100K_DS_overpoweredpizza_1: 306><-58.5><310><-3680><NONE><Drainage System
+100K_DS_rolingp3_1: 72><-49.5><-784><-4004><NONE><Drainage System
+100K_DS_slithersss_1: 72><-49.5><920><-3652><NONE><Drainage System
+100K_DS_solaristheworstcatever_1: 72><-49.5><-796><-3770><NONE><Drainage System
+100K_DS_tapok109_1: 78><-49.5><-576><-3732><NONE><Drainage System
+100K_DS_therealflarf_1: 186><-61.5><-260><-3374><NONE><Drainage System
+100K_DS_tnthalflife32_1: 108><-61.5><-108><-3540><NONE><Drainage System
+100K_DS_tryn1010_1: 216><-61.5><-1272><-4048><NONE><Drainage System
+100K_DS_user23848_1: 72><-16.5><1058><-3484><NONE><Drainage System
+100K_DS_zenodos_1: 75><-57><-312><-3548><NONE><Drainage System
+OffScreenDen_100K: 96><-15><0><-20><0><
+100K_HI_ariesclient_1: 219><-117><162><-1386><><Industrial Complex
+100K_HI_chlordeofmany_1: 150><-51><546><-1796><><Industrial Complex
+100K_HI_creativegamer03_1: 333><-51><1070><-1774><><Industrial Complex
+100K_HI_creativegamer03_2: 72><-51><1028><-2008><><
+100K_HI_dedniko_1: 105><-66><1920><-2070><><Industrial Complex
+100K_HI_dododecalogist_1: 72><-57><226><-1538><><Industrial Complex
+100K_HI_dragonly44_1: 72><-51><-142><-2034><><Industrial Complex
+100K_HI_erm424242_1: 93><-51><360><-1180><><Industrial Complex
+100K_HI_ethanwantsfood_1: 228><-51><-128><-970><><Industrial Complex
+100K_HI_gamerguy35_1: 72><-51><2596><-2012><><Industrial Complex
+100K_HI_haysen_1: 150><-51><-150><-1724><><Industrial Complex
+100K_HI_inspectnerd_1: 156><-51><558><-962><><
+100K_HI_irri_1: 96><-51><1684><-2086><><Industrial Complex
+100K_HI_katolato_1: 177><-69><166><-1684><><Industrial Complex
+100K_HI_katolato_2: 99><-51><-160><-1880><><Industrial Complex
+100K_HI_lipuccka_1: 108><-63><308><-962><><Industrial Complex
+100K_HI_lkelly10_1: 189><-111><2174><-2084><><Industrial Complex
+100K_HI_luckykitkat_1: 246><-57><412><-1556><><Industrial Complex
+100K_HI_lunatav_1: 258><-123><1846><-1778><><Industrial Complex
+100K_HI_oscarriaq_1: 81><-111><226><-1912><><Industrial Complex
+100K_HI_solaristheworstcatever_1: 72><-51><1748><-1926><><Industrial Complex
+100K_HI_tapok109_1: 87><-51><1602><-1706><><Industrial Complex
+100K_HI_totallydutch_1: 72><-51><848><-940><><
+100K_HI_totallydutch_2: 72><-51><1488><-2046><><Industrial Complex
+100K_HI_trearilt_1: 72><-51><822><-2012><><
+100K_HI_user23848_1: 72><-111><884><-1766><><Industrial Complex
+100K_HI_wonk_1: 72><-711><-350><-1856><><Industrial Complex
+100K_HI_wonk_2: 72><-51><-526><-1108><><Industrial Complex
+100K_HI_wtfmagnimmepac3_1: 72><-51><1328><-2006><><Industrial Complex
+100K_CC_dragonpropaganda_1: 78><-111><746><-408><><Chimney Canopy
+100K_CC_gamerguy35_1: 228><-57><870><-568><><Chimney Canopy
+100K_CC_hobart_1: 75><-51><1040><-918><><Chimney Canopy
+100K_CC_javadog64_1: 72><-51><454><-580><><Chimney Canopy
+100K_CC_rbor_1: 90><-51><1092><-328><><Chimney Canopy
+100K_CC_rostik630uwu_1: 72><-135><1214><-792><><Chimney Canopy
+100K_CC_steellesstoaster_1: 72><-51><720><-580><><Chimney Canopy
+100K_CC_steellesstoaster_2: 72><-51><438><-738><><Chimney Canopy
+100K_CC_zenodos_1: 75><-57><596><-750><><Chimney Canopy
+100K_GW_damoonlord_1: 72><-51><2586><-2662><><Garbage Wastes
+100K_GW_detrax_1: 186><-63><4952><-2646><><Garbage Wastes
+100K_GW_haysen_1: 150><-111><2298><-3194><><Garbage Wastes
+100K_GW_january_1: 150><-51><2860><-2374><><Garbage Wastes
+100K_GW_milksmansrevenge_1: 150><-51><4216><-2610><><Garbage Wastes
+100K_GW_rolingp3_1: 72><-51><2080><-3090><><Garbage Wastes
+100K_GW_slithersss_1: 72><-51><4634><-2642><><Garbage Wastes
+100K_GW_solaristheworstcatever_1: 72><-51><2496><-2866><><Garbage Wastes
+100K_GW_tapok109_1: 111><-57><4176><-2456><><Garbage Wastes
+100K_GW_wonk_1: 228><-111><2748><-3002><><Garbage Wastes
+100K_GW_wrayk_1: 459><-171><3510><-2694><><Garbage Wastes
+Connection: 100K_SU_ariesclient_1,100K_SU_clapom_1,74,83,64,33,3,0
+Connection: 100K_SU_ariesclient_1,100K_SU_lunatav_1,99,11,2,5,3,2
+Connection: 100K_SU_clapom_1,100K_SU_pelicaninimpiety_1,20,5,3,31,0,2
+Connection: 100K_SU_cocoaraptor_1,100K_SU_ultimateunity_1,26,3,43,11,3,0
+Connection: 100K_SU_crafterz_1,100K_SU_vividyon_1,45,25,4,21,0,2
+Connection: 100K_SU_crafterz_1,100K_SU_memorycrypts_1,1,23,41,7,2,0
+Connection: 100K_SU_flanace_1,100K_SU_gogurtyuri_1,53,30,7,7,1,3
+Connection: 100K_SU_flanace_1,100K_DS_haysen_1,10,14,42,47,2,0
+Connection: 100K_SU_gogurtyuri_1,100K_SU_tapok109_1,38,29,4,20,0,2
+Connection: 100K_SU_kizorke_1,100K_SU_lwrcsv_1,4,60,41,12,2,0
+Connection: 100K_SU_kizorke_1,100K_SU_tetraneo_1,53,60,11,21,0,2
+Connection: 100K_SU_kizorke_1,100K_SU_tapok109_1,4,9,42,59,2,0
+Connection: 100K_SU_kizorke_1,100K_SU_memorycrypts_1,12,4,30,24,2,0
+Connection: 100K_SU_lunatav_1,100K_SU_vividyon_2,44,5,4,23,0,2
+Connection: 100K_SU_lwrcsv_1,100K_HI_trearilt_1,26,49,4,17,0,2
+Connection: 100K_SU_solaristheworstcatever_1,100K_SU_tetraneo_1,6,19,110,21,2,0
+Connection: 100K_SU_tapok109_1,100K_SU_vividyon_2,5,56,103,6,2,0
+Connection: 100K_SU_vividyon_1,100K_SU_ultimateunity_1,54,18,2,17,-1,2
+Connection: 100K_DS_addystrawbry_1,100K_DS_luckykitkat_1,14,31,13,6,1,3
+Connection: 100K_DS_addystrawbry_1,100K_DS_lwrcsv_1,38,13,27,26,0,1
+Connection: 100K_DS_addystrawbry_1,100K_DS_overpoweredpizza_1,10,4,169,32,3,1
+Connection: 100K_DS_aprilistheworstmonth_1,100K_GW_haysen_1,194,30,5,28,0,1
+Connection: 100K_DS_aprilistheworstmonth_1,100K_DS_user23848_1,5,25,45,2,2,0
+Connection: 100K_DS_aprilistheworstmonth_2,100K_DS_haysen_1,32,29,149,14,1,-1
+Connection: 100K_DS_aprilistheworstmonth_2,100K_DS_iyonkoi_1,7,25,54,30,2,0
+Connection: 100K_DS_dragonpropaganda_1,100K_DS_tapok109_1,4,21,47,26,2,0
+Connection: 100K_DS_dragonpropaganda_1,100K_DS_maxthelord_1,142,21,6,21,0,2
+Connection: 100K_DS_haysen_1,100K_DS_luckykitkat_1,150,24,6,19,-1,2
+Connection: 100K_DS_haysen_1,100K_DS_therealflarf_1,4,22,115,28,2,0
+Connection: 100K_DS_iyonkoi_1,100K_DS_tnthalflife32_1,8,20,60,27,2,0
+Connection: 100K_DS_luckykitkat_1,100K_DS_luniular_1,53,18,2,30,0,2
+Connection: 100K_DS_luniular_1,100K_DS_slithersss_1,2,11,20,32,2,1
+Connection: 100K_DS_maxthelord_1,100K_DS_overpoweredpizza_1,45,19,4,25,0,2
+Connection: 100K_DS_overpoweredpizza_1,100K_DS_slithersss_1,200,21,2,16,0,2
+Connection: 100K_DS_rolingp3_1,100K_DS_solaristheworstcatever_1,28,32,14,30,1,0
+Connection: 100K_DS_rolingp3_1,100K_DS_tryn1010_1,7,5,128,22,2,0
+Connection: 100K_DS_slithersss_1,100K_DS_user23848_1,12,32,2,10,1,2
+Connection: 100K_DS_solaristheworstcatever_1,100K_DS_tapok109_1,43,26,4,15,0,2
+Connection: 100K_DS_tnthalflife32_1,100K_DS_zenodos_1,8,25,43,18,2,0
+Connection: 100K_HI_ariesclient_1,100K_HI_erm424242_1,98,52,21,4,2,2
+Connection: 100K_HI_ariesclient_1,100K_HI_dododecalogist_1,104,11,42,9,2,0
+Connection: 100K_HI_chlordeofmany_1,100K_HI_oscarriaq_1,3,11,47,56,2,0
+Connection: 100K_HI_chlordeofmany_1,100K_HI_user23848_1,94,11,3,21,0,2
+Connection: 100K_HI_creativegamer03_1,100K_HI_tapok109_1,205,24,5,26,0,2
+Connection: 100K_HI_creativegamer03_1,100K_HI_user23848_1,17,13,45,7,2,0
+Connection: 100K_HI_creativegamer03_1,100K_HI_totallydutch_2,205,9,12,26,0,1
+Connection: 100K_HI_creativegamer03_2,100K_HI_trearilt_1,17,10,44,19,2,0
+Connection: 100K_HI_dedniko_1,100K_HI_lkelly10_1,57,27,25,29,0,2
+Connection: 100K_HI_dedniko_1,100K_HI_irri_1,15,13,58,18,3,0
+Connection: 100K_HI_dododecalogist_1,100K_HI_luckykitkat_1,24,28,12,30,0,1
+Connection: 100K_HI_dragonly44_1,100K_HI_katolato_2,9,28,8,18,1,2
+Connection: 100K_HI_dragonly44_1,100K_HI_oscarriaq_1,43,19,29,3,0,3
+Connection: 100K_HI_erm424242_1,100K_HI_lipuccka_1,22,28,47,4,2,3
+Connection: 100K_HI_ethanwantsfood_1,100K_HI_lipuccka_1,145,30,13,28,1,2
+Connection: 100K_HI_ethanwantsfood_1,100K_HI_wonk_1,14,2,27,454,2,1
+Connection: 100K_HI_gamerguy35_1,100K_HI_lkelly10_1,5,28,114,65,2,0
+Connection: 100K_HI_gamerguy35_1,100K_GW_january_1,41,9,9,26,0,2
+Connection: 100K_HI_haysen_1,100K_HI_katolato_1,96,24,21,18,0,3
+Connection: 100K_HI_haysen_1,100K_HI_wonk_1,3,23,18,93,2,3
+Connection: 100K_HI_haysen_1,100K_HI_oscarriaq_1,96,4,7,62,0,2
+Connection: 100K_HI_inspectnerd_1,100K_HI_totallydutch_1,90,30,11,17,1,2
+Connection: 100K_HI_inspectnerd_1,100K_HI_lipuccka_1,7,7,47,10,2,3
+Connection: 100K_HI_irri_1,100K_HI_totallydutch_2,5,19,41,12,2,0
+Connection: 100K_HI_katolato_1,100K_HI_luckykitkat_1,105,38,12,4,1,3
+Connection: 100K_HI_katolato_2,100K_HI_wonk_1,8,26,43,16,2,0
+Connection: 100K_HI_luckykitkat_1,100K_HI_user23848_1,156,25,3,66,0,2
+Connection: 100K_HI_lunatav_1,100K_HI_tapok109_1,9,66,52,23,2,0
+Connection: 100K_HI_lunatav_1,100K_HI_solaristheworstcatever_1,7,10,28,32,2,1
+Connection: 100K_HI_solaristheworstcatever_1,100K_HI_wtfmagnimmepac3_1,6,8,36,21,2,0
+Connection: 100K_HI_totallydutch_1,100K_CC_hobart_1,34,17,4,16,0,2
+Connection: 100K_HI_totallydutch_2,100K_HI_wtfmagnimmepac3_1,12,3,25,3,3,3
+Connection: 100K_HI_trearilt_1,100K_HI_user23848_1,25,31,5,1,1,-1
+Connection: 100K_HI_wonk_1,100K_HI_wonk_2,18,422,32,24,0,1
+Connection: 100K_CC_dragonpropaganda_1,100K_CC_rbor_1,37,64,9,17,3,1
+Connection: 100K_CC_dragonpropaganda_1,100K_CC_steellesstoaster_1,8,8,21,28,3,1
+Connection: 100K_CC_gamerguy35_1,100K_CC_steellesstoaster_1,12,15,28,20,2,0
+Connection: 100K_CC_gamerguy35_1,100K_CC_rostik630uwu_1,134,5,13,70,3,3
+Connection: 100K_CC_hobart_1,100K_CC_rostik630uwu_1,48,11,10,22,0,2
+Connection: 100K_CC_javadog64_1,100K_CC_steellesstoaster_1,43,30,16,20,0,2
+Connection: 100K_CC_javadog64_1,100K_CC_steellesstoaster_2,4,12,12,30,2,1
+Connection: 100K_CC_steellesstoaster_1,100K_CC_zenodos_1,21,6,47,22,3,0
+Connection: 100K_CC_steellesstoaster_2,100K_CC_zenodos_1,36,18,3,23,0,2
+Connection: 100K_GW_damoonlord_1,100K_GW_solaristheworstcatever_1,24,15,16,27,3,1
+Connection: 100K_GW_detrax_1,100K_GW_slithersss_1,19,27,46,28,1,-1
+Connection: 100K_GW_haysen_1,100K_GW_rolingp3_1,6,59,41,10,2,0
+Connection: 100K_GW_milksmansrevenge_1,100K_GW_slithersss_1,98,15,1,28,-1,-1
+Connection: 100K_GW_milksmansrevenge_1,100K_GW_wrayk_1,6,3,297,45,3,0
+Connection: 100K_GW_solaristheworstcatever_1,100K_GW_wonk_1,46,8,13,49,0,2
+Connection: 100K_GW_tapok109_1,100K_GW_wrayk_1,17,3,295,93,3,0
