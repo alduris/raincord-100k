@@ -1,11 +1,7 @@
 ROOM NEEDS
 (for shelters, facing is defining which direction the actual sleep part of it is in relation to the entrance)
 - Outskirts needs:
-  - two shelters (one left facing -> SU_flanace, one right facing -> SU_tetraneo)
-  - tall room (2-3 screens) for right side. gap on top, top right -> SU_solar, bottom left -> SU_ultimateunity
-  - narrow horizontal room for left side, connect to right side of underhang room (SU_pelican), with area for grapple worm maybe
   - long room connecting to SU_ariesclient and SU_clapom on right side and LF on the left
-  - DS connection to SU_flanace
 
 - Drainage System needs:
   - two one-screen pipe rooms
@@ -21,7 +17,6 @@ ROOM NEEDS
   - VS connect to HI_ariesclient
 
 - Chimney Canopy needs:
-  - inside chimney room between CC_hobart and CC_rostik, with shelter at bottom
   - chimney jump room between CC_dragonpropaganda and CC_rbor
   - some other room to connect to SI
   - UW connect to CC_rbor
