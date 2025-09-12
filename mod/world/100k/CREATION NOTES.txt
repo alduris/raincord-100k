@@ -24,6 +24,31 @@ ROOM NEEDS
 - Garbage Wastes needs:
   - tall room connecting from DS to main GW area
 
+- Shoreline needs:
+  - LTTM room
+  - outdoor room connecting to SH connection area (SL_memorycrypts) (also needs to connect to SL_haysen and SL_lwrcsv)
+  - shelter in SL_april
+
+- The Exterior needs:
+  - probably an extra room in underhang for sure, maybe accepting for leg or wall
+  - roof room
+  - shelter question mark
+
+- Five Pebbles needs:
+  - roof room as mentioned prior
+  - more rooms at the top I think
+
+- Farm Arrays needs:
+  - Shelter connecting to bottom of LF_Tapok (down-facing)
+  - Deer room! (LF_slithersss (bottom left), LF_haysen (top left), LF_mk0 (right)
+  - LF_ariesclient is pearl stash room
+  - Some way to get to the SI connection (probably replace connection between LF_slithersss and LF_tapok)
+  - where to connect the WBLA transition room? (chromaticalblight3) or should that go in WBLA instead
+
+- Subterranean needs:
+  - some room to connect trains to SL area. miros section?
+  - depths
+
 
 Notes about specific rooms, either general or user requests.
 
