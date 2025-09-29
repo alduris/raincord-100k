@@ -161,7 +161,7 @@ ROOMS
 100K_LF_totallydutch_1 : 100K_LF_myrmice_1, 100K_LF_tapok109_1, 100K_LF_chromaticalblight_1
 100K_SB_ethanwantsfood_1 : DISCONNECTED, 100K_SB_tronsx_1
 100K_SB_flanace_1 : DISCONNECTED, DISCONNECTED, 100K_SB_miles4daze_1
-100K_SB_gamerguy35_1 : DISCONNECTED, 100K_SB_tankium_1, DISCONNECTED, DISCONNECTED, DISCONNECTED
+100K_SB_gamerguy35_1 : DISCONNECTED, 100K_SB_tankium_1, DISCONNECTED, DISCONNECTED, 100K_HR_flanace_1
 100K_SB_iyonkoi_1 : 100K_SB_slithersss_1, DISCONNECTED
 100K_SB_miles4daze_1 : 100K_SB_slithersss_1, 100K_SB_flanace_1, 100K_OE_ratrixrose_1, DISCONNECTED
 100K_SB_novatheskeledragon_1 : DISCONNECTED
@@ -182,6 +182,9 @@ ROOMS
 100K_OE_rolingp3_1 : DISCONNECTED, 100K_OE_katolato_1, 100K_OE_emptyraider101_1
 100K_OE_zamtreon_1 : 100K_OE_cocoaraptor_1, 100K_OE_zamtreon_2
 100K_OE_zamtreon_2 : 100K_OE_zamtreon_1
+100K_HR_dragonly44_1 : 100K_HR_flanace_1
+100K_HR_dragonpropaganda_1 : DISCONNECTED, 100K_HR_flanace_1, DISCONNECTED, DISCONNECTED
+100K_HR_flanace_1 : 100K_SB_gamerguy35_1, 100K_HR_dragonly44_1, 100K_HR_dragonpropaganda_1
 END ROOMS
 CREATURES
 
