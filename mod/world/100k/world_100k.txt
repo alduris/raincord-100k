@@ -163,12 +163,25 @@ ROOMS
 100K_SB_flanace_1 : DISCONNECTED, DISCONNECTED, 100K_SB_miles4daze_1
 100K_SB_gamerguy35_1 : DISCONNECTED, 100K_SB_tankium_1, DISCONNECTED, DISCONNECTED, DISCONNECTED
 100K_SB_iyonkoi_1 : 100K_SB_slithersss_1, DISCONNECTED
-100K_SB_miles4daze_1 : 100K_SB_slithersss_1, 100K_SB_flanace_1, DISCONNECTED, DISCONNECTED
+100K_SB_miles4daze_1 : 100K_SB_slithersss_1, 100K_SB_flanace_1, 100K_OE_ratrixrose_1, DISCONNECTED
 100K_SB_novatheskeledragon_1 : DISCONNECTED
 100K_SB_slithersss_1 : 100K_SB_iyonkoi_1, DISCONNECTED, 100K_SB_miles4daze_1
 100K_SB_tankium_1 : DISCONNECTED, DISCONNECTED, DISCONNECTED, 100K_SB_gamerguy35_1
 100K_SB_tronsx_1 : 100K_SB_ethanwantsfood_1, DISCONNECTED, DISCONNECTED
 100K_SU_damoonlord_1 : 100K_SU_ariesclient_1, 100K_LF_crimsont04_1, 100K_SU_clapom_1
+100K_OE_cocoaraptor_1 : 100K_OE_zamtreon_1, 100K_OE_kemkemkemkemkemkem_1
+100K_OE_damoonlord_1 : 100K_OE_ratrixrose_1
+100K_OE_damoonlord_2 : 100K_OE_novatheskeledragon_1
+100K_OE_emptyraider101_1 : 100K_OE_rolingp3_1
+100K_OE_frostbite1036_1 : DISCONNECTED, 100K_OE_novatheskeledragon_1
+100K_OE_katolato_1 : 100K_OE_novatheskeledragon_1, 100K_OE_rbor_1, 100K_OE_rolingp3_1
+100K_OE_kemkemkemkemkemkem_1 : 100K_OE_cocoaraptor_1, 100K_OE_novatheskeledragon_1
+100K_OE_novatheskeledragon_1 : 100K_OE_frostbite1036_1, 100K_OE_damoonlord_2, DISCONNECTED, 100K_OE_katolato_1, 100K_OE_kemkemkemkemkemkem_1
+100K_OE_ratrixrose_1 : 100K_OE_damoonlord_1, 100K_OE_rbor_1, DISCONNECTED, DISCONNECTED, 100K_SB_miles4daze_1, DISCONNECTED
+100K_OE_rbor_1 : 100K_OE_ratrixrose_1, 100K_OE_katolato_1
+100K_OE_rolingp3_1 : DISCONNECTED, 100K_OE_katolato_1, 100K_OE_emptyraider101_1
+100K_OE_zamtreon_1 : 100K_OE_cocoaraptor_1, 100K_OE_zamtreon_2
+100K_OE_zamtreon_2 : 100K_OE_zamtreon_1
 END ROOMS
 CREATURES
 

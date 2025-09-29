@@ -29,6 +29,10 @@ ROOM NEEDS
   - outdoor room connecting to SH connection area (SL_memorycrypts) (also needs to connect to SL_haysen and SL_lwrcsv)
   - shelter in SL_april
 
+- Shaded Citadel needs:
+  - compacting
+  - also just a general evaluation
+
 - The Exterior needs:
   - probably an extra room in underhang for sure, maybe accepting for leg or wall
   - roof room

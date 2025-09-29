@@ -1,173 +1,186 @@
-100K_SU_ariesclient_1: -64.5><-3537><-165><-2476><NONE><Outskirts
-100K_SU_clapom_1: -825><-4023><-636><-2750><Outskirts><Outskirts
-100K_SU_cocoaraptor_1: 2388><-3991.5><1544><-2702><Outskirts><Outskirts
-100K_SU_crafterz_1: 1347><-4080><850><-2766><Outskirts><Outskirts
-100K_SU_flanace_1: 522><-4266><280><-2894><Outskirts><
-100K_SU_gogurtyuri_1: 699><-4104><418><-2782><Outskirts><Outskirts
-100K_SU_kizorke_1: 1278><-3711><794><-2554><NONE><Outskirts
-100K_SU_lunatav_1: 189><-3813><78><-2586><NONE><Outskirts
+100K_SU_ariesclient_1: -67.5><-3537><-165><-2476><NONE><Outskirts
+100K_SU_clapom_1: -828><-4023><-636><-2750><Outskirts><Outskirts
+100K_SU_cocoaraptor_1: 2388><-3988.5><1544><-2702><Outskirts><Outskirts
+100K_SU_crafterz_1: 1347><-4077><850><-2766><Outskirts><Outskirts
+100K_SU_flanace_1: 522><-4263><280><-2894><Outskirts><
+100K_SU_gogurtyuri_1: 699><-4101><418><-2782><Outskirts><Outskirts
+100K_SU_kizorke_1: 1278><-3708><794><-2554><NONE><Outskirts
+100K_SU_lunatav_1: 189><-3810><78><-2586><NONE><Outskirts
 100K_SU_lwrcsv_1: 990><-3387><612><-2336><NONE><
-100K_SU_memorycrypts_1: 1134><-4008><708><-2718><NONE><Outskirts
-100K_SU_pelicaninimpiety_1: -426><-4147.5><-332><-2809><NONE><Outskirts
-100K_SU_solaristheworstcatever_1: 2142><-3738><1380><-2538><NONE><Outskirts
-100K_SU_tapok109_1: 918><-3945><564><-2714><NONE><Outskirts
-100K_SU_tetraneo_1: 1710><-3669><1018><-2498><NONE><Outskirts
-100K_SU_vividyon_1: 1623><-4071><1026><-2762><NONE><Outskirts
-100K_SU_vividyon_2: 558><-3873><264><-2628><NONE><Outskirts
-100K_SU_ultimateunity_1: 1923><-4116><1234><-2790><Outskirts><Outskirts
-100K_DS_addystrawbry_1: 1014><-5145><628><-3476><NONE><Drainage System
-100K_DS_aprilistheworstmonth_1: 2376><-5100><1380><-3446><NONE><Drainage System
-100K_DS_aprilistheworstmonth_2: 690><-5184><418><-3502><NONE><Drainage System
-100K_DS_dragonpropaganda_1: -243><-5526><-314><-3730><NONE><Drainage System
-100K_DS_haysen_1: 468><-4836><160><-3310><NONE><Drainage System
-100K_DS_iyonkoi_1: 414><-5205><210><-3518><NONE><Drainage System
-100K_DS_luckykitkat_1: 1095><-4941><670><-3342><NONE><Drainage System
-100K_DS_luniular_1: 1548><-5031><984><-3400><NONE><Drainage System
-100K_DS_lwrcsv_1: 1236><-5175><776><-3496><0><Drainage System
-100K_DS_maxthelord_1: 237><-5487><110><-3704><NONE><Drainage System
-100K_DS_overpoweredpizza_1: 771><-5442><310><-3680><NONE><Drainage System
-100K_DS_rolingp3_1: -1104><-5937><-784><-4004><NONE><Drainage System
-100K_DS_slithersss_1: 1452><-5409><920><-3652><NONE><Drainage System
-100K_DS_solaristheworstcatever_1: -1122><-5586><-796><-3770><NONE><Drainage System
-100K_DS_tapok109_1: -786><-5529><-576><-3732><NONE><Drainage System
-100K_DS_therealflarf_1: -204><-4980><-260><-3374><NONE><Drainage System
-100K_DS_tnthalflife32_1: -54><-5229><-108><-3540><NONE><Drainage System
-100K_DS_tryn1010_1: -1692><-5991><-1272><-4048><NONE><Drainage System
-100K_DS_user23848_1: 1659><-5190><1058><-3484><NONE><Drainage System
+100K_SU_memorycrypts_1: 1134><-4005><708><-2718><NONE><Outskirts
+100K_SU_pelicaninimpiety_1: -426><-4144.5><-332><-2809><NONE><Outskirts
+100K_SU_solaristheworstcatever_1: 2142><-3735><1380><-2538><NONE><Outskirts
+100K_SU_tapok109_1: 918><-3942><564><-2714><NONE><Outskirts
+100K_SU_tetraneo_1: 1710><-3666><1018><-2498><NONE><Outskirts
+100K_SU_vividyon_1: 1623><-4068><1026><-2762><NONE><Outskirts
+100K_SU_vividyon_2: 558><-3870><264><-2628><NONE><Outskirts
+100K_SU_ultimateunity_1: 1923><-4113><1234><-2790><Outskirts><Outskirts
+100K_DS_addystrawbry_1: 1014><-5142><628><-3476><NONE><Drainage System
+100K_DS_aprilistheworstmonth_1: 2376><-5097><1380><-3446><NONE><Drainage System
+100K_DS_aprilistheworstmonth_2: 687><-5181><418><-3502><NONE><Drainage System
+100K_DS_dragonpropaganda_1: -243><-5523><-314><-3730><NONE><Drainage System
+100K_DS_haysen_1: 468><-4833><160><-3310><NONE><Drainage System
+100K_DS_iyonkoi_1: 414><-5202><210><-3518><NONE><Drainage System
+100K_DS_luckykitkat_1: 1095><-4938><670><-3342><NONE><Drainage System
+100K_DS_luniular_1: 1548><-5028><984><-3400><NONE><Drainage System
+100K_DS_lwrcsv_1: 1236><-5172><776><-3496><0><Drainage System
+100K_DS_maxthelord_1: 237><-5484><110><-3704><NONE><Drainage System
+100K_DS_overpoweredpizza_1: 771><-5439><310><-3680><NONE><Drainage System
+100K_DS_rolingp3_1: -1104><-5934><-784><-4004><NONE><Drainage System
+100K_DS_slithersss_1: 1452><-5406><920><-3652><NONE><Drainage System
+100K_DS_solaristheworstcatever_1: -1122><-5583><-796><-3770><NONE><Drainage System
+100K_DS_tapok109_1: -786><-5526><-576><-3732><NONE><Drainage System
+100K_DS_therealflarf_1: -204><-4977><-260><-3374><NONE><Drainage System
+100K_DS_tnthalflife32_1: -54><-5226><-108><-3540><NONE><Drainage System
+100K_DS_tryn1010_1: -1692><-5988><-1272><-4048><NONE><Drainage System
+100K_DS_user23848_1: 1659><-5187><1058><-3484><NONE><Drainage System
 100K_DS_zenodos_1: -393><-5265><-312><-3548><NONE><Drainage System
 100K_HI_ariesclient_1: 462><-1962><162><-1386><Industrial Complex><Industrial Complex
-100K_HI_chlordeofmany_1: 969><-2625><546><-1796><Industrial Complex><Industrial Complex
-100K_HI_creativegamer03_1: 1938><-2592><1070><-1774><Industrial Complex><Industrial Complex
-100K_HI_creativegamer03_2: 1614><-2943><1028><-2008><><
+100K_HI_chlordeofmany_1: 969><-2622><546><-1796><Industrial Complex><Industrial Complex
+100K_HI_creativegamer03_1: 1938><-2589><1070><-1774><Industrial Complex><Industrial Complex
+100K_HI_creativegamer03_2: 1614><-2940><1028><-2008><><
 100K_HI_dedniko_1: 2985><-3039><1920><-2070><Industrial Complex><Industrial Complex
-100K_HI_dododecalogist_1: 411><-2232><226><-1538><Industrial Complex><Industrial Complex
-100K_HI_dragonly44_1: -141><-2982><-142><-2034><Industrial Complex><Industrial Complex
-100K_HI_erm424242_1: 618><-1701><360><-1180><Industrial Complex><Industrial Complex
-100K_HI_ethanwantsfood_1: 36><-1386><-128><-970><Industrial Complex><Industrial Complex
-100K_HI_gamerguy35_1: 3966><-2949><2596><-2012><Industrial Complex><Industrial Complex
-100K_HI_haysen_1: -75><-2517><-150><-1724><Industrial Complex><Industrial Complex
-100K_HI_inspectnerd_1: 978><-1374><558><-962><><
-100K_HI_irri_1: 2607><-3060><1684><-2086><Industrial Complex><Industrial Complex
+100K_HI_dododecalogist_1: 411><-2229><226><-1538><Industrial Complex><Industrial Complex
+100K_HI_dragonly44_1: -141><-2979><-142><-2034><Industrial Complex><Industrial Complex
+100K_HI_erm424242_1: 615><-1698><360><-1180><Industrial Complex><Industrial Complex
+100K_HI_ethanwantsfood_1: 36><-1383><-128><-970><Industrial Complex><Industrial Complex
+100K_HI_gamerguy35_1: 3966><-2946><2596><-2012><Industrial Complex><Industrial Complex
+100K_HI_haysen_1: -75><-2514><-150><-1724><Industrial Complex><Industrial Complex
+100K_HI_inspectnerd_1: 975><-1371><558><-962><><
+100K_HI_irri_1: 2604><-3057><1684><-2086><Industrial Complex><Industrial Complex
 100K_HI_katolato_1: 426><-2457><166><-1684><Industrial Complex><Industrial Complex
-100K_HI_katolato_2: -156><-2751><-160><-1880><Industrial Complex><Industrial Complex
-100K_HI_lipuccka_1: 570><-1362><308><-962><Industrial Complex><Industrial Complex
-100K_HI_lkelly10_1: 3450><-2997><2174><-2084><Industrial Complex><Industrial Complex
-100K_HI_luckykitkat_1: 864><-2259><412><-1556><Industrial Complex><Industrial Complex
+100K_HI_katolato_2: -159><-2748><-160><-1880><Industrial Complex><Industrial Complex
+100K_HI_lipuccka_1: 570><-1359><308><-962><Industrial Complex><Industrial Complex
+100K_HI_lkelly10_1: 3450><-2994><2174><-2084><Industrial Complex><Industrial Complex
+100K_HI_luckykitkat_1: 864><-2256><412><-1556><Industrial Complex><Industrial Complex
 100K_HI_lunatav_1: 3027><-2544><1846><-1778><Industrial Complex><Industrial Complex
-100K_HI_oscarriaq_1: 420><-2739><226><-1912><Industrial Complex><Industrial Complex
-100K_HI_solaristheworstcatever_1: 2694><-2820><1748><-1926><Industrial Complex><Industrial Complex
-100K_HI_tapok109_1: 2490><-2490><1602><-1706><Industrial Complex><Industrial Complex
-100K_HI_totallydutch_1: 1311><-1345.5><848><-940><><
-100K_HI_totallydutch_2: 2304><-3000><1488><-2046><Industrial Complex><Industrial Complex
-100K_HI_trearilt_1: 1305><-2949><822><-2012><><
-100K_HI_user23848_1: 1398><-2520><884><-1766><Industrial Complex><Industrial Complex
-100K_HI_wonk_1: -453><-2055><-350><-1856><Industrial Complex><Industrial Complex
-100K_HI_wonk_2: -717><-1593><-526><-1108><Industrial Complex><
-100K_HI_wtfmagnimmepac3_1: 2064><-2940><1328><-2006><Industrial Complex><Industrial Complex
-100K_CC_dragonpropaganda_1: 1197><-483><746><-406><Chimney Canopy><Chimney Canopy
+100K_HI_oscarriaq_1: 420><-2736><226><-1912><Industrial Complex><Industrial Complex
+100K_HI_solaristheworstcatever_1: 2694><-2817><1748><-1926><Industrial Complex><Industrial Complex
+100K_HI_tapok109_1: 2490><-2487><1602><-1706><Industrial Complex><Industrial Complex
+100K_HI_totallydutch_1: 1311><-1342.5><848><-940><><
+100K_HI_totallydutch_2: 2304><-2997><1488><-2046><Industrial Complex><Industrial Complex
+100K_HI_trearilt_1: 1305><-2946><822><-2012><><
+100K_HI_user23848_1: 1398><-2517><884><-1766><Industrial Complex><Industrial Complex
+100K_HI_wonk_1: -453><-2052><-350><-1856><Industrial Complex><Industrial Complex
+100K_HI_wonk_2: -717><-1590><-526><-1108><Industrial Complex><
+100K_HI_wtfmagnimmepac3_1: 2064><-2937><1328><-2006><Industrial Complex><Industrial Complex
+100K_CC_dragonpropaganda_1: 1197><-480><746><-406><Chimney Canopy><Chimney Canopy
 100K_CC_gamerguy35_1: 1533><-795><870><-568><Chimney Canopy><Chimney Canopy
-100K_CC_hobart_1: 1555.5><-1330.5><995><-931><Chimney Canopy><Chimney Canopy
-100K_CC_javadog64_1: 753><-801><454><-580><Chimney Canopy><Chimney Canopy
-100K_CC_rbor_1: 1728><-423><1092><-328><Chimney Canopy><Chimney Canopy
+100K_CC_hobart_1: 1552.5><-1327.5><995><-931><Chimney Canopy><Chimney Canopy
+100K_CC_javadog64_1: 753><-798><454><-580><Chimney Canopy><Chimney Canopy
+100K_CC_rbor_1: 1728><-420><1092><-328><Chimney Canopy><Chimney Canopy
 100K_CC_rostik630uwu_1: 1935><-945><1242><-720><Chimney Canopy><Chimney Canopy
-100K_CC_steellesstoaster_1: 1152><-801><720><-580><Chimney Canopy><Chimney Canopy
-100K_CC_steellesstoaster_2: 729><-1038><438><-738><Chimney Canopy><Chimney Canopy
+100K_CC_steellesstoaster_1: 1152><-798><720><-580><Chimney Canopy><Chimney Canopy
+100K_CC_steellesstoaster_2: 729><-1035><438><-738><Chimney Canopy><Chimney Canopy
 100K_CC_zenodos_1: 969><-1068><596><-750><Chimney Canopy><Chimney Canopy
-100K_GW_damoonlord_1: 3951><-3924><2586><-2657><Garbage Wastes><Garbage Wastes
+100K_GW_damoonlord_1: 3951><-3921><2586><-2657><Garbage Wastes><Garbage Wastes
 100K_GW_detrax_1: 7614><-3906><4952><-2646><Garbage Wastes><Garbage Wastes
-100K_GW_haysen_1: 3597><-4662><2298><-3189><Garbage Wastes><Garbage Wastes
-100K_GW_january_1: 4440><-3492><2860><-2369><Garbage Wastes><Garbage Wastes
-100K_GW_milksmansrevenge_1: 6474><-3846><4216><-2605><Garbage Wastes><Garbage Wastes
-100K_GW_rolingp3_1: 3192><-4566><2080><-3085><Garbage Wastes><Garbage Wastes
-100K_GW_slithersss_1: 7023><-3894><4634><-2637><Garbage Wastes><Garbage Wastes
-100K_GW_solaristheworstcatever_1: 3816><-4230><2496><-2861><Garbage Wastes><Garbage Wastes
-100K_GW_tapok109_1: 6375><-3609><4176><-2451><Garbage Wastes><Garbage Wastes
-100K_GW_wonk_1: 4350><-4374><2748><-2997><Garbage Wastes><Garbage Wastes
+100K_GW_haysen_1: 3597><-4659><2298><-3189><Garbage Wastes><Garbage Wastes
+100K_GW_january_1: 4440><-3489><2860><-2369><Garbage Wastes><Garbage Wastes
+100K_GW_milksmansrevenge_1: 6474><-3843><4216><-2605><Garbage Wastes><Garbage Wastes
+100K_GW_rolingp3_1: 3192><-4563><2080><-3085><Garbage Wastes><Garbage Wastes
+100K_GW_slithersss_1: 7023><-3891><4634><-2637><Garbage Wastes><Garbage Wastes
+100K_GW_solaristheworstcatever_1: 3816><-4227><2496><-2861><Garbage Wastes><Garbage Wastes
+100K_GW_tapok109_1: 6375><-3606><4176><-2451><Garbage Wastes><Garbage Wastes
+100K_GW_wonk_1: 4350><-4371><2748><-2997><Garbage Wastes><Garbage Wastes
 100K_GW_wrayk_1: 5724><-3870><3510><-2694><Garbage Wastes><Garbage Wastes
-100K_SU_alduris_1: 243><-4234.5><132><-2851><><
-100K_SU_alduris_2: 1884><-3811.5><1234><-2579><NONE><
-100K_SU_oscarriaq_1: 2151><-4048.5><1386><-2780><NONE><Outskirts
-100K_SU_alduris_3: -78><-4036.5><-152><-2735><NONE><Outskirts
-100K_CC_alduris_1: 1785><-1240.5><1142><-931><Chimney Canopy><Chimney Canopy
-100K_CC_alduris_2: 1986><-1338><1302><-910><><
-100K_DS_alduris_1: -756><-5272.5><-552><-3556><Drainage System><Drainage System
-100K_DS_alduris_2: -783><-4993.5><-570><-3370><Drainage System><Drainage System
-100K_SL_aprilistheworstmonth_1: 8070><-3912><5333><-2646><NONE><Shoreline
-100K_SL_haysen_1: 8829><-3948><5630><-2713><NONE><Shoreline
-100K_SL_kebasnaek_1: 9612><-4365><6334><-2971><NONE><Shoreline
-100K_SL_lwrcsv_1: 9417><-3921><6230><-2655><NONE><Shoreline
-100K_SL_memorycrypts_1: 9144><-3288><6048><-2233><NONE><Shoreline
-100K_SL_nimble102_1: 10044><-3924><6511><-2656><NONE><Shoreline
-100K_SH_acquaintedfowl_1: 5577><-2320.5><3670><-1588><Shaded Citadel><Shaded Citadel
-100K_SH_chromaticalblight_1: 6654><-2197.5><4388><-1506><Shaded Citadel><Shaded Citadel
-100K_SH_dragonly44_1: 8691><-2662.5><5746><-1816><Shaded Citadel><Shaded Citadel
-100K_SH_dragonpropaganda_1: 4275><-2443.5><2750><-1670><Shaded Citadel><Shaded Citadel
-100K_SH_flanace_1: 7168.5><-2641.5><4718><-1806><Shaded Citadel><Shaded Citadel
-100K_SH_gal3olag_1: 6126><-2245.5><3932><-1538><Shaded Citadel><Shaded Citadel
-100K_SH_haysen_1: 7170><-2086.5><4680><-1586><Shaded Citadel><Shaded Citadel
-100K_SH_kalumrw_1: 4674><-2407.5><3068><-1646><Shaded Citadel><Shaded Citadel
-100K_SH_katolato_1: 7947><-2170.5><5138><-1536><Shaded Citadel><Shaded Citadel
-100K_SH_lipuccka_1: 8214><-2599.5><5350><-1822><Shaded Citadel><Shaded Citadel
-100K_SH_memorycrypts_1: 11697><-2161.5><7542><-1482><Shaded Citadel><Shaded Citadel
-100K_SH_memorycrypts_2: 3696><-2440.5><2312><-1668><Shaded Citadel><Shaded Citadel
-100K_SH_prestopesto_1: 11019><-2152.5><7246><-1486><Shaded Citadel><Shaded Citadel
-100K_SH_pykrite_1: 7653><-2566.5><5048><-1794><Shaded Citadel><Shaded Citadel
-100K_SH_thenotsogoodgamer_1: 7503><-1747.5><4954><-1206><Shaded Citadel><Shaded Citadel
-100K_SH_wonk_1: 9612><-2149.5><5788><-1474><Shaded Citadel><Shaded Citadel
+100K_SU_alduris_1: 243><-4231.5><132><-2851><><
+100K_SU_alduris_2: 1884><-3808.5><1234><-2579><NONE><
+100K_SU_oscarriaq_1: 2151><-4045.5><1386><-2780><NONE><Outskirts
+100K_SU_alduris_3: -78><-4033.5><-152><-2735><NONE><Outskirts
+100K_CC_alduris_1: 1785><-1237.5><1142><-931><Chimney Canopy><Chimney Canopy
+100K_CC_alduris_2: 1983><-1338><1302><-910><><
+100K_DS_alduris_1: -756><-5269.5><-552><-3556><Drainage System><Drainage System
+100K_DS_alduris_2: -783><-4990.5><-570><-3370><Drainage System><Drainage System
+100K_SL_aprilistheworstmonth_1: 8067><-3912><5333><-2646><NONE><Shoreline
+100K_SL_haysen_1: 8829><-3945><5630><-2713><NONE><Shoreline
+100K_SL_kebasnaek_1: 9612><-4362><6334><-2971><NONE><Shoreline
+100K_SL_lwrcsv_1: 9417><-3918><6230><-2655><NONE><Shoreline
+100K_SL_memorycrypts_1: 9144><-3285><6048><-2233><NONE><Shoreline
+100K_SL_nimble102_1: 10041><-3924><6511><-2656><NONE><Shoreline
+100K_SH_acquaintedfowl_1: 5577><-2317.5><3670><-1588><Shaded Citadel><Shaded Citadel
+100K_SH_chromaticalblight_1: 6654><-2194.5><4388><-1506><Shaded Citadel><Shaded Citadel
+100K_SH_dragonly44_1: 8691><-2659.5><5746><-1816><Shaded Citadel><Shaded Citadel
+100K_SH_dragonpropaganda_1: 4275><-2440.5><2750><-1670><Shaded Citadel><Shaded Citadel
+100K_SH_flanace_1: 7165.5><-2638.5><4718><-1806><Shaded Citadel><Shaded Citadel
+100K_SH_gal3olag_1: 6126><-2242.5><3932><-1538><Shaded Citadel><Shaded Citadel
+100K_SH_haysen_1: 7170><-2083.5><4680><-1586><Shaded Citadel><Shaded Citadel
+100K_SH_kalumrw_1: 4674><-2404.5><3068><-1646><Shaded Citadel><Shaded Citadel
+100K_SH_katolato_1: 7947><-2167.5><5138><-1536><Shaded Citadel><Shaded Citadel
+100K_SH_lipuccka_1: 8214><-2596.5><5350><-1822><Shaded Citadel><Shaded Citadel
+100K_SH_memorycrypts_1: 11697><-2158.5><7542><-1482><Shaded Citadel><Shaded Citadel
+100K_SH_memorycrypts_2: 3696><-2437.5><2312><-1668><Shaded Citadel><Shaded Citadel
+100K_SH_prestopesto_1: 11019><-2149.5><7246><-1486><Shaded Citadel><Shaded Citadel
+100K_SH_pykrite_1: 7653><-2563.5><5048><-1794><Shaded Citadel><Shaded Citadel
+100K_SH_thenotsogoodgamer_1: 7503><-1744.5><4954><-1206><Shaded Citadel><Shaded Citadel
+100K_SH_wonk_1: 9612><-2146.5><5788><-1474><Shaded Citadel><Shaded Citadel
 100K_SH_zenodos_1: 5037><-2439><3238><-1664><Shaded Citadel><Shaded Citadel
-100K_UW_3circles_1: 6294><1768.5><4096><1140><The Exterior><The Exterior
-100K_UW_creativegamer03_1: 6262.5><520.5><4116><226><The Exterior><The Exterior
-100K_UW_funkytrashcan_1: 6334.5><1117.5><4114><626><The Exterior><The Exterior
-100K_UW_haysen_1: 12456><-1780.5><8230><-1426><The Exterior><The Exterior
-100K_UW_itztheblu_1: 8856><-574.5><5674><-542><The Exterior><
-100K_UW_jachii9_1: 12018><-1354.5><7952><-942><The Exterior><The Exterior
-100K_UW_luniular_1: 9546><-964.5><6210><-728><The Exterior><The Exterior
-100K_UW_mrptata_1: 10414.5><-822><6754><-668><The Exterior><The Exterior
-100K_UW_oscarriaq_1: 10623><-1282.5><6930><-896><The Exterior><The Exterior
-100K_UW_tronsx_1: 6448.5><-517.5><4194><-470><The Exterior><The Exterior
-100K_SS_damoonlord_1: 7627.5><522><4896><216><Five Pebbles><Five Pebbles
-100K_SS_damoonlord_2: 8533.5><510><5594><304><Five Pebbles><Five Pebbles
-100K_SS_dietpebsi_1: 10263><-40.5><6794><-226><Five Pebbles><Five Pebbles
-100K_SS_dietpebsi_2: 10101><394.5><6686><224><Five Pebbles><Five Pebbles
-100K_SS_dietpebsi_3: 9411><763.5><6174><430><Five Pebbles><Five Pebbles
-100K_SS_flanace_1: 9402><1411.5><6078><674><Five Pebbles><Five Pebbles
-100K_SS_flanace_2: 8661><1345.5><5724><856><Five Pebbles><Five Pebbles
-100K_SS_lwrcsv_1: 7611><223.5><5026><110><Five Pebbles><Five Pebbles
+100K_UW_3circles_1: 6294><1771.5><4096><1140><The Exterior><The Exterior
+100K_UW_creativegamer03_1: 6259.5><523.5><4116><226><The Exterior><The Exterior
+100K_UW_funkytrashcan_1: 6331.5><1120.5><4114><626><The Exterior><The Exterior
+100K_UW_haysen_1: 12456><-1777.5><8230><-1426><The Exterior><The Exterior
+100K_UW_itztheblu_1: 8856><-571.5><5674><-542><The Exterior><
+100K_UW_jachii9_1: 12018><-1351.5><7952><-942><The Exterior><The Exterior
+100K_UW_luniular_1: 9546><-961.5><6210><-728><The Exterior><The Exterior
+100K_UW_mrptata_1: 10411.5><-822><6754><-668><The Exterior><The Exterior
+100K_UW_oscarriaq_1: 10623><-1279.5><6930><-896><The Exterior><The Exterior
+100K_UW_tronsx_1: 6445.5><-514.5><4194><-470><The Exterior><The Exterior
+100K_SS_damoonlord_1: 7624.5><522><4896><216><Five Pebbles><Five Pebbles
+100K_SS_damoonlord_2: 8530.5><510><5594><304><Five Pebbles><Five Pebbles
+100K_SS_dietpebsi_1: 10263><-37.5><6794><-226><Five Pebbles><Five Pebbles
+100K_SS_dietpebsi_2: 10101><397.5><6686><224><Five Pebbles><Five Pebbles
+100K_SS_dietpebsi_3: 9411><766.5><6174><430><Five Pebbles><Five Pebbles
+100K_SS_flanace_1: 9402><1414.5><6078><674><Five Pebbles><Five Pebbles
+100K_SS_flanace_2: 8661><1348.5><5724><856><Five Pebbles><Five Pebbles
+100K_SS_lwrcsv_1: 7611><226.5><5026><110><Five Pebbles><Five Pebbles
 100K_SS_novatheskeledragon_1: 9948><657><6472><348><Five Pebbles><Five Pebbles
-100K_SS_zar4za_1: 6879><307.5><4538><46><Five Pebbles><Five Pebbles
+100K_SS_zar4za_1: 6879><310.5><4538><46><Five Pebbles><Five Pebbles
 100K_LC_ariesclient_1: 7098><3102><4556><1948><Metropolis><Metropolis
-100K_LC_blobtic73391_1: 8112><3112.5><5256><1996><Metropolis><Metropolis
-100K_LC_frogturtle56_1: 7662><2212.5><5060><1436><Metropolis><Metropolis
-100K_LC_gonterhaoz_1: 7594.5><3529.5><4982><2296><Metropolis><Metropolis
-100K_LC_iyonkoi_1: 7596><2647.5><4842><1644><Metropolis><Metropolis
-100K_RM_buzzbud_1: 10347><541.5><6850><322><NONE><
+100K_LC_blobtic73391_1: 8112><3115.5><5256><1996><Metropolis><Metropolis
+100K_LC_frogturtle56_1: 7662><2215.5><5060><1436><Metropolis><Metropolis
+100K_LC_gonterhaoz_1: 7591.5><3532.5><4982><2296><Metropolis><Metropolis
+100K_LC_iyonkoi_1: 7596><2650.5><4842><1644><Metropolis><Metropolis
+100K_RM_buzzbud_1: 10347><544.5><6850><322><NONE><
 100K_RM_damoonlord_1: 9687><105><6386><-102><The Rot><The Rot
 100K_RM_damoonlord_2: 9378><318><6220><188><The Rot><The Rot
-100K_RM_frogturtle56_1: 9645><-271.5><6382><-220><The Rot><The Rot
-100K_CL_tankium_1: 5010><-2671.5><3188><-1820><Silent Construct><
-100K_LF_ariesclient_1: -4125><-4426.5><-2798><-2990><Farm Arrays><Farm Arrays
-100K_LF_chromaticalblight_1: -2338.5><-3949.5><-1605><-2663><Farm Arrays><Farm Arrays
+100K_RM_frogturtle56_1: 9645><-268.5><6382><-220><The Rot><The Rot
+100K_CL_tankium_1: 5010><-2668.5><3188><-1820><Silent Construct><
+100K_LF_ariesclient_1: -4125><-4423.5><-2798><-2990><Farm Arrays><Farm Arrays
+100K_LF_chromaticalblight_1: -2341.5><-3946.5><-1605><-2663><Farm Arrays><Farm Arrays
 100K_LF_chromaticalblight_2: -1989><-3960><-1386><-2668><Farm Arrays><Farm Arrays
 100K_LF_chromaticalblight_3: -1125><-3228><-954><-2222><NONE><
-100K_LF_crimsont04_1: -1698><-3739.5><-1232><-2529><Farm Arrays><
-100K_LF_haysen_1: -3813><-4153.5><-2746><-2808><Farm Arrays><Farm Arrays
+100K_LF_crimsont04_1: -1698><-3736.5><-1232><-2529><Farm Arrays><
+100K_LF_haysen_1: -3813><-4150.5><-2746><-2808><Farm Arrays><Farm Arrays
 100K_LF_lwrcsv_1: -3396><-3918><-2312><-2688><Farm Arrays><Farm Arrays
 100K_LF_mk-0_1: -4461><-3927><-3088><-2656><Farm Arrays><Farm Arrays
-100K_LF_myrmice_1: -2151><-3694.5><-1586><-2499><Farm Arrays><Farm Arrays
-100K_LF_slithersss_1: -3417><-3625.5><-2330><-2496><Farm Arrays><Farm Arrays
-100K_LF_tapok109_1: -3006><-3658.5><-2054><-2556><Farm Arrays><Farm Arrays
-100K_LF_totallydutch_1: -2583><-3817.5><-1770><-2581><Farm Arrays><Farm Arrays
+100K_LF_myrmice_1: -2151><-3691.5><-1586><-2499><Farm Arrays><Farm Arrays
+100K_LF_slithersss_1: -3417><-3622.5><-2330><-2496><Farm Arrays><Farm Arrays
+100K_LF_tapok109_1: -3006><-3655.5><-2054><-2556><Farm Arrays><Farm Arrays
+100K_LF_totallydutch_1: -2583><-3814.5><-1770><-2581><Farm Arrays><Farm Arrays
 100K_SB_ethanwantsfood_1: -2727><-5304><0><-156><Subterranean><Subterranean
-100K_SB_flanace_1: -4527><-5478><0><-78><Subterranean><Subterranean
-100K_SB_gamerguy35_1: -4050><-6234><0><-230><Subterranean><Subterranean
-100K_SB_iyonkoi_1: -4227><-5184><0><-74><Subterranean><Subterranean
-100K_SB_miles4daze_1: -5061><-5493><0><-70><Subterranean><Subterranean
-100K_SB_novatheskeledragon_1: -3396><-5079><0><-70><Subterranean><
-100K_SB_slithersss_1: -4821><-5025><0><-70><Subterranean><Subterranean
-100K_SB_tankium_1: -4086><-5880><0><-150><Subterranean><Subterranean
-100K_SB_tronsx_1: -2055><-5460><0><-170><Subterranean><Subterranean
-OffScreenDen_100K: 96><-15><0><-20><0><
-100K_SU_damoonlord_1: -972><-3705><-794><-2542><><Outskirts
+100K_SB_flanace_1: -4530><-5475><0><-78><Subterranean><Subterranean
+100K_SB_gamerguy35_1: -4053><-6231><0><-230><Subterranean><Subterranean
+100K_SB_iyonkoi_1: -4230><-5181><0><-74><Subterranean><Subterranean
+100K_SB_miles4daze_1: -5061><-5490><0><-70><Subterranean><Subterranean
+100K_SB_novatheskeledragon_1: -3396><-5076><0><-70><Subterranean><
+100K_SB_slithersss_1: -4821><-5022><0><-70><Subterranean><Subterranean
+100K_SB_tankium_1: -4086><-5877><0><-150><Subterranean><Subterranean
+100K_SB_tronsx_1: -2055><-5457><0><-170><Subterranean><Subterranean
+100K_SU_damoonlord_1: -975><-3705><-794><-2542><Outskirts><
+100K_OE_cocoaraptor_1: -8475><-5664><-5750><-3812><0><Outer Expanse
+100K_OE_damoonlord_1: -5622><-4911><-3788><-3318><0><Outer Expanse
+100K_OE_damoonlord_2: -7716><-5247><-5192><-3694><0><Outer Expanse
+100K_OE_emptyraider101_1: -7686><-5994><-5172><-4034><0><Outer Expanse
+100K_OE_frostbite1036_1: -7314><-5274><-4924><-3592><0><Outer Expanse
+100K_OE_katolato_1: -6825><-5679><-4718><-3868><0><Outer Expanse
+100K_OE_kemkemkemkemkemkem_1: -8064><-5649><-5448><-3808><0><Outer Expanse
+100K_OE_novatheskeledragon_1: -7536><-5637><-5200><-3800><0><Outer Expanse
+100K_OE_ratrixrose_1: -5640><-5385><-3808><-3786><0><Outer Expanse
+100K_OE_rbor_1: -6153><-5391><-4162><-3710><0><Outer Expanse
+100K_OE_rolingp3_1: -7254><-5985><-4884><-4026><0><Outer Expanse
+100K_OE_zamtreon_1: -8865><-5664><-5984><-3812><0><Outer Expanse
+100K_OE_zamtreon_2: -9207><-5643><-6182><-3796><0><Outer Expanse
+OffScreenDen_100k: 96><-15><0><-20><0><
 Connection: 100K_SU_ariesclient_1,100K_SU_damoonlord_1,74,83,135,56,3,0
 Connection: 100K_SU_ariesclient_1,100K_SU_lunatav_1,99,11,2,5,3,2
 Connection: 100K_SU_clapom_1,100K_SU_damoonlord_1,64,33,130,10,0,0
@@ -339,3 +352,16 @@ Connection: 100K_SB_flanace_1,100K_SB_miles4daze_1,13,10,36,15,3,0
 Connection: 100K_SB_gamerguy35_1,100K_SB_tankium_1,78,110,41,9,1,0
 Connection: 100K_SB_iyonkoi_1,100K_SB_slithersss_1,12,24,91,13,2,3
 Connection: 100K_SB_miles4daze_1,100K_SB_slithersss_1,27,30,10,7,0,3
+Connection: 100K_SB_miles4daze_1,100K_OE_ratrixrose_1,4,3,36,38,2,1
+Connection: 100K_OE_cocoaraptor_1,100K_OE_zamtreon_1,8,25,55,8,2,0
+Connection: 100K_OE_cocoaraptor_1,100K_OE_kemkemkemkemkemkem_1,82,24,2,9,0,2
+Connection: 100K_OE_damoonlord_1,100K_OE_ratrixrose_1,36,21,39,165,0,0
+Connection: 100K_OE_damoonlord_2,100K_OE_novatheskeledragon_1,23,19,27,26,3,3
+Connection: 100K_OE_emptyraider101_1,100K_OE_rolingp3_1,24,4,11,6,3,3
+Connection: 100K_OE_frostbite1036_1,100K_OE_novatheskeledragon_1,26,10,151,32,3,3
+Connection: 100K_OE_katolato_1,100K_OE_novatheskeledragon_1,8,52,144,21,3,3
+Connection: 100K_OE_katolato_1,100K_OE_rbor_1,158,45,10,8,0,3
+Connection: 100K_OE_katolato_1,100K_OE_rolingp3_1,68,21,36,9,2,3
+Connection: 100K_OE_kemkemkemkemkemkem_1,100K_OE_novatheskeledragon_1,69,9,29,13,0,3
+Connection: 100K_OE_ratrixrose_1,100K_OE_rbor_1,2,105,41,59,2,3
+Connection: 100K_OE_zamtreon_1,100K_OE_zamtreon_2,19,8,43,21,2,0
