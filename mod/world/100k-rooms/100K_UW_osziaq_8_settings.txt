@@ -1,0 +1,10 @@
+Template: NONE
+DangerType: Thunder
+Clouds: 0.3586957
+Grime: 0.08695652
+Palette: 16
+EffectColorA: 18
+EffectColorB: 8
+Effects: Lightning-0.8043478-20-20, BkgOnlyLightning-0.1304348-30-30, ExtraLoudThunder-0.3478261-40-40, GreenSparks-0.3369565-50-50, ElectricDeath-1-60-60, 
+PlacedObjects: LightSource><212.8521><687.6319><0.6086956~Environment~0~100~-438.0001~-151.3975~0~0~None~0~0, 
+FadePalette: 17, 0.3695652, 0.3478261

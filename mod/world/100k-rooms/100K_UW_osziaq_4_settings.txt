@@ -1,0 +1,10 @@
+Template: NONE
+DangerType: Thunder
+Clouds: 0.423913
+Grime: 0.07608695
+Palette: 16
+EffectColorB: 3
+Effects: ElectricDeath-1-20-20, Lightning-0.5543478-30-30, ExtraLoudThunder-0.2282609-40-40, 
+PlacedObjects: LightSource><633.1445><297.8882><0.5760869~Environment~-48~73~50~86.60254~0~0~None~0~0, LightSource><389.2026><527.6963><0.7065217~Environment~-48~83~-185~-167.3975~0~0~None~0~0, CosmeticSlimeMold2><392.5839><293.1776><42~-86, SlimeMold><390.3834><275.8357><0~0~2~3, SlimeMold><414.6877><297.9346><0~0~2~3, LightFixture><412.9474><272.2812><SlimeMoldLight~17.32051~-10~92, 
+AmbientSounds: SPOT><am_ind-midsex02.ogg><646.4064><296.6767><0.3695652><1><618.3918><558.6772><-105.3553><-25.35535><0><0.1652175, SPOT><am_ind-factory03.ogg><754.4498><486.9916><0.2065217><0.7065217><493.4499><162.9916><-54.35535><-38.35535><0><0.1652175, 
+FadePalette: 17, 0.2934783

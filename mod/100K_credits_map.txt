@@ -107,7 +107,7 @@ myrmice : Myrmice
 nimble102 : Nimble
 nopuddles : Nopuddles
 novatheskeledragon : Nova
-oscarriaq : Oscarriaq
+osziaq : Osziaq
 overpoweredpizza : OverpoweredPizza
 pelicaninimpiety : Pelican
 piotr08 : Piotr08

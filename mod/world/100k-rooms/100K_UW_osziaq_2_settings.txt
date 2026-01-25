@@ -1,0 +1,11 @@
+Template: NONE
+DangerType: None
+CeilingDrips: 0
+RainIntensity: 0
+RumbleIntensity: 0
+Grime: 0.2717391
+Palette: 30
+EffectColorA: 13
+Effects: RoofTopView-1-20-20, Dustpuffs-1-30-30, 
+FadePalette: 28, 0, 0, 0, 0, 0, 0, 0.5, 1
+MorePalette0: 10, 0, 0, 0, 0, 0, 0, 0.1086956, 0.3043478

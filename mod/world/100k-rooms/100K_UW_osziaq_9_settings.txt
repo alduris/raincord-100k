@@ -1,0 +1,10 @@
+Template: NONE
+DangerType: Thunder
+Clouds: 0.25
+Grime: 0.08695652
+Palette: 16
+EffectColorA: 18
+EffectColorB: 8
+Effects: ElectricDeath-1-20-20, Lightning-0.7826087-30-30, ExtraLoudThunder-0.3478261-40-40, GreenSparks-0.3913043-50-50, BkgOnlyLightning-0.1413043-60-60, 
+PlacedObjects: LightSource><247.8595><1218.833><0.5978261~Environment~30~109~50~86.60254~0~0~None~0~0, DangleFruit><408.8151><548.8177><-217.0073~33.32651~2~3, DangleFruit><430.6308><623.6066><-208~-150.9999~2~3, DangleFruit><471.1639><599.7471><-538.1754~110.0457~2~3, 
+FadePalette: 17, 0.3804348, 0.3369565, 0

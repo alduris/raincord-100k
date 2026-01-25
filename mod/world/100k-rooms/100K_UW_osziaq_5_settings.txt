@@ -1,0 +1,9 @@
+Template: NONE
+DangerType: Thunder
+Clouds: 0.3369565
+Grime: 0.1304348
+Palette: 16
+EffectColorB: 5
+Effects: ElectricDeath-1-20-20, Lightning-0.5543478-30-30, ExtraLoudThunder-0.2282609-38-80, 
+PlacedObjects: LightSource><665.1858><441.9259><0.6086956~Environment~-33~92~50~86.60254~0~0~None~0~0, LightSource><509.2><599.0032><0.7065217~Environment~-88~72~-185~-269.3974~0~0~None~0~0, 
+FadePalette: 17, 0.326087
