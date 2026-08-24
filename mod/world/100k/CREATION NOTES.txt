@@ -21,12 +21,8 @@ ROOM NEEDS
   - some other room to connect to SI
   - UW connect to CC_rbor
 
-- Garbage Wastes needs:
-  - tall room connecting from DS to main GW area
-
 - Shoreline needs:
   - LTTM room
-  - outdoor room connecting to SH connection area (SL_memorycrypts) (also needs to connect to SL_haysen and SL_lwrcsv)
   - shelter in SL_april
 
 - Shaded Citadel needs:
@@ -34,24 +30,18 @@ ROOM NEEDS
   - also just a general evaluation
 
 - The Exterior needs:
-  - probably an extra room in underhang for sure, maybe accepting for leg or wall
-  - roof room
   - shelter question mark
 
 - Five Pebbles needs:
-  - roof room as mentioned prior
   - more rooms at the top I think
 
 - Farm Arrays needs:
   - Shelter connecting to bottom of LF_Tapok (down-facing)
   - Deer room! (LF_slithersss (bottom left), LF_haysen (top left), LF_mk0 (right)
   - LF_ariesclient is pearl stash room
-  - Some way to get to the SI connection (probably replace connection between LF_slithersss and LF_tapok)
-  - where to connect the WBLA transition room? (chromaticalblight3) or should that go in WBLA instead
 
 - Subterranean needs:
-  - some room to connect trains to SL area. miros section?
-  - depths
+  - depths?
 
 
 Notes about specific rooms, either general or user requests.
@@ -70,6 +60,7 @@ ROOMS:
 Connect two OE Zamtreon rooms
 100K_RM_damoonlord_2 is *supposed* to be a shelter but I think it'd be better if it's a "fake" shelter with a custom "glitchy" icon
 100K_SB_novatheskeledragon_1 is a shelter
+100K_SB_alduris_1 needs dev tools region bump trigger event for bottom of room
 100K_SI_ethanwantsfood_1 is a shelter
 100K_SL_nimble109_1 is a swarm room
 100K_SS_zar4za_1 may need corruption dev tools adjusted to not obstruct bottom entrance

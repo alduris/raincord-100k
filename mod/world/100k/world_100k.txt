@@ -88,7 +88,7 @@ ROOMS
 100K_LF_crimsont04_1 : 100K_LF_myrmice_1, 100K_SU_damoonlord_1
 100K_LF_haysen_1 : 100K_LF_lwrcsv_1, 100K_LF_mk-0_1, 100K_LF_ariesclient_1, 100K_LF_tapok109_1
 100K_LF_lwrcsv_1 : 100K_LF_slithersss_1, 100K_LF_haysen_1
-100K_LF_mk-0_1 : 100K_LF_haysen_1, DISCONNECTED
+100K_LF_mk-0_1 : 100K_LF_haysen_1, 100K_SB_alduris_1
 100K_LF_myrmice_1 : 100K_LF_totallydutch_1, 100K_LF_crimsont04_1
 100K_LF_slithersss_1 : 100K_LF_alduris_1, 100K_LF_lwrcsv_1, DISCONNECTED
 100K_LF_tapok109_1 : 100K_LF_alduris_1, 100K_LF_totallydutch_1, 100K_LF_haysen_1
@@ -110,12 +110,12 @@ ROOMS
 100K_RM_damoonlord_1 : 100K_RM_damoonlord_2, 100K_SS_novatheskeledragon_1, 100K_RM_frogturtle56_1
 100K_RM_damoonlord_2 : 100K_RM_damoonlord_1
 100K_RM_frogturtle56_1 : 100K_RM_damoonlord_1, 100K_UW_itztheblu_1
-100K_SB_ethanwantsfood_1 : DISCONNECTED, 100K_SB_tronsx_1
-100K_SB_flanace_1 : DISCONNECTED, 100K_SB_tankium_1, 100K_SB_miles4daze_1
-100K_SB_gamerguy35_1 : DISCONNECTED, 100K_SB_tankium_1, DISCONNECTED, 100K_VS_dragonly44_1, 100K_HR_flanace_1
-100K_SB_iyonkoi_1 : 100K_SB_slithersss_1, DISCONNECTED
+100K_SB_ethanwantsfood_1 : 100K_SB_alduris_1, 100K_SB_tronsx_1
+100K_SB_flanace_1 : 100K_SB_alduris_1, 100K_SB_tankium_1, 100K_SB_miles4daze_1
+100K_SB_gamerguy35_1 : 100K_SB_tankium_1, 100K_SB_alduris_1, DISCONNECTED, 100K_VS_dragonly44_1, 100K_HR_flanace_1
+100K_SB_iyonkoi_1 : 100K_SB_slithersss_1, 100K_SB_alduris_1
 100K_SB_miles4daze_1 : 100K_SB_slithersss_1, 100K_SB_flanace_1, 100K_OE_ratrixrose_1, DISCONNECTED
-100K_SB_novatheskeledragon_1 : DISCONNECTED : SHELTER
+100K_SB_novatheskeledragon_1 : 100K_SB_alduris_1 : SHELTER
 100K_SB_slithersss_1 : 100K_SB_iyonkoi_1, DISCONNECTED, 100K_SB_miles4daze_1
 100K_SB_tankium_1 : DISCONNECTED, 100K_SB_flanace_1, 100K_DS_tryn1010_1, 100K_SB_gamerguy35_1
 100K_SB_tronsx_1 : 100K_SB_ethanwantsfood_1, 100K_SL_kebasnaek_1, DISCONNECTED
@@ -223,6 +223,7 @@ ROOMS
 100K_SI_walekks_1 : 100K_SI_randomerosion_3, 100K_SI_iyonkoi_1
 100K_SI_zarquon_1 : 100K_SI_sniffledorf_1, 100K_SI_echidna1_1, 100K_SI_gabkai11_1
 100K_GW_alduris_1 : 100K_GW_wrayk_1, 100K_GW_january_1, 100K_GW_wonk_1
+100K_SB_alduris_1 : 100K_LF_mk-0_1, 100K_SB_novatheskeledragon_1, DISCONNECTED, 100K_SB_iyonkoi_1, 100K_SB_ethanwantsfood_1, 100K_SB_gamerguy35_1, 100K_SB_flanace_1
 END ROOMS
 CREATURES
 
