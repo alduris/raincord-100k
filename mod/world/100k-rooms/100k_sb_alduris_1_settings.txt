@@ -1,0 +1,12 @@
+Template: NONE
+Clouds: 0.8260869
+Grime: 0.2173913
+Palette: 14
+EffectColorA: 19
+EffectColorB: 16
+Effects: ModifyEffectColorB-0.2608696,0.423913,0.3804348-446-595, 
+PlacedObjects: EffectOverrideRect><1609.268><1232.301><289~1668~5~-220~-1~7~0~0.5~0.5~0~0.5~0.5~0~29~-1, EffectOverrideRect><1076.655><1286.324><398~166~-400~-20~-1~7~0~0.5~0.5~0~0.4021739~0.3913043~0~29~-1, CustomDecal><491.6875><237.4305><6~283~707~278~711~1~-5~-341~0~0.2934783~0~rustb3~0.5326087~1~0.5326087~1~0.5326087~1~0.5326087~1, CustomDecal><889><229><6~283~707~278~711~1~21~-343~0~0.2934783~0~rustb3~0.5326087~1~0.5326087~1~0.5326087~1~0.5326087~1, EffectOverrideRect><157.3005><69.23572><2012~891~-13~367~6~-1~0~0.3913043~0.3152174~0~0.5~0.5~0~29~-1, LightSource><404.3105><206.3139><0.1521739~Environment~118~1~-285~148.6025~0~0~None~0~0, LightSource><1105.583><178.3892><0.1847826~Environment~122~-4~50~86.60254~0~0~None~0~0, LightSource><1958.191><205.4412><0.1413043~Environment~-153~-12~50~86.60254~0~0~None~0~0, 
+Triggers: Rect<tA>event<tB>RegionBump<tA>multiUse<tB>0<tA>toCycle<tB>-1<tA>fromCycle<tB>0<tA>delay<tB>0<tA>panPos<tB>115.738<tB>397.1996<tA>fireChance<tB>1<tA>entrance<tB>-1<tA>karma<tB>0<tA>slugcats<tB><tA>handle1<tB>84.73804<tB>72.19965<tA>handle2<tB>2367.738<tB>833.1996, RegionBump<tA>event<tB>MusicEvent<eA>songName<eB>bm_sb_subway<eA>vol<eB>0.5500004<eA>prio<eB>0.5<eA>mxThrt<eB>1<eA>loop<eB>0<eA>droneTol<eB>0<eA>rooms<eB>-1<eA>rest<eB>5<eA>fadeIn<eB>0<eA>oneSongPerCycle<eB>0<eA>stopAtDeath<eB>0<eA>stopAtGate<eB>0<tA>multiUse<tB>0<tA>toCycle<tB>-1<tA>fromCycle<tB>0<tA>delay<tB>0<tA>panPos<tB>408.3035<tB>390.2875<tA>fireChance<tB>1<tA>entrance<tB>0<tA>karma<tB>0<tA>slugcats<tB>, 
+FadePalette: 8, 0.2065217, 0, 0, 0, 0
+WetTerrain: OFF
+MorePalette0: 21, 0, 0.2391304, 0.4673913, 0.7173913, 0.7173913
