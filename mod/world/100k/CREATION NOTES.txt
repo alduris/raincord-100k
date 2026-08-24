@@ -103,3 +103,44 @@ Thysi rooms:
 
 SONGS:
 sequoia_stratocumulus.ogg put somewhere high
+
+REGIONS PLACED:
+CC	x
+CL	x
+DM	
+DS	x
+GW	x
+HI	x
+HR	x
+LC	x
+LF	x
+LM	
+MS	x
+OE	x
+RM	x
+SB	x
+SH	x
+SI	x
+SL	x
+SS	x
+SU	x
+UG	
+UW	x
+VS	x
+WARX	
+WAUA	
+WBLA	
+WDSR	
+WGWR	
+WHIR	
+WORA	
+WPTA	
+WRFA	
+WRFB	
+WRRA	
+WRSA	
+WSKX	
+WSSR	
+WTDA	
+WTDB	
+WVWA	
