@@ -273,10 +273,20 @@ OffScreenDen_100k: 96><-15><0><-20><0><
 100K_WRRA_0rchid_1: 21480><-4302><0><-86><1><Rusted Wrecks
 100K_WRRA_blobtic73391_1: 22662><-4308><0><-70><1><Rusted Wrecks
 100K_WRRA_kemkemkemkemkemkem_1: 22068><-4317><0><-74><1><Rusted Wrecks
-100K_WRSA_wednesday77.648am_1: 22017><-1428><0><-86><1><Daemon
+100K_WRSA_wednesday77.648am_1: 15324><114><0><-86><1><Daemon
 100K_WSKB_haizlbliek_1: 20982><-4080><0><-70><1><Stormy Coast
 100K_WSKC_forthfora_1: 21165><-3849><0><-70><1><Stormy Coast
 100K_WSKD_scoutriley_1: 21408><-4032><0><-150><1><Stormy Coast
+100K_WDSR_creativegamer03_1: 13761><72><0><-70><1><Rotten World
+100K_WGWR_creativegamer03_1: 14820><102><0><-70><1><Rotten World
+100K_WHIR_creativegamer03_1: 14466><285><0><-70><1><Rotten World
+100K_WHIR_creativegamer03_2: 14976><321><0><-70><1><NONE
+100K_WSSR_ko5i_1: 14061><618><0><-230><1><Rotten World
+100K_WSSR_wonk_1: 14019><1191><0><-390><1><Rotten World
+100K_WSUR_novatheskeledragon_1: 13887><267><0><-76><1><Rotten World
+100K_WAUA_flanace_1: 16239><33><0><-78><1><Ancient Urban
+100K_WAUA_nopuddles_1: 16245><360><0><-70><1><Ancient Urban
+100K_WAUA_pur._1: 15834><144><0><-410><1><Ancient Urban
 Connection: 100K_CC_alduris_1,100K_CC_rostik630uwu_1,27,74,10,22,3,2
 Connection: 100K_CC_alduris_1,100K_CC_hobart_1,20,20,48,11,3,0
 Connection: 100K_CC_alduris_1,100K_CC_alduris_2,27,20,12,7,3,2
@@ -582,5 +592,18 @@ Connection: 100K_WRFA_inspectnerd_1,100K_WRFB_thysi_1,3,19,61,46,2,0
 Connection: 100K_WRRA_0rchid_1,100K_WSKB_haizlbliek_1,34,33,42,6,2,0
 Connection: 100K_WRRA_0rchid_1,100K_WRRA_kemkemkemkemkemkem_1,76,7,6,12,3,3
 Connection: 100K_WRRA_blobtic73391_1,100K_WRRA_kemkemkemkemkemkem_1,1,10,153,6,-1,3
+Connection: 100K_WRSA_wednesday77.648am_1,100K_WAUA_pur._1,150,12,16,42,3,2
+Connection: 100K_WRSA_wednesday77.648am_1,100K_WGWR_creativegamer03_1,8,6,41,10,3,0
 Connection: 100K_WSKB_haizlbliek_1,100K_WSKD_scoutriley_1,44,27,11,7,0,2
 Connection: 100K_WSKC_forthfora_1,100K_WSKD_scoutriley_1,138,26,21,69,0,2
+Connection: 100K_WDSR_creativegamer03_1,100K_WSUR_novatheskeledragon_1,40,32,7,20,1,2
+Connection: 100K_WDSR_creativegamer03_1,100K_WGWR_creativegamer03_1,32,3,6,1,0,0
+Connection: 100K_WGWR_creativegamer03_1,100K_WHIR_creativegamer03_1,3,18,205,9,2,0
+Connection: 100K_WHIR_creativegamer03_1,100K_WHIR_creativegamer03_2,205,24,17,10,0,2
+Connection: 100K_WHIR_creativegamer03_1,100K_WSSR_ko5i_1,17,19,38,5,2,3
+Connection: 100K_WHIR_creativegamer03_1,100K_WSUR_novatheskeledragon_1,17,13,53,23,2,0
+Connection: 100K_WSSR_ko5i_1,100K_WSSR_wonk_1,15,108,31,6,1,3
+Connection: 100K_WSSR_ko5i_1,100K_WSUR_novatheskeledragon_1,9,5,54,32,3,0
+Connection: 100K_WAUA_flanace_1,100K_WAUA_pur._1,20,29,49,81,2,0
+Connection: 100K_WAUA_flanace_1,100K_WAUA_nopuddles_1,164,12,151,8,0,3
+Connection: 100K_WAUA_nopuddles_1,100K_WAUA_pur._1,7,24,48,180,3,0

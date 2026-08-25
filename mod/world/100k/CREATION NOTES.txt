@@ -72,7 +72,6 @@ Connect two OE Zamtreon rooms
 100K_SU_crafterz_1 is a swarm room
 100K_UW_funkytrashcan_1 -> den 2: pole plant | den 3: cyan lizard(s) | also put a pearl probably
 100K_UW_creativegamer03_1 -> cyan lizards in the orb and a dropwig near the bottom
-100K_WAUA_blobtic_2 is a "shelter"???? wjhy is it so incomprehensible and why is it green, WAUA's whole shtick is that it *doesn't* have color. needs change
 100K_WHIR_creativegamer03_2 is a shelter
 100K_WSSR_wonk_1 needs corruption spores fixed (maybe all of rotted region rooms tbh, check if it's a hardcoded thing)
 100K_WPTA_chromaticalblight_1 is a swarm room
@@ -122,18 +121,18 @@ UG	x
 UW	x
 VS	x
 WARX	x
-WAUA	
+WAUA	x
 WBLA	x
-WDSR	
-WGWR	
-WHIR	
-WORA	
+WDSR	x
+WGWR	x
+WHIR	x
+WORA	x
 WPTA	x
 WRFX	x
-WRRA	
-WRSA	
-WSKX	
-WSSR	
+WRRA	x
+WRSA	x
+WSKX	x
+WSSR	x
 WTDA	x
 WTDB	x
 WVWA	x
