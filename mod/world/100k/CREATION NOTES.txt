@@ -98,14 +98,14 @@ sequoia_stratocumulus.ogg put somewhere high
 REGIONS PLACED:
 CC	x
 CL	x
-DM	
+DM	x
 DS	x
 GW	x
 HI	x
 HR	x
 LC	x
 LF	x
-LM	
+LM	x
 MS	x
 OE	x
 RM	x
@@ -115,7 +115,7 @@ SI	x
 SL	x
 SS	x
 SU	x
-UG	
+UG	x
 UW	x
 VS	x
 WARX	
