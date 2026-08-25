@@ -43,6 +43,9 @@ ROOM NEEDS
 - Subterranean needs:
   - depths?
 
+- Signal Spires needs:
+  - some sort of indoor filler rooms because there are too few entrances
+
 
 Notes about specific rooms, either general or user requests.
 
@@ -118,14 +121,14 @@ SU	x
 UG	x
 UW	x
 VS	x
-WARX	
+WARX	x
 WAUA	
-WBLA	
+WBLA	x
 WDSR	
 WGWR	
 WHIR	
 WORA	
-WPTA	
+WPTA	x
 WRFA	
 WRFB	
 WRRA	

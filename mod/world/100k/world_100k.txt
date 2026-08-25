@@ -236,6 +236,26 @@ ROOMS
 100K_LM_av3ry_5 : 100K_LM_av3ry_2, 100K_LM_av3ry_4
 100K_LM_av3ry_6 : DISCONNECTED, DISCONNECTED, 100K_DM_fatalerror404_1
 100K_LM_av3ry_7 : 100K_DM_fatalerror404_1
+100K_WARB_hallowfish_1 : 100K_WPTA_chromaticalblight_1, 100K_WPTA_nopuddles_1, 100K_WARG_crafterz_1, DISCONNECTED, 100K_WARE_zar4za_1, 100K_WARB_wonk_1
+100K_WARB_wonk_1 : 100K_WARC_overpoweredpizza_1, 100K_WARB_hallowfish_1
+100K_WARC_funkytrashcan_1 : 100K_WARC_overpoweredpizza_2
+100K_WARC_nopuddles_1 : DISCONNECTED, 100K_WARC_overpoweredpizza_1
+100K_WARC_overpoweredpizza_1 : 100K_WARC_overpoweredpizza_2, 100K_WARC_nopuddles_1, 100K_WARB_wonk_1
+100K_WARC_overpoweredpizza_2 : 100K_WARC_funkytrashcan_1, 100K_WARC_overpoweredpizza_1
+100K_WARE_zar4za_1 : 100K_WARB_hallowfish_1, 100K_WARF_january_1
+100K_WARF_january_1 : 100K_WARE_zar4za_1
+100K_WARG_crafterz_1 : 100K_WARG_reincarnid_1, 100K_WARB_hallowfish_1
+100K_WARG_reincarnid_1 : 100K_WARG_crafterz_1, DISCONNECTED
+100K_WPTA_chromaticalblight_1 : 100K_WARB_hallowfish_1
+100K_WPTA_creativegamer03_1 : 100K_WPTA_nopuddles_1, 100K_WPTA_gonterhaoz_1
+100K_WPTA_gonterhaoz_1 : 100K_WPTA_creativegamer03_1, DISCONNECTED
+100K_WPTA_nopuddles_1 : 100K_WPTA_creativegamer03_1, 100K_WARB_hallowfish_1
+100K_WPTA_novatheskeledragon_1 : DISCONNECTED
+100K_WBLA_greenca_1 : 100K_WBLA_thysi_2, 100K_WBLA_thysi_1
+100K_WBLA_inspectnerd_1 : 100K_WBLA_thysi_2, DISCONNECTED
+100K_WBLA_thysi_1 : DISCONNECTED, DISCONNECTED, 100K_WBLA_greenca_1, DISCONNECTED
+100K_WBLA_thysi_2 : 100K_WBLA_inspectnerd_1, 100K_WBLA_thysi_3, 100K_WBLA_greenca_1
+100K_WBLA_thysi_3 : 100K_WBLA_thysi_2
 END ROOMS
 CREATURES
 
