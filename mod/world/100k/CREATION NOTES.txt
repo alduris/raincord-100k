@@ -34,6 +34,7 @@ ROOM NEEDS
 
 - Five Pebbles needs:
   - more rooms at the top I think
+  - also a warp room at the bottom, top right of SS_novatheskeletondragon
 
 - Farm Arrays needs:
   - Shelter connecting to bottom of LF_Tapok (down-facing)
