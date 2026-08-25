@@ -252,10 +252,19 @@ ROOMS
 100K_WPTA_nopuddles_1 : 100K_WPTA_creativegamer03_1, 100K_WARB_hallowfish_1
 100K_WPTA_novatheskeledragon_1 : DISCONNECTED
 100K_WBLA_greenca_1 : 100K_WBLA_thysi_2, 100K_WBLA_thysi_1
-100K_WBLA_inspectnerd_1 : 100K_WBLA_thysi_2, DISCONNECTED
+100K_WBLA_inspectnerd_1 : 100K_WBLA_thysi_2, 100K_WTDA_gonterhaoz_1
 100K_WBLA_thysi_1 : DISCONNECTED, DISCONNECTED, 100K_WBLA_greenca_1, DISCONNECTED
 100K_WBLA_thysi_2 : 100K_WBLA_inspectnerd_1, 100K_WBLA_thysi_3, 100K_WBLA_greenca_1
 100K_WBLA_thysi_3 : 100K_WBLA_thysi_2
+100K_WTDA_gonterhaoz_1 : 100K_WBLA_inspectnerd_1, 100K_WTDB_skqrw_1
+100K_WTDB_gonterhaoz_1 : 100K_WTDB_thecubifyer_1, 100K_WTDB_alduris_2
+100K_WTDB_january_1 : 100K_WTDB_skqrw_1, 100K_WTDB_alduris_2
+100K_WTDB_skqrw_1 : 100K_WTDB_january_1, 100K_WTDA_gonterhaoz_1, 100K_WTDB_thysi_1
+100K_WTDB_thecubifyer_1 : 100K_WTDB_gonterhaoz_1, 100K_WTDB_thysi_1, 100K_WTDB_tronsx_1
+100K_WTDB_thysi_1 : 100K_WTDB_tronsx_1, DISCONNECTED, 100K_WTDB_skqrw_1, 100K_WTDB_thecubifyer_1, 100K_WTDB_alduris_1
+100K_WTDB_tronsx_1 : DISCONNECTED, DISCONNECTED, DISCONNECTED, 100K_WTDB_thysi_1, 100K_WTDB_thecubifyer_1, DISCONNECTED, DISCONNECTED, DISCONNECTED, DISCONNECTED
+100K_WTDB_alduris_1 : 100K_WTDB_thysi_1
+100K_WTDB_alduris_2 : DISCONNECTED, 100K_WTDB_gonterhaoz_1, 100K_WTDB_january_1, DISCONNECTED
 END ROOMS
 CREATURES
 
