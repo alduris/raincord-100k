@@ -158,7 +158,7 @@ ROOMS
 100K_SU_alduris_3 : 100K_SU_pelicaninimpiety_1, 100K_SU_lunatav_1
 100K_SU_ariesclient_1 : 100K_SU_damoonlord_1, 100K_SU_lunatav_1
 100K_SU_clapom_1 : 100K_SU_damoonlord_1, 100K_SU_pelicaninimpiety_1
-100K_SU_cocoaraptor_1 : DISCONNECTED
+100K_SU_cocoaraptor_1 : 100K_SU_alicepigeon_1
 100K_SU_crafterz_1 : 100K_SU_vividyon_1, 100K_SU_memorycrypts_1 : SWARMROOM
 100K_SU_damoonlord_1 : 100K_SU_ariesclient_1, 100K_LF_crimsont04_1, 100K_SU_clapom_1
 100K_SU_flanace_1 : 100K_SU_gogurtyuri_1, 100K_SU_alduris_1, 100K_DS_haysen_1
@@ -168,10 +168,10 @@ ROOMS
 100K_SU_lwrcsv_1 : 100K_HI_trearilt_1, 100K_SU_kizorke_1
 100K_SU_memorycrypts_1 : 100K_SU_kizorke_1, 100K_SU_crafterz_1
 100K_SU_pelicaninimpiety_1 : 100K_SU_clapom_1, 100K_SU_alduris_3
-100K_SU_solaristheworstcatever_1 : 100K_SU_tetraneo_1, DISCONNECTED
+100K_SU_solaristheworstcatever_1 : 100K_SU_tetraneo_1, 100K_SU_alicepigeon_1
 100K_SU_tapok109_1 : 100K_SU_kizorke_1, 100K_SU_vividyon_2, 100K_SU_gogurtyuri_1
 100K_SU_tetraneo_1 : 100K_SU_solaristheworstcatever_1, 100K_SU_kizorke_1, 100K_SU_alduris_2
-100K_SU_ultimateunity_1 : DISCONNECTED, 100K_SU_vividyon_1, DISCONNECTED
+100K_SU_ultimateunity_1 : DISCONNECTED, 100K_SU_vividyon_1, 100K_SU_alicepigeon_1
 100K_SU_vividyon_1 : 100K_SU_crafterz_1, 100K_SU_ultimateunity_1
 100K_SU_vividyon_2 : 100K_SU_lunatav_1, 100K_SU_tapok109_1
 100K_UW_3circles_1 : 100K_UW_osziaq_2, DISCONNECTED, 100K_UW_funkytrashcan_1
@@ -295,6 +295,7 @@ ROOMS
 100K_WORA_nopuddles_1 : 100K_WORA_kemkemkemkemkemkem_1, 100K_WGWR_creativegamer03_1
 100K_WORA_puffballcrafter_1 : 100K_WORA_puffballcrafter_2, 100K_WORA_draxiomatica_1, 100K_WORA_dakras_1, DISCONNECTED
 100K_WORA_puffballcrafter_2 : 100K_WORA_puffballcrafter_1 : SHELTER
+100K_SU_alicepigeon_1 : 100K_SU_solaristheworstcatever_1, 100K_SU_ultimateunity_1, 100K_SU_cocoaraptor_1
 END ROOMS
 CREATURES
 
