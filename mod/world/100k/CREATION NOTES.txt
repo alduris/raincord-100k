@@ -47,6 +47,8 @@ ROOM NEEDS
 - Signal Spires needs:
   - some sort of indoor filler rooms because there are too few entrances
 
+remove betterdecals for now!! log spammy
+
 
 Notes about specific rooms, either general or user requests.
 
