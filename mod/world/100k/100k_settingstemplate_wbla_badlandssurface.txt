@@ -1,0 +1,8 @@
+DangerType: Sandstorm
+CeilingDrips: 0
+Clouds: 0.2043848
+Grime: 0.1562619
+Palette: 98
+EffectColorB: 18
+Effects: ModifyEffectColorA-0.260126,0.5,0.1098112-20-20, 
+FadePalette: 99

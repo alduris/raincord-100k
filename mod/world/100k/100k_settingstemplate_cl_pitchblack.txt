@@ -1,0 +1,9 @@
+DangerType: Blizzard
+CeilingDrips: 0
+RainIntensity: 0
+RumbleIntensity: 0
+Clouds: 0
+Grime: 0
+Palette: 10
+EffectColorA: 0
+EffectColorB: 0

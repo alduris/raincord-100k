@@ -4,6 +4,7 @@ using Fisobs.Core;
 using Raincord100k.Damoonlord;
 using Raincord100k.Damoonlord.Peanut;
 using Raincord100k.Hooks;
+using System;
 using System.IO;
 
 namespace Raincord100k
@@ -21,16 +22,23 @@ namespace Raincord100k
             Logger = base.Logger;
         
             On.RainWorld.OnModsInit += Extras.WrapInit(LoadResources);
-            MenuHooks.Apply();
-            DamoonRooms.EnableHooks();
-            PeanutMeta.EnableHooks();
+
+            try
+            {
+                DevToolsHooks.Enable();
+                MenuHooks.Apply();
+                PeanutMeta.EnableHooks();
+            }
+            catch (Exception e)
+            {
+                Logger.LogError(e);
+            }
         }
         
         // Load any resources, such as sprites or sounds
         private void LoadResources(RainWorld rainWorld)
         {
             Constants.RegisterCredits();
-
             ShaderLoader.LoadShaders();
             PomManager.RegisterPlacedObjects();
             

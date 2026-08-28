@@ -1,0 +1,20 @@
+DangerType: AerieBlizzard
+CeilingDrips: 0.2065217
+RainIntensity: 0.6630435
+RumbleIntensity: 0.7391304
+WaveSpeed: 0.475013
+WaveLength: 0.9334132
+WaveAmplitude: 0.02651549
+SecondWaveLength: 0.1666667
+SecondWaveAmplitude: 0
+Clouds: 0.01086957
+Grime: 0.1195652
+BkgDroneVolume: 0.3
+BkgDroneNoThreatVolume: 1
+RandomItemDensity: 0.5
+RandomItemSpearChance: 0.2
+WaterReflectionAlpha: 1
+Palette: 37
+EffectColorA: 19
+EffectColorB: 0
+AmbientSounds: OMNI><AM_ENV-CityTone.ogg><736.9156><564.4313><0.1304348><1, OMNI><AM_ENV-WinterHum.ogg><747.6525><474.1293><0.1304348><1, OMNI><AM_ENV-WinterTrees.ogg><760.3197><403.5865><0.1847826><1, OMNI><AM_WIN-MedWind.ogg><791.1071><307.36><0.2934783><1, OMNI><AM_WIN-HowlingWnd.ogg><805.55><229.7533><0.2717391><0.6478261, OMNI><MSC-ShadowAlley.ogg><820.4478><140.9706><0.1521739><1.078261, 

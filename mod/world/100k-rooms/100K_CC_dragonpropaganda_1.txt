@@ -1,5 +1,5 @@
 CC_DragonPropaganda
-52*75
+52*75|-1|0
 5.8389*5.9814|0|0
 -180,-35|-180,732
 Border: Passable

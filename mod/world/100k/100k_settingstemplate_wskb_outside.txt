@@ -1,0 +1,21 @@
+DangerType: Rain
+CeilingDrips: 0.4
+RainIntensity: 1
+RumbleIntensity: 1
+WaveSpeed: 0.5
+WaveLength: 0.8
+WaveAmplitude: 0
+SecondWaveLength: 0.1666667
+SecondWaveAmplitude: 0
+Clouds: 0.3
+Grime: 0.2173913
+BkgDroneVolume: 0.2
+BkgDroneNoThreatVolume: 1
+RandomItemDensity: 0.6
+RandomItemSpearChance: 0.3
+WaterReflectionAlpha: 1
+Palette: 459
+EffectColorA: 10
+EffectColorB: 3
+Effects: SkyBloom-0.3804348-20-20, RedSwarmer-0.07-363-287, Flies-0.0326087-40-93, Wasp-0.2282609-311-102, Beetle-0.1413043-36-49, SilenceWater-0.5978261-232-246, WaterGlowworm-1-349-301, RockFlea-0.08695652-236-148,  Moth-0.07434782-35-56, ModifyEffectColorA-0.3762989,0.4026038,0.5-888.2577-429,
+AmbientSounds: OMNI><am_env-outside.ogg><724.1387><398.6662><0.3152174><0.823913, OMNI><am_env-woods.ogg><722.115><291.8364><0.25><0.9413043, OMNI><am_env-lightwind.ogg><685.1808><447.0623><0.193913><0.6282609, 

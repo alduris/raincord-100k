@@ -1,0 +1,10 @@
+DangerType: Blizzard
+CeilingDrips: 0
+RainIntensity: 1
+RumbleIntensity: 1
+Clouds: 0
+Grime: 0
+Palette: 10
+EffectColorA: 0
+EffectColorB: 0
+Effects: LightBurn-0.3043478-20-20,

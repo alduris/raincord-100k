@@ -1,0 +1,21 @@
+DangerType: FloodAndRain
+CeilingDrips: 0.8152174
+RainIntensity: 1
+RumbleIntensity: 1
+WaveSpeed: 0.5652174
+WaveLength: 1
+WaveAmplitude: 0.08695652
+SecondWaveLength: 0.1775363
+SecondWaveAmplitude: 0
+Clouds: 0.08695652
+Grime: 0.3043478
+BkgDroneVolume: 0.2769565
+BkgDroneNoThreatVolume: 0
+RandomItemDensity: 0.5543478
+RandomItemSpearChance: 0.2
+WaterReflectionAlpha: 1
+Palette: 35
+EffectColorA: 0
+EffectColorB: 6
+Effects: BrokenZeroG-0.01086957-266-128, ElectricDeath-1-20-20, BorderPushBack-1-5-79, Fog-0.4565217-0-0, WaterGlowworm-0.12-16-36, RockFlea-0.05-14-126, 
+AmbientSounds: OMNI><SO_WAT-MoreDrips.ogg><791.2595><120.8002><0.35><1, OMNI><SO_WAT-LilDrips.ogg><785.4299><197.4125><0.15><1, OMNI><MSC-HeavyCreaking.ogg><438.8279><645.0658><0.0847823><0.3934778, OMNI><MSC-UnrelentingBreakage.ogg><624.9498><647.2405><0.1065217><0.3152174, OMNI><MSC-StructureStrain.ogg><625.3441><563.3235><0.4195652><0.1195652, OMNI><AM_WAT-Sea01.ogg><828.1245><567.5935><0.2391304><1, OMNI><AM_IND-SuperStructure.ogg><98.44861><429.4763><0.25><0.9021739, OMNI><AM_ENV-LightWind.ogg><831.1455><642.5795><0.4204348><1, 

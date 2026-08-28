@@ -1,5 +1,5 @@
 WORA_puffballcrafterS
-48*36
+48*36|-1|0
 5.9757*5.2643|0|0
 -220,-50
 Border: Passable

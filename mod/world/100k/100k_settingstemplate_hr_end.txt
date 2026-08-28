@@ -1,0 +1,21 @@
+DangerType: None
+CeilingDrips: 0
+RainIntensity: 0
+RumbleIntensity: 0
+WaveSpeed: 0.51
+WaveLength: 1
+WaveAmplitude: 0.0001
+SecondWaveLength: 1
+SecondWaveAmplitude: 0.0001
+Clouds: 1
+Grime: 0
+BkgDroneVolume: 0
+BkgDroneNoThreatVolume: 1
+RandomItemDensity: 0
+RandomItemSpearChance: 0
+WaterReflectionAlpha: 0
+Palette: 23
+EffectColorA: 0
+EffectColorB: 0
+Effects: RoomWrap-1-19-128, ZeroG-1-16-73, SSMusic-0.01086957-17-15, VoidMelt-0.09782609-271-14, VoidSpawn-0.01086957-271-70, 
+AmbientSounds: OMNI><SO_SFX-Doomsday.ogg><847.3012><640.478><0.2717391><0.8434783, OMNI><SO_SFX-Pi.ogg><673.048><641.1942><0.326087><1, 

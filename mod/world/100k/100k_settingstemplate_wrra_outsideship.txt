@@ -1,0 +1,27 @@
+DangerType: Rain
+CeilingDrips: 0.65
+RainIntensity: 1
+RumbleIntensity: 1
+WaveSpeed: 0.555207
+WaveLength: 0.9220515
+WaveAmplitude: 0.2597235
+SecondWaveLength: 0.1666667
+SecondWaveAmplitude: 0.1406837
+RandomItemDensity: 0.75
+RandomItemSpearChance: 0.45
+Clouds: 0.1198619
+Grime: 0.1731491
+Palette: 464
+EffectColorA: 14
+EffectColorB: 6
+TerrainLight: 0
+TerrainStainAmount: 0
+TerrainStainBrightness: 0
+TerrainStainHeight: 0
+TerrainWaves: 1
+TerrainEdgeRadius: 51.34251
+TerrainGooHeight: 0.1558984
+TerrainDepth: -1.883631
+TerrainPalette: rustedwrecks
+Effects: SilenceWater-0.7034184-357.5549-370, Ant-0.2921892-219.2094-141, Flies-0.03410916-630.3953-105, Beetle-0.03739635-71.90338-87, Wasp-0.0706838-350.7174-67, WaterGlowworm-1-393.5724-185, RockFlea-0.8060219-336.8667-244, ModifyEffectColorA-0.9739639,0.8052076,0.5671274-763.8067-431, Bloom-0.2056145-20-20, 
+AmbientSounds: OMNI><AM_WAT-Sea01.ogg><706.4533><189.7615><0.4242474><0.9220831, OMNI><AM_ENV-NatWind.ogg><580.1889><566.3622><0.2643865><0.8052076, OMNI><AM_ENV-Outside.ogg><740.8303><470.1019><0.2835634><0.8636453, 

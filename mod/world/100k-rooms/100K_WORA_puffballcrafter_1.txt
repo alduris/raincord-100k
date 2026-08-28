@@ -1,5 +1,5 @@
 WORA_puffballcrafter2
-48*36
+48*36|-1|0
 4.9744*5.6851|0|0
 -220,-30
 Border: Solid

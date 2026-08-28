@@ -1,0 +1,20 @@
+DangerType: Rain
+CeilingDrips: 0.5
+RainIntensity: 1
+RumbleIntensity: 1
+WaveSpeed: 0.75
+WaveLength: 0.5
+WaveAmplitude: 0
+SecondWaveLength: 0.1666667
+SecondWaveAmplitude: 0
+Clouds: 0.8043478
+Grime: 0.5
+BkgDroneVolume: 0.2769565
+BkgDroneNoThreatVolume: 1
+RandomItemDensity: 0.5
+RandomItemSpearChance: 0.2
+WaterReflectionAlpha: 1
+Palette: 12
+EffectColorA: 4
+EffectColorB: 4
+AmbientSounds: OMNI><AM_RAIN-Rumbles.ogg><710.3321><617.0676><0.5><0.55, OMNI><AM_ENV-CricketsWnd.ogg><770.5598><525.6909><0.7826087><0.6869565, 

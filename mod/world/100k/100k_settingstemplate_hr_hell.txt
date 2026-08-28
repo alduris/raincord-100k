@@ -1,0 +1,21 @@
+DangerType: Flood
+CeilingDrips: 0
+RainIntensity: 0
+RumbleIntensity: 0.5108696
+WaveSpeed: 0.5217391
+WaveLength: 1
+WaveAmplitude: 0.02173913
+SecondWaveLength: 0
+SecondWaveAmplitude: 0.5217391
+Clouds: 0.91
+Grime: 0
+BkgDroneVolume: 0.3
+BkgDroneNoThreatVolume: 1
+RandomItemDensity: 0.5
+RandomItemSpearChance: 0.2
+WaterReflectionAlpha: 0
+Palette: 31
+EffectColorA: 15
+EffectColorB: 14
+Effects: FairyParticles-0-30-30, LethalWater-1-51-122, HeatWave-0.4130435-20-20, FireFlies-1-504-137, Hue-0-36-74, Bloom-0.4782609-327-238, WaterFluxMinLevel-0.1086956-353-66, WaterFluxMaxLevel-0.1304348-342-114, WaterFluxMinDelay-0-409-4, WaterFluxMaxDelay-0-197-196, WaterFluxFrequency-0.04347826-374-304, Contrast-0-660-262, LightBurn-0.2282609-58-61, SkyAndLightBloom-0-77-110, WaterViscosity-0.8043478-380-21, VoidMelt-0.2-82-94, 
+AmbientSounds: OMNI><SO_SFX-UnderWaterSub.ogg><764.1857><340.6758><0.7282609><0.6086956, OMNI><SO_SFX-Doomsday.ogg><724.1852><548.3108><0.3695652><0.726087, OMNI><SO_NAT-Fire.ogg><754.4193><439.6434><0.5434783><1.45, 

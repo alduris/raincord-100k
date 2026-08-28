@@ -33,8 +33,6 @@ internal static class Extras
                 {
                     _initialized = true;
                     loadResources(self);
-
-                    DamoonRooms.EnableILHooks();
                 }
             }
             catch (Exception e)
