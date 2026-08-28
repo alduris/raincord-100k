@@ -1,28 +1,10 @@
 ROOM NEEDS
 (for shelters, facing is defining which direction the actual sleep part of it is in relation to the entrance)
-- Outskirts needs:
-  - long room connecting to SU_ariesclient and SU_clapom on right side and LF on the left
-
-- Drainage System needs:
-  - two one-screen pipe rooms
-    - one from DS_tapok to DS_zenodos
-    - one from the previous one to DS_flarf
-  - SB connect to around DS_tryn, maybe add a transititon room
-  - GW connect to DS_april
 
 - Industrial Complex needs:
   - shelters: right-facing -> HI_lunatav, down-facing -> HI_gamerguy35, up-facing -> HI_ariesclient
-  - CC connect to HI_totallydutch
-  - SH connect to HI_gamerguy35
-  - VS connect to HI_ariesclient
-
-- Chimney Canopy needs:
-  - chimney jump room between CC_dragonpropaganda and CC_rbor
-  - some other room to connect to SI
-  - UW connect to CC_rbor
 
 - Shoreline needs:
-  - LTTM room
   - shelter in SL_april
 
 - Shaded Citadel needs:
@@ -33,19 +15,12 @@ ROOM NEEDS
   - shelter question mark
 
 - Five Pebbles needs:
-  - more rooms at the top I think
-  - also a warp room at the bottom, top right of SS_novatheskeletondragon
+  - warp room, top right of SS_novatheskeletondragon
 
 - Farm Arrays needs:
   - Shelter connecting to bottom of LF_Tapok (down-facing)
   - Deer room! (LF_slithersss (bottom left), LF_haysen (top left), LF_mk0 (right)
   - LF_ariesclient is pearl stash room
-
-- Subterranean needs:
-  - depths?
-
-- Signal Spires needs:
-  - some sort of indoor filler rooms because there are too few entrances
 
 remove betterdecals for now!! log spammy
 
