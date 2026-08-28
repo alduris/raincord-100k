@@ -1,4 +1,4 @@
-Template: NONE
+Template: 100k_settingstemplate_cc_outside
 CeilingDrips: 0.5326087
 Clouds: 0.3369565
 Grime: 0.2826087

@@ -1,0 +1,3 @@
+Template: 100k_settingstemplate_cc_inside
+Clouds: 0.75
+FadePalette: 8, 0.3586957

@@ -51,7 +51,8 @@ namespace Raincord100k.Hooks
 
         private sealed class TemplatePicker100K : ButtonWithSelectPanel
         {
-            private const string Prefix = "100k_settingstemplate_";
+            private const string FilePrefix = "100k_settingstemplate_";
+            private const string ActualPrefix = "100k - ";
 
             public TemplatePicker100K(DevUI owner, string IDstring, DevUINode parentNode, Vector2 pos, float width) : base(owner, IDstring, parentNode, pos, width, "Select template", MakeTemplateSelectPanel)
             {
@@ -60,9 +61,9 @@ namespace Raincord100k.Hooks
 
             public override void OnValueChange(string value)
             {
-                RoomSettings.SetTemplate(value != "NONE" ? Prefix + value : value, owner.room.world.region);
-                SetText();
+                RoomSettings.SetTemplate(value != "NONE" ? ActualPrefix + value : value, owner.room.world.region);
                 TopNode.Refresh();
+                SetText();
             }
 
             private void SetText()
@@ -70,7 +71,7 @@ namespace Raincord100k.Hooks
                 string parent = "NONE";
                 if (RoomSettings.parent != null && !RoomSettings.parent.isAncestor)
                 {
-                    parent = RoomSettings.parent.name.Substring(Prefix.Length);
+                    parent = RoomSettings.parent.name.Substring(FilePrefix.Length);
                 }
                 Text = $"Inherited template: {parent}";
             }
