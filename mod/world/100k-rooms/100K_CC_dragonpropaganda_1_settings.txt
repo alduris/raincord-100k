@@ -3,5 +3,6 @@ Clouds: 0.1630435
 Palette: 6
 EffectColorA: 10
 EffectColorB: 2
+PlacedObjects: Raincord100k_PearlSpot><659.6896><203.9361><0~0~0~3, Raincord100k_PearlSpot><1006.633><587.162><0~0~0~3, Raincord100k_PearlSpot><330.2387><1332.2><0~0~0~3, 
 AmbientSounds: OMNI><AM_ENV-NatWind.ogg><761.6189><490.599><0.1847826><1, OMNI><AM_ENV-LightWind.ogg><751.1595><583.1206><0.3478261><0.8630434, 
 FadePalette: 15, 0.2391304, 0.2282609

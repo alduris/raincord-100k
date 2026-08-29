@@ -13,6 +13,7 @@ namespace Raincord100k.Hooks
     {
         internal static void Enable()
         {
+            // Template picker
             On.DevInterface.RoomSettingsPage.ctor += RoomSettingsPage_ctor;
             On.DevInterface.SoundPage.ctor += SoundPage_ctor;
         }
@@ -51,8 +52,8 @@ namespace Raincord100k.Hooks
 
         private sealed class TemplatePicker100K : ButtonWithSelectPanel
         {
-            private const string FilePrefix = "100k_settingstemplate_";
-            private const string ActualPrefix = "100k - ";
+            private const string FilePrefix = "100K_settingstemplate_";
+            private const string ActualPrefix = "100K - ";
 
             public TemplatePicker100K(DevUI owner, string IDstring, DevUINode parentNode, Vector2 pos, float width) : base(owner, IDstring, parentNode, pos, width, "Select template", MakeTemplateSelectPanel)
             {

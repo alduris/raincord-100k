@@ -7,9 +7,7 @@ namespace Raincord100k
     {
         public static SlugcatStats.Name Slugcat = new("Raincord100k", false);
 
-        public static SlugcatStats.Timeline TimelinePast    = new("Raincord100k_Past",    false);
-        public static SlugcatStats.Timeline TimelinePresent = new("Raincord100k_Present", false);
-        public static SlugcatStats.Timeline TimelineFuture  = new("Raincord100k_Future",  false);
+        public static PlacedObject.Type PearlSpot100k = new("Raincord100k_PearlSpot", true);
 
         public static EndCredits.Stage Credits_Logo;
         public static EndCredits.Stage Credits_Hosts;

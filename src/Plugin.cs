@@ -1,11 +1,10 @@
-﻿using BepInEx;
-﻿using BepInEx.Logging;
-using Fisobs.Core;
-using Raincord100k.Damoonlord;
+﻿using System;
+using System.IO;
+using BepInEx;
+using BepInEx.Logging;
 using Raincord100k.Damoonlord.Peanut;
 using Raincord100k.Hooks;
-using System;
-using System.IO;
+using Raincord100k.Pearls;
 
 namespace Raincord100k
 {
@@ -25,9 +24,13 @@ namespace Raincord100k
 
             try
             {
+                _ = Constants.PearlSpot100k; // init enums
+
                 DevToolsHooks.Enable();
                 MenuHooks.Apply();
                 PeanutMeta.EnableHooks();
+                PearlSpotHooks.Apply();
+                PlacedObjectRegistration.ApplyHooks();
             }
             catch (Exception e)
             {

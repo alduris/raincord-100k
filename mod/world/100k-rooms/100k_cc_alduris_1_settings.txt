@@ -1,5 +1,5 @@
-Template: 100k_settingstemplate_cc_inside
+Template: 100k_settingstemplate_cc-inside
 EffectColorB: 2
 Effects: Fog-0.5-20-20, 
-PlacedObjects: CustomDecal><352.6135><947.8353><-19~847~285~792~253~-5~-519~-73~0~1~0~rustb5~0.3695652~1~0.3695652~1~0.3695652~1~0.3695652~1, ReliableSpear><565.189><226.5655><, ReliableSpear><445.1471><228.6355><, ReliableSpear><398.8004><229.5117><, ReliableSpear><510.0563><205.2998><, 
+PlacedObjects: CustomDecal><352.6135><947.8353><-19~847~285~792~253~-5~-519~-73~0~1~0~rustb5~0.3695652~1~0.3695652~1~0.3695652~1~0.3695652~1, ReliableSpear><565.189><226.5655><, ReliableSpear><445.1471><228.6355><, ReliableSpear><398.8004><229.5117><, ReliableSpear><510.0563><205.2998><, Raincord100k_PearlSpot><416.1631><240.6802><0~0~0~3, Raincord100k_PearlSpot><535.4374><230.1801><0~0~0~3, 
 FadePalette: 8, 0.1630435, 0.1413043

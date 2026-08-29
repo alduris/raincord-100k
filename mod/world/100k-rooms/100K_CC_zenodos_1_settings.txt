@@ -1,4 +1,4 @@
-Template: 100k_settingstemplate_cc_inside
+Template: 100k_settingstemplate_cc-inside
 DangerType: FloodAndRain
 CeilingDrips: 0.6521739
 Clouds: 0.2173913
