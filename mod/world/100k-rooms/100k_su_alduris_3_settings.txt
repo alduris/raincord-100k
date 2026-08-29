@@ -1,0 +1,3 @@
+Template: 100k_settingstemplate_su-inside
+EffectColorA: 9
+FadePalette: 8, 0.3695652, 0.3586957

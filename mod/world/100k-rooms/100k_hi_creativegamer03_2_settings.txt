@@ -1,0 +1,2 @@
+Template: 100k_settingstemplate_hi-inside
+FadePalette: 8, 0.2173913

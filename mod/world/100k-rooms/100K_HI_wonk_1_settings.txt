@@ -1,4 +1,4 @@
-Template: NONE
+Template: 100k_settingstemplate_hi-outside
 Palette: 5
 EffectColorA: 8
 EffectColorB: 2
