@@ -1,4 +1,4 @@
-Template: NONE
+Template: 100k_settingstemplate_ug-inside
 DangerType: Rain
 CeilingDrips: 0
 RainIntensity: 0
@@ -11,4 +11,5 @@ SecondWaveAmplitude: 0.0001
 Palette: 4
 EffectColorA: 18
 EffectColorB: 18
+PlacedObjects: Raincord100k_PearlSpot><1852.414><277.8196><0~0~0~3, 
 FadePalette: 11, 0.4021739, 0.4565217, 0.5

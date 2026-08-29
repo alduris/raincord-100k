@@ -42,11 +42,8 @@ namespace Raincord100k.Hooks
         {
             bool firstTimeRealized = self.abstractRoom.firstTimeRealized;
             orig(self);
-            if (self.game == null || !self.game.IsStorySession || self.world == null || self.world.name.ToLowerInvariant() != "100k")
-            {
-                Plugin.Logger.LogDebug("This is not 100K");
-                return;
-            }
+            if (self.game == null || !self.game.IsStorySession || self.world == null || self.world.name.ToLowerInvariant() != "100k") return;
+
             for (int i = 0; i < self.roomSettings.placedObjects.Count; i++)
             {
                 PlacedObject po = self.roomSettings.placedObjects[i];

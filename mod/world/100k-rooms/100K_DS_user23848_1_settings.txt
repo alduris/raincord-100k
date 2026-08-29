@@ -1,4 +1,4 @@
-Template: NONE
+Template: 100k_settingstemplate_ds-inside
 DangerType: Flood
 RainIntensity: 1
 RumbleIntensity: 0.7908697

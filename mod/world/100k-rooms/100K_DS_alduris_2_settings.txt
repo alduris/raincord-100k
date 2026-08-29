@@ -1,5 +1,6 @@
-Template: NONE
+Template: 100k_settingstemplate_ds-inside
 Palette: 4
 EffectColorA: 2
 EffectColorB: 6
+PlacedObjects: Raincord100k_PearlSpot><763.3101><216.0627><0~0~0~3, 
 FadePalette: 8, 0.1195652

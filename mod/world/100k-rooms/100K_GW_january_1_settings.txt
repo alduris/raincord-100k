@@ -1,4 +1,4 @@
-Template: NONE
+Template: 100k_settingstemplate_gw-outside
 Clouds: 0.272041
 Grime: 0.2792876
 BkgDroneVolume: 0.2640703

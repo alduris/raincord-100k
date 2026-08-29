@@ -1,7 +1,7 @@
 Template: NONE
 Palette: 9
 EffectColorB: 15
-Effects: Flies-0.5-20-20, CorruptionSpores-1-30-30, 
-PlacedObjects: Corruption><217.1089><396.3582><-49~130, Corruption><573.8513><526.1163><170~100, 
+Effects: Flies-0.5-20-20, CorruptionSpores-1-30-30, ReplaceCorruptionColor-1-1042-197-Color-0.5-0.2391304-0, 
+PlacedObjects: Corruption><217.1089><396.3582><-49~130, Corruption><573.8513><526.1163><170~100, ClimbablePoleV><333.95><523.2527><0^-9, 
 FadePalette: 11, 0
 MorePalette0: 8, 0.2934783

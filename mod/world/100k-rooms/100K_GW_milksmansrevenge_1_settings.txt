@@ -1,4 +1,4 @@
-Template: NONE
+Template: 100k_settingstemplate_gw-outside
 Palette: 9
 EffectColorB: 13
 Effects: Flies-0.3043478-548-418, MurkyWater-0.4130435-558-472, 
