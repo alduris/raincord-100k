@@ -56,15 +56,15 @@ ROOMS
 100K_HI_creativegamer03_2 : 100K_HI_trearilt_1 : SHELTER
 100K_HI_dedniko_1 : 100K_HI_lkelly10_1, 100K_HI_irri_1
 100K_HI_dododecalogist_1 : 100K_HI_luckykitkat_1, 100K_HI_ariesclient_1
-100K_HI_dragonly44_1 : 100K_HI_katolato_2, DISCONNECTED
+100K_HI_dragonly44_1 : 100K_HI_katolato_2, 100K_HI_haysen_1
 100K_HI_erm424242_1 : 100K_HI_lipuccka_1, 100K_HI_ariesclient_1
-100K_HI_ethanwantsfood_1 : 100K_HI_lipuccka_1, DISCONNECTED, 100K_HI_wonk_1
+100K_HI_ethanwantsfood_1 : 100K_HI_lipuccka_1, DISCONNECTED, 100K_HI_katolato_2
 100K_HI_gamerguy35_1 : 100K_HI_lkelly10_1, 100K_GW_january_1, DISCONNECTED
-100K_HI_haysen_1 : 100K_HI_katolato_1, 100K_HI_wonk_1, 100K_HI_chlordeofmany_1
+100K_HI_haysen_1 : 100K_HI_katolato_1, 100K_HI_dragonly44_1, 100K_HI_chlordeofmany_1
 100K_HI_inspectnerd_1 : 100K_HI_totallydutch_1, DISCONNECTED, 100K_HI_lipuccka_1
 100K_HI_irri_1 : 100K_HI_totallydutch_2, 100K_HI_dedniko_1
 100K_HI_katolato_1 : 100K_HI_luckykitkat_1, 100K_HI_haysen_1
-100K_HI_katolato_2 : 100K_HI_wonk_1, 100K_HI_dragonly44_1
+100K_HI_katolato_2 : 100K_HI_ethanwantsfood_1, 100K_HI_dragonly44_1
 100K_HI_lipuccka_1 : 100K_HI_ethanwantsfood_1, DISCONNECTED, 100K_HI_inspectnerd_1, 100K_HI_erm424242_1
 100K_HI_lkelly10_1 : 100K_HI_gamerguy35_1, 100K_HI_dedniko_1, DISCONNECTED
 100K_HI_luckykitkat_1 : 100K_HI_dododecalogist_1, 100K_HI_user23848_1, DISCONNECTED, 100K_HI_katolato_1
@@ -75,8 +75,6 @@ ROOMS
 100K_HI_totallydutch_2 : 100K_HI_creativegamer03_1, 100K_HI_irri_1, 100K_HI_wtfmagnimmepac3_1
 100K_HI_trearilt_1 : 100K_HI_user23848_1, 100K_HI_creativegamer03_2, 100K_SU_lwrcsv_1
 100K_HI_user23848_1 : 100K_HI_luckykitkat_1, 100K_HI_chlordeofmany_1, 100K_HI_creativegamer03_1, 100K_HI_trearilt_1
-100K_HI_wonk_1 : 100K_HI_ethanwantsfood_1, 100K_HI_wonk_2, 100K_HI_haysen_1, DISCONNECTED, DISCONNECTED, 100K_HI_katolato_2
-100K_HI_wonk_2 : 100K_HI_wonk_1 : SHELTER
 100K_HI_wtfmagnimmepac3_1 : 100K_HI_solaristheworstcatever_1, 100K_HI_totallydutch_2
 100K_HR_dragonly44_1 : 100K_HR_flanace_1 : SHELTER
 100K_HR_dragonpropaganda_1 : DISCONNECTED, 100K_HR_flanace_1, DISCONNECTED, DISCONNECTED
