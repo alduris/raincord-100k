@@ -17,3 +17,4 @@ AmbientSounds: SPOT><SO_IND-MechHum01.ogg><78.2135><486.7402><0.3994683><1.00913
 FadePalette: 8, 0.2938632, 0.2010644, 0.1159986, 0
 RoomSpecificScriptActive: ON
 WetTerrain: OFF
+BackgroundOffset: 0,-978.2609

@@ -55,7 +55,7 @@ namespace Raincord100k.Pearls
                 for (int i = 0; i < allFiles.Length; i++)
                 {
                     string fileName = Path.GetFileName(allFiles[i]);
-                    if (fileName.Contains("settings"))
+                    if (fileName.Contains("_settings"))
                     {
                         settingsToLoad.Add(allFiles[i]);
                     }
