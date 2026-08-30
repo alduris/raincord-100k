@@ -1,4 +1,4 @@
-Template: NONE
+Template: 100k_settingstemplate_lf-farms
 Clouds: 0.8260869
 Grime: 0.2173913
 Palette: 14

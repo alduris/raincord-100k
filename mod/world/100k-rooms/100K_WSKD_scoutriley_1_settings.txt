@@ -1,4 +1,4 @@
-Template: NONE
+Template: 100k_settingstemplate_wskd-outside
 WaveSpeed: 0.5
 WaveLength: 0.75
 WaveAmplitude: 0.04249527

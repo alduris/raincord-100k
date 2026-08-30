@@ -1,8 +1,7 @@
 Template: NONE
-DangerType: Blizzard
-WaveSpeed: 0.306406
-WaveLength: 0.903203
-WaveAmplitude: 6.821089E-08
+WaveSpeed: 0.5128309
+WaveLength: 0.9935846
+WaveAmplitude: 0.005796147
 SecondWaveLength: 0.1666667
 SecondWaveAmplitude: 0
 Clouds: 0.3093298

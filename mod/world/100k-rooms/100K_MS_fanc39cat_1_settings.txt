@@ -1,9 +1,9 @@
 Template: NONE
-DangerType: Blizzard
+DangerType: FloodAndRain
 CeilingDrips: 0
-WaveSpeed: 0.7400898
-WaveLength: 0.8799551
-WaveAmplitude: 2.181709E-08
+WaveSpeed: 0.5128309
+WaveLength: 0.9935846
+WaveAmplitude: 0.009656012
 SecondWaveLength: 1
 SecondWaveAmplitude: 0.0001
 Clouds: 0.3369565
