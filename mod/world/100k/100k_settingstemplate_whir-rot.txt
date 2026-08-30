@@ -4,5 +4,5 @@ BkgDroneVolume: 0.2469565
 Palette: 466
 EffectColorA: 16
 EffectColorB: 16
-Effects: Flies-1-20-20, Ant-1-342.6208-352, RockFlea-1-317.7306-220, ModifyEffectColorA-0,0.1861672,0.2835634-701.0396-399, Sentient Rot Spores-1-30-30, 
+Effects: Flies-1-20-20, Ant-1-342.6208-352, RockFlea-1-317.7306-220, ModifyEffectColorA-0,0.1861672,0.2835634-701.0396-399, Sentient Rot Spores-1-30-30, ReplaceCorruptionColor-1-1042-197-Color-0.373-0.11-0.831, 
 AmbientSounds: OMNI><RWTW_RotAmb_Deep.ogg><790.9105><330.9264><0.1861672><1, OMNI><AM_IND-Warehouse01.ogg><713.7589><416.3244><0.251098><0.5909348, OMNI><RWTW_RotAmb_Goo.ogg><469.2198><266.2878><0.2619204><0.279267, 

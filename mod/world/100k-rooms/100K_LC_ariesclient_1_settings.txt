@@ -13,5 +13,5 @@ AmbientSounds: OMNI><AM_ENV-CityTone.ogg><742.4486><563.4763><1><0.5500012, SPOT
 Triggers: Spot<tA>event<tB>MusicEvent<eA>songName<eB>rw_51 - swaying fronds<eA>vol<eB>1<eA>prio<eB>1<eA>mxThrt<eB>1<eA>loop<eB>0<eA>droneTol<eB>0<eA>rooms<eB>-1<eA>rest<eB>0<eA>fadeIn<eB>0<eA>oneSongPerCycle<eB>0<eA>stopAtDeath<eB>0<eA>stopAtGate<eB>0<tA>multiUse<tB>0<tA>toCycle<tB>-1<tA>fromCycle<tB>0<tA>delay<tB>0<tA>panPos<tB>667.1275<tB>217.5919<tA>fireChance<tB>1<tA>entrance<tB>-1<tA>karma<tB>0<tA>slugcats<tB><tA>pos<tB>329.1275<tB>1023.592<tA>handlePos<tB>-176.3553<tB>-206.3553, 
 FadePalette: 42, 0.1086956, 0.1086956, 0.1086956, 0.1086956, 0.1086956, 0.1086956, 0.1086956, 0.1086956, 0.1086956
 WetTerrain: OFF
-BackgroundOffset: -3586.957,0
+BackgroundOffset: -3586.957,-217.3913
 BackgroundType: rf_lc_approx

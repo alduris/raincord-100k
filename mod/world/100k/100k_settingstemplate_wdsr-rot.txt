@@ -17,5 +17,5 @@ WaterReflectionAlpha: 1
 Palette: 468
 EffectColorA: 1
 EffectColorB: 1
-Effects: ModifyEffectColorA-0,0.37,0.3480869-946.9546-503, ModifyEffectColorB-0,1,0.1627416-707.0571-366, Flies-1-20-20, Ant-1-342.6208-352, RockFlea-1-317.7306-220, Sentient Rot Spores-1-30-30, 
+Effects: ModifyEffectColorA-0,0.37,0.3480869-946.9546-503, ModifyEffectColorB-0,1,0.1627416-707.0571-366, Flies-1-20-20, Ant-1-342.6208-352, RockFlea-1-317.7306-220, Sentient Rot Spores-1-30-30, ReplaceCorruptionColor-1-1042-197-Color-0.373-0.11-0.831, 
 AmbientSounds: OMNI><RWTW_RotAmb_Deep.ogg><756.4161><292.9415><0.1515052><0.7857271, OMNI><RWTW_RotAmb_Goo.ogg><508.5427><296.4597><0.2078108><0.7078102, 
