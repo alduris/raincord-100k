@@ -17,6 +17,7 @@ namespace Raincord100k.Hooks
 
         private static void ProcessManager_PostSwitchMainProcess(On.ProcessManager.orig_PostSwitchMainProcess orig, ProcessManager self, ProcessManager.ProcessID ID)
         {
+            SpawnSpotScript.hasRunScript = false;
             if (ID == Constants.SpawnSpotProcess)
             {
                 self.currentMainLoop = new SpawnSpotPickerProcess(self);

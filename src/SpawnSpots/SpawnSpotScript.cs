@@ -5,6 +5,7 @@ namespace Raincord100k.SpawnSpots
 {
     internal class SpawnSpotScript : UpdatableAndDeletable
     {
+        internal static bool hasRunScript = false;
         private Vector2 spawnPoint;
         private bool foundSpawnPoint;
         private bool movedPlayers;
@@ -12,6 +13,13 @@ namespace Raincord100k.SpawnSpots
         public SpawnSpotScript(Room room)
         {
             this.room = room;
+
+            if (hasRunScript)
+            {
+                Destroy();
+                return;
+            }
+
             foreach (var po in room.roomSettings.placedObjects)
             {
                 if (po.type == Constants.SpawnSpot)
@@ -46,6 +54,7 @@ namespace Raincord100k.SpawnSpots
 
             if (movedPlayers)
             {
+                hasRunScript = true;
                 Destroy();
             }
         }
