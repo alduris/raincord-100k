@@ -7,7 +7,10 @@ namespace Raincord100k
     {
         public static SlugcatStats.Name Slugcat = new("Raincord100k", false);
 
-        public static PlacedObject.Type PearlSpot100k = new("Raincord100k_PearlSpot", true);
+        public static PlacedObject.Type PearlSpot = new("Raincord100k_PearlSpot", true);
+        public static PlacedObject.Type SpawnSpot = new("Raincord100k_SpawnSpot", true);
+
+        public static ProcessManager.ProcessID SpawnSpotProcess = new("Raincord100k_SpawnSpotProcess", true);
 
         public static EndCredits.Stage Credits_Logo;
         public static EndCredits.Stage Credits_Hosts;

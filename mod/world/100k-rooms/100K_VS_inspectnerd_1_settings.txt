@@ -4,6 +4,6 @@ Clouds: 0.1630435
 Palette: 72
 EffectColorA: 5
 EffectColorB: 13
-PlacedObjects: DangleFruit><164.5295><305.3022><0~0~2~3, DangleFruit><201.3973><288.6716><0~0~2~3, 
+PlacedObjects: DangleFruit><164.5295><305.3022><0~0~2~3, DangleFruit><201.3973><288.6716><0~0~2~3, Raincord100k_SpawnSpot><569.3022><409.2794><VS, 
 AmbientSounds: OMNI><AM_ENV-NatWind.ogg><683.8596><484.5827><0.1413043><1, 
 FadePalette: 8, 0.3152174, 0.3152174

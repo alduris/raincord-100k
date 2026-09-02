@@ -7,5 +7,6 @@ RandomItemDensity: 0.6630435
 RandomItemSpearChance: 0.2434782
 Palette: 6
 EffectColorB: 13
+PlacedObjects: Raincord100k_SpawnSpot><494.8005><418.2636><CC, 
 AmbientSounds: OMNI><AM_ENV-LightWind.ogg><763.8297><580.6049><0.3804348><1, 
 FadePalette: 8, 0.3804348

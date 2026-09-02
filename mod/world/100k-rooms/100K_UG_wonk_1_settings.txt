@@ -3,13 +3,13 @@ DangerType: Rain
 CeilingDrips: 0
 RainIntensity: 0
 RumbleIntensity: 0
-WaveSpeed: 0.51
+WaveSpeed: 0.5
 WaveLength: 1
-WaveAmplitude: 0.0001
+WaveAmplitude: 8.999999E-05
 SecondWaveLength: 1
 SecondWaveAmplitude: 0.0001
 Palette: 4
 EffectColorA: 18
 EffectColorB: 18
-PlacedObjects: Raincord100k_PearlSpot><1852.414><277.8196><0~0~0~3, 
+PlacedObjects: Raincord100k_PearlSpot><1852.414><277.8196><0~0~0~3, Raincord100k_SpawnSpot><841.0583><282.5587><UG, 
 FadePalette: 11, 0.4021739, 0.4565217, 0.5

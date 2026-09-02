@@ -1,4 +1,4 @@
-Template: NONE
+Template: 100k_settingstemplate_uw-underhang
 DangerType: Thunder
 Clouds: 0.3369565
 Grime: 0.1304348

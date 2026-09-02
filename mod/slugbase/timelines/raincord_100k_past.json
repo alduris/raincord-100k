@@ -1,5 +1,0 @@
-{
-	"id": "Raincord100k_Past",
-	"base": [ "Raincord100k_Present", "Spearmaster" ],
-	"insert_after": "Spearmaster"
-}

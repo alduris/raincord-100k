@@ -1,4 +1,4 @@
-Template: NONE
+Template: 100k_settingstemplate_uw-underhang
 DangerType: Thunder
 WaveSpeed: 0.5
 WaveLength: 0.75
@@ -11,5 +11,5 @@ Palette: 16
 EffectColorA: 18
 EffectColorB: 8
 Effects: ElectricDeath-1-20-20, Lightning-0.8043478-38-44, BkgOnlyLightning-0.2391304-52-89, ExtraLoudThunder-0.2717391-296-91, GreenSparks-0.3695652-60-88, Flies-0.1195652-53-133, 
-PlacedObjects: DangleFruit><722.0983><462.9243><0~0~2~3, DangleFruit><618.7123><507.3851><0~0~2~3, DangleFruit><651.4505><387.1606><0~0~2~3, LightSource><269.6842><446.1888><0.5216748~Environment~-80~59~50~86.60254~0~0~None~0~0, LightSource><650.1569><183.3089><0.4340303~Environment~2~86~50~86.60254~0~0~None~0~0, LightSource><5002.144><465.8762><0.6606392~Environment~0~100~-350.8127~63.77374~0~0~None~0~0, 
+PlacedObjects: DangleFruit><722.0983><462.9243><0~0~2~3, DangleFruit><618.7123><507.3851><0~0~2~3, DangleFruit><651.4505><387.1606><0~0~2~3, LightSource><269.6842><446.1888><0.5216748~Environment~-80~59~50~86.60254~0~0~None~0~0, LightSource><650.1569><183.3089><0.4340303~Environment~2~86~50~86.60254~0~0~None~0~0, LightSource><5002.144><465.8762><0.6606392~Environment~0~100~-350.8127~63.77374~0~0~None~0~0, Raincord100k_SpawnSpot><4754.827><471.0676><UW, 
 FadePalette: 17, 0.3586957, 0.3478261, 0.3586957, 0.3478261, 0.3586957

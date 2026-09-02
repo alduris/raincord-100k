@@ -5,6 +5,7 @@ using BepInEx.Logging;
 using Raincord100k.Damoonlord.Peanut;
 using Raincord100k.Hooks;
 using Raincord100k.Pearls;
+using Raincord100k.SpawnSpots;
 
 namespace Raincord100k
 {
@@ -24,13 +25,16 @@ namespace Raincord100k
 
             try
             {
-                _ = Constants.PearlSpot100k; // init enums
+                _ = Constants.PearlSpot; // init enums
 
                 DevToolsHooks.Enable();
                 MenuHooks.Apply();
                 PeanutMeta.EnableHooks();
                 PearlSpotHooks.Apply();
                 PlacedObjectRegistration.ApplyHooks();
+                ProcessHooks.Apply();
+                SpawnSpotHooks.Apply();
+                TokenCacheHooks.Apply();
             }
             catch (Exception e)
             {
@@ -46,6 +50,15 @@ namespace Raincord100k
             PomManager.RegisterPlacedObjects();
             
             Futile.atlasManager.LoadAtlas("assets" + Path.DirectorySeparatorChar + "Peanut_Sprites");
+        }
+
+        public static string FixRoomName(string roomName)
+        {
+            string[] split = roomName.Split('_');
+            split[0] = split[0].ToUpperInvariant();
+            split[1] = split[1].ToUpperInvariant();
+            split[2] = split[2].ToLowerInvariant();
+            return string.Join("_", split);
         }
     }
 }

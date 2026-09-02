@@ -1,8 +1,9 @@
+using System;
+using System.Collections.Generic;
+using System.Security.Permissions;
 using Raincord100k;
 using Raincord100k.Damoonlord;
 using Raincord100k.Damoonlord.Peanut;
-using System;
-using System.Security.Permissions;
 using UnityEngine;
 
 /*
@@ -40,5 +41,12 @@ internal static class Extras
                 Debug.LogException(e);
             }
         };
+    }
+
+    // Allow unpacking kvps
+    internal static void Deconstruct<T1, T2>(this KeyValuePair<T1, T2> tuple, out T1 key, out T2 value)
+    {
+        key = tuple.Key;
+        value = tuple.Value;
     }
 }
