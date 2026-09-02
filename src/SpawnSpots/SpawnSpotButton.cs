@@ -20,7 +20,8 @@ namespace Raincord100k.SpawnSpots
         private int buttonReleasedCounter;
 
         private FSprite backgroundSprite;
-        private MenuLabel menuLabel;
+        private MenuLabel shadowLabel1, shadowLabel2;
+        private MenuLabel mainLabel;
         private FSprite[] circleSprites;
 
         public bool IsMouseOverMe => MouseOver;
@@ -80,7 +81,7 @@ namespace Raincord100k.SpawnSpots
             }
 
             // Display text
-            string displayText = region.RegionName;
+            string displayText = menu.Translate(region.RegionName);
             List<int> list = [];
             int lineChars = 0;
             for (int j = 0; j < displayText.Length; j++)
@@ -100,8 +101,13 @@ namespace Raincord100k.SpawnSpots
                 displayText = displayText.Substring(0, splitOffset) + "\n" + displayText.Substring(splitOffset + 1, displayText.Length - (splitOffset + 1));
                 lengthOffset += displayText.Length - length;
             }
-            menuLabel = new MenuLabel(menu, this, displayText, new Vector2(-50f, -15f), new Vector2(100f, 30f), false, null);
-            subObjects.Add(menuLabel);
+            var mainLabelPos = new Vector2(-50f, -15f);
+            shadowLabel1 = new MenuLabel(menu, this, displayText, mainLabelPos + new Vector2(-1f, -1f), new Vector2(100f, 30f), false, null);
+            shadowLabel2 = new MenuLabel(menu, this, displayText, mainLabelPos + new Vector2(-1f, 1f), new Vector2(100f, 30f), false, null);
+            mainLabel = new MenuLabel(menu, this, displayText, mainLabelPos, new Vector2(100f, 30f), false, null);
+            subObjects.Add(shadowLabel1);
+            subObjects.Add(shadowLabel2);
+            subObjects.Add(mainLabel);
         }
 
         public override void Update()
@@ -201,7 +207,11 @@ namespace Raincord100k.SpawnSpots
         public override void GrafUpdate(float timeStacker)
         {
             base.GrafUpdate(timeStacker);
-            menuLabel.label.color = MyColor(timeStacker);
+            mainLabel.label.color = MyColor(timeStacker);
+            shadowLabel1.label.color = Color.black;
+            shadowLabel1.label.alpha = 0.6f;
+            shadowLabel2.label.color = Color.black;
+            shadowLabel2.label.alpha = 0.6f;
             float useRad = Mathf.Lerp(lastRad, rad, timeStacker);
             float bumpRad = useRad + 8f * (buttonBehav.sizeBump + 0.5f * Mathf.Sin(buttonBehav.extraSizeBump * 3.1415927f)) * (buttonBehav.clicked ? (0.5f + 0.5f * Mathf.Sin(Mathf.Lerp(lastPulse, pulse, timeStacker) * 3.1415927f * 2f)) : 1f);
             float fillSpriteRad = bumpRad - 8f;
@@ -209,6 +219,7 @@ namespace Raincord100k.SpawnSpots
             bumpRad += 0.5f;
 
             backgroundSprite.SetPosition(drawPos);
+            backgroundSprite.scale = useRad / 50f;
 
             for (int i = 0; i < circleSprites.Length; i++)
             {
@@ -216,7 +227,7 @@ namespace Raincord100k.SpawnSpots
                 circleSprites[i].y = drawPos.y;
                 circleSprites[i].scale = bumpRad / 8f;
             }
-            circleSprites[0].color = new Color(0.019607844f, 0f, Mathf.Lerp(0.3f, 0.6f, buttonBehav.col));
+            circleSprites[0].color = new Color(0.019607844f, 0f, Mathf.Lerp(0.0f, 0.6f, buttonBehav.col));
             circleSprites[1].color = MyColor(timeStacker);
             circleSprites[1].alpha = 2f / bumpRad;
             circleSprites[2].scale = fillSpriteRad / 8f;

@@ -10,9 +10,8 @@ namespace Raincord100k.SpawnSpots
             { null, WPTA, null, null, LC,   RM,   WAUA, WRSA },
             { WARC, WARX, SI,   CC,   UW,   SS,   WXXR, WORA },
             { null, null, VS,   HI,   SH,   CL,   null, null },
-            { null, null, LF,   SU,   GW,   SL,   null, null },
-            { null, OE,   SB,   DS,   WSKX, LM,   DM,   null },
-            { null, null, null, WVWA, WRFX, WRRA, null, null },
+            { null, null, LF,   SU,   GW,   SL,   WRFX, WSKX },
+            { null, OE,   SB,   DS,   LM,   DM,   WVWA, WRRA },
             };
 
         private SpawnSpotButton[,] regionButtonGrid;
@@ -30,6 +29,11 @@ namespace Raincord100k.SpawnSpots
             {
                 manager.musicPlayer.FadeOutAllSongs(25f);
             }
+
+            // Explanation labels
+            var titleLabel = new MenuLabel(this, page, Translate("SELECT STARTING REGION"), new Vector2(0f, manager.rainWorld.screenSize.y - 60f), new Vector2(manager.rainWorld.screenSize.x, 30f), true);
+            titleLabel.label.shader = manager.rainWorld.Shaders["MenuText"];
+            page.subObjects.Add(titleLabel);
 
             // Generate buttons
             regionButtonGrid = new SpawnSpotButton[RegionGrid.GetLength(0), RegionGrid.GetLength(1)];
