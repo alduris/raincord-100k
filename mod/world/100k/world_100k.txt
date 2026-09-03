@@ -52,7 +52,7 @@ ROOMS
 100K_GW_wrayk_1 : 100K_GW_tapok109_1, 100K_GW_milksmansrevenge_1, 100K_GW_alduris_1 : PERF_HEAVY
 100K_HI_ariesclient_1 : 100K_VS_nimble102_1, 100K_HI_erm424242_1, 100K_HI_dododecalogist_1
 100K_HI_chlordeofmany_1 : 100K_HI_haysen_1, 100K_HI_user23848_1
-100K_HI_creativegamer03_1 : 100K_HI_tapok109_1, DISCONNECTED, 100K_HI_user23848_1, 100K_HI_totallydutch_2
+100K_HI_creativegamer03_1 : 100K_HI_tapok109_1, 100K_HI_wonk_1, 100K_HI_user23848_1, 100K_HI_totallydutch_2
 100K_HI_creativegamer03_2 : 100K_HI_trearilt_1 : SHELTER
 100K_HI_dedniko_1 : 100K_HI_lkelly10_1, 100K_HI_irri_1
 100K_HI_dododecalogist_1 : 100K_HI_luckykitkat_1, 100K_HI_ariesclient_1
@@ -299,6 +299,8 @@ ROOMS
 100K_WVWA_hennyburgr_1 : DISCONNECTED, 100K_WVWA_tetraneo_1, DISCONNECTED
 100K_WVWA_tetraneo_1 : DISCONNECTED, 100K_WRFB_thysi_1, 100K_WVWA_hennyburgr_1, DISCONNECTED
 100K_WPTA_tronsx_1 : 100K_WPTA_gonterhaoz_1, 100K_WPTA_creativegamer03_1, 100K_WPTA_nimble102_1, DISCONNECTED, DISCONNECTED
+100K_HI_wonk_1 : DISCONNECTED, 100K_HI_wonk_2, DISCONNECTED, DISCONNECTED, DISCONNECTED, 100K_HI_creativegamer03_1
+100K_HI_wonk_2 : 100K_HI_wonk_1 : SHELTER
 END ROOMS
 CREATURES
 
