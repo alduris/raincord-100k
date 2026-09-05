@@ -324,6 +324,7 @@ namespace Raincord100k.Pearls
 
             private Color origColor;
             private FSprite bgSprite;
+            private FSprite glowSprite;
             private FSprite iconSprite;
             private FSprite[] outlineSprites;
             private FSprite[] bumpSprites;
@@ -340,6 +341,12 @@ namespace Raincord100k.Pearls
                 bgSprite = new FSprite("Futile_White")
                 {
                     shader = Custom.rainWorld.Shaders["FlatLight"],
+                    color = Color.black,
+                    alpha = 0f
+                };
+                glowSprite = new FSprite("Futile_White")
+                {
+                    shader = Custom.rainWorld.Shaders["FlatLight"],
                     color = origColor,
                     alpha = 0f
                 };
@@ -349,6 +356,7 @@ namespace Raincord100k.Pearls
                     alpha = 0f
                 };
                 container.AddChild(bgSprite);
+                container.AddChild(glowSprite);
                 container.AddChild(iconSprite);
 
                 outlineSprites = new FSprite[4];
@@ -433,11 +441,16 @@ namespace Raincord100k.Pearls
                 float colorFlash = Mathf.Max(Mathf.Lerp(bumpBehav.lastCol, bumpBehav.col, timeStacker), Mathf.Lerp(bumpBehav.lastFlash, bumpBehav.flash, timeStacker));
                 Color useColor = Color.Lerp(origColor, Color.white, colorFlash);
 
-                // bg glow
+                // bg black
                 bgSprite.SetPosition(drawPos);
-                bgSprite.scale = 24f * Mathf.Lerp(0.5f, 1f, fade) / 8f;
-                bgSprite.color = Color.Lerp(origColor, useColor, 0.5f);
-                bgSprite.alpha = fade * 0.5f;
+                bgSprite.scale = 30f * Mathf.Lerp(0.5f, 1f, fade) / 8f;
+                bgSprite.alpha = fade * 0.75f;
+
+                // bg glow
+                glowSprite.SetPosition(drawPos);
+                glowSprite.scale = 24f * Mathf.Lerp(0.5f, 1f, fade) / 8f;
+                glowSprite.color = Color.Lerp(origColor, useColor, 0.5f);
+                glowSprite.alpha = fade * 0.75f;
 
                 // icon
                 iconSprite.SetPosition(drawPos);
@@ -476,6 +489,7 @@ namespace Raincord100k.Pearls
             public void SetVisibility(bool visibility)
             {
                 bgSprite.isVisible = visibility;
+                glowSprite.isVisible = visibility;
                 iconSprite.isVisible = visibility;
                 foreach (var sprite in outlineSprites) sprite.isVisible = visibility;
                 foreach (var sprite in bumpSprites) sprite.isVisible = visibility;
