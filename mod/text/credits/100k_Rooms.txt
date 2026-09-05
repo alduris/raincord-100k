@@ -5,6 +5,7 @@ ROOM SUBMISSIONS
 500mils
 Addy
 Alduris
+Alice Pigeon
 Ant
 Anubisrah
 AprilWORSTmonth
@@ -30,7 +31,6 @@ Dododecalogist
 Dragonly44
 DragonPropaganda
 EmptyRaider101
-Erm42
 EthanWantsFood
 Fanc39cat
 FatalError
@@ -81,7 +81,7 @@ Nocturne
 noelleCK
 Nopuddles
 Nova
-Oscarriaq
+Osziaq
 OverpoweredPizza
 Ovidia
 Pelican
@@ -115,7 +115,6 @@ TotallyDutch
 Trearilt
 Tronsx
 Tryn
-tvfella
 tvfella
 user23848
 Viv

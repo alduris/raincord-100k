@@ -22,6 +22,7 @@ namespace Raincord100k.SpawnSpots
 
         public void SetIfDefault(SpawnRegion region)
         {
+            if (!regionDefault) return;
             Region = region;
         }
 
@@ -79,6 +80,7 @@ namespace Raincord100k.SpawnSpots
             public static readonly SpawnRegion LM = new(nameof(LM), "Waterfront Facility");
             public static readonly SpawnRegion DM = new(nameof(DM), "Looks to the Moon");
             public static readonly SpawnRegion UG = new(nameof(UG), "Undergrowth");
+            public static readonly SpawnRegion HR = new(nameof(HR), "Rubicon");
             public static readonly SpawnRegion WARX = new(nameof(WARX), "Aether Ridge");
             public static readonly SpawnRegion WARC = new(nameof(WARC), "Fetid Glen");
             public static readonly SpawnRegion WAUA = new(nameof(WAUA), "Ancient Urban");

@@ -27,12 +27,12 @@ for file in os.listdir(ROOMS_PATH):
 		rooms.add(split[2])
 
 print("Pearls:")
-sorted_pearls = sorted([credits[a] for a in pearls], key=lambda x: str(x).upper())
+sorted_pearls = sorted(set(credits[a] for a in pearls), key=lambda x: str(x).upper())
 for author in sorted_pearls:
 	print(author)
 print()
 print("Rooms:")
-sorted_rooms = sorted([credits[a] for a in rooms], key=lambda x: str(x).upper())
+sorted_rooms = sorted(set(credits[a] for a in rooms), key=lambda x: str(x).upper())
 for author in sorted_rooms:
 	print(author)
 

@@ -10,8 +10,8 @@ namespace Raincord100k.SpawnSpots
             { null, WPTA, null, null, LC,   RM,   WAUA, WRSA },
             { WARC, WARX, SI,   CC,   UW,   SS,   WXXR, WORA },
             { null, null, VS,   HI,   SH,   CL,   null, null },
-            { null, null, LF,   SU,   GW,   SL,   WRFX, WSKX },
-            { null, OE,   SB,   DS,   LM,   DM,   WVWA, WRRA },
+            { null, OE,   LF,   SU,   GW,   SL,   WRFX, WSKX },
+            { null, HR,   SB,   DS,   LM,   DM,   WVWA, WRRA },
             };
 
         private SpawnSpotButton[,] regionButtonGrid;

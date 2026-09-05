@@ -6,11 +6,14 @@ namespace Raincord100k
     public static class Constants
     {
         public static SlugcatStats.Name Slugcat = new("Raincord100k", false);
+        public static SlugcatStats.Timeline Timeline = new("Raincord100k_Present", false);
 
         public static PlacedObject.Type PearlSpot = new("Raincord100k_PearlSpot", true);
         public static PlacedObject.Type SpawnSpot = new("Raincord100k_SpawnSpot", true);
 
-        public static ProcessManager.ProcessID SpawnSpotProcess = new("Raincord100k_SpawnSpotProcess", true);
+        public static ProcessManager.ProcessID SpawnSpotProcess = new("100k_SpawnSpotProcess", true);
+
+        public static Conversation.ID PearlReading = new("100k_PearlReading");
 
         public static EndCredits.Stage Credits_Logo;
         public static EndCredits.Stage Credits_Hosts;

@@ -32,6 +32,7 @@ namespace Raincord100k
                 PeanutMeta.EnableHooks();
                 PearlSpotHooks.Apply();
                 PlacedObjectRegistration.ApplyHooks();
+                PlayerHooks.Apply();
                 ProcessHooks.Apply();
                 SpawnSpotHooks.Apply();
                 TokenCacheHooks.Apply();
@@ -45,7 +46,7 @@ namespace Raincord100k
         // Load any resources, such as sprites or sounds
         private void LoadResources(RainWorld rainWorld)
         {
-            Constants.RegisterCredits();
+            //Constants.RegisterCredits();
             ShaderLoader.LoadShaders();
             PomManager.RegisterPlacedObjects();
             
