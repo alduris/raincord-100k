@@ -26,6 +26,7 @@ namespace Raincord100k.Pearls
         {
             if (seed != _cachedPearlSpotMapSeed)
             {
+                _cachedPearlSpotMap.Clear(); // clear so we don't crash on deleted save
                 _cachedPearlSpotMapSeed = seed;
 
                 Random.State oldState = Random.state;

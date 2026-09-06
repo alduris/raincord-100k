@@ -2,5 +2,5 @@ Template: NONE
 Clouds: 0.7391304
 Palette: 12
 Effects: LightBurn-0.326087-1096-664, 
-PlacedObjects: ChromaflyEgg><773.8127><507.1798><274.0001~-1~4~9, ChromaflyEgg><729.504><539.95><316~54~4~9, CosmeticSlimeMold><723.8015><599.2261><-86~45, CosmeticSlimeMold2><708.0502><381.4922><-19~61, Raincord100k_ShelterNoSaveZone><1375.801><123.2309><-960~21, CosmeticSlimeMold2><820.7303><248.301><9~76, CosmeticSlimeMold2><692.3668><316.5876><-5~62, ShelterSpawnPoint><362.8031><369.715><, Raincord100k_ShelterLanternMouse><871.7354><138.3005><, Raincord100k_ShelterLanternMouse><704.5897><476.6196><, Raincord100k_ShelterLanternMouse><868.692><716.694><, 
+PlacedObjects: ChromaflyEgg><773.8127><507.1798><274.0001~-1~4~9, ChromaflyEgg><729.504><539.95><316~54~4~9, CosmeticSlimeMold><723.8015><599.2261><-86~45, CosmeticSlimeMold2><708.0502><381.4922><-19~61, Raincord100k_ShelterNoSaveZone><1375.801><123.2309><-960~21, CosmeticSlimeMold2><820.7303><248.301><9~76, CosmeticSlimeMold2><692.3668><316.5876><-5~62, ShelterSpawnPoint><362.8031><369.715><, Raincord100k_ShelterLanternMouse><871.7354><138.3005><, Raincord100k_ShelterLanternMouse><704.5897><476.6196><, Raincord100k_ShelterLanternMouse><868.692><716.694><, ShelterBhvrTriggerZone><304.1954><363.4572><102~84, 
 FadePalette: 10, 0.7934783

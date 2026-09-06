@@ -47,7 +47,7 @@ ROOMS
 100K_GW_rolingp3_1 : DISCONNECTED, 100K_GW_haysen_1
 100K_GW_slithersss_1 : 100K_GW_milksmansrevenge_1, 100K_GW_detrax_1
 100K_GW_solaristheworstcatever_1 : 100K_GW_damoonlord_1, 100K_GW_wonk_1
-100K_GW_tapok109_1 : DISCONNECTED, 100K_GW_wrayk_1
+100K_GW_tapok109_1 : 100K_GW_alduris_2, 100K_GW_wrayk_1
 100K_GW_wonk_1 : 100K_GW_solaristheworstcatever_1, 100K_GW_haysen_1, 100K_GW_alduris_1
 100K_GW_wrayk_1 : 100K_GW_tapok109_1, 100K_GW_milksmansrevenge_1, 100K_GW_alduris_1 : PERF_HEAVY
 100K_HI_ariesclient_1 : 100K_VS_nimble102_1, 100K_HI_erm424242_1, 100K_HI_dododecalogist_1
@@ -67,7 +67,7 @@ ROOMS
 100K_HI_katolato_2 : 100K_HI_ethanwantsfood_1, 100K_HI_dragonly44_1
 100K_HI_lipuccka_1 : 100K_HI_ethanwantsfood_1, DISCONNECTED, 100K_HI_inspectnerd_1, 100K_HI_erm424242_1
 100K_HI_lkelly10_1 : 100K_HI_gamerguy35_1, 100K_HI_dedniko_1, DISCONNECTED
-100K_HI_luckykitkat_1 : 100K_HI_dododecalogist_1, 100K_HI_user23848_1, DISCONNECTED, 100K_HI_katolato_1
+100K_HI_luckykitkat_1 : 100K_HI_dododecalogist_1, 100K_HI_user23848_1, 100K_HI_alduris_1, 100K_HI_katolato_1
 100K_HI_lunatav_1 : 100K_HI_tapok109_1, 100K_SH_memorycrypts_2, DISCONNECTED, 100K_HI_solaristheworstcatever_1
 100K_HI_solaristheworstcatever_1 : 100K_HI_lunatav_1, 100K_HI_wtfmagnimmepac3_1
 100K_HI_tapok109_1 : 100K_HI_creativegamer03_1, 100K_HI_lunatav_1
@@ -169,8 +169,8 @@ ROOMS
 100K_SI_sniffledorf_1 : 100K_SI_zarquon_1
 100K_SI_walekks_1 : 100K_SI_randomerosion_3, 100K_SI_iyonkoi_1
 100K_SI_zarquon_1 : 100K_SI_sniffledorf_1, 100K_SI_echidna1_1, 100K_SI_gabkai11_1
-100K_SL_alduris_1 : 100K_SH_katolato_1, DISCONNECTED, DISCONNECTED, DISCONNECTED, 100K_SL_memorycrypts_1, 100K_SL_nimble102_1, 100K_SL_lwrcsv_1, 100K_MS_fanc39cat_1, DISCONNECTED
-100K_SL_aprilistheworstmonth_1 : 100K_SL_haysen_1, 100K_GW_detrax_1, DISCONNECTED
+100K_SL_alduris_1 : 100K_SH_katolato_1, DISCONNECTED, DISCONNECTED, 100K_SL_alduris_2, 100K_SL_memorycrypts_1, 100K_SL_nimble102_1, 100K_SL_lwrcsv_1, 100K_MS_fanc39cat_1, DISCONNECTED
+100K_SL_aprilistheworstmonth_1 : 100K_SL_haysen_1, 100K_GW_detrax_1, 100K_SL_av3ry_1
 100K_SL_haysen_1 : 100K_SL_aprilistheworstmonth_1, 100K_SL_kebasnaek_1, 100K_SL_memorycrypts_1
 100K_SL_kebasnaek_1 : 100K_SL_haysen_1, 100K_SB_tronsx_1
 100K_SL_lwrcsv_1 : DISCONNECTED, 100K_VS_izunachan_1, 100K_SL_alduris_1
@@ -234,7 +234,7 @@ ROOMS
 100K_UW_osziaq_9 : 100K_UW_osziaq_5, 100K_UW_osziaq_13
 100K_UW_tronsx_1 : 100K_SS_dietpebsi_1, 100K_UW_damoonlord_1, DISCONNECTED, DISCONNECTED, 100K_UW_osziaq_13
 100K_VS_dragonly44_1 : 100K_VS_inspectnerd_1, DISCONNECTED, 100K_VS_wonk_1, 100K_SB_gamerguy35_1, DISCONNECTED
-100K_VS_inspectnerd_1 : 100K_VS_nimble102_1, DISCONNECTED, 100K_VS_dragonly44_1, DISCONNECTED, 100K_VS_wonk_1
+100K_VS_inspectnerd_1 : 100K_VS_nimble102_1, 100K_VS_av3ry_1, 100K_VS_dragonly44_1, DISCONNECTED, 100K_VS_wonk_1
 100K_VS_izunachan_1 : 100K_VS_wonk_1, 100K_SL_lwrcsv_1
 100K_VS_nimble102_1 : DISCONNECTED, 100K_VS_inspectnerd_1, 100K_HI_ariesclient_1
 100K_VS_wonk_1 : 100K_VS_inspectnerd_1, 100K_VS_dragonly44_1, DISCONNECTED, 100K_VS_izunachan_1
@@ -305,6 +305,11 @@ ROOMS
 100K_SH_alduris_2 : 100K_SH_gal3olag_1 : SHELTER
 100K_WSKX_alduris_1 : 100K_WSKC_forthfora_1 : SHELTER
 100K_LF_alduris_2 : 100K_LF_slithersss_1 : SHELTER
+100K_SL_av3ry_1 : 100K_SL_aprilistheworstmonth_1 : SHELTER
+100K_GW_alduris_2 : 100K_GW_tapok109_1 : SHELTER
+100K_HI_alduris_1 : 100K_HI_luckykitkat_1
+100K_VS_av3ry_1 : 100K_VS_inspectnerd_1 : SHELTER
+100K_SL_alduris_2 : 100K_SL_alduris_1 : SHELTER
 END ROOMS
 CREATURES
 

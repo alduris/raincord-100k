@@ -1,0 +1,5 @@
+Grime: 0.25
+Palette: 34
+FadePalette: 13, 0.3586957
+MorePalette0: 9, 0.4673913
+MorePalette1: 8, 0.06521739

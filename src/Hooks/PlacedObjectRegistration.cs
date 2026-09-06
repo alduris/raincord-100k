@@ -26,7 +26,7 @@ namespace Raincord100k.Hooks
             {
                 return ObjectsPage.DevObjectCategories.Gameplay;
             }
-            if (type == Constants.ShelterLanternMouse)
+            if (type == Constants.ShelterLanternMouse || type == Constants.ShelterJetfish)
             {
                 return ObjectsPage.DevObjectCategories.Creatures;
             }
@@ -123,7 +123,22 @@ namespace Raincord100k.Hooks
                 {
                     if (Random.value < 0.5f)
                     {
-                        var crit = new AbstractCreature(self.world, StaticWorld.GetCreatureTemplate(CreatureTemplate.Type.LanternMouse), null, self.GetWorldCoordinate(po.pos), new EntityID(-1, self.abstractRoom.index * 10000 + i))
+                        var crit = new AbstractCreature(self.world, StaticWorld.GetCreatureTemplate(CreatureTemplate.Type.LanternMouse), null, self.GetWorldCoordinate(po.pos), new EntityID(-1, self.abstractRoom.index * 100 + i))
+                        {
+                            destroyOnAbstraction = true,
+                            saveCreature = false
+                        };
+                        ShelterHooks.RegisterCreatureWithShelter(crit);
+                        crit.pos.abstractNode = 1;
+                        self.abstractRoom.AddEntity(crit);
+                        self.AssignOriginAndIteration(crit, i);
+                    }
+                }
+                else if (po.type == Constants.ShelterJetfish)
+                {
+                    if (Random.value < 0.5f)
+                    {
+                        var crit = new AbstractCreature(self.world, StaticWorld.GetCreatureTemplate(CreatureTemplate.Type.JetFish), null, self.GetWorldCoordinate(po.pos), new EntityID(-1, self.abstractRoom.index * 100 + i))
                         {
                             destroyOnAbstraction = true,
                             saveCreature = false

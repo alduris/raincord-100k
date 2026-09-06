@@ -1,0 +1,4 @@
+Template: 100k_settingstemplate_sl-fog
+Effects: Fog-1-264-304, 
+PlacedObjects: Raincord100k_ShelterNoSaveZone><-72.81302><339.5709><1081~0, Raincord100k_ShelterJetfish><74.80167><264.2243><, Raincord100k_ShelterJetfish><354.8198><252.6632><, Raincord100k_ShelterJetfish><609.0591><237.3095><, CGShelterRain><319.9674><680.4473><, ShelterBhvrTriggerZone><981.2344><780.1994><56~52, ShelterSpawnPoint><1027.142><796.8314><, LightSource><154.9699><866.0522><0.3043478~Environment~1013~-573~187~-101.3975~1~1~None~0~0, 
+FadePalette: 4, 0.1521739

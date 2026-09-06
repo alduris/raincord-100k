@@ -1,0 +1,4 @@
+Grime: 0.1521739
+Effects: Darkness-0.2717391-20-20, 
+PlacedObjects: LightSource><325.6129><313.165><0.1086956~Environment~0~142~50~86.60254~1~1~None~0~0, 
+FadePalette: 20, 0.2717391
