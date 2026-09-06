@@ -34,7 +34,6 @@ namespace Raincord100k
                 MenuHooks.Apply();
                 PeanutMeta.EnableHooks();
                 PearlHooks.Apply();
-                PearlSpotHooks.Apply();
                 PlacedObjectRegistration.ApplyHooks();
                 PlayerHooks.Apply();
                 ProcessHooks.Apply();

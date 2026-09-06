@@ -34,7 +34,6 @@ namespace Raincord100k.Hooks
                             hasSeenPearlTutorial = true;
                             self.room.AddObject(new PearlTutorial(self.room));
                         }
-                        OptionsMenu.SetAsRead(pearl.AbstractPearl.dataPearlType);
                     }
                 }
             }
@@ -42,7 +41,10 @@ namespace Raincord100k.Hooks
 
         private static void Player_checkInput(On.Player.orig_checkInput orig, Player self)
         {
-            if (self.Consious && !self.isNPC && self.room != null && self.room.game.IsStorySession && self.room.game.cameras[0].hud?.owner == self && self.room.game.GetStorySession.saveStateNumber == Constants.Slugcat && self.bodyMode == Player.BodyModeIndex.Stand)
+            if (self.Consious && !self.isNPC && self.room != null && self.room.game.IsStorySession && self.room.game.cameras[0].hud?.owner == self 
+                && self.room.game.GetStorySession.saveStateNumber == Constants.Slugcat 
+                && (self.bodyMode == Player.BodyModeIndex.Stand || self.bodyMode == Player.BodyModeIndex.ZeroG)
+            )
             {
                 var hud = self.room.game.cameras[0].hud;
                 for (int i = 0; i < self.grasps.Length; i++)

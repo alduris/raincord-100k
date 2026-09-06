@@ -91,7 +91,7 @@ namespace Raincord100k.Hooks
                 bool consumed = self.game.IsStorySession && self.game.GetStorySession.saveState.ItemConsumed(self.world, false, self.abstractRoom.index, i);
                 if (po.type == Constants.PearlSpot && firstTimeRealized && !consumed)
                 {
-                    if (PearlSpotRegistry.TryGetPearl(self.game.GetStorySession.saveState.seed, self.abstractRoom.name, i, out var pearlType))
+                    if (PearlSpotRegistry.TryGetPearl(self.game.GetStorySession.saveState.seed, self.abstractRoom.name, i, out var pearlType) && !SaveData.HasBeenRead(pearlType))
                     {
                         var abstrPearl = new DataPearl.AbstractDataPearl(self.world, AbstractPhysicalObject.AbstractObjectType.DataPearl, null, self.GetWorldCoordinate(po.pos), self.game.GetNewID(), self.abstractRoom.index, i, po.data as PlacedObject.ConsumableObjectData, pearlType)
                         {

@@ -101,6 +101,8 @@ namespace Raincord100k.Pearls
             {
                 selections.Add(new Selection(this, container, useDirections[pearlReaders.Count - 1][i], pearlReaders[i]));
             }
+
+            SaveData.SetAsRead(pearlType);
         }
 
         private bool DoesVersionExist(string check)
