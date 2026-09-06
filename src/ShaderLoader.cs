@@ -37,7 +37,7 @@ public static class ShaderLoader
         }
         catch (Exception e)
         {
-            Plugin.Logger.LogError($"Exception loading shader: {(shaderPath == "" ? "(missing shader path)" : shaderPath)}\n{e}");
+            Plugin.Logger.LogError($"Exception loading shader: {(string.IsNullOrEmpty(shaderPath) ? "(missing shader path)" : shaderPath)}\n{e}");
         }
 
         return null!;

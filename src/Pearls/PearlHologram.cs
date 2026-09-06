@@ -1,7 +1,6 @@
 ﻿using System.Collections.Generic;
 using System.Globalization;
 using System.IO;
-using System.Runtime.CompilerServices;
 using System.Text;
 using System.Text.RegularExpressions;
 using HUD;
@@ -204,9 +203,9 @@ namespace Raincord100k.Pearls
             mode = wasHovering ? Mode.InitReading : Mode.CancelSelection;
         }
 
-        public string Translate(string s)
+        public static string Translate(string s)
         {
-            return game.rainWorld.inGameTranslator.Translate(s);
+            return Custom.rainWorld.inGameTranslator.Translate(s);
         }
 
         public string ReplaceParts(string s)
@@ -227,56 +226,56 @@ namespace Raincord100k.Pearls
         {
         }
 
-        private string PebblesNameForPlayer(bool capitalized)
+        public static string PebblesNameForPlayer(bool capitalized)
         {
-            string text = Translate("creature");
-            string text2 = Translate("little");
-            if (capitalized && InGameTranslator.LanguageID.UsesCapitals(game.rainWorld.inGameTranslator.currentLanguage))
+            string suffix = Translate("creature");
+            string prefix = Translate("little");
+            if (capitalized && InGameTranslator.LanguageID.UsesCapitals(Custom.rainWorld.inGameTranslator.currentLanguage))
             {
-                text2 = char.ToUpper(text2.ToCharArray()[0]).ToString() + text2.Substring(1);
+                prefix = char.ToUpper(prefix.ToCharArray()[0]).ToString() + prefix.Substring(1);
             }
-            if (game.rainWorld.inGameTranslator.currentLanguage == InGameTranslator.LanguageID.Thai)
+            if (Custom.rainWorld.inGameTranslator.currentLanguage == InGameTranslator.LanguageID.Thai)
             {
-                return text + text2;
+                return suffix + prefix;
             }
-            return text2 + " " + text;
+            return prefix + " " + suffix;
         }
 
-        private string MoonNameForPlayer(bool capitalized)
+        public static string MoonNameForPlayer(bool capitalized)
         {
-            string text = "creature";
+            string suffix = "creature";
             if (Random.value > 0.3f)
             {
-                text = "friend";
+                suffix = "friend";
             }
-            if (game.rainWorld.inGameTranslator.currentLanguage == InGameTranslator.LanguageID.Portuguese && (text == "friend" || text == "creature"))
+            if (Custom.rainWorld.inGameTranslator.currentLanguage == InGameTranslator.LanguageID.Portuguese && (suffix == "friend" || suffix == "creature"))
             {
-                string text2 = Translate(text);
-                if (capitalized && InGameTranslator.LanguageID.UsesCapitals(game.rainWorld.inGameTranslator.currentLanguage))
+                string capitalSuffix = Translate(suffix);
+                if (capitalized && InGameTranslator.LanguageID.UsesCapitals(Custom.rainWorld.inGameTranslator.currentLanguage))
                 {
-                    text2 = char.ToUpper(text2[0]).ToString() + text2.Substring(1);
+                    capitalSuffix = char.ToUpper(capitalSuffix[0]).ToString() + capitalSuffix.Substring(1);
                 }
-                return text2;
+                return capitalSuffix;
             }
-            string text3 = Translate(text);
-            string text4 = Translate("little");
-            if (capitalized && InGameTranslator.LanguageID.UsesCapitals(game.rainWorld.inGameTranslator.currentLanguage))
+            string translatedSuffix = Translate(suffix);
+            string prefix = Translate("little");
+            if (capitalized && InGameTranslator.LanguageID.UsesCapitals(Custom.rainWorld.inGameTranslator.currentLanguage))
             {
-                text4 = char.ToUpper(text4[0]).ToString() + text4.Substring(1);
+                prefix = char.ToUpper(prefix[0]).ToString() + prefix.Substring(1);
             }
-            if (game.rainWorld.inGameTranslator.currentLanguage == InGameTranslator.LanguageID.Thai)
+            if (Custom.rainWorld.inGameTranslator.currentLanguage == InGameTranslator.LanguageID.Thai)
             {
-                return text3 + text4;
+                return translatedSuffix + prefix;
             }
-            return text4 + " " + text3;
+            return prefix + " " + translatedSuffix;
         }
 
-        private static string SpriteForReader(Reader reader)
+        public static string SpriteForReader(Reader reader)
         {
             return (reader == Reader.Pebbles ? "GuidancePebbles" : "GuidanceMoon");
         }
 
-        private static Color ColorForReader(Reader reader)
+        public static Color ColorForReader(Reader reader)
         {
             return reader switch
             {
@@ -583,23 +582,23 @@ namespace Raincord100k.Pearls
                 // Credit
                 string[] splitName = owner.pearlType.value.Split('_');
                 string credit = CreditsRegistry.GetActualName(splitName[1]);
-                events.Add(new TextEvent(this, 20, owner.Translate("[ Pearl text written by <NAME> ]").Replace("<NAME>", credit), 20));
+                events.Add(new TextEvent(this, 20, Translate("[ Pearl text written by <NAME> ]").Replace("<NAME>", credit), 20));
                 switch (owner.currentReader)
                 {
                     case Reader.MoonPreCollapse:
-                        events.Add(new TextEvent(this, 0, owner.Translate("[ Reading: Looks to the Moon (pre-collapse) ]"), 0));
+                        events.Add(new TextEvent(this, 0, Translate("[ Reading: Looks to the Moon (pre-collapse) ]"), 0));
                         break;
                     case Reader.MoonPostCollapse:
-                        events.Add(new TextEvent(this, 0, owner.Translate("[ Reading: Looks to the Moon ]"), 0));
+                        events.Add(new TextEvent(this, 0, Translate("[ Reading: Looks to the Moon ]"), 0));
                         break;
                     case Reader.MoonFuture:
-                        events.Add(new TextEvent(this, 0, owner.Translate("[ Reading: Looks to the Moon (future) ]"), 0));
+                        events.Add(new TextEvent(this, 0, Translate("[ Reading: Looks to the Moon (future) ]"), 0));
                         break;
                     case Reader.Pebbles:
-                        events.Add(new TextEvent(this, 0, owner.Translate("[ Reading: Five Pebbles ]"), 0));
+                        events.Add(new TextEvent(this, 0, Translate("[ Reading: Five Pebbles ]"), 0));
                         break;
                     default:
-                        events.Add(new TextEvent(this, 0, owner.Translate("[ Reading: Looks to the Moon ]"), 0));
+                        events.Add(new TextEvent(this, 0, Translate("[ Reading: Looks to the Moon ]"), 0));
                         break;
                 }
 

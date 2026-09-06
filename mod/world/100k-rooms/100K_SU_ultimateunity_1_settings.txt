@@ -1,4 +1,4 @@
 Template: 100k_settingstemplate_su-outside
 EffectColorA: 9
 EffectColorB: 8
-PlacedObjects: Raincord100k_PearlSpot><796.8711><486.6529><0~0~0~3, 
+PlacedObjects: Raincord100k_PearlSpot><796.8711><486.6529><0~0~0~3, Raincord100k_PearlSpot><461.0136><412.6995><0~0~0~3, 

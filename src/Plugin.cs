@@ -9,8 +9,11 @@ using Raincord100k.SpawnSpots;
 
 namespace Raincord100k
 {
+    [BepInDependency("rwmodding.coreorg.pom", BepInDependency.DependencyFlags.HardDependency)] // POM
+    [BepInDependency("io.github.dual.fisobs", BepInDependency.DependencyFlags.HardDependency)] // Fisobs
+    [BepInDependency("com.rainworldgame.garrakx.crs.mod", BepInDependency.DependencyFlags.HardDependency)] // CRS
     [BepInPlugin(MOD_ID, "Raincord 100k Gallery Region", "1.0")]
-    class Plugin : BaseUnityPlugin
+    public class Plugin : BaseUnityPlugin
     {
         private const string MOD_ID = "raincord_100k";
 
@@ -30,6 +33,7 @@ namespace Raincord100k
                 DevToolsHooks.Enable();
                 MenuHooks.Apply();
                 PeanutMeta.EnableHooks();
+                PearlHooks.Apply();
                 PearlSpotHooks.Apply();
                 PlacedObjectRegistration.ApplyHooks();
                 PlayerHooks.Apply();
@@ -49,6 +53,7 @@ namespace Raincord100k
             //Constants.RegisterCredits();
             ShaderLoader.LoadShaders();
             PomManager.RegisterPlacedObjects();
+            MachineConnector.SetRegisteredOI(MOD_ID, new OptionsMenu());
             
             Futile.atlasManager.LoadAtlas("assets" + Path.DirectorySeparatorChar + "Peanut_Sprites");
         }

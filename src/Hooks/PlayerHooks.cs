@@ -23,15 +23,18 @@ namespace Raincord100k.Hooks
             }
             orig(self, eu);
 
-            if (!hasSeenPearlTutorial && self.Consious && self.room != null && self.room.game.IsStorySession && self.room.game.GetStorySession.saveStateNumber == Constants.Slugcat)
+            if (self.Consious && self.room != null && self.room.game.IsStorySession && self.room.game.GetStorySession.saveStateNumber == Constants.Slugcat)
             {
-                //
                 for (int i = 0; i < self.grasps.Length; i++)
                 {
                     if (self.grasps[i]?.grabbed is DataPearl pearl && pearl.Is100kPearl())
                     {
-                        hasSeenPearlTutorial = true;
-                        self.room.AddObject(new PearlTutorial(self.room));
+                        if (!hasSeenPearlTutorial)
+                        {
+                            hasSeenPearlTutorial = true;
+                            self.room.AddObject(new PearlTutorial(self.room));
+                        }
+                        OptionsMenu.SetAsRead(pearl.AbstractPearl.dataPearlType);
                     }
                 }
             }
