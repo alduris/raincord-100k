@@ -1,18 +1,18 @@
 ROOMS
 
-100K_CC_alduris_1 : DISCONNECTED, 100K_CC_rostik630uwu_1, 100K_CC_hobart_1, 100K_CC_alduris_2
-100K_CC_alduris_2 : 100K_CC_alduris_1 : SHELTER
+100K_CC_alduris_1 : 100K_CC_steellesstoaster_2, 100K_CC_rostik630uwu_1, 100K_CC_hobart_1, 100K_CC_zenodos_1
+100K_CC_alduris_2 : 100K_CC_zenodos_1 : SHELTER
 100K_CC_dragonpropaganda_1 : 100K_CC_tronsx_1, 100K_CC_nimble102_1, 100K_CC_steellesstoaster_1
 100K_CC_gamerguy35_1 : 100K_CC_steellesstoaster_1, 100K_CC_rostik630uwu_1
 100K_CC_hobart_1 : 100K_HI_totallydutch_1, 100K_CC_alduris_1
-100K_CC_javadog64_1 : 100K_CC_steellesstoaster_1, 100K_CC_steellesstoaster_2
+100K_CC_javadog64_1 : 100K_CC_tronsx_1, 100K_CC_steellesstoaster_2
 100K_CC_nimble102_1 : DISCONNECTED, 100K_SI_novatheskeledragon_1, DISCONNECTED, 100K_CC_dragonpropaganda_1, DISCONNECTED
-100K_CC_rbor_1 : 100K_UW_tronsx_1, 100K_CC_tronsx_1
+100K_CC_rbor_1 : 100K_UW_damoonlord_1, 100K_CC_tronsx_1
 100K_CC_rostik630uwu_1 : 100K_CC_gamerguy35_1, 100K_CC_alduris_1
-100K_CC_steellesstoaster_1 : 100K_CC_dragonpropaganda_1, 100K_CC_javadog64_1, 100K_CC_gamerguy35_1, DISCONNECTED, 100K_CC_zenodos_1
-100K_CC_steellesstoaster_2 : 100K_CC_javadog64_1, DISCONNECTED, 100K_CC_zenodos_1
-100K_CC_tronsx_1 : 100K_CC_dragonpropaganda_1, DISCONNECTED, DISCONNECTED, 100K_CC_rbor_1, DISCONNECTED, DISCONNECTED
-100K_CC_zenodos_1 : 100K_CC_steellesstoaster_2, 100K_CC_steellesstoaster_1
+100K_CC_steellesstoaster_1 : 100K_CC_dragonpropaganda_1, DISCONNECTED, 100K_CC_gamerguy35_1, DISCONNECTED, DISCONNECTED
+100K_CC_steellesstoaster_2 : 100K_CC_javadog64_1, DISCONNECTED, 100K_CC_alduris_1
+100K_CC_tronsx_1 : 100K_CC_dragonpropaganda_1, DISCONNECTED, 100K_CC_javadog64_1, 100K_CC_rbor_1, DISCONNECTED, DISCONNECTED
+100K_CC_zenodos_1 : 100K_CC_alduris_1, 100K_CC_alduris_2
 100K_CL_tankium_1 : DISCONNECTED, 100K_SH_dragonpropaganda_1, DISCONNECTED
 100K_DM_fatalerror404_1 : 100K_MS_magicajaphet_1, 100K_LM_av3ry_7, 100K_LM_av3ry_6
 100K_DM_gonterhaoz_1 : 100K_MS_mk-0_1, 100K_MS_fanc39cat_1
@@ -94,7 +94,7 @@ ROOMS
 100K_LF_lwrcsv_1 : 100K_LF_slithersss_1, 100K_LF_haysen_1
 100K_LF_mk-0_1 : 100K_LF_haysen_1, 100K_SB_alduris_1
 100K_LF_myrmice_1 : 100K_LF_totallydutch_1, 100K_LF_crimsont04_1
-100K_LF_slithersss_1 : 100K_LF_alduris_1, 100K_LF_lwrcsv_1, DISCONNECTED
+100K_LF_slithersss_1 : 100K_LF_alduris_1, 100K_LF_lwrcsv_1, 100K_LF_alduris_2
 100K_LF_tapok109_1 : 100K_LF_alduris_1, 100K_LF_totallydutch_1, 100K_LF_haysen_1
 100K_LF_totallydutch_1 : 100K_LF_myrmice_1, 100K_LF_tapok109_1, 100K_LF_chromaticalblight_1
 100K_LM_av3ry_1 : 100K_SL_memorycrypts_1, 100K_LM_av3ry_3, 100K_LM_av3ry_4, 100K_LM_av3ry_2
@@ -117,21 +117,21 @@ ROOMS
 100K_OE_katolato_1 : 100K_OE_novatheskeledragon_1, 100K_OE_rbor_1, 100K_OE_rolingp3_1
 100K_OE_kemkemkemkemkemkem_1 : 100K_OE_cocoaraptor_1, 100K_OE_novatheskeledragon_1
 100K_OE_novatheskeledragon_1 : 100K_OE_frostbite1036_1, 100K_OE_damoonlord_2, DISCONNECTED, 100K_OE_katolato_1, 100K_OE_kemkemkemkemkemkem_1
-100K_OE_ratrixrose_1 : 100K_OE_damoonlord_1, 100K_OE_rbor_1, DISCONNECTED, DISCONNECTED, DISCONNECTED, 100K_SB_miles4daze_1
+100K_OE_ratrixrose_1 : 100K_OE_damoonlord_1, 100K_OE_rbor_1, DISCONNECTED, 100K_SB_iyonkoi_1, 100K_SB_miles4daze_1, 100K_SB_gamerguy35_1
 100K_OE_rbor_1 : 100K_OE_ratrixrose_1, 100K_OE_katolato_1
 100K_OE_rolingp3_1 : DISCONNECTED, 100K_OE_katolato_1, 100K_OE_emptyraider101_1
 100K_OE_zamtreon_1 : 100K_OE_cocoaraptor_1, 100K_OE_zamtreon_2
 100K_OE_zamtreon_2 : 100K_OE_zamtreon_1 : SHELTER
 100K_RM_buzzbud_1 : 100K_SS_novatheskeledragon_1 : SHELTER
 100K_RM_damoonlord_1 : 100K_RM_damoonlord_2, 100K_SS_novatheskeledragon_1, 100K_UW_itztheblu_1
-100K_RM_damoonlord_2 : 100K_RM_damoonlord_1 : PERF_HEAVY : SHELTER
+100K_RM_damoonlord_2 : 100K_RM_damoonlord_1 : SHELTER
 100K_SB_alduris_1 : 100K_LF_mk-0_1, 100K_SB_novatheskeledragon_1, DISCONNECTED, 100K_SB_iyonkoi_1, 100K_SB_ethanwantsfood_1, 100K_SB_gamerguy35_1, 100K_SB_flanace_1
 100K_SB_damoonlord_1 : 100K_SB_gamerguy35_1, 100K_HR_flanace_1
 100K_SB_ethanwantsfood_1 : 100K_SB_alduris_1, 100K_SB_tronsx_1
 100K_SB_flanace_1 : 100K_SB_alduris_1, 100K_SB_tankium_1, 100K_SB_slithersss_1
-100K_SB_gamerguy35_1 : 100K_SB_tankium_1, 100K_SB_alduris_1, DISCONNECTED, 100K_VS_dragonly44_1, 100K_SB_damoonlord_1
-100K_SB_iyonkoi_1 : 100K_SB_miles4daze_1, 100K_SB_alduris_1
-100K_SB_miles4daze_1 : 100K_SB_iyonkoi_1, 100K_SB_slithersss_1, 100K_OE_ratrixrose_1, DISCONNECTED
+100K_SB_gamerguy35_1 : 100K_SB_tankium_1, 100K_SB_alduris_1, 100K_OE_ratrixrose_1, 100K_VS_dragonly44_1, 100K_SB_damoonlord_1
+100K_SB_iyonkoi_1 : 100K_OE_ratrixrose_1, 100K_SB_alduris_1
+100K_SB_miles4daze_1 : DISCONNECTED, 100K_SB_slithersss_1, 100K_OE_ratrixrose_1, DISCONNECTED
 100K_SB_novatheskeledragon_1 : 100K_SB_alduris_1 : SHELTER
 100K_SB_slithersss_1 : 100K_SB_flanace_1, DISCONNECTED, 100K_SB_miles4daze_1
 100K_SB_tankium_1 : DISCONNECTED, 100K_SB_flanace_1, 100K_DS_dragonpropaganda_1, 100K_SB_gamerguy35_1
@@ -141,14 +141,14 @@ ROOMS
 100K_SH_dragonly44_1 : 100K_SH_lipuccka_1 : SHELTER
 100K_SH_dragonpropaganda_1 : 100K_SH_memorycrypts_2, 100K_SH_kalumrw_1, 100K_CL_tankium_1, DISCONNECTED
 100K_SH_flanace_1 : 100K_SH_haysen_1, 100K_SH_pykrite_1
-100K_SH_gal3olag_1 : DISCONNECTED, 100K_SH_chromaticalblight_1, 100K_SH_acquaintedfowl_1
+100K_SH_gal3olag_1 : 100K_SH_alduris_2, 100K_SH_chromaticalblight_1, 100K_SH_acquaintedfowl_1
 100K_SH_haysen_1 : 100K_SH_thenotsogoodgamer_1, 100K_SH_chromaticalblight_1, 100K_SH_katolato_1, DISCONNECTED, 100K_SH_flanace_1
 100K_SH_kalumrw_1 : 100K_SH_dragonpropaganda_1, 100K_SH_zenodos_1
 100K_SH_katolato_1 : 100K_SH_thenotsogoodgamer_1, 100K_SH_haysen_1, 100K_SL_alduris_1
 100K_SH_kizorke_1 : 100K_UW_haysen_1, 100K_SH_memorycrypts_1
 100K_SH_lipuccka_1 : 100K_SH_wonk_1, 100K_SH_pykrite_1, 100K_SH_dragonly44_1
 100K_SH_memorycrypts_1 : 100K_SH_kizorke_1, 100K_SH_prestopesto_1
-100K_SH_memorycrypts_2 : DISCONNECTED, 100K_SH_dragonpropaganda_1, 100K_HI_lunatav_1
+100K_SH_memorycrypts_2 : 100K_SH_alduris_1, 100K_SH_dragonpropaganda_1, 100K_HI_lunatav_1
 100K_SH_prestopesto_1 : 100K_SH_memorycrypts_1, 100K_SH_wonk_1
 100K_SH_pykrite_1 : DISCONNECTED, DISCONNECTED, 100K_SH_flanace_1, 100K_SH_lipuccka_1
 100K_SH_thenotsogoodgamer_1 : 100K_SH_katolato_1, 100K_SH_haysen_1
@@ -213,7 +213,7 @@ ROOMS
 100K_UW_3circles_1 : 100K_UW_osziaq_2, DISCONNECTED, 100K_UW_nimble102_2
 100K_UW_chromaticalblight_1 : 100K_UW_damoonlord_3, DISCONNECTED, 100K_UW_haysen_1
 100K_UW_creativegamer03_1 : 100K_UW_funkytrashcan_1, 100K_UW_damoonlord_1
-100K_UW_damoonlord_1 : 100K_UW_creativegamer03_1, 100K_UW_tronsx_1, DISCONNECTED
+100K_UW_damoonlord_1 : 100K_UW_creativegamer03_1, 100K_UW_tronsx_1, 100K_CC_rbor_1
 100K_UW_damoonlord_2 : 100K_UW_jachii9_1, 100K_UW_damoonlord_4, 100K_UW_damoonlord_3
 100K_UW_damoonlord_3 : 100K_UW_damoonlord_2, 100K_UW_chromaticalblight_1
 100K_UW_damoonlord_4 : 100K_UW_damoonlord_2 : SHELTER
@@ -232,7 +232,7 @@ ROOMS
 100K_UW_osziaq_5 : 100K_UW_osziaq_8, 100K_UW_osziaq_9
 100K_UW_osziaq_8 : 100K_UW_osziaq_5, 100K_UW_itztheblu_1, 100K_UW_luniular_1
 100K_UW_osziaq_9 : 100K_UW_osziaq_5, 100K_UW_osziaq_13
-100K_UW_tronsx_1 : 100K_SS_dietpebsi_1, 100K_UW_damoonlord_1, DISCONNECTED, 100K_CC_rbor_1, 100K_UW_osziaq_13
+100K_UW_tronsx_1 : 100K_SS_dietpebsi_1, 100K_UW_damoonlord_1, DISCONNECTED, DISCONNECTED, 100K_UW_osziaq_13
 100K_VS_dragonly44_1 : 100K_VS_inspectnerd_1, DISCONNECTED, 100K_VS_wonk_1, 100K_SB_gamerguy35_1, DISCONNECTED
 100K_VS_inspectnerd_1 : 100K_VS_nimble102_1, DISCONNECTED, 100K_VS_dragonly44_1, DISCONNECTED, 100K_VS_wonk_1
 100K_VS_izunachan_1 : 100K_VS_wonk_1, 100K_SL_lwrcsv_1
@@ -282,7 +282,7 @@ ROOMS
 100K_WRRA_kemkemkemkemkemkem_1 : 100K_WRRA_0rchid_1, 100K_WRRA_blobtic73391_1
 100K_WRSA_wednesday77.648am_1 : 100K_WAUA_pur._1, 100K_WORA_dakras_1
 100K_WSKB_haizlbliek_1 : 100K_WSKD_scoutriley_1, DISCONNECTED, 100K_WRRA_0rchid_1, 100K_WRFA_blobtic73391_1
-100K_WSKC_forthfora_1 : 100K_WSKD_scoutriley_1, DISCONNECTED
+100K_WSKC_forthfora_1 : 100K_WSKD_scoutriley_1, 100K_WSKX_alduris_1
 100K_WSKD_scoutriley_1 : 100K_WSKC_forthfora_1, 100K_WSKB_haizlbliek_1
 100K_WSSR_ko5i_1 : DISCONNECTED, 100K_WSSR_wonk_1, DISCONNECTED, 100K_WSUR_novatheskeledragon_1, 100K_WHIR_creativegamer03_1
 100K_WSSR_wonk_1 : DISCONNECTED, 100K_WSSR_ko5i_1
@@ -301,6 +301,10 @@ ROOMS
 100K_WPTA_tronsx_1 : 100K_WPTA_gonterhaoz_1, 100K_WPTA_creativegamer03_1, 100K_WPTA_nimble102_1, DISCONNECTED, DISCONNECTED
 100K_HI_wonk_1 : DISCONNECTED, 100K_HI_wonk_2, DISCONNECTED, DISCONNECTED, DISCONNECTED, 100K_HI_creativegamer03_1
 100K_HI_wonk_2 : 100K_HI_wonk_1 : SHELTER
+100K_SH_alduris_1 : 100K_SH_memorycrypts_2 : SHELTER
+100K_SH_alduris_2 : 100K_SH_gal3olag_1 : SHELTER
+100K_WSKX_alduris_1 : 100K_WSKC_forthfora_1 : SHELTER
+100K_LF_alduris_2 : 100K_LF_slithersss_1 : SHELTER
 END ROOMS
 CREATURES
 

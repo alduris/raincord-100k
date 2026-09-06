@@ -1,0 +1,3 @@
+Template: 100k_settingstemplate_lf-underground
+Grime: 0.1521739
+FadePalette: 8, 0.5652174

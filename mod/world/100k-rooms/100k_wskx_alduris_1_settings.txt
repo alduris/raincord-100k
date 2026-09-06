@@ -1,0 +1,2 @@
+Template: 100k_settingstemplate_wskc-inside
+FadePalette: 10, 0.326087

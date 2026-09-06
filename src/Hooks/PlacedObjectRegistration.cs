@@ -22,9 +22,13 @@ namespace Raincord100k.Hooks
 
         private static ObjectsPage.DevObjectCategories ObjectsPage_DevObjectGetCategoryFromPlacedType(On.DevInterface.ObjectsPage.orig_DevObjectGetCategoryFromPlacedType orig, ObjectsPage self, PlacedObject.Type type)
         {
-            if (type == Constants.PearlSpot || type == Constants.SpawnSpot)
+            if (type == Constants.PearlSpot || type == Constants.SpawnSpot || type == Constants.ShelterNoSaveZone)
             {
                 return ObjectsPage.DevObjectCategories.Gameplay;
+            }
+            if (type == Constants.ShelterLanternMouse)
+            {
+                return ObjectsPage.DevObjectCategories.Creatures;
             }
             return orig(self, type);
         }
@@ -37,6 +41,11 @@ namespace Raincord100k.Hooks
             {
                 NullCheckPObj();
                 rep = new SpawnSpotRepresentation(self.owner, tp.value + "_Rep", self, pObj, "Spawn Spot");
+            }
+            else if (tp == Constants.ShelterNoSaveZone)
+            {
+                NullCheckPObj();
+                rep = new ResizeableObjectRepresentation(self.owner, tp.value + "_Rep", self, pObj, "Shelter No Save Zone", true);
             }
 
             if (rep != null)
@@ -76,6 +85,10 @@ namespace Raincord100k.Hooks
             {
                 self.data = new SpawnSpotData(self);
             }
+            else if (self.type == Constants.ShelterNoSaveZone)
+            {
+                self.data = new PlacedObject.ResizableObjectData(self);
+            }
             orig(self);
         }
 
@@ -105,6 +118,21 @@ namespace Raincord100k.Hooks
                 else if (po.type == Constants.SpawnSpot && firstTimeRealized && self.game.GetStorySession.saveState.cycleNumber == 0)
                 {
                     self.AddObject(new SpawnSpotScript(self));
+                }
+                else if (po.type == Constants.ShelterLanternMouse)
+                {
+                    if (Random.value < 0.5f)
+                    {
+                        var crit = new AbstractCreature(self.world, StaticWorld.GetCreatureTemplate(CreatureTemplate.Type.LanternMouse), null, self.GetWorldCoordinate(po.pos), new EntityID(-1, self.abstractRoom.index * 10000 + i))
+                        {
+                            destroyOnAbstraction = true,
+                            saveCreature = false
+                        };
+                        ShelterHooks.RegisterCreatureWithShelter(crit);
+                        crit.pos.abstractNode = 1;
+                        self.abstractRoom.AddEntity(crit);
+                        self.AssignOriginAndIteration(crit, i);
+                    }
                 }
             }
         }

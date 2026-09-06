@@ -1,0 +1,4 @@
+Template: 100k_settingstemplate_sh-darksun
+EffectColorA: 13
+Effects: ModifyEffectColorA-0,0.2934783,0.2717391-1044-371, 
+FadePalette: 12, 0.3586957

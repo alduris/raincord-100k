@@ -1,4 +1,4 @@
-Template: NONE
+Template: 100k_settingstemplate_sh-darksun
 Grime: 0.1133386
 Palette: 35
 EffectColorB: 21

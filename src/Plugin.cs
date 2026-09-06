@@ -37,6 +37,7 @@ namespace Raincord100k
                 PlacedObjectRegistration.ApplyHooks();
                 PlayerHooks.Apply();
                 ProcessHooks.Apply();
+                ShelterHooks.Apply();
                 SpawnSpotHooks.Apply();
                 TokenCacheHooks.Apply();
             }
