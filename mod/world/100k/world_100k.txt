@@ -133,7 +133,7 @@ ROOMS
 100K_SB_iyonkoi_1 : 100K_OE_ratrixrose_1, 100K_SB_alduris_1
 100K_SB_miles4daze_1 : DISCONNECTED, 100K_SB_slithersss_1, 100K_OE_ratrixrose_1, DISCONNECTED
 100K_SB_novatheskeledragon_1 : 100K_SB_alduris_1 : SHELTER
-100K_SB_slithersss_1 : 100K_SB_flanace_1, DISCONNECTED, 100K_SB_miles4daze_1
+100K_SB_slithersss_1 : 100K_SB_flanace_1, 100K_SB_alduris_2, 100K_SB_miles4daze_1
 100K_SB_tankium_1 : DISCONNECTED, 100K_SB_flanace_1, 100K_DS_dragonpropaganda_1, 100K_SB_gamerguy35_1
 100K_SB_tronsx_1 : 100K_SB_ethanwantsfood_1, 100K_SL_kebasnaek_1, 100K_UG_puffballcrafter_1
 100K_SH_acquaintedfowl_1 : 100K_SH_zenodos_1, 100K_SH_gal3olag_1
@@ -310,6 +310,7 @@ ROOMS
 100K_HI_alduris_1 : 100K_HI_luckykitkat_1
 100K_VS_av3ry_1 : 100K_VS_inspectnerd_1 : SHELTER
 100K_SL_alduris_2 : 100K_SL_alduris_1 : SHELTER
+100K_SB_alduris_2 : 100K_SB_slithersss_1 : SHELTER
 END ROOMS
 CREATURES
 

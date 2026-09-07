@@ -3,6 +3,7 @@ Clouds: 0.06521739
 Grime: 0.3478261
 Palette: 2
 Effects: SkyDandelions-0.5652174-20-20, LightBurn-0.05434782-176-78, 
-PlacedObjects: DandelionPatch><385.6404><325.8924><15~73, DandelionPatch><817.5254><643.9484><-52~18, DandelionPatch><543.2471><316.2><-69~10, DandelionPatch><140.3221><200.6585><-6~55, DandelionPatch><126.8334><653.8607><5~-55, 
+PlacedObjects: DandelionPatch><385.6404><325.8924><15~73, DandelionPatch><817.5254><643.9484><-52~18, DandelionPatch><543.2471><316.2><-69~10, DandelionPatch><140.3221><200.6585><-6~55, DandelionPatch><126.8334><653.8607><5~-55, ClimbablePoleV><888.8496><535.6181><0^6, ClimbablePoleH><858.1647><610.6809><2^0, ClimbablePoleV><854.1548><244.3242><0^2, 
 AmbientSounds: OMNI><am_env-natwind.ogg><734.8594><429.0826><0.2173913><1, 
+Triggers: Spot<tA>event<tB>MusicEvent<eA>songName<eB>rw_42 - kayava<eA>vol<eB>0.5065221<eA>prio<eB>0.4021739<eA>mxThrt<eB>1<eA>loop<eB>0<eA>droneTol<eB>0<eA>rooms<eB>-1<eA>rest<eB>9<eA>fadeIn<eB>0<eA>oneSongPerCycle<eB>0<eA>stopAtDeath<eB>0<eA>stopAtGate<eB>0<tA>multiUse<tB>0<tA>toCycle<tB>-1<tA>fromCycle<tB>0<tA>delay<tB>0<tA>panPos<tB>718.3426<tB>272.6773<tA>fireChance<tB>1<tA>entrance<tB>-1<tA>karma<tB>0<tA>slugcats<tB><tA>pos<tB>501.3426<tB>467.6773<tA>handlePos<tB>-208.3553<tB>-124.3553, 
 FadePalette: 3, 0.02173913

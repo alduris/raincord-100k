@@ -9,5 +9,5 @@ Palette: 2
 EffectColorA: 10
 EffectColorB: 2
 Effects: SkyDandelions-0.6304348-20-20, Flies-0.3695652-77-70, SkyBloom-0.6847826-30-30, 
-PlacedObjects: SeedCob><1536.741><1420.95><-286~-147~3~19, DeadSeedCob><1179.301><1262.52><, SeedCob><1744><1173><-281~211~3~19, DeadSeedCob><1480.175><929.1527><, DeadSeedCob><2305.189><1005.265><, WaterFallDepth><393.823><354.1568><, 
+PlacedObjects: SeedCob><1536.741><1420.95><-286~-147~3~19, DeadSeedCob><1179.301><1262.52><, SeedCob><1744><1173><-281~211~3~19, DeadSeedCob><1480.175><929.1527><, DeadSeedCob><2305.189><1005.265><, WaterFallDepth><393.823><354.1568><0~100~1~0.5~0.2~S~0~0, Raincord100k_PearlSpot><1319.74><1028.3><0~0~0~3, Raincord100k_PearlSpot><413.6989><1168.521><0~0~0~3, 
 FadePalette: 18, 0.1630435, 0.1195652, 0.1630435, 0.1413043, 0.1630435, 0.08695652
