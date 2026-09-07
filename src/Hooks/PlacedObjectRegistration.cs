@@ -3,6 +3,7 @@ using Raincord100k.Pearls;
 using Raincord100k.SpawnSpots;
 using RWCustom;
 using UnityEngine;
+using Watcher;
 
 namespace Raincord100k.Hooks
 {
@@ -139,6 +140,21 @@ namespace Raincord100k.Hooks
                     if (Random.value < 0.5f)
                     {
                         var crit = new AbstractCreature(self.world, StaticWorld.GetCreatureTemplate(CreatureTemplate.Type.JetFish), null, self.GetWorldCoordinate(po.pos), new EntityID(-1, self.abstractRoom.index * 100 + i))
+                        {
+                            destroyOnAbstraction = true,
+                            saveCreature = false
+                        };
+                        ShelterHooks.RegisterCreatureWithShelter(crit);
+                        crit.pos.abstractNode = 1;
+                        self.abstractRoom.AddEntity(crit);
+                        self.AssignOriginAndIteration(crit, i);
+                    }
+                }
+                else if (po.type == Constants.ShelterLoach)
+                {
+                    if (Random.value < 0.65f)
+                    {
+                        var crit = new AbstractCreature(self.world, StaticWorld.GetCreatureTemplate(WatcherEnums.CreatureTemplateType.Loach), null, self.GetWorldCoordinate(po.pos), new EntityID(-1, self.abstractRoom.index * 100 + i))
                         {
                             destroyOnAbstraction = true,
                             saveCreature = false

@@ -1,0 +1,5 @@
+Template: 100k_settingstemplate_wtdb-tract
+Effects: LightBurn-0.06521739-1088-596, SandPuffs-0-1091-540, 
+PlacedObjects: Raincord100k_ShelterLoach><390.3398><579.3698><, Raincord100k_ShelterLoach><955.6132><657.8959><, Raincord100k_ShelterLoach><1883.167><667.64><, 
+AmbientSounds: OMNI><rwtw_duststorm_deep.ogg><765.3624><560.3549><0.2608696><0.823913, 
+FadePalette: 334, 0.5434783, 0.5434783, 0.5434783

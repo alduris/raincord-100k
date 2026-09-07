@@ -250,7 +250,7 @@ ROOMS
 100K_WARG_reincarnid_1 : 100K_WARG_crafterz_1, DISCONNECTED
 100K_WAUA_flanace_1 : 100K_WAUA_pur._1, 100K_WAUA_nopuddles_1
 100K_WAUA_nopuddles_1 : 100K_WAUA_pur._1, 100K_WAUA_flanace_1
-100K_WAUA_pur._1 : 100K_WAUA_nopuddles_1, 100K_WAUA_flanace_1, 100K_WRSA_wednesday77.648am_1, DISCONNECTED
+100K_WAUA_pur._1 : 100K_WAUA_nopuddles_1, 100K_WAUA_flanace_1, 100K_WRSA_wednesday77.648am_1, 100K_WAUA_alduris_1
 100K_WBLA_greenca_1 : 100K_WBLA_thysi_2, 100K_WBLA_thysi_1
 100K_WBLA_inspectnerd_1 : 100K_WBLA_thysi_2, 100K_WTDA_gonterhaoz_1
 100K_WBLA_thysi_1 : DISCONNECTED, DISCONNECTED, 100K_WBLA_greenca_1, DISCONNECTED
@@ -289,7 +289,7 @@ ROOMS
 100K_WSUR_novatheskeledragon_1 : 100K_WSSR_ko5i_1, 100K_WHIR_creativegamer03_1, 100K_WDSR_creativegamer03_1
 100K_WTDA_gonterhaoz_1 : 100K_WBLA_inspectnerd_1, 100K_WTDB_skqrw_1
 100K_WTDB_alduris_1 : 100K_WTDB_thysi_1 : SHELTER
-100K_WTDB_alduris_2 : DISCONNECTED, 100K_WTDB_gonterhaoz_1, 100K_WTDB_january_1, DISCONNECTED
+100K_WTDB_alduris_2 : DISCONNECTED, 100K_WTDB_gonterhaoz_1, 100K_WTDB_january_1, 100K_WTDB_alduris_3
 100K_WTDB_gonterhaoz_1 : 100K_WTDB_thecubifyer_1, 100K_WTDB_alduris_2
 100K_WTDB_january_1 : 100K_WTDB_skqrw_1, 100K_WTDB_alduris_2
 100K_WTDB_skqrw_1 : 100K_WTDB_january_1, 100K_WTDA_gonterhaoz_1, 100K_WTDB_thysi_1
@@ -307,10 +307,12 @@ ROOMS
 100K_LF_alduris_2 : 100K_LF_slithersss_1 : SHELTER
 100K_SL_av3ry_1 : 100K_SL_aprilistheworstmonth_1 : SHELTER
 100K_GW_alduris_2 : 100K_GW_tapok109_1 : SHELTER
-100K_HI_alduris_1 : 100K_HI_luckykitkat_1
+100K_HI_alduris_1 : 100K_HI_luckykitkat_1 : SHELTER
 100K_VS_av3ry_1 : 100K_VS_inspectnerd_1 : SHELTER
 100K_SL_alduris_2 : 100K_SL_alduris_1 : SHELTER
 100K_SB_alduris_2 : 100K_SB_slithersss_1 : SHELTER
+100K_WAUA_alduris_1 : 100K_WAUA_pur._1 : SHELTER
+100K_WTDB_alduris_3 : 100K_WTDB_alduris_2 : SHELTER
 END ROOMS
 CREATURES
 

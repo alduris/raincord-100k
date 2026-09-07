@@ -1,5 +1,6 @@
 ﻿using System.Collections.Generic;
 using System.IO;
+using System.Runtime.CompilerServices;
 using Menu;
 using RWCustom;
 using UnityEngine;
@@ -23,6 +24,7 @@ namespace Raincord100k.SpawnSpots
         private MenuLabel shadowLabel1, shadowLabel2;
         private MenuLabel mainLabel;
         private FSprite[] circleSprites;
+        private FSprite coverSprite;
 
         public bool IsMouseOverMe => MouseOver;
         public bool CurrentlySelectableMouse => !buttonBehav.greyedOut && !hasSignalled;
@@ -30,9 +32,15 @@ namespace Raincord100k.SpawnSpots
 
         public ButtonBehavior GetButtonBehavior => buttonBehav;
 
-        public SpawnSpotButton(Menu.Menu menu, MenuObject owner, Vector2 pos, SpawnSpotData.SpawnRegion region) : base(menu, owner, pos, 50f)
+        private readonly int uncoverStartDelay;
+        private int uncoverTime = 0;
+        private float FadeIn(float timeStacker) => Mathf.SmoothStep(0f, 1f, Mathf.InverseLerp(0, 20, uncoverTime + timeStacker - uncoverStartDelay));
+
+        public SpawnSpotButton(Menu.Menu menu, MenuObject owner, Vector2 pos, SpawnSpotData.SpawnRegion region, float uncoverDelay) : base(menu, owner, pos, 50f)
         {
+            lastPos = pos;
             spawnRegion = region;
+            uncoverStartDelay = 10 + (int)(6 * uncoverDelay);
             buttonBehav = new ButtonBehavior(this);
             page.selectables.Add(this);
 
@@ -108,6 +116,14 @@ namespace Raincord100k.SpawnSpots
             subObjects.Add(shadowLabel1);
             subObjects.Add(shadowLabel2);
             subObjects.Add(mainLabel);
+
+            // Cover sprite
+            coverSprite = new FSprite("pixel")
+            {
+                color = Color.black
+            };
+            coverSprite.SetAnchor(0.5f, 0.5f);
+            Container.AddChild(coverSprite);
         }
 
         public override void Update()
@@ -115,6 +131,7 @@ namespace Raincord100k.SpawnSpots
             base.Update();
             buttonBehav.Update();
             lastHeld = held;
+            uncoverTime++;
 
             if (held)
             {
@@ -212,7 +229,9 @@ namespace Raincord100k.SpawnSpots
             shadowLabel1.label.alpha = 0.6f;
             shadowLabel2.label.color = Color.black;
             shadowLabel2.label.alpha = 0.6f;
-            float useRad = Mathf.Lerp(lastRad, rad, timeStacker);
+
+            float scaleMult = Mathf.Lerp(0.8f, 1f, FadeIn(timeStacker));
+            float useRad = Mathf.Lerp(lastRad, rad, timeStacker) * scaleMult;
             float bumpRad = useRad + 8f * (buttonBehav.sizeBump + 0.5f * Mathf.Sin(buttonBehav.extraSizeBump * 3.1415927f)) * (buttonBehav.clicked ? (0.5f + 0.5f * Mathf.Sin(Mathf.Lerp(lastPulse, pulse, timeStacker) * 3.1415927f * 2f)) : 1f);
             float fillSpriteRad = bumpRad - 8f;
             Vector2 drawPos = DrawPos(timeStacker);
@@ -241,6 +260,10 @@ namespace Raincord100k.SpawnSpots
             circleSprites[3].scale = (bumpRad - 8f * buttonBehav.sizeBump) / 8f;
             circleSprites[3].alpha = 2f / (bumpRad - 8f * buttonBehav.sizeBump);
             circleSprites[3].color = new Color(0f, 0f, fade);
+
+            coverSprite.SetPosition(drawPos);
+            coverSprite.scale = 120f;
+            coverSprite.alpha = 1f - FadeIn(timeStacker);
         }
 
         public override void RemoveSprites()

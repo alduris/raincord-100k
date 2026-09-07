@@ -13,6 +13,7 @@ namespace Raincord100k
         public static PlacedObject.Type ShelterNoSaveZone = new($"Raincord100k_{nameof(ShelterNoSaveZone)}", true);
         public static PlacedObject.Type ShelterLanternMouse = new($"Raincord100k_{nameof(ShelterLanternMouse)}", true);
         public static PlacedObject.Type ShelterJetfish = new($"Raincord100k_{nameof(ShelterJetfish)}", true);
+        public static PlacedObject.Type ShelterLoach = new($"Raincord100k_{nameof(ShelterLoach)}", true);
 
         public static ProcessManager.ProcessID SpawnSpotProcess = new($"100k_{nameof(SpawnSpotProcess)}", true);
 

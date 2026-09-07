@@ -1,0 +1,5 @@
+DangerType: None
+Grime: 0
+Palette: 100
+PlacedObjects: AdjustableFan><480.5229><419.0513><5~8.660254~0~0.1499992~0.5~0.173913, AdjustableFan><358.8816><421.0994><5~8.660254~0~0.09565204~0.5~0.173913, 
+FadePalette: 10, 0.6304348

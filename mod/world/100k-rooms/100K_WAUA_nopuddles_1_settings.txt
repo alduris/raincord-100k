@@ -1,4 +1,5 @@
 Template: NONE
+DangerType: None
 Clouds: 0.1086956
 Grime: 0.6630435
 RandomItemDensity: 0.3043478

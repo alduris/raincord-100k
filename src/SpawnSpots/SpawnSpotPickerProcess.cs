@@ -9,9 +9,9 @@ namespace Raincord100k.SpawnSpots
         private static readonly SpawnSpotData.SpawnRegion[,] RegionGrid = {
             { null, WPTA, null, null, LC,   RM,   WAUA, WRSA },
             { WARC, WARX, SI,   CC,   UW,   SS,   WXXR, WORA },
-            { null, null, VS,   HI,   SH,   CL,   null, null },
-            { null, OE,   LF,   SU,   GW,   SL,   WRFX, WSKX },
-            { null, HR,   SB,   DS,   LM,   DM,   WVWA, WRRA },
+            { WBLA, null, VS,   HI,   SH,   CL,   null, null },
+            { WTDA, OE,   LF,   SU,   GW,   SL,   WRFX, WSKX },
+            { WTDB, HR,   SB,   DS,   LM,   DM,   WVWA, WRRA },
             };
 
         private SpawnSpotButton[,] regionButtonGrid;
@@ -31,7 +31,9 @@ namespace Raincord100k.SpawnSpots
             }
 
             // Explanation labels
-            var titleLabel = new MenuLabel(this, page, Translate("SELECT STARTING REGION"), new Vector2(0f, manager.rainWorld.screenSize.y - 60f), new Vector2(manager.rainWorld.screenSize.x, 30f), true);
+            var titleLabel = new MenuLabel(this, page, Translate("SELECT STARTING REGION"), 
+                new Vector2(0f, manager.rainWorld.screenSize.y - 60f), 
+                new Vector2(manager.rainWorld.screenSize.x, 30f), true);
             titleLabel.label.shader = manager.rainWorld.Shaders["MenuText"];
             page.subObjects.Add(titleLabel);
 
@@ -47,10 +49,17 @@ namespace Raincord100k.SpawnSpots
                         continue;
                     }
 
-                    var button = new SpawnSpotButton(this, page, manager.rainWorld.screenSize / 2 + buttonSpacing * new Vector2(j - (RegionGrid.GetLength(1) - 1) / 2f, -i + (RegionGrid.GetLength(0) - 1) / 2f), RegionGrid[i, j]);
+                    var button = new SpawnSpotButton(this, page, 
+                        manager.rainWorld.screenSize / 2 + buttonSpacing * new Vector2(j - (RegionGrid.GetLength(1) - 1) / 2f, -i + (RegionGrid.GetLength(0) - 1) / 2f), 
+                        RegionGrid[i, j], 
+                        Vector2.Distance(new Vector2((RegionGrid.GetLength(0) - 1) / 2f, (RegionGrid.GetLength(1) - 1) / 2f), new Vector2(i, j)));
                     page.subObjects.Add(button);
                     regionButtonGrid[i, j] = button;
                 }
+            }
+            if (!manager.menuesMouseMode)
+            {
+                selectedObject = regionButtonGrid[regionButtonGrid.GetLength(0) / 2, regionButtonGrid.GetLength(1) / 2];
             }
 
             // Link buttons
@@ -103,7 +112,7 @@ namespace Raincord100k.SpawnSpots
         public override void Update()
         {
             base.Update();
-            if (manager.musicPlayer.song == null)
+            if (manager.musicPlayer != null && manager.musicPlayer.song == null)
             {
                 manager.musicPlayer.MenuRequestsSong("RW_81 - Breathing Hyometer", 1f, 1f);
             }

@@ -1,4 +1,4 @@
-Template: NONE
+Template: 100k_settingstemplate_wtdb-tract
 CeilingDrips: 0
 WaveSpeed: 0.5
 WaveLength: 0.95175
