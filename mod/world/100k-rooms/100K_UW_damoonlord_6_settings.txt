@@ -1,0 +1,14 @@
+Template: NONE
+CeilingDrips: 0.2293366
+RainIntensity: 0
+RumbleIntensity: 0.4896061
+Clouds: 0.3634624
+Grime: 0.1829373
+Palette: 16
+EffectColorA: 18
+EffectColorB: 8
+Effects: Lightning-0.8429235-42.76666-128.1417, GreenSparks-0.3325295-42.05521-66.95625, ExtraLoudThunder-0.9357224-42.05521-7.905209, ElectricDeath-0.3581408-300.3146-128.8531, 
+PlacedObjects: SteamPipe><1145.606><79.90286><-24.901~-66.48125, SteamPipe><422.3601><66.63869><14.22919~-72.88437, SteamPipe><302.8418><52.39874><-64.03131~-35.1771, SteamPipe><322.9382><6.691521><65.45416~32.41145, SteamPipe><178.9153><37.32465><34.86145~40.2375, Corruption><-38.95593><231.3861><-1.422913~114.9406, Corruption><112.7119><245.3633><-1.422913~69.40732, CorruptionTube><245.664><226.4266><-218.4177~11.77917, CGShelterRain><221.7255><284.6103><, 
+AmbientSounds: OMNI><AM_ENV-NatWind.ogg><757.0956><485.7044><0.5231993><1, OMNI><AM_WIN-HowlingWnd.ogg><751.0964><551.6071><0.4304><0.819042, OMNI><AM_RAIN-Rumbles.ogg><715.3574><296.9031><0.4072007><1, SPOT><AM_IND-DeepHum.ogg><678.2434><312.2899><0.3530691><1><438.2476><351.4357><-132.8252><-35.35532><0><0.1, 
+FadePalette: 17, 0.3557291
+DisablePaletteOverwrite: False

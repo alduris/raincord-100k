@@ -1,0 +1,5 @@
+Template: NONE
+Clouds: 0.4253285
+Palette: 5
+FadePalette: 20, 0.3325293
+DisablePaletteOverwrite: False

@@ -1,0 +1,8 @@
+Template: NONE
+Clouds: 0.2165312
+Grime: 0.2061366
+Palette: 9
+Effects: Flies-0.08506542-20-20, 
+AmbientSounds: OMNI><AM_ENV-LightWind.ogg><749.8469><517.8027><0.2680027><0.8329624, OMNI><SO_WAT-LilDrips.ogg><569.698><519.6473><0.1829376><1, 
+FadePalette: 8, 0.3711956
+DisablePaletteOverwrite: False

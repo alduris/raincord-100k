@@ -1,0 +1,10 @@
+Template: NONE
+DangerType: None
+CeilingDrips: 0
+Grime: 0
+Palette: 28
+Effects: Dustpuffs-1-42.76666-87.58855, DayNight-0.510394-44.18958-34.22916, HeatWave-0.1855983-306.0062-36.36354, LightBurn-0.05413288-310.275-93.28022, Darkness-0.0386661-306.0062-141.6594, RoofTopView-1-20-20, 
+AmbientSounds: OMNI><AM_ENV-NatWind.ogg><753.2458><494.0076><0.5><1, OMNI><AM_ENV-LightWind.ogg><751.4037><573.4209><0.5154665><1, SPOT><AM_ENV-WallHum.ogg><646.5751><203.0735><0.6082658><1><472.9791><257.2391><-278.6741><0.9290161><0><0.2546652, SPOT><AM_WIN-HowlingWnd.ogg><885.902><269.7844><0.3040082><1><-443.1022><548.0594><602.1113><-273.6939><0><0.1, 
+FadePalette: 42, 0.1701314
+DisablePaletteOverwrite: False
+BackgroundType: rf_lc_approx

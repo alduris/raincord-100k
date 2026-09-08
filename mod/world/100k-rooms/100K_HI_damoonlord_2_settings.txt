@@ -1,0 +1,6 @@
+Template: NONE
+Palette: 5
+EffectColorB: 2
+AmbientSounds: SPOT><Basic Mech.ogg><675.8123><131.9676><0.206137><1><474.9467><438.6218><-55.98761><-33.93243><0><0.4402632, 
+FadePalette: 8, 0.2319973
+DisablePaletteOverwrite: False

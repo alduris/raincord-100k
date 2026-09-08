@@ -1,0 +1,14 @@
+Template: NONE
+RainIntensity: 0.2730753
+RumbleIntensity: 0.2730753
+Clouds: 0.1314651
+Grime: 0.3066691
+Palette: 18
+EffectColorA: 10
+EffectColorB: 2
+Effects: AboveCloudsView-1-20-20, SkyDandelions-0.2242639-32.13437-77.66771, DayNight-1-285.4135-24.30833, 
+PlacedObjects: DayNightSettings><70.57788><412.4751><5~8.660254~3~31, ShelterBhvrPlacedDoor><469.5547><272.1639><0^1, ShelterBhvrSpawnPosition><440.8824><393.0651><, CGShelterRain><220.7823><288.6702><, 
+AmbientSounds: OMNI><AM_ENV-NatWind.ogg><731.9095><488.6828><0.3066685><1, OMNI><AM_ENV-LightWind.ogg><766.2618><385.9191><0.3066685><0.8886404, SPOT><SO_SFX-Kepler.ogg><684.3867><222.3477><0.2061363><1><467.1575><673.428><-203.971><-198.9908><0><0.1695988, 
+FadePalette: 2, 0.7501248
+DisablePaletteOverwrite: False
+BackgroundOffset: 0,-1391.986

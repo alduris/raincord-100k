@@ -1,0 +1,11 @@
+Template: NONE
+CeilingDrips: 0
+RainIntensity: 0
+RumbleIntensity: 0.01787799
+Grime: 0.05147188
+Palette: 28
+Effects: DayNight-0.7346579-20-20, 
+PlacedObjects: DayNightSettings><-93.68393><537.6686><5~8.660254~10~33, ShelterBhvrSpawnPosition><772.3665><473.7656><, ShelterBhvrPlacedDoor><597.7784><507.4662><1^0, 
+AmbientSounds: OMNI><AM_ENV-WallHum.ogg><753.0749><435.1552><0.3530678><0.9304016, SPOT><AM_IND-Welder.ogg><744.4728><179.6392><0.1520041><1><396.6511><316.809><-226.7376><-16.14595><0><0.2546645, 
+FadePalette: 3, 0.3634625
+DisablePaletteOverwrite: False
