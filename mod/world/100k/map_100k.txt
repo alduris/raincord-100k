@@ -1,317 +1,317 @@
-100K_CC_alduris_1: 1602><-1122><1142><-901><1><Chimney Canopy
-100K_CC_alduris_2: 1860><-1209><1464><-890><0><
-100K_CC_dragonpropaganda_1: 1101><-604.5><746><-376><0><Chimney Canopy
-100K_CC_gamerguy35_1: 1329><-840><870><-568><0><Chimney Canopy
-100K_CC_hobart_1: 1467><-1185><965><-901><0><Chimney Canopy
-100K_CC_javadog64_1: 1275><-582><920><-364><2><Chimney Canopy
-100K_CC_nimble102_1: 603><-574.5><338><-352><1><Chimney Canopy
-100K_CC_rbor_1: 2202><-529.5><1634><-308><1><Chimney Canopy
-100K_CC_rostik630uwu_1: 1710><-963><1242><-720><0><Chimney Canopy
-100K_CC_steellesstoaster_1: 1056><-835.5><720><-548><1><Chimney Canopy
-100K_CC_steellesstoaster_2: 1260><-954><882><-724><2><Chimney Canopy
-100K_CC_tronsx_1: 1582.5><-553.5><1056><-386><1><Chimney Canopy
-100K_CC_zenodos_1: 1722><-1224><1294><-918><0><Chimney Canopy
-100K_CL_tankium_1: 4683><-2284.5><3188><-1795><0><Silent Construct
-100K_DM_fatalerror404_1: 7258.5><-3346.5><7510><-2910><1><Looks to the Moon
-100K_DM_gonterhaoz_1: 8493><-3031.5><8540><-2102><2><
-100K_DS_addystrawbry_1: 966><-3829.5><670><-2885><0><Drainage System
-100K_DS_alduris_1: -168><-3886.5><-284><-2905><0><Drainage System
-100K_DS_alduris_2: -201><-3769.5><-304><-2761><0><Drainage System
-100K_DS_aprilistheworstmonth_1: 1776><-3997.5><1326><-2965><1><Drainage System
-100K_DS_aprilistheworstmonth_2: 820.5><-3841.5><517><-2879><1><Drainage System
-100K_DS_dragonpropaganda_1: -627><-4096.5><-1062><-3106><0><Drainage System
-100K_DS_haysen_1: 648><-3682.5><292><-2727><0><Drainage System
-100K_DS_iyonkoi_1: 633><-3865.5><334><-2885><1><Drainage System
-100K_DS_luckykitkat_1: 987><-3724.5><682><-2703><0><Drainage System
-100K_DS_luniular_1: 1215><-3766.5><982><-2711><0><Drainage System
-100K_DS_lwrcsv_1: 1023><-3892.5><802><-2911><1><
-100K_DS_maxthelord_1: 342><-4006.5><192><-3083><0><Drainage System
-100K_DS_overpoweredpizza_1: 723><-4012.5><344><-3087><0><Drainage System
-100K_DS_rolingp3_1: 201><-4135.5><24><-3248><1><
-100K_DS_slithersss_1: 1134><-4006.5><944><-3083><1><Drainage System
-100K_DS_solaristheworstcatever_1: -360><-4087.5><-554><-3103><1><Drainage System
-100K_DS_tapok109_1: -186><-4045.5><-330><-3085><1><Drainage System
-100K_DS_therealflarf_1: 159><-3742.5><-88><-2753><1><Drainage System
-100K_DS_tnthalflife32_1: 261><-3877.5><100><-2897><0><Drainage System
-100K_DS_tryn1010_1: 75><-4021.5><-178><-3096><0><Drainage System
-100K_DS_user23848_1: 1194><-3958.5><1044><-2941><0><Drainage System
-100K_DS_zenodos_1: 54><-3888><-56><-2906><0><Drainage System
-100K_GW_alduris_1: 4158><-2776.5><3194><-2250><2><Garbage Wastes
-100K_GW_damoonlord_1: 3501><-2668.5><2622><-2211><0><
-100K_GW_detrax_1: 5823><-2682><4740><-2210><2><Garbage Wastes
-100K_GW_haysen_1: 3489><-2929.5><2292><-2435><2><Garbage Wastes
-100K_GW_january_1: 3942><-2695.5><2942><-2089><2><Garbage Wastes
-100K_GW_milksmansrevenge_1: 5316><-2620.5><4098><-2174><1><Garbage Wastes
-100K_GW_rolingp3_1: 3258><-2839.5><2108><-2331><2><Garbage Wastes
-100K_GW_slithersss_1: 5565><-2662.5><4430><-2174><2><Garbage Wastes
-100K_GW_solaristheworstcatever_1: 3525><-2743.5><2642><-2325><0><Garbage Wastes
-100K_GW_tapok109_1: 5307><-2434.5><4054><-2048><2><Garbage Wastes
-100K_GW_wonk_1: 3837><-2809.5><2796><-2397><1><Garbage Wastes
-100K_GW_wrayk_1: 4707><-2637><3376><-2238><2><Garbage Wastes
-100K_HI_ariesclient_1: 867><-2304><162><-1386><0><Industrial Complex
-100K_HI_chlordeofmany_1: 1152><-2479.5><546><-1764><1><Industrial Complex
-100K_HI_creativegamer03_1: 2115><-2434.5><1070><-1742><2><Industrial Complex
-100K_HI_creativegamer03_2: 1626><-3070.5><1028><-1976><2><
-100K_HI_dedniko_1: 2682><-2805><1920><-2070><2><Industrial Complex
-100K_HI_dododecalogist_1: 867><-2329.5><226><-1506><1><Industrial Complex
-100K_HI_dragonly44_1: 27><-2511><-242><-1490><2><Industrial Complex
-100K_HI_erm424242_1: 949.5><-1765.5><328><-1148><0><Industrial Complex
-100K_HI_ethanwantsfood_1: 282><-1318.5><-128><-938><0><Industrial Complex
-100K_HI_gamerguy35_1: 3408><-2692.5><2596><-1980><1><Industrial Complex
-100K_HI_haysen_1: 282><-2521.5><-150><-1692><2><Industrial Complex
-100K_HI_inspectnerd_1: 1117.5><-1270.5><526><-930><0><
-100K_HI_irri_1: 2422.5><-2806.5><1652><-2054><2><Industrial Complex
-100K_HI_katolato_1: 648><-2502><166><-1684><2><Industrial Complex
-100K_HI_katolato_2: 78><-2133><-238><-1212><1><Industrial Complex
-100K_HI_lipuccka_1: 900><-1270.5><308><-930><0><Industrial Complex
-100K_HI_lkelly10_1: 3048><-2743.5><2174><-2052><1><Industrial Complex
-100K_HI_luckykitkat_1: 1113><-2380.5><412><-1524><2><Industrial Complex
-100K_HI_lunatav_1: 2970><-2457><1846><-1778><2><Industrial Complex
-100K_HI_solaristheworstcatever_1: 2436><-2743.5><1748><-1894><1><Industrial Complex
-100K_HI_tapok109_1: 2565><-2419.5><1602><-1674><2><Industrial Complex
-100K_HI_totallydutch_1: 1326><-1188><826><-911><0><
-100K_HI_totallydutch_2: 2265><-2785.5><1488><-2014><2><Industrial Complex
-100K_HI_trearilt_1: 1431><-3097.5><822><-1980><2><
-100K_HI_user23848_1: 1488><-2452.5><884><-1734><2><Industrial Complex
-100K_HI_wtfmagnimmepac3_1: 2127><-2785.5><1328><-1974><1><Industrial Complex
-100K_HR_dragonly44_1: -4017><-4903.5><-3966><-3676><0><
-100K_HR_dragonpropaganda_1: -2898><-4888.5><-3252><-3652><0><Rubicon
-100K_HR_flanace_1: -3610.5><-4876.5><-3744><-3648><0><Rubicon
-100K_LC_ariesclient_1: 7521><3891><5398><3228><1><Metropolis
-100K_LC_blobtic73391_1: 8019><3931.5><5672><3533><0><Metropolis
-100K_LC_frogturtle56_1: 7584><3364.5><5598><2783><1><Metropolis
-100K_LC_gonterhaoz_1: 7597.5><4165.5><5381><3621><0><Metropolis
-100K_LC_iyonkoi_1: 7620><3508.5><5454><2957><0><Metropolis
-100K_LF_alduris_1: -1695><-2230.5><-1970><-1846><0><
-100K_LF_ariesclient_1: -2511><-3346.5><-2494><-2326><2><Farm Arrays
-100K_LF_chromaticalblight_1: -1354.5><-3205.5><-1501><-2267><2><
-100K_LF_chromaticalblight_2: -1269><-3219><-1358><-2276><0><
-100K_LF_chromaticalblight_3: -1233><-2205><-1738><-1778><0><
-100K_LF_crimsont04_1: -726><-3154.5><-904><-2169><1><
-100K_LF_haysen_1: -2247><-3241.5><-2480><-2216><1><Farm Arrays
-100K_LF_lwrcsv_1: -2037><-3150><-2168><-2138><0><Farm Arrays
-100K_LF_mk-0_1: -2652><-3153><-2736><-2174><1><Farm Arrays
-100K_LF_myrmice_1: -1143><-3127.5><-1408><-2165><1><Farm Arrays
-100K_LF_slithersss_1: -1935><-2920.5><-2098><-1972><1><Farm Arrays
-100K_LF_tapok109_1: -1617><-3022.5><-1824><-2151><1><Farm Arrays
-100K_LF_totallydutch_1: -1452><-3142.5><-1548><-2173><1><Farm Arrays
-100K_LM_av3ry_1: 7509><-2664><6218><-2794><1><Waterfront Facility
-100K_LM_av3ry_2: 7431><-2583><6194><-2678><0><Waterfront Facility
-100K_LM_av3ry_3: 7299><-2721><6062><-2794><0><
-100K_LM_av3ry_4: 8130><-2607><6580><-2776><0><Waterfront Facility
-100K_LM_av3ry_5: 7944><-2412><6364><-2584><0><Waterfront Facility
-100K_LM_av3ry_6: 6744><-3444><7180><-2850><1><Looks to the Moon
-100K_LM_av3ry_7: 7734><-3378><8016><-2798><1><Looks to the Moon
-100K_MS_fanc39cat_1: 7896><-3145.5><8222><-2262><2><Submerged Superstructure
-100K_MS_magicajaphet_1: 7488><-3013.5><7900><-2078><2><Submerged Superstructure
-100K_MS_maxthelord_1: 8229><-3406.5><8510><-2366><1><Submerged Superstructure
-100K_MS_mk-0_1: 9247.5><-3007.5><9116><-2060><2><Submerged Superstructure
-100K_MS_renz20475_1: 8106><-3541.5><8226><-2502><2><Submerged Superstructure
-100K_OE_cocoaraptor_1: -6030><-3778.5><-5886><-2809><1><Outer Expanse
-100K_OE_damoonlord_1: -4048.5><-3220.5><-4379><-2481><2><
-100K_OE_damoonlord_2: -5481><-3321><-5478><-2624><0><Outer Expanse
-100K_OE_emptyraider101_1: -5007><-3747><-5064><-3038><2><Outer Expanse
-100K_OE_frostbite1036_1: -5127><-3490.5><-5238><-2611><0><Outer Expanse
-100K_OE_katolato_1: -4656><-3721.5><-5014><-2889><1><Outer Expanse
-100K_OE_kemkemkemkemkemkem_1: -5646><-3718.5><-5654><-2779><2><Outer Expanse
-100K_OE_novatheskeledragon_1: -5298><-3691.5><-5478><-2787><1><Outer Expanse
-100K_OE_ratrixrose_1: -4032><-3535.5><-4366><-2910><1><Outer Expanse
-100K_OE_rbor_1: -4245><-3514.5><-4588><-2795><0><Outer Expanse
-100K_OE_rolingp3_1: -4824><-3766.5><-4924><-3033><2><Outer Expanse
-100K_OE_zamtreon_1: -6381><-3778.5><-6060><-2789><1><Outer Expanse
-100K_OE_zamtreon_2: -6601.5><-3888><-6219><-2814><2><
-100K_RM_buzzbud_1: 10332><1771.5><6514><1619><1><
-100K_RM_damoonlord_1: 9879><1449><6120><1212><2><The Rot
-100K_RM_damoonlord_2: 9792><1677><5998><1506><1><
-100K_SB_alduris_1: -2881.5><-3484.5><-2964><-2720><1><Subterranean
-100K_SB_damoonlord_1: -3229.5><-4662><-3554><-3458><0><
-100K_SB_ethanwantsfood_1: -1830><-3720><-2458><-2738><2><Subterranean
-100K_SB_flanace_1: -3157.5><-3916.5><-3284><-2838><0><Subterranean
-100K_SB_gamerguy35_1: -2782.5><-4333.5><-3172><-3318><1><Subterranean
-100K_SB_iyonkoi_1: -3424.5><-3646.5><-3848><-2732><1><Subterranean
-100K_SB_miles4daze_1: -3789><-3904.5><-3986><-2847><0><Subterranean
-100K_SB_novatheskeledragon_1: -3042><-3655.5><-3150><-2620><2><
-100K_SB_slithersss_1: -3513><-3892.5><-3782><-2858><0><Subterranean
-100K_SB_tankium_1: -3087><-4096.5><-3238><-3050><1><Subterranean
-100K_SB_tronsx_1: -1245><-3778.5><-2048><-2776><2><Subterranean
-100K_SH_acquaintedfowl_1: 5184><-2227.5><3670><-1561><0><Shaded Citadel
-100K_SH_chromaticalblight_1: 5913><-2188.5><4388><-1479><0><Shaded Citadel
-100K_SH_dragonly44_1: 6984><-2488.5><5746><-1789><0><
-100K_SH_dragonpropaganda_1: 4248><-2275.5><2750><-1643><1><Shaded Citadel
-100K_SH_flanace_1: 6196.5><-2521.5><4691><-1779><1><Shaded Citadel
-100K_SH_gal3olag_1: 5562><-2209.5><3932><-1511><0><Shaded Citadel
-100K_SH_haysen_1: 6243><-2170.5><4680><-1559><0><Shaded Citadel
-100K_SH_kalumrw_1: 4710><-2254.5><3068><-1619><1><Shaded Citadel
-100K_SH_katolato_1: 6891><-2263.5><5138><-1510><0><Shaded Citadel
-100K_SH_kizorke_1: 10408.5><-2272.5><7767><-1585><1><Shaded Citadel
-100K_SH_lipuccka_1: 6750><-2467.5><5350><-1795><1><Shaded Citadel
-100K_SH_memorycrypts_1: 9768><-2374.5><7190><-1575><1><Shaded Citadel
-100K_SH_memorycrypts_2: 3720><-2236.5><2312><-1641><1><Shaded Citadel
-100K_SH_prestopesto_1: 9093><-2374.5><6940><-1585><1><Shaded Citadel
-100K_SH_pykrite_1: 6447><-2425.5><5048><-1767><1><Shaded Citadel
-100K_SH_thenotsogoodgamer_1: 6510><-2116.5><4954><-1179><1><Shaded Citadel
-100K_SH_wonk_1: 7902><-2377.5><5630><-1575><1><Shaded Citadel
-100K_SH_zenodos_1: 4920><-2364><3238><-1664><1><Shaded Citadel
-100K_SI_anubisrah_1: -2565><-691.5><-2966><-893><2><Sky Islands
-100K_SI_bismuthnebula_1: -3060><-337.5><-3278><-477><1><Sky Islands
-100K_SI_echidna1_1: -2445><-265.5><-2856><-485><2><Sky Islands
-100K_SI_ethanwantsfood_1: -645><-649.5><-1674><-686><2><
-100K_SI_gabkai11_1: -2037><-379.5><-2278><-661><1><Sky Islands
-100K_SI_haysen_1: -2763><-148.5><-3048><-453><2><Sky Islands
-100K_SI_iyonkoi_1: -582><-727.5><-1844><-1019><1><Sky Islands
-100K_SI_katolato_1: -2988><-633><-3240><-912><2><Sky Islands
-100K_SI_novatheskeledragon_1: -270><-598.5><-1454><-642><2><Sky Islands
-100K_SI_randomerosion_1: -2236.5><-453><-2579><-678><0><Sky Islands
-100K_SI_randomerosion_2: -2602.5><-466.5><-2957><-717><1><Sky Islands
-100K_SI_randomerosion_3: -1783.5><-717><-2299><-1016><1><Sky Islands
-100K_SI_sniffledorf_1: -2223><-121.5><-2498><-331><1><Sky Islands
-100K_SI_walekks_1: -900><-571.5><-2030><-995><2><Sky Islands
-100K_SI_zarquon_1: -2220><-292.5><-2514><-497><2><Sky Islands
-100K_SL_alduris_1: 7296><-2611.5><6110><-2302><2><Shoreline
-100K_SL_aprilistheworstmonth_1: 6085.5><-2688><5068><-2206><2><
-100K_SL_haysen_1: 6588><-2692.5><5232><-2280><2><Shoreline
-100K_SL_kebasnaek_1: 6777><-3028.5><5476><-2558><1><Shoreline
-100K_SL_lwrcsv_1: 7107><-2776.5><5918><-2394><1><Shoreline
-100K_SL_memorycrypts_1: 7104><-2668.5><5906><-2264><2><Shoreline
-100K_SL_nimble102_1: 7879.5><-2496><6320><-2214><2><Shoreline
-100K_SS_damoonlord_1: 7405.5><1728><4658><1586><1><Five Pebbles
-100K_SS_damoonlord_2: 9568.5><1788><5724><1710><1><Five Pebbles
-100K_SS_dietpebsi_1: 7167><1119><4414><1072><1><Five Pebbles
-100K_SS_dietpebsi_2: 10125><1645.5><6350><1523><1><Five Pebbles
-100K_SS_dietpebsi_3: 9594><1996.5><5868><1838><1><Five Pebbles
-100K_SS_flanace_1: 9327><2545.5><5712><2077><1><Five Pebbles
-100K_SS_flanace_2: 9321><2647.5><5548><2393><0><Five Pebbles
-100K_SS_lwrcsv_1: 7407><1420.5><4790><1444><2><
-100K_SS_novatheskeledragon_1: 9996><1854><6134><1666><1><Five Pebbles
-100K_SS_tronsx_1: 8592><1774.5><5148><1706><1><Five Pebbles
-100K_SS_zar4za_1: 10092><1248><6332><974><1><Five Pebbles
-100K_SU_alduris_1: 561><-3613.5><282><-2425><1><
-100K_SU_alduris_2: 1698><-3271.5><1192><-2209><2><
-100K_SU_alduris_3: 150><-3367.5><48><-2351><1><Outskirts
-100K_SU_alicepigeon_1: 1908><-3597><1334><-2398><2><Outskirts
-100K_SU_ariesclient_1: 178.5><-3108><-49><-2190><0><Outskirts
-100K_SU_cocoaraptor_1: 1947><-3582><1486><-2286><1><Outskirts
-100K_SU_crafterz_1: 1287><-3520.5><884><-2322><2><Outskirts
-100K_SU_damoonlord_1: -271.5><-3168><-461><-2200><1><
-100K_SU_flanace_1: 693><-3637.5><394><-2481><1><
-100K_SU_gogurtyuri_1: 801><-3526.5><498><-2299><1><Outskirts
-100K_SU_kizorke_1: 1224><-3298.5><800><-2169><1><Outskirts
-100K_SU_lunatav_1: 462><-3295.5><232><-2185><1><Outskirts
-100K_SU_lwrcsv_1: 1065><-3165><650><-2072><2><
-100K_SU_memorycrypts_1: 1110><-3472.5><756><-2292><1><Outskirts
-100K_SU_solaristheworstcatever_1: 1923><-3226.5><1290><-2107><1><Outskirts
-100K_SU_tapok109_1: 990><-3442.5><636><-2287><1><Outskirts
-100K_SU_tetraneo_1: 1509><-3223.5><992><-2107><1><Outskirts
-100K_SU_ultimateunity_1: 1731><-3505.5><1168><-2320><2><Outskirts
-100K_SU_vividyon_1: 1518><-3505.5><1024><-2323><2><Outskirts
-100K_SU_vividyon_2: 711><-3346.5><364><-2209><1><Outskirts
-100K_UG_galethecat_1: 885><-4267.5><876><-3376><2><Undergrowth
-100K_UG_puffballcrafter_1: 429><-4297.5><48><-3442><2><Undergrowth
-100K_UG_wonk_1: 1803><-4231.5><1384><-3400><2><Undergrowth
-100K_UW_3circles_1: 6402><3076.5><3892><2649><2><The Exterior
-100K_UW_chromaticalblight_1: 10686><-1038><7870><-780><1><The Exterior
-100K_UW_creativegamer03_1: 6394.5><1141.5><3873><1043><2><The Exterior
-100K_UW_damoonlord_1: 6451.5><507><3673><566><2><The Exterior
-100K_UW_damoonlord_2: 10689><-54><7966><62><0><The Exterior
-100K_UW_damoonlord_3: 10839><-459><8068><-338><0><The Exterior
-100K_UW_damoonlord_4: 10495.5><-82.5><7841><137><1><
-100K_UW_funkytrashcan_1: 6460.5><1690.5><3851><1503><2><The Exterior
-100K_UW_haysen_1: 10656><-1720.5><7930><-1298><0><The Exterior
-100K_UW_itztheblu_1: 9585><754.5><5778><683><2><The Exterior
-100K_UW_jachii9_1: 10659><307.5><7948><429><1><The Exterior
-100K_UW_luniular_1: 9705><304.5><6138><415><0><The Exterior
-100K_UW_mrptata_1: 10279.5><564><6543><750><2><The Exterior
-100K_UW_nimble102_1: 6615><2022><4006><1934><1><The Exterior
-100K_UW_nimble102_2: 6435><2319><3982><2260><2><The Exterior
-100K_UW_osziaq_12: 10299><274.5><7162><473><0><The Exterior
-100K_UW_osziaq_13: 8235><346.5><4684><489><0><The Exterior
-100K_UW_osziaq_2: 7242><3151.5><5042><2657><2><
-100K_UW_osziaq_4: 10023><382.5><6756><471><1><The Exterior
-100K_UW_osziaq_5: 9111><388.5><5596><495><1><The Exterior
-100K_UW_osziaq_8: 9318><303><5796><386><1><The Exterior
-100K_UW_osziaq_9: 8877><261><5384><380><0><The Exterior
-100K_UW_tronsx_1: 7174.5><466.5><4361><475><1><The Exterior
-100K_VS_dragonly44_1: 1566><-3124.5><2312><-3125><0><Pipeyard
-100K_VS_inspectnerd_1: 1944><-2938.5><2900><-2855><0><Pipeyard
-100K_VS_izunachan_1: 3267><-3343.5><2942><-3365><0><Pipeyard
-100K_VS_nimble102_1: 1386><-2941.5><2466><-2841><0><Pipeyard
-100K_VS_wonk_1: 2166><-3184.5><2938><-3161><0><Pipeyard
-100K_WARB_hallowfish_1: -2184><1384.5><-1686><278><1><Aether Ridge
-100K_WARB_wonk_1: -3576><1243.5><-3326><256><0><Aether Ridge
-100K_WARC_funkytrashcan_1: -5283><1557><-3750><688><0><
-100K_WARC_nopuddles_1: -5349><1320><-3804><450><1><Fetid Glen
-100K_WARC_overpoweredpizza_1: -4947><1285.5><-3628><426><1><Fetid Glen
-100K_WARC_overpoweredpizza_2: -5253><1452><-3794><578><0><Fetid Glen
-100K_WARE_zar4za_1: -1872><1156.5><-1340><4><0><Aether Ridge
-100K_WARF_january_1: -1710><1024.5><-1188><-2><1><Aether Ridge
-100K_WARG_crafterz_1: -1665><1429.5><-1264><364><1><Aether Ridge
-100K_WARG_reincarnid_1: -1345.5><1362><-978><336><0><Aether Ridge
-100K_WAUA_flanace_1: 6901.5><-1003.5><12018><146><1><Ancient Urban
-100K_WAUA_nopuddles_1: 6903><-697.5><12038><398><1><Ancient Urban
-100K_WAUA_pur._1: 6579><-910.5><11824><82><1><Ancient Urban
-100K_WBLA_greenca_1: -3456><-1702.5><-4636><-704><1><Badlands
-100K_WBLA_inspectnerd_1: -4341><-1468.5><-5288><-550><1><Badlands
-100K_WBLA_thysi_1: -2892><-1771.5><-4060><-726><1><Badlands
-100K_WBLA_thysi_2: -3951><-1588.5><-4794><-582><2><Badlands
-100K_WBLA_thysi_3: -4107><-1597.5><-4968><-636><2><
-100K_WDSR_creativegamer03_1: 3153><-1387.5><9126><13><2><Rotten World
-100K_WGWR_creativegamer03_1: 4203><-1324.5><9832><33><1><Rotten World
-100K_WHIR_creativegamer03_1: 3795><-1300.5><9422><155><1><Rotten World
-100K_WHIR_creativegamer03_2: 4131><-1258.5><9936><179><2><
-100K_WORA_anubisrah_1: 5130><-1489.5><10436><-136><1><Outer Rim
-100K_WORA_dakras_1: 5812.5><-1335><11032><-208><1><Outer Rim
-100K_WORA_draxiomatica_1: 5490><-1471.5><10772><-134><1><Outer Rim
-100K_WORA_kemkemkemkemkemkem_1: 4971><-1330.5><10328><-14><2><Outer Rim
-100K_WORA_nopuddles_1: 4497><-1321.5><10074><20><2><Outer Rim
-100K_WORA_puffballcrafter_1: 5679><-1554><10906><-182><1><Outer Rim
-100K_WORA_puffballcrafter_2: 5676><-1428><10904><-64><2><
-100K_WPTA_chromaticalblight_1: -2409><2658><-1714><936><2><Signal Spires
-100K_WPTA_creativegamer03_1: -1629><2617.5><-1186><952><2><Signal Spires
-100K_WPTA_gonterhaoz_1: -2094><2617.5><-1504><948><2><Signal Spires
-100K_WPTA_nimble102_1: -2436><2307><-1720><746><1><Signal Spires
-100K_WPTA_nopuddles_1: -2506.5><2035.5><-1814><540><2><Signal Spires
-100K_WPTA_novatheskeledragon_1: -2643><2412><-1942><816><2><
-100K_WRFA_blobtic73391_1: 7263><-4273.5><6796><-3772><1><Coral Caves
-100K_WRFA_gonterhaoz_1: 6972><-4186.5><6516><-3638><0><Coral Caves
-100K_WRFA_inspectnerd_1: 6867><-4246.5><6326><-3772><1><Coral Caves
-100K_WRFB_thysi_1: 6558><-4306.5><6098><-3824><1><Coral Caves
-100K_WRRA_0rchid_1: 7674><-4276.5><7206><-3792><2><Rusted Wrecks
-100K_WRRA_blobtic73391_1: 8547><-4309.5><8042><-3806><2><Rusted Wrecks
-100K_WRRA_kemkemkemkemkemkem_1: 8082><-4300.5><7580><-3790><1><Rusted Wrecks
-100K_WRSA_wednesday77.648am_1: 6132><-1006.5><11350><126><2><Daemon
-100K_WSKB_haizlbliek_1: 7383><-4162.5><7026><-3628><1><Stormy Coast
-100K_WSKC_forthfora_1: 7203><-3973.5><6798><-3416><2><Stormy Coast
-100K_WSKD_scoutriley_1: 7504.5><-4042.5><7182><-3534><1><Stormy Coast
-100K_WSSR_ko5i_1: 3438><-1084.5><9326><297><2><Rotten World
-100K_WSSR_wonk_1: 3390><-610.5><9282><604><2><Rotten World
-100K_WSUR_novatheskeledragon_1: 3271.5><-1344><9199><140><1><Rotten World
-100K_WTDA_gonterhaoz_1: -4966.5><-1468.5><-5938><-646><2><Torrid Desert
-100K_WTDB_alduris_1: -5559><-1714.5><-6336><-1028><1><
-100K_WTDB_alduris_2: -4206><-2367><-4976><-1284><1><Desolate Tract
-100K_WTDB_gonterhaoz_1: -5091><-1981.5><-5838><-1190><1><Desolate Tract
-100K_WTDB_january_1: -4530><-1977><-5516><-1338><0><Desolate Tract
-100K_WTDB_skqrw_1: -5037><-1662><-5938><-892><1><Desolate Tract
-100K_WTDB_thecubifyer_1: -5628><-1972.5><-6466><-1224><1><Desolate Tract
-100K_WTDB_thysi_1: -5421><-1591.5><-6378><-960><0><Desolate Tract
-100K_WTDB_tronsx_1: -6655.5><-1891.5><-7234><-1102><1><Desolate Tract
-100K_WVWA_hennyburgr_1: 5892><-4231.5><5434><-3752><0><Verdant Waterways
-100K_WVWA_tetraneo_1: 6285><-4243.5><5824><-3764><0><Verdant Waterways
-100K_WPTA_tronsx_1: -1881><2338.5><-1510><792><1><Signal Spires
-100K_HI_wonk_1: 1674><-2107.5><-468><-1706><1><Industrial Complex
-100K_HI_wonk_2: 1650><-1585.5><-624><-936><2><
-100K_SH_alduris_1: 3465><-2235><2220><-1592><2><
-100K_SH_alduris_2: 5847><-2175><4248><-1470><1><
-100K_WSKX_alduris_1: 6982.5><-3999><6666><-3400><2><
-100K_LF_alduris_2: -1855.5><-3007.5><-1950><-1964><0><
-100K_SL_av3ry_1: 6045><-2778><5038><-2370><1><
-100K_GW_alduris_2: 5346><-2478><4318><-2044><1><
-100K_HI_alduris_1: 1038><-2430><600><-1596><2><
-100K_VS_av3ry_1: 2175><-2928><3140><-2852><0><
-100K_SL_alduris_2: 7110><-2625><5906><-2138><1><
-100K_SB_alduris_2: -3540><-3964.5><-3718><-2928><0><
-OffScreenDen_100k: 96><-15><0><-20><0><
-100K_WAUA_alduris_1: 6729><-1182><12022><44><2><
-100K_WTDB_alduris_3: -3942><-2310><-4828><-1270><2><NONE
+100K_CC_alduris_1: -771.4323><748.1455><-755.8823><473.37><1><Chimney Canopy><48><95
+100K_CC_alduris_2: -513.4323><661.1455><-434.8824><483.37><0><><31><18
+100K_CC_dragonpropaganda_1: -1272.432><1265.645><-1151.882><997.3698><0><Chimney Canopy><52><75
+100K_CC_gamerguy35_1: -1044.432><1030.145><-1026.882><804.3698><0><Chimney Canopy><152><38
+100K_CC_hobart_1: -906.4323><685.1455><-932.8823><471.37><0><Chimney Canopy><51><35
+100K_CC_javadog64_1: -1098.432><1288.145><-977.8823><1010.37><2><Chimney Canopy><48><35
+100K_CC_nimble102_1: -1770.432><1295.645><-1561.882><1020.37><1><Chimney Canopy><126><35
+100K_CC_rbor_1: -171.432><1340.645><-263.8825><1065.37><1><Chimney Canopy><60><35
+100K_CC_rostik630uwu_1: -663.4323><907.1455><-655.8823><653.3698><0><Chimney Canopy><48><90
+100K_CC_steellesstoaster_1: -1317.432><1034.645><-1177.882><825.3698><1><Chimney Canopy><48><35
+100K_CC_steellesstoaster_2: -1113.432><916.1455><-1015.882><649.3698><2><Chimney Canopy><48><35
+100K_CC_tronsx_1: -790.9323><1316.645><-842.8823><986.3698><1><Chimney Canopy><155><81
+100K_CC_zenodos_1: -651.4323><646.1455><-603.8823><455.37><0><Chimney Canopy><50><38
+100K_CL_tankium_1: 2309.568><-414.3545><1291.118><-422.63><0><Silent Construct><152><35
+100K_DM_fatalerror404_1: 4885.067><-1476.355><5612.119><-1536.63><1><Looks to the Moon><215><153
+100K_DM_gonterhaoz_1: 6119.567><-1161.355><6640.119><-728.6302><2><><250><79
+100K_DS_addystrawbry_1: -1407.432><-1959.355><-1227.882><-1511.63><0><Drainage System><48><35
+100K_DS_alduris_1: -2541.432><-2016.355><-2181.883><-1532.63><0><Drainage System><48><35
+100K_DS_alduris_2: -2574.432><-1899.355><-2201.883><-1387.63><0><Drainage System><48><35
+100K_DS_aprilistheworstmonth_1: -597.4323><-2127.355><-572.8823><-1592.63><1><Drainage System><204><35
+100K_DS_aprilistheworstmonth_2: -1552.932><-1971.355><-1368.882><-1504.63><1><Drainage System><53><35
+100K_DS_dragonpropaganda_1: -3000.432><-2226.355><-2959.883><-1730.63><0><Drainage System><152><35
+100K_DS_haysen_1: -1725.432><-1812.355><-1602.882><-1326.63><0><Drainage System><152><75
+100K_DS_iyonkoi_1: -1740.432><-1995.355><-1565.882><-1511.63><1><Drainage System><66><37
+100K_DS_luckykitkat_1: -1386.432><-1854.355><-1216.882><-1338.63><0><Drainage System><60><37
+100K_DS_luniular_1: -1158.432><-1896.355><-895.8823><-1350.63><0><Drainage System><48><35
+100K_DS_lwrcsv_1: -1350.432><-2022.355><-1095.882><-1537.63><1><><48><35
+100K_DS_maxthelord_1: -2031.432><-2136.355><-1704.882><-1709.63><0><Drainage System><48><35
+100K_DS_overpoweredpizza_1: -1650.432><-2142.355><-1553.882><-1714.63><0><Drainage System><204><41
+100K_DS_rolingp3_1: -2172.432><-2265.355><-1872.882><-1873.63><1><><48><35
+100K_DS_slithersss_1: -1239.432><-2136.355><-952.8823><-1709.63><1><Drainage System><48><35
+100K_DS_solaristheworstcatever_1: -2733.432><-2217.355><-2451.883><-1729.63><1><Drainage System><48><35
+100K_DS_tapok109_1: -2559.432><-2175.355><-2227.883><-1711.63><1><Drainage System><52><35
+100K_DS_therealflarf_1: -2214.432><-1872.355><-1983.882><-1379.63><1><Drainage System><124><43
+100K_DS_tnthalflife32_1: -2112.432><-2007.355><-1797.882><-1524.63><0><Drainage System><72><43
+100K_DS_tryn1010_1: -2298.432><-2151.355><-2075.883><-1724.63><0><Drainage System><144><43
+100K_DS_user23848_1: -1179.432><-2088.355><-853.8823><-1567.63><0><Drainage System><48><13
+100K_DS_zenodos_1: -2319.432><-2017.855><-1953.882><-1532.63><0><Drainage System><50><38
+100K_GW_alduris_1: 1784.568><-906.3545><1296.118><-878.6302><2><Garbage Wastes><52><37
+100K_GW_damoonlord_1: 1127.568><-798.3545><730.1177><-803.6302><0><><48><35
+100K_GW_detrax_1: 3449.568><-811.8545><2843.117><-837.6302><2><Garbage Wastes><124><42
+100K_GW_haysen_1: 1115.568><-1059.355><395.1176><-1061.63><2><Garbage Wastes><100><75
+100K_GW_january_1: 1568.568><-825.3545><1045.118><-717.6302><2><Garbage Wastes><100><35
+100K_GW_milksmansrevenge_1: 2942.568><-750.3545><2200.117><-801.6302><1><Garbage Wastes><100><35
+100K_GW_rolingp3_1: 884.5677><-969.3545><210.1177><-957.6302><2><Garbage Wastes><48><35
+100K_GW_slithersss_1: 3191.568><-792.3545><2532.117><-801.6302><2><Garbage Wastes><48><35
+100K_GW_solaristheworstcatever_1: 1151.568><-873.3545><744.1177><-951.6302><0><Garbage Wastes><48><35
+100K_GW_tapok109_1: 2933.568><-564.3545><2156.117><-675.6302><2><Garbage Wastes><74><39
+100K_GW_wonk_1: 1463.568><-939.3545><898.1177><-1024.63><1><Garbage Wastes><152><75
+100K_GW_wrayk_1: 2333.568><-766.8545><1479.118><-865.6302><2><Garbage Wastes><306><114
+100K_HI_ariesclient_1: -1506.432><-433.8545><-1734.882><5.369956><0><Industrial Complex><146><78
+100K_HI_chlordeofmany_1: -1221.432><-609.3545><-1431.882><-394.63><1><Industrial Complex><100><35
+100K_HI_creativegamer03_1: -258.4317><-564.3545><-826.8823><-370.63><2><Industrial Complex><222><35
+100K_HI_creativegamer03_2: -747.4323><-1200.355><-906.8823><-568.6302><2><><48><35
+100K_HI_dedniko_1: 308.5683><-934.8545><22.11769><-697.6302><2><Industrial Complex><70><44
+100K_HI_dododecalogist_1: -1506.432><-459.3545><-1671.882><-132.63><1><Industrial Complex><48><39
+100K_HI_dragonly44_1: -2346.432><-640.8545><-2139.883><-117.63><2><Industrial Complex><48><35
+100K_HI_erm424242_1: -1423.932><104.6454><-1569.882><225.37><0><Industrial Complex><63><35
+100K_HI_ethanwantsfood_1: -2091.432><551.6455><-2025.882><433.37><0><Industrial Complex><152><35
+100K_HI_gamerguy35_1: 1034.568><-822.3545><697.1177><-608.6302><1><Industrial Complex><48><35
+100K_HI_haysen_1: -2091.432><-651.3545><-2056.883><-350.63><2><Industrial Complex><100><35
+100K_HI_inspectnerd_1: -1255.932><599.6455><-1372.882><442.37><0><><105><35
+100K_HI_irri_1: 49.06805><-936.3545><-244.8823><-679.6302><2><Industrial Complex><65><35
+100K_HI_katolato_1: -1725.432><-631.8545><-1731.882><-311.63><2><Industrial Complex><118><46
+100K_HI_katolato_2: -2295.432><-262.8545><-2135.883><161.37><1><Industrial Complex><67><35
+100K_HI_lipuccka_1: -1473.432><599.6455><-1589.882><442.37><0><Industrial Complex><72><43
+100K_HI_lkelly10_1: 674.5677><-873.3545><276.1176><-678.6302><1><Industrial Complex><126><75
+100K_HI_luckykitkat_1: -1260.432><-510.3545><-1485.882><-150.63><2><Industrial Complex><164><39
+100K_HI_lunatav_1: 596.5677><-586.8545><-52.88233><-404.63><2><Industrial Complex><172><82
+100K_HI_solaristheworstcatever_1: 62.56805><-873.3545><-98.88235><-551.6302><1><Industrial Complex><48><35
+100K_HI_tapok109_1: 191.568><-549.3545><-295.8824><-301.63><2><Industrial Complex><58><35
+100K_HI_totallydutch_1: -1047.432><682.1455><-1072.882><462.37><0><><48><35
+100K_HI_totallydutch_2: -108.4319><-915.3545><-409.8824><-640.6302><2><Industrial Complex><48><35
+100K_HI_trearilt_1: -942.4323><-1227.355><-1056.882><-581.6302><2><><48><35
+100K_HI_user23848_1: -885.4323><-582.3545><-1013.882><-360.63><2><Industrial Complex><48><75
+100K_HI_wtfmagnimmepac3_1: -246.432><-915.3545><-549.8823><-560.6302><1><Industrial Complex><48><35
+100K_HR_dragonly44_1: -6390.433><-3033.355><-5862.881><-2302.63><0><><48><35
+100K_HR_dragonpropaganda_1: -5271.433><-3018.355><-5149.881><-2278.63><0><Rubicon><204><35
+100K_HR_flanace_1: -5983.933><-3006.355><-5641.881><-2272.63><0><Rubicon><171><35
+100K_LC_ariesclient_1: 5147.567><5761.145><3498.117><4615.37><1><Metropolis><176><120
+100K_LC_blobtic73391_1: 5645.567><5801.645><3773.117><4905.37><0><Metropolis><152><75
+100K_LC_frogturtle56_1: 5210.567><5234.645><3700.117><4156.37><1><Metropolis><48><35
+100K_LC_gonterhaoz_1: 5224.067><6035.645><3483.117><4994.37><0><Metropolis><85><53
+100K_LC_iyonkoi_1: 5246.567><5378.645><3558.117><4312.37><0><Metropolis><222><117
+100K_LF_alduris_1: -4068.432><-360.3545><-3836.883><-426.63><0><><64><75
+100K_LF_ariesclient_1: -4884.433><-1476.355><-4331.881><-1021.63><2><Farm Arrays><48><35
+100K_LF_chromaticalblight_1: -3727.932><-1335.355><-3386.883><-918.6302><2><><47><29
+100K_LF_chromaticalblight_2: -3642.432><-1348.855><-3258.883><-938.6302><0><><60><28
+100K_LF_chromaticalblight_3: -3606.432><-334.8545><-3634.883><-404.63><0><><204><70
+100K_LF_crimsont04_1: -3099.432><-1284.355><-2800.883><-796.6302><1><><100><35
+100K_LF_haysen_1: -4620.433><-1371.355><-4321.881><-872.6302><1><Farm Arrays><204><35
+100K_LF_lwrcsv_1: -4410.433><-1279.855><-4001.883><-750.6302><0><Farm Arrays><48><76
+100K_LF_mk-0_1: -5025.433><-1282.855><-4614.881><-834.6302><1><Farm Arrays><114><38
+100K_LF_myrmice_1: -3516.432><-1257.355><-3305.883><-790.6302><1><Farm Arrays><152><35
+100K_LF_slithersss_1: -4308.433><-1050.355><-4001.883><-550.6302><1><Farm Arrays><52><75
+100K_LF_tapok109_1: -3990.432><-1152.355><-3773.883><-806.6302><1><Farm Arrays><50><113
+100K_LF_totallydutch_1: -3825.432><-1272.355><-3495.883><-794.6302><1><Farm Arrays><48><35
+100K_LM_av3ry_1: 5135.567><-793.8545><4320.119><-1420.63><1><Waterfront Facility><120><36
+100K_LM_av3ry_2: 5057.567><-712.8545><4296.119><-1304.63><0><Waterfront Facility><64><76
+100K_LM_av3ry_3: 4925.567><-850.8545><4164.119><-1420.63><0><><64><36
+100K_LM_av3ry_4: 5756.567><-736.8545><4682.119><-1402.63><0><Waterfront Facility><232><76
+100K_LM_av3ry_5: 5570.567><-541.8545><4466.119><-1210.63><0><Waterfront Facility><324><40
+100K_LM_av3ry_6: 4370.567><-1573.855><5282.119><-1476.63><1><Looks to the Moon><118><38
+100K_LM_av3ry_7: 5360.567><-1507.855><6118.119><-1424.63><1><Looks to the Moon><64><38
+100K_MS_fanc39cat_1: 5522.567><-1275.355><6323.119><-888.6302><2><Submerged Superstructure><100><155
+100K_MS_magicajaphet_1: 5114.567><-1143.355><6002.119><-703.6302><2><Submerged Superstructure><100><37
+100K_MS_maxthelord_1: 5855.567><-1536.355><6607.119><-984.6302><1><Submerged Superstructure><152><75
+100K_MS_mk-0_1: 6874.067><-1137.355><7218.119><-686.6302><2><Submerged Superstructure><171><41
+100K_MS_renz20475_1: 5732.567><-1671.355><6327.119><-1128.63><2><Submerged Superstructure><100><75
+100K_OE_cocoaraptor_1: -8403.433><-1908.355><-7783.881><-1436.63><1><Outer Expanse><100><35
+100K_OE_damoonlord_1: -6421.933><-1350.355><-6261.881><-1069.63><2><><41><43
+100K_OE_damoonlord_2: -7854.433><-1450.855><-7374.881><-1250.63><0><Outer Expanse><48><196
+100K_OE_emptyraider101_1: -7380.433><-1876.855><-6960.881><-1664.63><2><Outer Expanse><48><38
+100K_OE_frostbite1036_1: -7500.433><-1620.355><-7134.881><-1238.63><0><Outer Expanse><48><75
+100K_OE_katolato_1: -7029.433><-1851.355><-6902.881><-1455.63><1><Outer Expanse><168><81
+100K_OE_kemkemkemkemkemkem_1: -8019.433><-1848.355><-7552.881><-1405.63><2><Outer Expanse><72><41
+100K_OE_novatheskeledragon_1: -7671.433><-1821.355><-7373.881><-1411.63><1><Outer Expanse><176><41
+100K_OE_ratrixrose_1: -6405.433><-1665.355><-6263.881><-1535.63><1><Outer Expanse><48><195
+100K_OE_rbor_1: -6618.433><-1644.355><-6486.881><-1420.63><0><Outer Expanse><60><115
+100K_OE_rolingp3_1: -7197.433><-1896.355><-6821.881><-1660.63><2><Outer Expanse><48><35
+100K_OE_zamtreon_1: -8754.433><-1908.355><-7956.881><-1416.63><1><Outer Expanse><74><35
+100K_OE_zamtreon_2: -8974.933><-2017.855><-8116.881><-1440.63><2><><45><34
+100K_RM_buzzbud_1: 7958.567><3641.645><4616.119><2992.37><1><><48><35
+100K_RM_damoonlord_1: 7505.567><3319.145><4222.119><2585.37><2><The Rot><72><172
+100K_RM_damoonlord_2: 7418.567><3547.145><4100.119><2879.37><1><><32><24
+100K_SB_alduris_1: -5254.933><-1614.355><-4859.881><-1349.63><1><Subterranean><125><155
+100K_SB_damoonlord_1: -5602.933><-2791.855><-5452.881><-2084.63><0><><257><38
+100K_SB_ethanwantsfood_1: -4203.433><-1849.855><-4355.881><-1367.63><2><Subterranean><100><78
+100K_SB_flanace_1: -5530.933><-2046.355><-5179.881><-1464.63><0><Subterranean><69><39
+100K_SB_gamerguy35_1: -5155.933><-2463.355><-4947.881><-1942.63><1><Subterranean><153><115
+100K_SB_iyonkoi_1: -5797.933><-1776.355><-5746.881><-1359.63><1><Subterranean><219><37
+100K_SB_miles4daze_1: -6162.433><-2034.355><-5883.881><-1471.63><0><Subterranean><48><35
+100K_SB_novatheskeledragon_1: -5415.433><-1785.355><-5047.881><-1246.63><2><><62><35
+100K_SB_slithersss_1: -5886.433><-2022.355><-5679.881><-1484.63><0><Subterranean><100><35
+100K_SB_tankium_1: -5460.433><-2226.355><-5134.881><-1677.63><1><Subterranean><48><75
+100K_SB_tronsx_1: -3618.432><-1908.355><-3945.883><-1402.63><2><Subterranean><204><85
+100K_SH_acquaintedfowl_1: 2810.568><-357.3545><1772.118><-188.63><0><Shaded Citadel><48><35
+100K_SH_chromaticalblight_1: 3539.568><-318.3545><2500.117><-137.63><0><Shaded Citadel><48><35
+100K_SH_dragonly44_1: 4610.567><-618.3545><3847.117><-416.63><0><><48><35
+100K_SH_dragonpropaganda_1: 1874.568><-405.3545><852.1177><-270.63><1><Shaded Citadel><100><35
+100K_SH_flanace_1: 3823.068><-651.3545><2794.117><-406.63><1><Shaded Citadel><67><39
+100K_SH_gal3olag_1: 3188.568><-339.3545><2035.118><-137.63><0><Shaded Citadel><152><35
+100K_SH_haysen_1: 3869.568><-300.3545><2774.117><-247.63><0><Shaded Citadel><100><189
+100K_SH_kalumrw_1: 2336.568><-384.3545><1171.118><-243.63><1><Shaded Citadel><48><35
+100K_SH_katolato_1: 4517.567><-393.3545><3241.117><-139.63><0><Shaded Citadel><160><83
+100K_SH_kizorke_1: 8035.067><-402.3545><5869.119><-211.63><1><Shaded Citadel><109><115
+100K_SH_lipuccka_1: 4376.567><-597.3545><3455.117><-421.63><1><Shaded Citadel><126><83
+100K_SH_memorycrypts_1: 7394.567><-504.3545><5292.119><-201.63><1><Shaded Citadel><256><35
+100K_SH_memorycrypts_2: 1346.568><-366.3545><412.1175><-266.63><1><Shaded Citadel><152><35
+100K_SH_prestopesto_1: 6719.567><-504.3545><5041.119><-211.63><1><Shaded Citadel><100><45
+100K_SH_pykrite_1: 4073.568><-555.3545><3152.117><-393.63><1><Shaded Citadel><54><77
+100K_SH_thenotsogoodgamer_1: 4136.567><-246.3545><3056.117><193.37><1><Shaded Citadel><48><35
+100K_SH_wonk_1: 5528.567><-507.3545><3732.117><-202.63><1><Shaded Citadel><620><35
+100K_SH_zenodos_1: 2546.568><-493.8545><1364.118><-249.63><1><Shaded Citadel><120><38
+100K_SI_anubisrah_1: -4938.433><1178.645><-4863.881><480.37><2><Sky Islands><204><35
+100K_SI_bismuthnebula_1: -5433.433><1532.645><-5172.881><896.3698><1><Sky Islands><48><37
+100K_SI_echidna1_1: -4818.433><1604.645><-4753.881><887.3698><2><Sky Islands><72><43
+100K_SI_ethanwantsfood_1: -3018.432><1220.645><-3571.883><687.3698><2><><48><35
+100K_SI_gabkai11_1: -4410.433><1490.645><-4237.881><707.3698><1><Sky Islands><48><115
+100K_SI_haysen_1: -5136.433><1721.645><-4944.881><919.3698><2><Sky Islands><48><115
+100K_SI_iyonkoi_1: -2955.432><1142.645><-3742.883><353.37><1><Sky Islands><212><37
+100K_SI_katolato_1: -5361.433><1237.145><-5137.881><461.37><2><Sky Islands><58><86
+100K_SI_novatheskeledragon_1: -2643.432><1271.645><-3352.883><730.3698><2><Sky Islands><168><35
+100K_SI_randomerosion_1: -4609.933><1417.145><-4478.881><696.3698><0><Sky Islands><65><38
+100K_SI_randomerosion_2: -4975.933><1403.645><-4853.881><655.3698><1><Sky Islands><153><75
+100K_SI_randomerosion_3: -4156.933><1153.145><-4196.881><356.37><1><Sky Islands><69><116
+100K_SI_sniffledorf_1: -4596.433><1748.645><-4395.881><1041.37><1><Sky Islands><48><35
+100K_SI_walekks_1: -3273.432><1298.645><-3928.883><380.37><2><Sky Islands><48><119
+100K_SI_zarquon_1: -4593.433><1577.645><-4409.881><876.3698><2><Sky Islands><48><37
+100K_SL_alduris_1: 4922.567><-741.3545><4212.119><-928.6302><2><Shoreline><60><155
+100K_SL_aprilistheworstmonth_1: 3712.068><-817.8545><3147.117><-857.6302><2><><53><38
+100K_SL_haysen_1: 4214.567><-822.3545><3334.117><-906.6302><2><Shoreline><256><75
+100K_SL_kebasnaek_1: 4403.567><-1158.355><3580.117><-1185.63><1><Shoreline><74><55
+100K_SL_lwrcsv_1: 4733.567><-906.3545><4020.117><-1021.63><1><Shoreline><48><35
+100K_SL_memorycrypts_1: 4730.567><-798.3545><4007.117><-892.6302><2><Shoreline><48><35
+100K_SL_nimble102_1: 5506.067><-625.8545><4421.119><-840.6302><2><Shoreline><191><40
+100K_SS_damoonlord_1: 5032.067><3598.145><2760.117><2959.37><1><Five Pebbles><193><132
+100K_SS_damoonlord_2: 7195.067><3658.145><3826.117><3083.37><1><Five Pebbles><99><36
+100K_SS_dietpebsi_1: 4793.567><2989.145><2515.117><2445.37><1><Five Pebbles><48><195
+100K_SS_dietpebsi_2: 7751.567><3515.645><4452.119><2896.37><1><Five Pebbles><48><35
+100K_SS_dietpebsi_3: 7220.567><3866.645><3970.117><3211.37><1><Five Pebbles><100><75
+100K_SS_flanace_1: 6953.567><4415.645><3813.117><3450.37><1><Five Pebbles><190><263
+100K_SS_flanace_2: 6947.567><4517.645><3650.117><3766.37><0><Five Pebbles><50><37
+100K_SS_lwrcsv_1: 5033.567><3290.645><2892.117><2817.37><2><><48><35
+100K_SS_novatheskeledragon_1: 7622.567><3724.145><4236.119><3039.37><1><Five Pebbles><160><90
+100K_SS_tronsx_1: 6218.567><3644.645><3250.117><3079.37><1><Five Pebbles><256><35
+100K_SS_zar4za_1: 7718.567><3118.145><4437.119><2282.37><1><Five Pebbles><48><155
+100K_SU_alduris_1: -1812.432><-1743.355><-1614.882><-1051.63><1><><30><19
+100K_SU_alduris_2: -675.4323><-1401.355><-711.8823><-814.6302><2><><22><29
+100K_SU_alduris_3: -2223.432><-1497.355><-1849.882><-976.6302><1><Outskirts><100><35
+100K_SU_alicepigeon_1: -465.4317><-1726.855><-563.8823><-1024.63><2><Outskirts><62><75
+100K_SU_ariesclient_1: -2194.932><-1237.855><-1946.882><-818.6302><0><Outskirts><123><118
+100K_SU_cocoaraptor_1: -426.4317><-1711.855><-411.8824><-912.6302><1><Outskirts><48><35
+100K_SU_crafterz_1: -1086.432><-1650.355><-1008.882><-966.6302><2><Outskirts><48><35
+100K_SU_damoonlord_1: -2644.932><-1297.855><-2358.883><-828.6302><1><><147><72
+100K_SU_flanace_1: -1680.432><-1767.355><-1502.882><-1107.63><1><><68><39
+100K_SU_gogurtyuri_1: -1572.432><-1656.355><-1399.882><-925.6302><1><Outskirts><48><35
+100K_SU_kizorke_1: -1149.432><-1428.355><-1103.882><-804.6302><1><Outskirts><58><69
+100K_SU_lunatav_1: -1911.432><-1425.355><-1665.882><-812.6302><1><Outskirts><48><35
+100K_SU_lwrcsv_1: -1308.432><-1294.855><-1242.882><-652.6302><2><><48><78
+100K_SU_memorycrypts_1: -1263.432><-1602.355><-1136.882><-928.6302><1><Outskirts><48><35
+100K_SU_solaristheworstcatever_1: -450.4317><-1356.355><-548.8823><-725.6302><1><Outskirts><48><35
+100K_SU_tapok109_1: -1383.432><-1572.355><-1262.882><-913.6302><1><Outskirts><48><73
+100K_SU_tetraneo_1: -864.4323><-1353.355><-904.8823><-705.6302><1><Outskirts><122><41
+100K_SU_ultimateunity_1: -642.4323><-1635.355><-728.8823><-960.6302><2><Outskirts><48><35
+100K_SU_vividyon_1: -855.4323><-1635.355><-873.8823><-949.6302><2><Outskirts><56><37
+100K_SU_vividyon_2: -1662.432><-1476.355><-1520.882><-809.6302><1><Outskirts><108><37
+100K_UG_galethecat_1: -1488.432><-2397.355><-1021.882><-2003.63><2><Undergrowth><48><35
+100K_UG_puffballcrafter_1: -1944.432><-2427.355><-1848.882><-2068.63><2><Undergrowth><154><75
+100K_UG_wonk_1: -570.4323><-2361.355><-513.8823><-2026.63><2><Undergrowth><100><75
+100K_UW_3circles_1: 4028.568><4946.645><1994.118><4020.37><2><The Exterior><100><35
+100K_UW_chromaticalblight_1: 8312.567><832.1455><5974.119><624.3698><1><The Exterior><152><194
+100K_UW_creativegamer03_1: 4021.068><3011.645><2002.118><2194.37><2><The Exterior><63><117
+100K_UW_damoonlord_1: 4078.068><2377.145><1776.118><1937.37><2><The Exterior><291><72
+100K_UW_damoonlord_2: 8315.567><1816.145><6069.119><1436.37><0><The Exterior><48><146
+100K_UW_damoonlord_3: 8465.567><1411.145><6199.119><1114.37><0><The Exterior><54><188
+100K_UW_damoonlord_4: 8122.067><1787.645><5944.119><1532.37><1><><51><43
+100K_UW_funkytrashcan_1: 4087.068><3560.645><1959.118><2513.37><2><The Exterior><113><115
+100K_UW_haysen_1: 8282.567><149.6455><6032.119><75.37002><0><The Exterior><74><235
+100K_UW_itztheblu_1: 7211.567><2624.645><3880.117><2057.37><2><The Exterior><230><155
+100K_UW_jachii9_1: 8285.567><2177.645><6050.119><1802.37><1><The Exterior><60><35
+100K_UW_luniular_1: 7331.567><2174.645><4242.119><1787.37><0><The Exterior><154><81
+100K_UW_mrptata_1: 7906.067><2434.145><4645.119><2122.37><2><The Exterior><193><120
+100K_UW_nimble102_1: 4241.567><3892.145><2108.117><3307.37><1><The Exterior><48><72
+100K_UW_nimble102_2: 4061.568><4189.145><2084.117><3630.37><2><The Exterior><48><102
+100K_UW_osziaq_12: 7925.567><2144.645><5264.119><1845.37><0><The Exterior><152><35
+100K_UW_osziaq_13: 5861.567><2216.645><2786.117><1862.37><0><The Exterior><254><37
+100K_UW_osziaq_2: 4868.567><5021.645><3144.117><4030.37><2><><412><35
+100K_UW_osziaq_4: 7649.567><2252.645><4857.119><1845.37><1><The Exterior><48><35
+100K_UW_osziaq_5: 6737.567><2258.645><3697.117><1866.37><1><The Exterior><48><35
+100K_UW_osziaq_8: 6944.567><2173.145><3898.117><1759.37><1><The Exterior><60><78
+100K_UW_osziaq_9: 6503.567><2131.145><3486.117><1752.37><0><The Exterior><58><80
+100K_UW_tronsx_1: 4801.067><2336.645><2463.117><1848.37><1><The Exterior><109><121
+100K_VS_dragonly44_1: -807.4323><-1254.355><414.1176><-1752.63><0><Pipeyard><256><75
+100K_VS_inspectnerd_1: -429.4317><-1068.355><1002.118><-1483.63><0><Pipeyard><100><35
+100K_VS_izunachan_1: 893.5677><-1473.355><1044.118><-1991.63><0><Pipeyard><736><35
+100K_VS_nimble102_1: -987.4323><-1071.355><568.1177><-1466.63><0><Pipeyard><156><35
+100K_VS_wonk_1: -207.432><-1314.355><1040.118><-1788.63><0><Pipeyard><100><35
+100K_WARB_hallowfish_1: -4557.433><3254.645><-3583.883><1653.37><1><Aether Ridge><176><83
+100K_WARB_wonk_1: -5949.433><3113.645><-5223.881><1628.37><0><Aether Ridge><776><35
+100K_WARC_funkytrashcan_1: -7656.433><3427.145><-5657.881><2073.37><0><><50><36
+100K_WARC_nopuddles_1: -7722.433><3190.145><-5701.881><1824.37><1><Fetid Glen><48><41
+100K_WARC_overpoweredpizza_1: -7320.433><3155.645><-5526.881><1798.37><1><Fetid Glen><152><37
+100K_WARC_overpoweredpizza_2: -7626.433><3322.145><-5692.881><1951.37><0><Fetid Glen><104><35
+100K_WARE_zar4za_1: -4245.433><3026.645><-3236.883><1377.37><0><Aether Ridge><48><115
+100K_WARF_january_1: -4083.432><2894.645><-3086.883><1371.37><1><Aether Ridge><48><35
+100K_WARG_crafterz_1: -4038.432><3299.645><-3161.883><1737.37><1><Aether Ridge><100><35
+100K_WARG_reincarnid_1: -3718.932><3232.145><-2876.883><1710.37><0><Aether Ridge><69><38
+100K_WAUA_flanace_1: 4528.067><866.6455><10110.12><1564.37><1><Ancient Urban><171><39
+100K_WAUA_nopuddles_1: 4529.567><1172.645><10140.12><1769.37><1><Ancient Urban><154><35
+100K_WAUA_pur._1: 4205.567><959.6455><9926.118><1456.37><1><Ancient Urban><62><205
+100K_WBLA_greenca_1: -5829.433><167.6455><-6532.881><670.3698><1><Badlands><256><75
+100K_WBLA_inspectnerd_1: -6714.433><401.6455><-7184.881><823.3698><1><Badlands><204><35
+100K_WBLA_thysi_1: -5265.433><98.64543><-5958.881><647.3698><1><Badlands><68><39
+100K_WBLA_thysi_2: -6324.433><281.6455><-6692.881><791.3698><2><Badlands><60><37
+100K_WBLA_thysi_3: -6480.433><272.6455><-6865.881><695.3698><2><><48><35
+100K_WDSR_creativegamer03_1: 779.5677><482.6455><7228.119><1385.37><2><Rotten World><48><35
+100K_WGWR_creativegamer03_1: 1829.568><545.6455><7934.119><1406.37><1><Rotten World><48><35
+100K_WHIR_creativegamer03_1: 1421.568><569.6455><7524.119><1528.37><1><Rotten World><222><35
+100K_WHIR_creativegamer03_2: 1757.568><611.6455><8038.119><1551.37><2><><48><35
+100K_WORA_anubisrah_1: 2756.568><380.6455><8538.118><1237.37><1><Outer Rim><152><35
+100K_WORA_dakras_1: 3439.068><535.1455><9133.118><1165.37><1><Outer Rim><107><182
+100K_WORA_draxiomatica_1: 3116.568><398.6455><8874.118><1239.37><1><Outer Rim><48><35
+100K_WORA_kemkemkemkemkemkem_1: 2597.568><539.6455><8430.118><1359.37><2><Outer Rim><162><55
+100K_WORA_nopuddles_1: 2123.568><548.6455><8176.119><1391.37><2><Outer Rim><100><35
+100K_WORA_puffballcrafter_1: 3305.568><316.1455><9008.118><1190.37><1><Outer Rim><48><36
+100K_WORA_puffballcrafter_2: 3302.568><442.1455><9008.118><1340.37><2><><48><36
+100K_WPTA_chromaticalblight_1: -4782.433><4528.145><-3611.883><2309.37><2><Signal Spires><52><80
+100K_WPTA_creativegamer03_1: -4002.432><4487.645><-3083.883><2326.37><2><Signal Spires><48><35
+100K_WPTA_gonterhaoz_1: -4467.433><4487.645><-3401.883><2321.37><2><Signal Spires><82><53
+100K_WPTA_nimble102_1: -4809.433><4177.145><-3617.883><2119.37><1><Signal Spires><48><72
+100K_WPTA_nopuddles_1: -4879.933><3905.645><-3711.883><1913.37><2><Signal Spires><103><75
+100K_WPTA_novatheskeledragon_1: -5016.433><4282.145><-3839.883><2189.37><2><><48><36
+100K_WRFA_blobtic73391_1: 4889.567><-2403.355><4898.119><-2398.63><1><Coral Caves><100><35
+100K_WRFA_gonterhaoz_1: 4598.567><-2316.355><4618.119><-2265.63><0><Coral Caves><190><49
+100K_WRFA_inspectnerd_1: 4493.567><-2376.355><4428.119><-2398.63><1><Coral Caves><100><35
+100K_WRFB_thysi_1: 4184.567><-2436.355><4201.119><-2451.63><1><Coral Caves><68><63
+100K_WRRA_0rchid_1: 5300.567><-2406.355><5307.119><-2416.63><2><Rusted Wrecks><122><43
+100K_WRRA_blobtic73391_1: 6173.567><-2439.355><6145.119><-2432.63><2><Rusted Wrecks><152><35
+100K_WRRA_kemkemkemkemkemkem_1: 5708.567><-2430.355><5682.119><-2416.63><1><Rusted Wrecks><172><37
+100K_WRSA_wednesday77.648am_1: 3758.568><863.6455><9452.118><1499.37><2><Daemon><168><43
+100K_WSKB_haizlbliek_1: 5009.567><-2292.355><5127.119><-2254.63><1><Stormy Coast><48><35
+100K_WSKC_forthfora_1: 4829.567><-2103.355><4899.119><-2044.63><2><Stormy Coast><152><35
+100K_WSKD_scoutriley_1: 5131.067><-2172.355><5284.119><-2161.63><1><Stormy Coast><53><75
+100K_WSSR_ko5i_1: 1064.568><785.6455><7428.119><1670.37><2><Rotten World><48><115
+100K_WSSR_wonk_1: 1016.568><1259.645><7384.119><1977.37><2><Rotten World><48><195
+100K_WSUR_novatheskeledragon_1: 898.0677><526.1455><7302.119><1513.37><1><Rotten World><59><38
+100K_WTDA_gonterhaoz_1: -7339.933><401.6455><-7836.881><726.3698><2><Torrid Desert><119><39
+100K_WTDB_alduris_1: -7932.433><155.6455><-8233.882><345.37><1><><32><21
+100K_WTDB_alduris_2: -6579.433><-496.8545><-6873.881><89.37><1><Desolate Tract><54><40
+100K_WTDB_gonterhaoz_1: -7464.433><-111.3546><-7735.881><183.37><1><Desolate Tract><68><39
+100K_WTDB_january_1: -6903.433><-106.8546><-7414.881><34.37><0><Desolate Tract><256><315
+100K_WTDB_skqrw_1: -7410.433><208.1455><-7837.881><480.37><1><Desolate Tract><66><38
+100K_WTDB_thecubifyer_1: -8001.433><-102.3546><-8363.882><148.37><1><Desolate Tract><280><83
+100K_WTDB_thysi_1: -7794.433><278.6455><-8275.882><414.37><0><Desolate Tract><170><77
+100K_WTDB_tronsx_1: -9028.933><-21.35456><-9131.882><271.37><1><Desolate Tract><361><81
+100K_WVWA_hennyburgr_1: 3518.568><-2361.355><3536.117><-2378.63><0><Verdant Waterways><172><37
+100K_WVWA_tetraneo_1: 3911.568><-2373.355><3926.117><-2391.63><0><Verdant Waterways><70><41
+100K_WPTA_tronsx_1: -4254.433><4208.645><-3407.883><2164.37><1><Signal Spires><206><35
+100K_HI_wonk_1: -699.4323><-237.3545><-2365.883><-332.63><1><Industrial Complex><48><475
+100K_HI_wonk_2: -723.4323><284.6455><-2521.883><436.37><2><><48><35
+100K_SH_alduris_1: 1091.568><-364.8545><322.1176><-218.63><2><><34><18
+100K_SH_alduris_2: 3473.568><-304.8545><2346.117><9.370007><1><><62><38
+100K_WSKX_alduris_1: 4609.067><-2128.855><4768.119><-2026.63><2><><25><16
+100K_LF_alduris_2: -4228.933><-1137.355><-3868.883><-525.6302><0><><29><13
+100K_SL_av3ry_1: 3671.568><-907.8545><3119.117><-992.6302><1><><52><36
+100K_GW_alduris_2: 2972.568><-607.8545><2420.117><-670.6302><1><><24><19
+100K_HI_alduris_1: -1335.432><-559.8545><-1373.882><-239.63><2><><23><17
+100K_VS_av3ry_1: -198.432><-1057.855><1242.118><-1478.63><0><><52><36
+100K_SL_alduris_2: 4736.567><-754.8545><4009.117><-764.6302><1><><64><52
+100K_SB_alduris_2: -5913.433><-2094.355><-5615.881><-1585.63><0><><18><23
+100K_WAUA_alduris_1: 4355.567><688.1455><10124.12><1417.37><2><><48><35
+100K_WTDB_alduris_3: -6315.433><-439.8545><-6726.881><103.37><2><NONE><117><83
+OffScreenDen_100K: -2273.432><2520.145><-1897.882><1373.37><1><><0><0
 Connection: 100K_CC_alduris_1,100K_CC_steellesstoaster_2,20,74,36,18,3,0
 Connection: 100K_CC_alduris_1,100K_CC_rostik630uwu_1,27,74,10,22,3,2
 Connection: 100K_CC_alduris_1,100K_CC_hobart_1,20,20,48,11,3,0
@@ -328,7 +328,7 @@ Connection: 100K_CC_javadog64_1,100K_CC_steellesstoaster_2,4,12,12,30,2,1
 Connection: 100K_CC_nimble102_1,100K_SI_novatheskeledragon_1,9,28,157,7,3,3
 Connection: 100K_CC_rbor_1,100K_UW_damoonlord_1,56,17,167,14,0,3
 Connection: 100K_CC_rbor_1,100K_CC_tronsx_1,9,17,147,51,1,3
-Connection: 100K_CL_tankium_1,100K_SH_dragonpropaganda_1,1,6,94,3,-1,0
+Connection: 100K_CL_tankium_1,100K_SH_dragonpropaganda_1,1,6,94,3,2,0
 Connection: 100K_DM_fatalerror404_1,100K_MS_magicajaphet_1,173,141,6,14,3,2
 Connection: 100K_DM_fatalerror404_1,100K_LM_av3ry_7,201,71,4,14,1,2
 Connection: 100K_DM_fatalerror404_1,100K_LM_av3ry_6,7,54,113,17,2,0
@@ -344,12 +344,12 @@ Connection: 100K_DS_alduris_2,100K_DS_therealflarf_1,45,28,6,24,0,2
 Connection: 100K_DS_aprilistheworstmonth_1,100K_GW_haysen_1,194,30,5,28,0,1
 Connection: 100K_DS_aprilistheworstmonth_1,100K_UG_wonk_1,82,24,11,70,2,1
 Connection: 100K_DS_aprilistheworstmonth_1,100K_DS_user23848_1,5,25,45,2,2,0
-Connection: 100K_DS_aprilistheworstmonth_2,100K_DS_haysen_1,32,29,149,14,1,-1
+Connection: 100K_DS_aprilistheworstmonth_2,100K_DS_haysen_1,32,29,149,14,1,0
 Connection: 100K_DS_aprilistheworstmonth_2,100K_DS_iyonkoi_1,7,25,54,30,2,0
 Connection: 100K_DS_dragonpropaganda_1,100K_SB_tankium_1,4,21,44,34,2,0
 Connection: 100K_DS_dragonpropaganda_1,100K_DS_solaristheworstcatever_1,142,21,14,30,0,0
 Connection: 100K_DS_haysen_1,100K_SU_flanace_1,42,47,10,14,0,2
-Connection: 100K_DS_haysen_1,100K_DS_luckykitkat_1,150,24,6,19,-1,2
+Connection: 100K_DS_haysen_1,100K_DS_luckykitkat_1,150,24,6,19,0,2
 Connection: 100K_DS_haysen_1,100K_DS_therealflarf_1,4,22,115,28,2,0
 Connection: 100K_DS_iyonkoi_1,100K_DS_tnthalflife32_1,8,20,60,27,2,0
 Connection: 100K_DS_luckykitkat_1,100K_DS_luniular_1,53,18,2,30,0,2
@@ -367,12 +367,12 @@ Connection: 100K_GW_alduris_1,100K_GW_wrayk_1,46,32,2,19,0,2
 Connection: 100K_GW_alduris_1,100K_GW_january_1,6,31,87,8,2,0
 Connection: 100K_GW_alduris_1,100K_GW_wonk_1,11,2,143,16,3,3
 Connection: 100K_GW_damoonlord_1,100K_GW_solaristheworstcatever_1,24,15,16,27,3,1
-Connection: 100K_GW_detrax_1,100K_GW_slithersss_1,19,27,46,28,1,-1
+Connection: 100K_GW_detrax_1,100K_GW_slithersss_1,19,27,46,28,1,0
 Connection: 100K_GW_detrax_1,100K_SL_aprilistheworstmonth_1,119,14,8,14,0,2
 Connection: 100K_GW_haysen_1,100K_GW_rolingp3_1,6,59,41,10,2,0
 Connection: 100K_GW_haysen_1,100K_GW_wonk_1,96,13,37,16,0,3
 Connection: 100K_GW_january_1,100K_HI_gamerguy35_1,9,26,41,9,2,0
-Connection: 100K_GW_milksmansrevenge_1,100K_GW_slithersss_1,98,15,1,28,-1,-1
+Connection: 100K_GW_milksmansrevenge_1,100K_GW_slithersss_1,98,15,1,28,0,2
 Connection: 100K_GW_milksmansrevenge_1,100K_GW_wrayk_1,6,3,297,45,3,0
 Connection: 100K_GW_solaristheworstcatever_1,100K_GW_wonk_1,46,8,13,49,0,2
 Connection: 100K_GW_tapok109_1,100K_GW_alduris_2,58,18,14,8,3,0
@@ -408,7 +408,7 @@ Connection: 100K_HI_lunatav_1,100K_SH_memorycrypts_2,160,66,12,11,0,3
 Connection: 100K_HI_lunatav_1,100K_HI_solaristheworstcatever_1,7,10,28,32,2,1
 Connection: 100K_HI_solaristheworstcatever_1,100K_HI_wtfmagnimmepac3_1,6,8,36,21,2,0
 Connection: 100K_HI_totallydutch_2,100K_HI_wtfmagnimmepac3_1,12,3,25,3,3,3
-Connection: 100K_HI_trearilt_1,100K_HI_user23848_1,25,31,5,1,1,-1
+Connection: 100K_HI_trearilt_1,100K_HI_user23848_1,25,31,5,1,1,3
 Connection: 100K_HI_trearilt_1,100K_SU_lwrcsv_1,4,17,26,49,2,0
 Connection: 100K_HR_dragonly44_1,100K_HR_flanace_1,40,20,14,11,1,3
 Connection: 100K_HR_dragonpropaganda_1,100K_HR_flanace_1,11,4,148,5,3,3
@@ -468,8 +468,8 @@ Connection: 100K_RM_damoonlord_1,100K_UW_itztheblu_1,36,4,208,145,3,1
 Connection: 100K_SB_alduris_1,100K_SB_novatheskeledragon_1,21,16,46,13,2,0
 Connection: 100K_SB_alduris_1,100K_SB_iyonkoi_1,7,10,189,5,2,0
 Connection: 100K_SB_alduris_1,100K_SB_ethanwantsfood_1,104,10,33,43,0,3
-Connection: 100K_SB_alduris_1,100K_SB_gamerguy35_1,86,5,78,110,-1,1
-Connection: 100K_SB_alduris_1,100K_SB_flanace_1,38,4,54,26,-1,1
+Connection: 100K_SB_alduris_1,100K_SB_gamerguy35_1,86,5,78,110,3,1
+Connection: 100K_SB_alduris_1,100K_SB_flanace_1,38,4,54,26,3,1
 Connection: 100K_SB_damoonlord_1,100K_SB_gamerguy35_1,250,15,78,12,0,3
 Connection: 100K_SB_ethanwantsfood_1,100K_SB_tronsx_1,56,20,4,50,2,2
 Connection: 100K_SB_flanace_1,100K_SB_tankium_1,29,14,6,72,3,2
@@ -482,7 +482,7 @@ Connection: 100K_SB_tronsx_1,100K_SL_kebasnaek_1,194,49,18,40,3,2
 Connection: 100K_SB_tronsx_1,100K_UG_puffballcrafter_1,183,14,3,4,3,2
 Connection: 100K_SH_acquaintedfowl_1,100K_SH_zenodos_1,2,22,104,34,2,1
 Connection: 100K_SH_acquaintedfowl_1,100K_SH_gal3olag_1,45,20,4,16,0,2
-Connection: 100K_SH_chromaticalblight_1,100K_SH_haysen_1,39,15,3,86,0,-1
+Connection: 100K_SH_chromaticalblight_1,100K_SH_haysen_1,39,15,3,86,0,2
 Connection: 100K_SH_chromaticalblight_1,100K_SH_gal3olag_1,2,12,132,20,3,0
 Connection: 100K_SH_dragonly44_1,100K_SH_lipuccka_1,21,12,106,27,2,0
 Connection: 100K_SH_dragonpropaganda_1,100K_SH_memorycrypts_2,5,30,146,21,2,3
@@ -508,7 +508,7 @@ Connection: 100K_SI_anubisrah_1,100K_SI_katolato_1,7,16,47,15,2,0
 Connection: 100K_SI_bismuthnebula_1,100K_SI_katolato_1,35,8,16,76,0,1
 Connection: 100K_SI_bismuthnebula_1,100K_SI_haysen_1,39,13,12,19,3,3
 Connection: 100K_SI_echidna1_1,100K_SI_haysen_1,3,28,35,19,3,3
-Connection: 100K_SI_echidna1_1,100K_SI_zarquon_1,63,20,6,26,-1,1
+Connection: 100K_SI_echidna1_1,100K_SI_zarquon_1,63,20,6,26,3,1
 Connection: 100K_SI_ethanwantsfood_1,100K_SI_novatheskeledragon_1,31,24,10,7,0,3
 Connection: 100K_SI_gabkai11_1,100K_SI_zarquon_1,8,97,41,31,2,3
 Connection: 100K_SI_gabkai11_1,100K_SI_randomerosion_1,3,63,50,20,2,0
@@ -522,10 +522,10 @@ Connection: 100K_SL_alduris_1,100K_SL_alduris_2,16,78,50,33,2,3
 Connection: 100K_SL_alduris_1,100K_SL_memorycrypts_1,6,56,44,19,2,0
 Connection: 100K_SL_alduris_1,100K_SL_nimble102_1,51,56,19,11,0,3
 Connection: 100K_SL_alduris_1,100K_SL_lwrcsv_1,8,22,41,13,2,3
-Connection: 100K_SL_aprilistheworstmonth_1,100K_SL_haysen_1,49,29,1,57,0,-1
+Connection: 100K_SL_aprilistheworstmonth_1,100K_SL_haysen_1,49,29,1,57,0,2
 Connection: 100K_SL_aprilistheworstmonth_1,100K_SL_av3ry_1,24,5,37,17,3,1
 Connection: 100K_SL_haysen_1,100K_SL_kebasnaek_1,200,68,47,40,3,2
-Connection: 100K_SL_haysen_1,100K_SL_memorycrypts_1,254,47,5,19,-1,2
+Connection: 100K_SL_haysen_1,100K_SL_memorycrypts_1,254,47,5,19,0,2
 Connection: 100K_SL_lwrcsv_1,100K_VS_izunachan_1,2,17,731,28,2,0
 Connection: 100K_SS_damoonlord_1,100K_SS_dietpebsi_1,2,60,9,187,2,2
 Connection: 100K_SS_damoonlord_1,100K_SS_tronsx_1,190,56,8,16,0,2
@@ -562,11 +562,11 @@ Connection: 100K_SU_kizorke_1,100K_SU_memorycrypts_1,12,4,30,24,2,0
 Connection: 100K_SU_lunatav_1,100K_SU_vividyon_2,44,5,4,23,0,2
 Connection: 100K_SU_solaristheworstcatever_1,100K_SU_tetraneo_1,6,19,110,21,2,0
 Connection: 100K_SU_tapok109_1,100K_SU_vividyon_2,5,56,103,6,2,0
-Connection: 100K_SU_ultimateunity_1,100K_SU_vividyon_1,2,17,54,18,2,-1
+Connection: 100K_SU_ultimateunity_1,100K_SU_vividyon_1,2,17,54,18,2,0
 Connection: 100K_UG_galethecat_1,100K_UG_puffballcrafter_1,14,27,150,56,3,0
 Connection: 100K_UG_galethecat_1,100K_UG_wonk_1,41,22,2,18,0,2
 Connection: 100K_UW_3circles_1,100K_UW_osziaq_2,96,20,4,6,0,2
-Connection: 100K_UW_3circles_1,100K_UW_nimble102_2,81,3,18,100,3,-1
+Connection: 100K_UW_3circles_1,100K_UW_nimble102_2,81,3,18,100,3,1
 Connection: 100K_UW_chromaticalblight_1,100K_UW_damoonlord_3,87,186,5,21,1,2
 Connection: 100K_UW_chromaticalblight_1,100K_UW_haysen_1,61,5,27,228,2,1
 Connection: 100K_UW_creativegamer03_1,100K_UW_funkytrashcan_1,57,105,57,15,0,0
@@ -577,10 +577,10 @@ Connection: 100K_UW_damoonlord_2,100K_UW_damoonlord_4,4,56,32,21,2,0
 Connection: 100K_UW_damoonlord_2,100K_UW_damoonlord_3,43,19,5,175,0,2
 Connection: 100K_UW_funkytrashcan_1,100K_UW_nimble102_1,60,107,4,10,0,2
 Connection: 100K_UW_itztheblu_1,100K_UW_osziaq_8,45,48,43,66,3,0
-Connection: 100K_UW_jachii9_1,100K_UW_osziaq_12,1,17,143,28,-1,1
+Connection: 100K_UW_jachii9_1,100K_UW_osziaq_12,1,17,143,28,2,1
 Connection: 100K_UW_luniular_1,100K_UW_mrptata_1,143,52,11,26,0,2
 Connection: 100K_UW_luniular_1,100K_UW_osziaq_4,149,40,8,23,1,2
-Connection: 100K_UW_luniular_1,100K_UW_osziaq_8,47,24,49,35,-1,1
+Connection: 100K_UW_luniular_1,100K_UW_osziaq_8,47,24,49,35,3,1
 Connection: 100K_UW_nimble102_1,100K_UW_nimble102_2,4,60,41,4,2,3
 Connection: 100K_UW_osziaq_12,100K_UW_osziaq_4,4,28,33,24,1,0
 Connection: 100K_UW_osziaq_13,100K_UW_tronsx_1,5,31,45,37,1,0
@@ -601,7 +601,7 @@ Connection: 100K_WARB_wonk_1,100K_WARC_overpoweredpizza_1,18,28,149,27,1,0
 Connection: 100K_WARC_funkytrashcan_1,100K_WARC_overpoweredpizza_2,21,3,37,26,3,1
 Connection: 100K_WARC_nopuddles_1,100K_WARC_overpoweredpizza_2,9,28,6,10,2,2
 Connection: 100K_WARC_nopuddles_1,100K_WARC_overpoweredpizza_1,43,16,3,27,0,2
-Connection: 100K_WARE_zar4za_1,100K_WARF_january_1,45,7,4,11,-1,2
+Connection: 100K_WARE_zar4za_1,100K_WARF_january_1,45,7,4,11,0,2
 Connection: 100K_WARG_crafterz_1,100K_WARG_reincarnid_1,95,15,6,28,0,3
 Connection: 100K_WAUA_flanace_1,100K_WAUA_pur._1,20,29,49,81,2,0
 Connection: 100K_WAUA_flanace_1,100K_WAUA_nopuddles_1,164,12,151,8,0,3
@@ -642,13 +642,13 @@ Connection: 100K_WRFA_inspectnerd_1,100K_WRFB_thysi_1,3,19,61,46,2,0
 Connection: 100K_WRFB_thysi_1,100K_WVWA_tetraneo_1,4,54,60,22,2,0
 Connection: 100K_WRRA_0rchid_1,100K_WSKB_haizlbliek_1,34,33,42,6,2,0
 Connection: 100K_WRRA_0rchid_1,100K_WRRA_kemkemkemkemkemkem_1,76,7,6,12,3,3
-Connection: 100K_WRRA_blobtic73391_1,100K_WRRA_kemkemkemkemkemkem_1,1,10,153,6,-1,3
+Connection: 100K_WRRA_blobtic73391_1,100K_WRRA_kemkemkemkemkemkem_1,1,10,153,6,2,3
 Connection: 100K_WSKB_haizlbliek_1,100K_WSKD_scoutriley_1,44,27,11,7,0,2
 Connection: 100K_WSKC_forthfora_1,100K_WSKD_scoutriley_1,138,26,21,69,0,2
 Connection: 100K_WSKC_forthfora_1,100K_WSKX_alduris_1,24,11,17,7,2,0
 Connection: 100K_WSSR_ko5i_1,100K_WSSR_wonk_1,15,108,31,6,1,3
 Connection: 100K_WSSR_ko5i_1,100K_WSUR_novatheskeledragon_1,9,5,54,32,3,0
-Connection: 100K_WTDA_gonterhaoz_1,100K_WTDB_skqrw_1,23,13,23,29,3,-1
+Connection: 100K_WTDA_gonterhaoz_1,100K_WTDB_skqrw_1,23,13,23,29,3,3
 Connection: 100K_WTDB_alduris_1,100K_WTDB_thysi_1,24,10,65,11,0,3
 Connection: 100K_WTDB_alduris_2,100K_WTDB_gonterhaoz_1,4,28,49,12,2,0
 Connection: 100K_WTDB_alduris_2,100K_WTDB_january_1,4,12,152,21,2,0
