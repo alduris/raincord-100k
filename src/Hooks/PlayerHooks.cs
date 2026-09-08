@@ -111,21 +111,31 @@ namespace Raincord100k.Hooks
 
             if (validCondition)
             {
-                if (cwt.TryGetValue(self.room.game, out PearlHologram hologram) && hologram.mode == PearlHologram.Mode.Reading)
+                bool foundFallingEdge = false;
+                bool doubleTapped = false;
+                for (int i = self.input.Length - 2; i > 0; i--)
                 {
-                    bool foundFallingEdge = false;
-                    for (int i = self.input.Length - 2; i >= 0; i--)
+                    bool lastSpec = self.input[i + 1].spec;
+                    bool spec = self.input[i].spec;
+                    if (lastSpec && !spec)
                     {
-                        bool lastSpec = self.input[i + 1].spec;
-                        bool spec = self.input[i].spec;
-                        if (lastSpec && !spec)
-                        {
-                            foundFallingEdge = true;
-                        }
-                        else if (foundFallingEdge && spec && !lastSpec)
-                        {
-                            hologram.CancelReading();
-                        }
+                        foundFallingEdge = true;
+                        break;
+                    }
+                }
+                if (foundFallingEdge && self.input[0].spec && !self.input[1].spec)
+                {
+                    doubleTapped = true;
+                }
+                if (doubleTapped)
+                {
+                    if (cwt.TryGetValue(self.room.game, out PearlHologram hologram) && hologram.mode == PearlHologram.Mode.Reading)
+                    {
+                        hologram.CancelReading();
+                    }
+                    else
+                    {
+                        self.room.AddObject(new RoomCredit(self.room));
                     }
                 }
             }

@@ -55,6 +55,11 @@ namespace Raincord100k.SpawnSpots
             if (movedPlayers)
             {
                 hasRunScript = true;
+
+                // Add tutorial stuff
+                room.game.cameras[0].hud.textPrompt.AddMessage(room.game.manager.rainWorld.inGameTranslator.Translate("Double tap SPECIAL to display room credit"), 120, 160, false, true);
+
+                // Destroy self
                 Destroy();
             }
         }

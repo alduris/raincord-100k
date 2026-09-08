@@ -18,6 +18,7 @@ namespace Raincord100k
         public static ProcessManager.ProcessID SpawnSpotProcess = new($"100k_{nameof(SpawnSpotProcess)}", true);
 
         public static Conversation.ID PearlReading = new($"100k_{nameof(PearlReading)}");
+        public static Conversation.ID RoomCredit = new($"100k_{nameof(RoomCredit)}");
 
         public static EndCredits.Stage Credits_Logo;
         public static EndCredits.Stage Credits_Hosts;
