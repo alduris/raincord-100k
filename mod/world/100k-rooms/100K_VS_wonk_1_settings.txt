@@ -3,4 +3,5 @@ DangerType: Flood
 Palette: 72
 EffectColorA: 2
 EffectColorB: 13
+PlacedObjects: CentipedeAttractor><1323.841><364.8792><-458~20, 
 FadePalette: 8, 0.5, 0.5

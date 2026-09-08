@@ -29,7 +29,7 @@ namespace Raincord100k.Hooks
                 {
                     if (self.grasps[i]?.grabbed is DataPearl pearl && pearl.Is100kPearl())
                     {
-                        if (!hasSeenPearlTutorial)
+                        if (!hasSeenPearlTutorial && !SaveData.HasReadAnyPearls())
                         {
                             hasSeenPearlTutorial = true;
                             self.room.AddObject(new PearlTutorial(self.room));
@@ -41,10 +41,9 @@ namespace Raincord100k.Hooks
 
         private static void Player_checkInput(On.Player.orig_checkInput orig, Player self)
         {
-            if (self.Consious && !self.isNPC && self.room != null && self.room.game.IsStorySession && self.room.game.cameras[0].hud?.owner == self 
-                && self.room.game.GetStorySession.saveStateNumber == Constants.Slugcat 
-                && (self.bodyMode == Player.BodyModeIndex.Stand || self.bodyMode == Player.BodyModeIndex.ZeroG)
-            )
+            bool validCondition = self.Consious && !self.isNPC && self.room != null && self.room.game.IsStorySession && self.room.game.cameras[0].hud?.owner == self
+                && self.room.game.GetStorySession.saveStateNumber == Constants.Slugcat;
+            if (validCondition && (self.bodyMode == Player.BodyModeIndex.Stand || self.bodyMode == Player.BodyModeIndex.ZeroG))
             {
                 var hud = self.room.game.cameras[0].hud;
                 for (int i = 0; i < self.grasps.Length; i++)
@@ -109,6 +108,27 @@ namespace Raincord100k.Hooks
             }
 
             orig(self);
+
+            if (validCondition)
+            {
+                if (cwt.TryGetValue(self.room.game, out PearlHologram hologram) && hologram.mode == PearlHologram.Mode.Reading)
+                {
+                    bool foundFallingEdge = false;
+                    for (int i = self.input.Length - 2; i >= 0; i--)
+                    {
+                        bool lastSpec = self.input[i + 1].spec;
+                        bool spec = self.input[i].spec;
+                        if (lastSpec && !spec)
+                        {
+                            foundFallingEdge = true;
+                        }
+                        else if (foundFallingEdge && spec && !lastSpec)
+                        {
+                            hologram.CancelReading();
+                        }
+                    }
+                }
+            }
         }
     }
 }

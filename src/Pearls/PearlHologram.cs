@@ -177,7 +177,7 @@ namespace Raincord100k.Pearls
 
         public void UpdateHoldDirection(IntVector2 dir)
         {
-            if (mode != Mode.Selecting || (dir.x == 0 && dir.y == 0)) return;
+            if ((mode != Mode.Selecting && mode != Mode.InitSelecting) || (dir.x == 0 && dir.y == 0)) return;
             currentReader = null;
             foreach (var selection in selections)
             {
@@ -203,6 +203,19 @@ namespace Raincord100k.Pearls
                 }
             }
             mode = wasHovering ? Mode.InitReading : Mode.CancelSelection;
+        }
+
+        public void CancelReading()
+        {
+            if (mode == Mode.Reading && currentConversation != null)
+            {
+                currentConversation.events.Clear();
+                if (currentConversation.dialogBox?.CurrentMessage != null)
+                {
+                    currentConversation.dialogBox.lingerCounter = currentConversation.dialogBox.CurrentMessage.linger;
+                }
+                mode = Mode.DoneReading;
+            }
         }
 
         public static string Translate(string s)

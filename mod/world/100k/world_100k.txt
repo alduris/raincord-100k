@@ -353,7 +353,7 @@ LINEAGE : 100K_HI_dedniko_1 : 2 : NONE-1, NONE-1, NONE-0.3, PoleMimic-{10}-1, Po
 100K_HI_lunatav_1 : 4-Cicada-2, 5-BigNeedleWorm, 5-SmallNeedleWorm-2, 7-BlueLizard-2, 8-CyanLizard
 LINEAGE : 100K_SH_haysen_1 : 9 : LanternMouse-0.4, NONE-0.6, FirecrackerMouse-0
 100K_SH_chromaticalblight_1 : 3-LanternMouse-2
-100K_SH_zenodos_1 : 4-BlackLizard-2
+100K_SH_zenodos_1 : 4-BlackLizard-4
 LINEAGE : 100K_SH_zenodos_1 : 4 : NONE-1, NONE-1, NONE-0.5, BlackLizard-0
 LINEAGE : 100K_SH_katolato_1 : 11 : NONE-1, NONE-0.5, MoleSalamander-0
 100K_SH_haysen_1 : 10-Spider-3, 5-BigChromafly, 5-SmallChromafly-3, 11-BigSpider-2

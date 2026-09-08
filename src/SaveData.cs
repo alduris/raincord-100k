@@ -1,10 +1,6 @@
-﻿using System;
-using System.Collections.Generic;
+﻿using System.Collections.Generic;
 using System.IO;
 using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-using Raincord100k.Pearls;
 using UnityEngine;
 using PearlType = DataPearl.AbstractDataPearl.DataPearlType;
 
@@ -15,6 +11,12 @@ namespace Raincord100k
         private static string SavePath => Path.Combine(Application.persistentDataPath, "100k_data.txt");
         private static bool hasReadFileYet = false;
         private static readonly HashSet<PearlType> readPearls = [];
+
+        public static bool HasReadAnyPearls()
+        {
+            ReadSaveData();
+            return readPearls.Count > 0;
+        }
 
         public static bool HasBeenRead(PearlType pearlType)
         {
