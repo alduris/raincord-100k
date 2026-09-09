@@ -13,10 +13,36 @@ namespace Raincord100k.Hooks
     {
         internal static void Apply()
         {
+            // Force reapply if needed
+            On.ModManager.RefreshModsLists += ModManager_RefreshModsLists;
+
             // Token cache
             On.RainWorld.ClearTokenCacheInMemory += RainWorld_ClearTokenCacheInMemory;
             On.RainWorld.ReadTokenCache += RainWorld_ReadTokenCache;
             On.RainWorld.BuildTokenCache += RainWorld_BuildTokenCache;
+        }
+
+        private static void ModManager_RefreshModsLists(On.ModManager.orig_RefreshModsLists orig, RainWorld rainWorld)
+        {
+            orig(rainWorld);
+
+            try
+            {
+                string path = AssetManager.ResolveFilePath(Path.Combine("World", "indexmaps", "100kpearlspots.txt"));
+                if (!File.Exists(path) && ModManager.GetModById(Plugin.MOD_ID) is { } mod)
+                {
+                    mod.checksumChanged = true; // force it to think it is "changed" so it regenerates token cache with our custom code
+                    Plugin.Logger.LogMessage("100K's cached files not found! Forcing token cache re-generation");
+                }
+                else
+                {
+                    Plugin.Logger.LogDebug("Found 100K's cached files");
+                }
+            }
+            catch (Exception ex)
+            {
+                Plugin.Logger.LogFatal(ex);
+            }
         }
 
         private static void RainWorld_ClearTokenCacheInMemory(On.RainWorld.orig_ClearTokenCacheInMemory orig, RainWorld self)
@@ -38,12 +64,7 @@ namespace Raincord100k.Hooks
                 }
 
                 // Find path
-                string basePath = Path.Combine(Custom.RootFolderDirectory(), "World", "IndexMaps");
-                if (modded)
-                {
-                    basePath = Path.Combine(Custom.RootFolderDirectory(), "mergedmods", "World", "IndexMaps");
-                }
-
+                string basePath = Path.Combine(Custom.RootFolderDirectory(), "mergedmods", "World", "IndexMaps");
                 string pearlPath = Path.Combine(basePath, "100kpearlspots.txt");
                 string spawnPath = Path.Combine(basePath, "100kspawnspots.txt");
 

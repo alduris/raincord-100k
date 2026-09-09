@@ -15,7 +15,7 @@ namespace Raincord100k
     [BepInPlugin(MOD_ID, "Raincord 100k Gallery Region", "1.0")]
     public class Plugin : BaseUnityPlugin
     {
-        private const string MOD_ID = "raincord_100k";
+        public const string MOD_ID = "raincord_100k";
 
         public new static ManualLogSource Logger { get; private set; } = null!;
 
