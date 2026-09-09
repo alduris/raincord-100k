@@ -25,7 +25,7 @@ namespace Raincord100k.SpawnSpots
             selectedObject = null;
 
             // Set music
-            if (manager.musicPlayer.song != null)
+            if (manager.musicPlayer?.song != null)
             {
                 manager.musicPlayer.FadeOutAllSongs(25f);
             }
