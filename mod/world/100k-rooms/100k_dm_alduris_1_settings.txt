@@ -1,0 +1,5 @@
+Template: 100k_settingstemplate_dm-underhang
+EffectColorA: 19
+Effects: ElectricDeath-0.1086956-274-16, GreenSparks-0-22-127, ExtraLoudThunder-0-274-71, Lightning-0-15-71, BrokenZeroG-0-17-21, 
+PlacedObjects: LightSource><388.3174><368.1883><0.4347826~EffectColor1~-3~246~50~86.60254~0~0~None~0~0, 
+FadePalette: 17, 0.7282609

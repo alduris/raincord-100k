@@ -102,7 +102,7 @@ ROOMS
 100K_LM_av3ry_3 : 100K_LM_av3ry_1 : SHELTER
 100K_LM_av3ry_4 : 100K_LM_av3ry_5, 100K_LM_av3ry_1
 100K_LM_av3ry_5 : 100K_LM_av3ry_2, 100K_LM_av3ry_4
-100K_LM_av3ry_6 : DISCONNECTED, DISCONNECTED, 100K_DM_fatalerror404_1
+100K_LM_av3ry_6 : 100K_DM_alduris_1, DISCONNECTED, 100K_DM_fatalerror404_1
 100K_LM_av3ry_7 : 100K_DM_fatalerror404_1
 100K_MS_fanc39cat_1 : 100K_MS_magicajaphet_1, 100K_DM_gonterhaoz_1, 100K_SL_alduris_1, 100K_MS_maxthelord_1
 100K_MS_magicajaphet_1 : 100K_MS_fanc39cat_1, 100K_DM_fatalerror404_1
@@ -322,6 +322,7 @@ ROOMS
 100K_WARB_damoonlord_1 : 100K_WARB_hallowfish_1 : SHELTER
 100K_WRFA_damoonlord_1 : 100K_WRFA_inspectnerd_1 : SHELTER
 100K_WVWA_damoonlord_1 : 100K_WVWA_hennyburgr_1 : SHELTER
+100K_DM_alduris_1 : 100K_LM_av3ry_6 : SHELTER
 END ROOMS
 CREATURES
 
@@ -519,7 +520,7 @@ LINEAGE : 100K_WTDB_thecubifyer_1 : 3 : NONE-1, GreenLizard-0.2, BlackLizard-0.5
 LINEAGE : 100K_WTDA_gonterhaoz_1 : 3 : NONE-1, BlueLizard-0
 100K_WBLA_inspectnerd_1 : 2-IndigoLizard
 LINEAGE : 100K_WBLA_thysi_1 : 4 : IndigoLizard-0.5, MarmaladeLizard-0.5
-OFFSCREEN : 0-Vulture, 0-KingVulture, 0-Vulture-2{NamedAttr:100k_HI_sky}, 0-Vulture-2{NamedAttr:100k_CC_sky}, 0-Vulture-3{NamedAttr:100k_SI_sky}, 0-Vulture-1{NamedAttr:100k_LF_sky}, 0-Vulture-2{NamedAttr:100k_GW_sky}, 0-Vulture-1{NamedAttr:100k_SL_sky}, 0-Vulture-1{NamedAttr:100k_LM_sky}, 0-Vulture-1{NamedAttr:100k_WPTA_sky}, 0-MirosBird-5, 0-BigEel-1, 0-Scavenger-30, 0-ScavengerTemplar-4, 0-ScavengerDisciple, 0-BigMoth-3, 0-SmallMoth-3
+OFFSCREEN : 0-Vulture, 0-KingVulture, 0-Vulture-{NamedAttr:100k_HI_sky}-2, 0-Vulture-{NamedAttr:100k_CC_sky}-2, 0-Vulture-{NamedAttr:100k_SI_sky}-3, 0-Vulture-{NamedAttr:100k_LF_sky}-1, 0-Vulture-{NamedAttr:100k_GW_sky}-2, 0-Vulture-{NamedAttr:100k_SL_sky}-1, 0-Vulture-{NamedAttr:100k_LM_sky}-1, 0-Vulture-{NamedAttr:100k_WPTA_sky}-1, 0-MirosBird-5, 0-BigEel-1, 0-Scavenger-30, 0-ScavengerTemplar-4, 0-ScavengerDisciple, 0-BigMoth-3, 0-SmallMoth-3
 100K_GW_haysen_1 : 4-WhiteLizard, 5-BlueLizard
 100K_SL_lwrcsv_1 : 3-SurfaceSwimmer
 LINEAGE : 100K_HI_lunatav_1 : 8 : WhiteLizard-0.4, CyanLizard-0.6, HunterSeeker-0
