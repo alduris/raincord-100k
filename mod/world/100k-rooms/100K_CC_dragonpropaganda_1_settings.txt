@@ -3,6 +3,7 @@ Clouds: 0.1630435
 Palette: 6
 EffectColorA: 10
 EffectColorB: 2
-PlacedObjects: Raincord100k_PearlSpot><659.6896><203.9361><0~0~0~3, Raincord100k_PearlSpot><1006.633><587.162><0~0~0~3, Raincord100k_PearlSpot><330.2387><1332.2><0~0~0~3, 
+PlacedObjects: Raincord100k_PearlSpot><659.6896><203.9361><0~0~0~3, Raincord100k_PearlSpot><1006.633><587.162><0~0~0~3, Raincord100k_PearlSpot><330.2387><1332.2><0~0~0~3, Raincord100k_SpawnSpot><548.0955><1255.127><CC, 
 AmbientSounds: OMNI><AM_ENV-NatWind.ogg><761.6189><490.599><0.1847826><1, OMNI><AM_ENV-LightWind.ogg><751.1595><583.1206><0.3478261><0.8630434, 
+Triggers: Spot<tA>event<tB>MusicEvent<eA>songName<eB>rw_48 - wind chimes<eA>vol<eB>0.56087<eA>prio<eB>0.5<eA>mxThrt<eB>1<eA>loop<eB>0<eA>droneTol<eB>0<eA>rooms<eB>-1<eA>rest<eB>5<eA>fadeIn<eB>0<eA>oneSongPerCycle<eB>0<eA>stopAtDeath<eB>0<eA>stopAtGate<eB>0<tA>multiUse<tB>0<tA>toCycle<tB>-1<tA>fromCycle<tB>1<tA>delay<tB>0<tA>panPos<tB>785.0501<tB>415.0068<tA>fireChance<tB>1<tA>entrance<tB>-1<tA>karma<tB>0<tA>slugcats<tB><tA>pos<tB>505.0501<tB>892.0066<tA>handlePos<tB>-473.3553<tB>-254.3553, 
 FadePalette: 15, 0.2391304, 0.2282609

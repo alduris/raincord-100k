@@ -4,6 +4,6 @@ Clouds: 0.1304348
 Grime: 0.25
 Palette: 12
 Effects: LightBurn-0.4891304-20-20, 
-PlacedObjects: LightSource><475.3061><467.7991><0.3913043~Environment~214~-83~50~86.60254~1~0~None~0~0, LightSource><869><455><0.326087~Environment~180~-69~50~86.60254~1~0~None~0~0, LightSource><675><469><0.326087~White~132~-57~50~86.60254~1~0~None~0~0, 
+PlacedObjects: LightSource><475.3061><467.7991><0.3913043~Environment~214~-83~50~86.60254~1~0~None~0~0, LightSource><869><455><0.326087~Environment~180~-69~50~86.60254~1~0~None~0~0, LightSource><675><469><0.326087~White~132~-57~50~86.60254~1~0~None~0~0, Peanut><746.3472><264.879><0~0~2~3~True~0.95~0.05, Peanut><433.6619><258.3826><0~0~2~3~True~0.95~0.05, Peanut><709.6571><265.6771><0~0~2~3~True~0.95~0.05, Raincord100k_SpawnSpot><627.553><240.7156><SH, 
 AmbientSounds: SPOT><AM_ENV-LightWind.ogg><751.0621><522.3186><0.326087><1><669.0621><613.3186><-97.35535><-57.35535><0><0.1652175, OMNI><AM_ENV-CityTone.ogg><754.8009><407.231><0.4565217><1, OMNI><SO_NAT-LilDrips.ogg><732.5875><236.6798><0.2934783><1, 
 FadePalette: 10, 0.7391304

@@ -9,4 +9,5 @@ Palette: 10
 EffectColorA: 0
 Effects: SunBlock-0-46-100, Darkness-0.8586956-72-143, Contrast-0-58-356, Desaturation-1-92-401, DarkenLights-0-55-127, WaterLights-0-341-438, GeyserFrequency-0-57-517, DirtyWater-0-0-0, InvertedWater-0-225-234, FireFlies-0.9456522-218-170, SkyBloom-0-319-348, LightBurn-0-433-587, ZeroG-0-320-204, DayNight-0-443-428, Fog-0.4565217-259-84, 
 PlacedObjects: Lantern><449.181><1288.415><88~88~4~9, LillyPuck><570.9153><94.61252><-23~113~2~3, LillyPuck><-200.9158><389.1814><37~-150~2~3, LillyPuck><682.3112><97.30957><-25~91~2~3, Raincord100k_PearlSpot><295.5657><1315.327><0~0~0~3, 
+Triggers: Spot<tA>event<tB>MusicEvent<eA>songName<eB>na_17 - dripping time<eA>vol<eB>0.767391<eA>prio<eB>0.5<eA>mxThrt<eB>1<eA>loop<eB>0<eA>droneTol<eB>0<eA>rooms<eB>-1<eA>rest<eB>5<eA>fadeIn<eB>0<eA>oneSongPerCycle<eB>0<eA>stopAtDeath<eB>0<eA>stopAtGate<eB>0<tA>multiUse<tB>0<tA>toCycle<tB>-1<tA>fromCycle<tB>0<tA>delay<tB>0<tA>panPos<tB>807.6904<tB>376.311<tA>fireChance<tB>1<tA>entrance<tB>3<tA>karma<tB>0<tA>slugcats<tB><tA>pos<tB>595.6904<tB>447.311<tA>handlePos<tB>-321.3553<tB>-273.3553, 
 FadePalette: 0, 0, 0

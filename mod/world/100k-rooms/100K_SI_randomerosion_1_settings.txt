@@ -6,6 +6,6 @@ Grime: 0.2173913
 Palette: 3
 EffectColorA: 11
 EffectColorB: 2
-Effects: SkyDandelions-0.6847826-20-20, Flies-0.25-108-93, SkyAndLightBloom-1-40-40, 
-PlacedObjects: InsectGroup><341.563><257.0708><36~149~0~0~TinyDragonFly~0.6195652, FirecrackerPlant><654.5627><214.3204><0~0~2~3, FirecrackerPlant><347><175><0~0~2~3, FirecrackerPlant><376><168><0~0~2~3, FirecrackerPlant><84><315><0~0~2~3, FirecrackerPlant><118><293><0~0~2~3, Raincord100k_SpawnSpot><538.4222><341.9343><SI, 
+Effects: SkyDandelions-0.6847826-321-37, Flies-0.25-45-93, SkyAndLightBloom-1-40-40, 
+PlacedObjects: InsectGroup><341.563><257.0708><36~149~0~0~SITinyDragonfly~0.6195652, FirecrackerPlant><654.5627><214.3204><0~0~2~3, FirecrackerPlant><347><175><0~0~2~3, FirecrackerPlant><376><168><0~0~2~3, FirecrackerPlant><84><315><0~0~2~3, FirecrackerPlant><118><293><0~0~2~3, Raincord100k_SpawnSpot><538.4222><341.9343><SI, 
 FadePalette: 2, 0.5652174

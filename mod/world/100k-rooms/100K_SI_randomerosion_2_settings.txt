@@ -10,4 +10,5 @@ EffectColorA: 10
 EffectColorB: 2
 Effects: SkyDandelions-0.6304348-20-20, Flies-0.3695652-77-70, SkyBloom-0.6847826-30-30, 
 PlacedObjects: SeedCob><1536.741><1420.95><-286~-147~3~19, DeadSeedCob><1179.301><1262.52><, SeedCob><1744><1173><-281~211~3~19, DeadSeedCob><1480.175><929.1527><, DeadSeedCob><2305.189><1005.265><, WaterFallDepth><393.823><354.1568><0~100~1~0.5~0.2~S~0~0, Raincord100k_PearlSpot><1319.74><1028.3><0~0~0~3, Raincord100k_PearlSpot><413.6989><1168.521><0~0~0~3, 
+Triggers: Spot<tA>event<tB>MusicEvent<eA>songName<eB>na_23 - speaking systems<eA>vol<eB>1<eA>prio<eB>0.4347826<eA>mxThrt<eB>1<eA>loop<eB>0<eA>droneTol<eB>0<eA>rooms<eB>-1<eA>rest<eB>5<eA>fadeIn<eB>0<eA>oneSongPerCycle<eB>0<eA>stopAtDeath<eB>0<eA>stopAtGate<eB>0<tA>multiUse<tB>0<tA>toCycle<tB>-1<tA>fromCycle<tB>0<tA>delay<tB>0<tA>panPos<tB>734.6445<tB>430.1382<tA>fireChance<tB>1<tA>entrance<tB>-1<tA>karma<tB>0<tA>slugcats<tB><tA>pos<tB>1552.645<tB>658.1382<tA>handlePos<tB>-554.3553<tB>-529.3553, 
 FadePalette: 18, 0.1630435, 0.1195652, 0.1630435, 0.1413043, 0.1630435, 0.08695652

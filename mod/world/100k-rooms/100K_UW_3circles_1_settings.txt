@@ -10,6 +10,7 @@ EffectColorB: 6
 Effects: Fog-0-273.7943-282.234, PixelShift-0.5045478-271.383-208.0851, AboveCloudsView-0.5151092-278.617-127.9078, DayNight-0.8059669-267.766-44.11348, 
 PlacedObjects: KarmaFlower><491.1953><185.6756><0~0~5~7, DayNightSettings><-59.31923><493.4921><-34.78722~68.94385~3~33, 
 AmbientSounds: OMNI><AM_ENV-LightWind.ogg><557.6416><578.1543><0.2051345><0.9056429, OMNI><AM_ENV-NatWind.ogg><755.1125><584.9083><0.209683><1, SPOT><AM_ENV-LightWind.ogg><42.37494><443.2005><0.5><1><562.928><676.449><-0.9934082><-597.1993><0><0.1262097, SPOT><AM_ENV-NatWind.ogg><226.0226><445.6577><0.5><1><553.0651><675.8918><-1.596497><-596.5964><0><0.1262104, SPOT><AM_IND-DeepHum.ogg><409.0486><444.4002><0.2510021><1><1518.957><335.8399><-27.51843><-28.72415><0><0.1262104, 
+Triggers: Spot<tA>event<tB>MusicEvent<eA>songName<eB>bm_uw_upperwall<eA>vol<eB>0.3<eA>prio<eB>0.4347826<eA>mxThrt<eB>1<eA>loop<eB>0<eA>droneTol<eB>0<eA>rooms<eB>-1<eA>rest<eB>5<eA>fadeIn<eB>0<eA>oneSongPerCycle<eB>0<eA>stopAtDeath<eB>0<eA>stopAtGate<eB>0<tA>multiUse<tB>0<tA>toCycle<tB>-1<tA>fromCycle<tB>0<tA>delay<tB>0<tA>panPos<tB>975.1994<tB>469.2343<tA>fireChance<tB>1<tA>entrance<tB>-1<tA>karma<tB>0<tA>slugcats<tB><tA>pos<tB>598.1994<tB>231.2343<tA>handlePos<tB>-176.3553<tB>-184.3553, 
 FadePalette: 42, 0, 0
 WetTerrain: OFF
 BackgroundOffset: 0,-1195.652

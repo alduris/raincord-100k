@@ -6,4 +6,5 @@ Palette: 10
 EffectColorA: 19
 EffectColorB: 21
 PlacedObjects: LightFixture><614.8305><1430.683><RedLight~234.3206~-277~56, LightFixture><-276.8419><1259.628><RedLight~-140.6795~-164~39, LightFixture><-295.1703><1258.355><RedLight~-123.6795~-142~91, LightFixture><511.1673><889.3598><RedLight~115.3205~-14~94, LightFixture><500.3068><545.1985><RedLight~326.3205~-93~39, 
+Triggers: RegionBump<tA>event<tB>MusicEvent<eA>songName<eB>bm_sb_filter<eA>vol<eB>0.5282612<eA>prio<eB>0.5<eA>mxThrt<eB>1<eA>loop<eB>0<eA>droneTol<eB>0<eA>rooms<eB>-1<eA>rest<eB>5<eA>fadeIn<eB>0<eA>oneSongPerCycle<eB>0<eA>stopAtDeath<eB>0<eA>stopAtGate<eB>0<tA>multiUse<tB>0<tA>toCycle<tB>-1<tA>fromCycle<tB>0<tA>delay<tB>0<tA>panPos<tB>723.5578<tB>332.6948<tA>fireChance<tB>1<tA>entrance<tB>2<tA>karma<tB>0<tA>slugcats<tB>, 
 FadePalette: 0, 0, 0

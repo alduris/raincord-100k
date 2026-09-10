@@ -4,4 +4,5 @@ EffectColorA: 10
 EffectColorB: 2
 Effects: Flies-0.1195652-815-509, Moth-0.06521739-283-149, RockFlea-0.1195652-620-450, 
 PlacedObjects: DangleFruit><2932.589><1404.121><-165~-120~2~3, DangleFruit><2954.727><1386.199><0~0~2~3, DangleFruit><2783.147><1055.328><0~0~2~3, DangleFruit><2763.844><1064.323><0~0~2~3, DangleFruit><327.3906><1376.833><0~0~2~3, DangleFruit><831.916><1375.386><0~0~2~3, DangleFruit><305.4497><1406.511><0~0~2~3, CustomDecal><3132.809><192.5594><-3~253~124~256~123~-4~-30~120~0~1~0~boxheads~0.7934783~0~0.5~0~0.5~0~0.5~0, 
+Triggers: Rect<tA>event<tB>MusicEvent<eA>songName<eB>rw_79 - overcast<eA>vol<eB>0.3<eA>prio<eB>0.5<eA>mxThrt<eB>1<eA>loop<eB>0<eA>droneTol<eB>0<eA>rooms<eB>-1<eA>rest<eB>5<eA>fadeIn<eB>0<eA>oneSongPerCycle<eB>0<eA>stopAtDeath<eB>0<eA>stopAtGate<eB>0<tA>multiUse<tB>0<tA>toCycle<tB>-1<tA>fromCycle<tB>0<tA>delay<tB>0<tA>panPos<tB>644.1268<tB>385.8425<tA>fireChance<tB>1<tA>entrance<tB>-1<tA>karma<tB>0<tA>slugcats<tB><tA>handle1<tB>403.1268<tB>109.8425<tA>handle2<tB>2604.127<tB>1505.843, 
 FadePalette: 15, 0.1847826, 0.1521739, 0.1413043, 0.1521739, 0.1521739, 0.173913

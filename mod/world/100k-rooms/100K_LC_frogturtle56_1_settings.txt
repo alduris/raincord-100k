@@ -1,4 +1,4 @@
-Template: NONE
+Template: 100k_settingstemplate_lc-inside
 Palette: 29
 EffectColorA: 8
 EffectColorB: 0

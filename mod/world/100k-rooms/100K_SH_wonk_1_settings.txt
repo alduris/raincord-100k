@@ -2,4 +2,5 @@ Template: NONE
 Palette: 10
 Effects: LightBurn-0.2717391-20-20, BkgOnlyLightning-0.5-170-145, FireFlies-0.3043478-104-86, 
 PlacedObjects: FlareBomb><237.6216><291.6533><11~78~2~3, FlareBomb><339.8345><267.1377><193~178~2~3, FlareBomb><6568.043><366.9453><37~198~2~3, FlareBomb><6724.3><374.2367><33~78~2~3, NoSpearStickZone><106.1891><257.435><3~84, NoSpearStickZone><-3.051392><321.0237><0~100, NoSpearStickZone><12116.61><286.9176><0~100, Raincord100k_PearlSpot><8863.791><642.8047><0~0~0~3, Raincord100k_PearlSpot><8443.936><622.0704><0~0~0~3, 
+Triggers: Spot<tA>event<tB>MusicEvent<eA>songName<eB>bm_sh_crypts<eA>vol<eB>1<eA>prio<eB>0.5<eA>mxThrt<eB>1<eA>loop<eB>0<eA>droneTol<eB>0<eA>rooms<eB>-1<eA>rest<eB>5<eA>fadeIn<eB>0<eA>oneSongPerCycle<eB>0<eA>stopAtDeath<eB>0<eA>stopAtGate<eB>0<tA>multiUse<tB>0<tA>toCycle<tB>-1<tA>fromCycle<tB>0<tA>delay<tB>0<tA>panPos<tB>701.5925<tB>267.3732<tA>fireChance<tB>1<tA>entrance<tB>0<tA>karma<tB>0<tA>slugcats<tB><tA>pos<tB>195.5925<tB>235.3732<tA>handlePos<tB>-81.35535<tB>-71.35535, 
 FadePalette: 9, 0.11, 0.11, 0.12, 0.12, 0.13, 0.13, 0.14, 0.14, 0.15, 0.15, 0.16, 0.16
