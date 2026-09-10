@@ -35,7 +35,9 @@
   "tags": [
     "Regions",
     "Campaigns",
-    "Custom Slugcat"
+    "Custom Slugcat",
+    "Watcher",
+    "Downpour"
   ],
   "checksum_override_version": false
 }
