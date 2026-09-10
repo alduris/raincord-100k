@@ -1,8 +1,8 @@
 {
   "WorkshopID": 3799025320,
   "LatestGameVersion": "v1.11.8",
-  "UpdateTitle": true,
-  "UpdateDescription": true,
+  "UpdateTitle": false,
+  "UpdateDescription": false,
   "Visibility": 0,
   "Tags": [
     "Regions",
