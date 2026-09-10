@@ -40,6 +40,7 @@ namespace Raincord100k
                 ShelterHooks.Apply();
                 SpawnSpotHooks.Apply();
                 TokenCacheHooks.Apply();
+                WarpHooks.Apply();
                 WorldHooks.Apply();
             }
             catch (Exception e)
