@@ -12,5 +12,5 @@ Palette: 4
 EffectColorA: 18
 EffectColorB: 18
 PlacedObjects: Raincord100k_PearlSpot><1852.414><277.8196><0~0~0~3, Raincord100k_SpawnSpot><841.0583><282.5587><UG, 
-Triggers: RegionBump<tA>event<tB>MusicEvent<eA>songName<eB>rw_81 - breathing hyometer<eA>vol<eB>0.7891302<eA>prio<eB>0.5<eA>mxThrt<eB>1<eA>loop<eB>0<eA>droneTol<eB>0<eA>rooms<eB>-1<eA>rest<eB>5<eA>fadeIn<eB>0<eA>oneSongPerCycle<eB>0<eA>stopAtDeath<eB>0<eA>stopAtGate<eB>0<tA>multiUse<tB>0<tA>toCycle<tB>-1<tA>fromCycle<tB>0<tA>delay<tB>0<tA>panPos<tB>748.9773<tB>331.1987<tA>fireChance<tB>1<tA>entrance<tB>0<tA>karma<tB>0<tA>slugcats<tB>, 
+Triggers: RegionBump<tA>event<tB>MusicEvent<eA>songName<eB>rw_81 - breathing hyometer<eA>vol<eB>0.315652<eA>prio<eB>0.5<eA>mxThrt<eB>1<eA>loop<eB>0<eA>droneTol<eB>0<eA>rooms<eB>-1<eA>rest<eB>5<eA>fadeIn<eB>0<eA>oneSongPerCycle<eB>0<eA>stopAtDeath<eB>0<eA>stopAtGate<eB>0<tA>multiUse<tB>0<tA>toCycle<tB>-1<tA>fromCycle<tB>0<tA>delay<tB>0<tA>panPos<tB>748.9773<tB>331.1987<tA>fireChance<tB>1<tA>entrance<tB>0<tA>karma<tB>0<tA>slugcats<tB>, 
 FadePalette: 11, 0.4021739, 0.4565217, 0.5

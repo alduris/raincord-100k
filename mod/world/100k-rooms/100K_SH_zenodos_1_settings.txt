@@ -5,5 +5,5 @@ Grime: 0
 Palette: 10
 Effects: Flies-0.1304348-22-129, 
 AmbientSounds: OMNI><Weird Deep Hole.wav><691.0977><513.3704><0.06521739><1, OMNI><AM_IND-Utility01.ogg><481.0522><567.72><0.2608696><0.5695652, 
-Triggers: Spot<tA>event<tB>MusicEvent<eA>songName<eB>na_08 - dark sus<eA>vol<eB>0.7891302<eA>prio<eB>0.4347826<eA>mxThrt<eB>1<eA>loop<eB>0<eA>droneTol<eB>0<eA>rooms<eB>-1<eA>rest<eB>5<eA>fadeIn<eB>0<eA>oneSongPerCycle<eB>0<eA>stopAtDeath<eB>0<eA>stopAtGate<eB>0<tA>multiUse<tB>0<tA>toCycle<tB>-1<tA>fromCycle<tB>0<tA>delay<tB>0<tA>panPos<tB>734.5714<tB>408.84<tA>fireChance<tB>1<tA>entrance<tB>-1<tA>karma<tB>0<tA>slugcats<tB><tA>pos<tB>1204.571<tB>485.84<tA>handlePos<tB>856.645<tB>-103.3553, 
+Triggers: Spot<tA>event<tB>MusicEvent<eA>songName<eB>na_08 - dark sus<eA>vol<eB>0.315652<eA>prio<eB>0.4347826<eA>mxThrt<eB>1<eA>loop<eB>0<eA>droneTol<eB>0<eA>rooms<eB>-1<eA>rest<eB>5<eA>fadeIn<eB>0<eA>oneSongPerCycle<eB>0<eA>stopAtDeath<eB>0<eA>stopAtGate<eB>0<tA>multiUse<tB>0<tA>toCycle<tB>-1<tA>fromCycle<tB>0<tA>delay<tB>0<tA>panPos<tB>734.5714<tB>408.84<tA>fireChance<tB>1<tA>entrance<tB>-1<tA>karma<tB>0<tA>slugcats<tB><tA>pos<tB>1204.571<tB>485.84<tA>handlePos<tB>856.645<tB>-103.3553, 
 FadePalette: 0, 0.1086956, 0.1304348
