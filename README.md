@@ -55,6 +55,7 @@ Have fun!! :monksilly:
 * ChromaticalBlight
 * Clapom
 * CocoaRaptor
+* crafterz_
 * CreativeGamer03
 * Crimsont04
 * Dakras
@@ -126,7 +127,6 @@ Have fun!! :monksilly:
 * Pykrite
 * RandomDirection
 * Rbor
-* refr_catz
 * Reincarnid
 * Renz
 * RolinGP3

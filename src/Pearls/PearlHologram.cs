@@ -233,6 +233,7 @@ namespace Raincord100k.Pearls
             s = s.Replace("<CAPPLAYERNAME>", upperName);
             s = s.Replace("<PlayerName>", lowerName);
             s = s.Replace("<CapPlayerName>", upperName);
+            s = s.Replace("<Line>", "\n"); // weird case someone left in that I didn't catch before encrypting the files lol
 
             return s;
         }

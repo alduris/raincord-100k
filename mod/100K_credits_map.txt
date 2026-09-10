@@ -20,7 +20,7 @@ chromaticalblight : ChromaticalBlight
 clapom : Clapom
 cocoaraptor : CocoaRaptor
 complexcity : Complex_City
-crafterz : refr_catz
+crafterz : crafterz
 creativegamer03 : CreativeGamer03
 crimsont04 : Crimsont04
 cyrusfang : Cy
