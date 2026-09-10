@@ -99,7 +99,7 @@ ROOMS
 100K_LF_totallydutch_1 : 100K_LF_myrmice_1, 100K_LF_tapok109_1, 100K_LF_chromaticalblight_1
 100K_LM_av3ry_1 : 100K_SL_memorycrypts_1, 100K_LM_av3ry_3, 100K_LM_av3ry_4, 100K_LM_av3ry_2
 100K_LM_av3ry_2 : 100K_LM_av3ry_5, 100K_LM_av3ry_1
-100K_LM_av3ry_3 : 100K_LM_av3ry_1
+100K_LM_av3ry_3 : 100K_LM_av3ry_1 : SHELTER
 100K_LM_av3ry_4 : 100K_LM_av3ry_5, 100K_LM_av3ry_1
 100K_LM_av3ry_5 : 100K_LM_av3ry_2, 100K_LM_av3ry_4
 100K_LM_av3ry_6 : DISCONNECTED, DISCONNECTED, 100K_DM_fatalerror404_1
@@ -346,11 +346,11 @@ LINEAGE : 100K_HI_katolato_1 : 3 : NONE-1, PinkLizard-0.2, BlueLizard-0.5, Hunte
 LINEAGE : 100K_HI_katolato_1 : 5 : NONE-1, NONE-1, NONE-0.2, DropBug-0.2, BigSpider-0.5, SpitterSpider-0
 LINEAGE : 100K_HI_katolato_1 : 2 : NONE-0.5, WhiteLizard-0.2, HunterSeeker-0
 100K_HI_haysen_1 : 4-GreenLizard, 3-PinkLizard
-100K_HI_ethanwantsfood_1 : 5-WhiteLizard
-100K_HI_lkelly10_1 : 3-PinkLizard, 8-Centipede-2, 7-SmallCentipede-2, 9-GreenLizard, 4-Cicada-2
+100K_HI_ethanwantsfood_1 : 5-WhiteLizard, 4-DropBug
+100K_HI_lkelly10_1 : 3-PinkLizard, 8-Centipede-2, 7-SmallCentipede-2, 9-GreenLizard, 4-Cicada-2, 10-GreenLizard
 100K_HI_irri_1 : 3-Snail-2
 LINEAGE : 100K_HI_dedniko_1 : 2 : NONE-1, NONE-1, NONE-0.3, PoleMimic-{10}-1, PoleMimic-{12}-1, NONE-0.1, Denture-0
-100K_HI_lunatav_1 : 4-Cicada-2, 5-BigNeedleWorm, 5-SmallNeedleWorm-2, 7-BlueLizard-2, 8-CyanLizard
+100K_HI_lunatav_1 : 4-Cicada-2, 5-BigNeedleWorm, 5-SmallNeedleWorm-2, 7-BlueLizard-2
 LINEAGE : 100K_SH_haysen_1 : 9 : LanternMouse-0.4, NONE-0.6, FirecrackerMouse-0
 100K_SH_chromaticalblight_1 : 3-LanternMouse-2
 100K_SH_zenodos_1 : 4-BlackLizard-4
@@ -363,21 +363,21 @@ LINEAGE : 100K_SH_katolato_1 : 3 : BigSpider-0.2, MotherSpider-0.4, SpitterSpide
 LINEAGE : 100K_SH_acquaintedfowl_1 : 2 : LanternMouse-0.5, LanternMouse-0.5, FirecrackerMouse-0
 LINEAGE : 100K_SH_haysen_1 : 8 : LanternMouse-0.4, NONE-0.6, FirecrackerMouse-0
 LINEAGE : 100K_SH_haysen_1 : 7 : LanternMouse-0.4, NONE-0.6, FirecrackerMouse-0
-100K_SH_dragonpropaganda_1 : 4-LanternMouse-2
+100K_SH_dragonpropaganda_1 : 4-LanternMouse-2, 4-BigChromafly, 4-SmallChromafly-3
 100K_SH_memorycrypts_2 : 4-PinkLizard
 LINEAGE : 100K_SH_dragonpropaganda_1 : 5 : NONE-1, BlackLizard-0.5, BlackLizard-{Mean:0.5}-0
-100K_CL_tankium_1 : 6-LanternMouse
+100K_CL_tankium_1 : 6-LanternMouse-2
 LINEAGE : 100K_SH_chromaticalblight_1 : 4 : NONE-0.2, BlackLizard-0
 100K_SH_lipuccka_1 : 5-TentaclePlant, 3-SmallCentipede-3
 100K_SH_pykrite_1 : 4-LanternMouse-2
 LINEAGE : 100K_SH_pykrite_1 : 5 : BigSpider-0.3, BigSpider-0.3, NONE-0.5, SpitterSpider-0
-100K_HI_erm424242_1 : 2-BlueLizard
+100K_HI_erm424242_1 : 2-BlueLizard-2
 100K_HI_lipuccka_1 : 4-Centipede, 4-SmallCentipede-2
 100K_HI_creativegamer03_1 : 4-PinkLizard, 4-BlueLizard-2
 LINEAGE : 100K_HI_tapok109_1 : 3 : NONE-1, GreenLizard-0.4, Caramel-0.6, MarmaladeLizard-0.2, RedLizard-0
 100K_HI_solaristheworstcatever_1 : 2-PinkLizard
 LINEAGE : 100K_HI_lunatav_1 : 6 : NONE-0.1, NONE-0.1, NONE-0.1, NoodleEater-1, NONE-0
-100K_GW_wrayk_1 : 6-PinkLizard, 7-PinkLizard, 9-BlueLizard-2, 3-WhiteLizard, 8-Cicada-3, 5-TintedBeetle, 5-Tailfly-2
+100K_GW_wrayk_1 : 6-PinkLizard-2, 7-PinkLizard, 9-BlueLizard-2, 3-WhiteLizard, 8-Cicada-3, 5-TintedBeetle, 5-Tailfly-2, 7-WhiteLizard
 LINEAGE : 100K_GW_wrayk_1 : 11 : NONE-1, NONE-0.1, NONE-0.1, NONE-0.1, Bro-0
 LINEAGE : 100K_GW_alduris_1 : 3 : SmallCentipede-1, SmallCentipede-0.8, NONE-0.5, Centipede-{0.7}-0.4, Centipede-{1}-0.6, RedCentipede-0
 100K_GW_alduris_1 : 4-SmallCentipede
@@ -385,20 +385,20 @@ LINEAGE : 100K_GW_alduris_1 : 3 : SmallCentipede-1, SmallCentipede-0.8, NONE-0.5
 LINEAGE : 100K_GW_solaristheworstcatever_1 : 3 : Snail-0.5, bob-0
 LINEAGE : 100K_GW_wrayk_1 : 4 : NONE-0.5, DropBug-0
 LINEAGE : 100K_GW_tapok109_1 : 2 : NONE-1, NONE-0.1, MamaBug-0.9, MarmaladeLizard-0
-100K_GW_slithersss_1 : 4-Leech-4, 5-Leech-4, 3-CicadaA, 2-CicadaB
+100K_GW_slithersss_1 : 4-Leech-4, 5-Leech-4, 3-CicadaA, 2-CicadaB-2
 100K_GW_detrax_1 : 6-Leech-8, 5-SurfaceSwimmer-2
 LINEAGE : 100K_SL_aprilistheworstmonth_1 : 5 : NONE-0.1, NONE-0.1, Salamander-0.2, Eel-0
-100K_SL_haysen_1 : 6-TentaclePlant, 4-JetFish, 7-JetFish, 4-SeaLeech-6, 5-SeaLeech-6, 6-SeaLeech-8, 3-Salamander
+100K_SL_haysen_1 : 6-TentaclePlant, 4-JetFish, 7-JetFish-3, 4-SeaLeech-6, 5-SeaLeech-6, 6-SeaLeech-8, 3-Salamander-2
 100K_SL_kebasnaek_1 : 2-Leech-4, 3-Leech-4
 100K_SL_alduris_1 : 16-JetFish, 10-WhiteLizard
 100K_SL_nimble102_1 : 6-Leech-6
 LINEAGE : 100K_SL_nimble102_1 : 5 : NONE-0.4, TentaclePlant-0
 100K_VS_izunachan_1 : 6-JetFish, 7-Salamander
-100K_VS_dragonly44_1 : 5-Centipede, 8-Centipede, 10-SmallCentipede-2
+100K_VS_dragonly44_1 : 5-Centipede-2, 8-Centipede-2, 10-SmallCentipede-2, 5-SmallCentipede-2, 7-Centipede-3
 LINEAGE : 100K_VS_dragonly44_1 : 11 : Centipede-0.5, Centipede-{1}-0.5, RedCentipede-0
-100K_VS_wonk_1 : 4-BlueLizard
+100K_VS_wonk_1 : 4-BlueLizard, 5-Centipede, 6-SmallCentipede-2
 100K_VS_inspectnerd_1 : 5-Centipede
-100K_VS_nimble102_1 : 4-BlueLizard, 3-WhiteLizard
+100K_VS_nimble102_1 : 4-BlueLizard, 3-WhiteLizard, 5-TintedBeetle-2
 LINEAGE : 100K_DS_overpoweredpizza_1 : 8 : Snail-0.5, bob-0
 100K_DS_overpoweredpizza_1 : 9-Leech-8, 6-Salamander, 7-Snail-3, 4-Salamander
 100K_DS_iyonkoi_1 : 2-Leech-5
@@ -406,13 +406,13 @@ LINEAGE : 100K_DS_overpoweredpizza_1 : 8 : Snail-0.5, bob-0
 100K_DS_tryn1010_1 : 5-Salamander
 100K_DS_tnthalflife32_1 : 2-Snail-3, 2-Salamander
 LINEAGE : 100K_DS_tnthalflife32_1 : 2 : NONE-0.1, NONE-0.1, NONE-0.1, TentaclePlant-0.9, bob-0
-100K_GW_wonk_1 : 4-SurfaceSwimmer, 3-GreenLizard
+100K_GW_wonk_1 : 4-SurfaceSwimmer, 3-BigNeedleWorm, 3-SmallNeedleWorm-3
 LINEAGE : 100K_HI_lkelly10_1 : 6 : TintedBeetle-0.3, ThornBug-0
 100K_HI_katolato_2 : 3-PinkLizard
-100K_LM_av3ry_5 : 2-CyanLizard, 3-BlueLizard, 5-BlueLizard, 4-Tailfly-2, 3-WhiteLizard
+100K_LM_av3ry_5 : 2-CyanLizard, 3-BlueLizard, 5-BlueLizard-2, 4-Tailfly-2, 3-WhiteLizard-2
 LINEAGE : 100K_LM_av3ry_1 : 5 : NONE-0.5, Eel-0.5
-100K_LM_av3ry_1 : 6-Leech-8
-100K_DM_fatalerror404_1 : 15-YellowLizard-2, 14-MotherSpider-2, 13-BlueLizard
+100K_LM_av3ry_1 : 6-Leech-8, 4-Cicada-2
+100K_DM_fatalerror404_1 : 15-YellowLizard-2, 14-MotherSpider-2, 13-BlueLizard-2, 13-WhiteLizard, 11-BigSpider-3
 LINEAGE : 100K_DM_fatalerror404_1 : 17 : YellowLizard-0.5, AlphaOrange-0
 100K_LM_av3ry_6 : 3-BlueLizard
 100K_MS_maxthelord_1 : 4-JetFish, 3-Eel
@@ -424,17 +424,17 @@ LINEAGE : 100K_DM_fatalerror404_1 : 17 : YellowLizard-0.5, AlphaOrange-0
 LINEAGE : 100K_DS_slithersss_1 : 3 : NONE-0.5, Salamander-0.5, Eel-0
 100K_SB_iyonkoi_1 : 2-Centipede-2, 2-SmallCentipede-3
 LINEAGE : 100K_SB_flanace_1 : 4 : NONE-1, GreenLizard-0.6, GreenLizard-{Mean:1}-0.6, MarmaladeLizard-{Mean:0.5}-0.2, Caramel-{Mean:0.5}-0.6, RedLizard-0
-100K_SB_gamerguy35_1 : 10-BlackLizard, 13-BlackLizard, 14-BlackLizard, 8-BlackLizard
+100K_SB_gamerguy35_1 : 10-BlackLizard-2, 13-BlackLizard, 14-BlackLizard, 8-BlackLizard
 100K_SB_tankium_1 : 5-BlackLizard, 4-BlackLizard
-100K_HR_dragonpropaganda_1 : 8-CyanLizard-{Voidsea}
+100K_HR_dragonpropaganda_1 : 8-CyanLizard-{Voidsea}, 4-FireBug-{Lavasafe}
 LINEAGE : 100K_HR_dragonpropaganda_1 : 6 : NONE-1, CyanLizard-{Voidsea}-0.5
-100K_HR_flanace_1 : 5-CyanLizard-{Voidsea}
+100K_HR_flanace_1 : 5-CyanLizard-{Voidsea}, 4-FireBug-{Lavasafe}
 100K_OE_rbor_1 : 4-Cicada-2, 3-WhiteLizard
 100K_OE_katolato_1 : 5-PinkLizard, 6-TentaclePlant, 7-JungleLeech-6, 3-CicadaB-3, 3-SurfaceSwimmer-2
 100K_OE_novatheskeledragon_1 : 5-BigNeedleWorm, 5-SmallNeedleWorm-3, 7-MamaBug-2
 100K_OE_kemkemkemkemkemkem_1 : 2-Yeek-5
 LINEAGE : 100K_OE_novatheskeledragon_1 : 6 : GreenLizard-0.4, Caramel-0
-100K_SB_ethanwantsfood_1 : 2-Centipede, 3-Centipede
+100K_SB_ethanwantsfood_1 : 2-Centipede-2, 3-Centipede
 100K_SB_alduris_1 : 7-Centipede, 8-BlueLizard-2
 100K_DS_dragonpropaganda_1 : 3-Leech-7, 2-Salamander, 5-Leech-11, 4-Snail-3
 100K_DS_zenodos_1 : 2-GreenLizard, 4-Snail, 5-Snail
@@ -449,23 +449,22 @@ LINEAGE : 100K_LF_slithersss_1 : 4 : NONE-1, BlueLizard-0.5, WhiteLizard-0.2, Ma
 100K_LF_alduris_1 : 7-Centipede
 100K_LF_tapok109_1 : 3-SmallCentipede-2
 LINEAGE : 100K_LF_ariesclient_1 : 4 : MiniScutigera-1, NONE-0
-100K_SI_bismuthnebula_1 : 2-CicadaB-2
 100K_SI_katolato_1 : 3-DropBug
-100K_SI_anubisrah_1 : 5-EggBug
+100K_SI_anubisrah_1 : 5-EggBug, 5-Centiwing
 100K_SI_gabkai11_1 : 4-CicadaA-2, 3-CicadaB-3, 4-Centiwing-2, 3-WhiteLizard
 100K_SI_randomerosion_2 : 2-Centiwing-2
 LINEAGE : 100K_SI_randomerosion_1 : 2 : WhiteLizard-0.5, WhiteLizard-{Mean:0.5}-0.5, HunterSeeker-0.5
-100K_SI_haysen_1 : 5-BlueLizard, 2-CicadaA
+100K_SI_haysen_1 : 5-BlueLizard, 2-CicadaA, 4-Centiwing
 100K_SI_randomerosion_3 : 4-BlueLizard
 LINEAGE : 100K_SI_randomerosion_3 : 5 : NONE-1, Centiwing-0.2, RedHorrorCenti-0
 LINEAGE : 100K_SI_anubisrah_1 : 4 : NONE-0.1, NONE-0.1, CyanLizard-0
 100K_SI_iyonkoi_1 : 3-Centipede, 3-SmallCentipede-2, 2-Centipede
 LINEAGE : 100K_SI_novatheskeledragon_1 : 8 : NONE-1, PoleMimic-{20}-0
 LINEAGE : 100K_SI_novatheskeledragon_1 : 9 : NONE-1, PoleMimic-{24}-0
-100K_SI_novatheskeledragon_1 : 5-Centiwing
+100K_SI_novatheskeledragon_1 : 5-Centiwing, 6-PoleMimic-{8}
 LINEAGE : 100K_SI_novatheskeledragon_1 : 7 : NONE-1, BlueLizard-0.4, BlueLizard-{Mean:0.5}-0.6, HunterSeeker-0
 LINEAGE : 100K_CC_hobart_1 : 3 : NONE-1, PinkLizard-0.4, BlueLizard-0.2, WhiteLizard-0.4, RedLizard-0
-100K_CC_gamerguy35_1 : 6-WhiteLizard
+100K_CC_gamerguy35_1 : 6-WhiteLizard, 2-BlueLizard, 3-WhiteLizard
 100K_CC_rostik630uwu_1 : 3-PinkLizard-2, 2-BlueLizard
 100K_CC_dragonpropaganda_1 : 4-BlueLizard, 4-WhiteLizard
 100K_CC_javadog64_1 : 2-CicadaA, 2-CicadaB
@@ -501,7 +500,7 @@ LINEAGE : 100K_WARG_crafterz_1 : 4 : BlueLizard-0.4, WhiteLizard-0.6, BlizzardLi
 100K_WARC_overpoweredpizza_1 : 5-Cicada-2, 7-Frog-2, 5-BigNeedleWorm
 LINEAGE : 100K_WARC_overpoweredpizza_1 : 6 : PinkLizard-0.4, BlueLizard-0.2, BasiliskLizard-0.6, BasiliskLizard-{RotType:1}-0.4, BasiliskLizard-{RotType:2}-0
 LINEAGE : 100K_WARC_overpoweredpizza_1 : 3 : BigSpider-0.4, BigSpider-0.4, NONE-0.2, SpitterSpider-0
-100K_WPTA_tronsx_1 : 5-YellowLizard, 6-YellowLizard, 8-ZoopLizard
+100K_WPTA_tronsx_1 : 5-YellowLizard, 6-YellowLizard-2, 8-ZoopLizard
 100K_WPTA_nimble102_1 : 4-DropBug, 6-EggBug
 100K_WVWA_hennyburgr_1 : 7-Leech-5, 8-Leech-5, 6-Leech-5
 LINEAGE : 100K_WVWA_hennyburgr_1 : 5 : NONE-0.3, Frog-0
@@ -520,5 +519,13 @@ LINEAGE : 100K_WTDB_thecubifyer_1 : 3 : NONE-1, GreenLizard-0.2, BlackLizard-0.5
 LINEAGE : 100K_WTDA_gonterhaoz_1 : 3 : NONE-1, BlueLizard-0
 100K_WBLA_inspectnerd_1 : 2-IndigoLizard
 LINEAGE : 100K_WBLA_thysi_1 : 4 : IndigoLizard-0.5, MarmaladeLizard-0.5
-OFFSCREEN : 0-Vulture, 0-KingVulture, 0-Vulture-2{NamedAttr:100kHI}, 0-Vulture-2{NamedAttr:100kCC}, 0-Vulture-3{NamedAttr:100kSI}, 0-Vulture-1{NamedAttr:100kLF}, 0-Vulture-2{NamedAttr:100kGW}, 0-Vulture-1{NamedAttr:100kSL}, 0-Vulture-1{NamedAttr:100kLM}, 0-MirosBird-5, 0-BigEel-1
+OFFSCREEN : 0-Vulture, 0-KingVulture, 0-Vulture-2{NamedAttr:100kHI}, 0-Vulture-2{NamedAttr:100kCC}, 0-Vulture-3{NamedAttr:100kSI}, 0-Vulture-1{NamedAttr:100kLF}, 0-Vulture-2{NamedAttr:100kGW}, 0-Vulture-1{NamedAttr:100kSL}, 0-Vulture-1{NamedAttr:100kLM}, 0-MirosBird-5, 0-BigEel-1, 0-Scavenger-30, 0-ScavengerTemplar-4, 0-ScavengerDisciple, 0-BigMoth-3, 0-SmallMoth-3
+100K_GW_haysen_1 : 4-WhiteLizard, 5-BlueLizard
+100K_SL_lwrcsv_1 : 3-SurfaceSwimmer
+LINEAGE : 100K_HI_lunatav_1 : 8 : WhiteLizard-0.4, CyanLizard-0.6, HunterSeeker-0
+100K_HI_wtfmagnimmepac3_1 : 2-Snail-2
+100K_HI_chlordeofmany_1 : 2-BlueLizard
+100K_CC_tronsx_1 : 8-WhiteLizard
+100K_CC_nimble102_1 : 6-BlueLizard
+100K_SI_bismuthnebula_1 : 2-CicadaB-2
 END CREATURES
