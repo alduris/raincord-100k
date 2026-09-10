@@ -10,6 +10,20 @@ A gallery region celebrating 100k members in the [Rain World Discord Server](htt
 * Custom object: the peanut! You'll find it occasionally throughout the regions.
 * Custom slugcat to explore with. It comes with a starting region picker and can read different readings of pearls without having to worry about iterators!
 
+### Requirements
+* Downpour DLC
+* Watcher DLC
+* [Custom Regions Support](https://github.com/Bro748/Custom-Regions)
+* [POM](https://github.com/Rain-World-Modding/POM)
+* [RegionKit](https://github.com/Rain-World-Modding/RegionKit)
+* Floodwaters Utilities
+* Chroma's Tools and Stuff
+* [Slugbase](https://github.com/SlimeCubed/SlugBaseRemix)
+* [Fisobs](https://github.com/Dual-Iron/fisobs)
+* [The M4rblelous Entity Pack](https://github.com/M4rbleL1ne/The-M4rblelous-Entity-Pack)
+* Alduris's Entity Pack
+* [FUtility](https://github.com/Rain-World-Modding/FUtility)
+
 ### Notes
 * Since this is a gallery region made by people of all sorts of experience levels, do not expect gameplay to be polished or looks to be coherent in any way. You have been warned. Please do not harass anyone involved in this region.
 * This region contains region spoilers for all campaigns in vanilla and all DLC (obviously).
