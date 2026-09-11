@@ -1,9 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-using Mono.Cecil.Cil;
+﻿using Mono.Cecil.Cil;
 using MonoMod.Cil;
 
 namespace Raincord100k.Hooks
@@ -19,7 +14,7 @@ namespace Raincord100k.Hooks
         {
             // Goal: increase update rate if 100K
 
-            const int numUpdates = 4; // should bring it more in line with other regions' update rates
+            const int numUpdates = 2;
 
             var c = new ILCursor(il);
 
