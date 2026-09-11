@@ -520,7 +520,7 @@ LINEAGE : 100K_WTDB_thecubifyer_1 : 3 : NONE-1, GreenLizard-0.2, BlackLizard-0.5
 LINEAGE : 100K_WTDA_gonterhaoz_1 : 3 : NONE-1, BlueLizard-0
 100K_WBLA_inspectnerd_1 : 2-IndigoLizard
 LINEAGE : 100K_WBLA_thysi_1 : 4 : IndigoLizard-0.5, MarmaladeLizard-0.5
-OFFSCREEN : 0-Vulture, 0-KingVulture, 0-Vulture-{NamedAttr:100k_HI_sky}-2, 0-Vulture-{NamedAttr:100k_CC_sky}-2, 0-Vulture-{NamedAttr:100k_SI_sky}-3, 0-Vulture-{NamedAttr:100k_LF_sky}-1, 0-Vulture-{NamedAttr:100k_GW_sky}-2, 0-Vulture-{NamedAttr:100k_SL_sky}-1, 0-Vulture-{NamedAttr:100k_LM_sky}-1, 0-Vulture-{NamedAttr:100k_WPTA_sky}-1, 0-MirosBird-5, 0-BigEel-1, 0-Scavenger-30, 0-ScavengerTemplar-4, 0-ScavengerDisciple, 0-BigMoth-3, 0-SmallMoth-3
+OFFSCREEN : 0-Vulture, 0-KingVulture, 0-Vulture-{NamedAttr:100k_HI_sky}-2, 0-Vulture-{NamedAttr:100k_CC_sky}-2, 0-Vulture-{NamedAttr:100k_SI_sky}-3, 0-Vulture-{NamedAttr:100k_LF_sky}-1, 0-Vulture-{NamedAttr:100k_GW_sky}-2, 0-Vulture-{NamedAttr:100k_SL_sky}-1, 0-Vulture-{NamedAttr:100k_LM_sky}-1, 0-Vulture-{NamedAttr:100k_WPTA_sky}-1, 0-MirosBird-5, 0-BigEel-1, 0-Scavenger-12, 0-ScavengerTemplar-4, 0-ScavengerDisciple, 0-BigMoth-3, 0-SmallMoth-3
 100K_GW_haysen_1 : 4-WhiteLizard, 5-BlueLizard
 100K_SL_lwrcsv_1 : 3-SurfaceSwimmer
 LINEAGE : 100K_HI_lunatav_1 : 8 : WhiteLizard-0.4, CyanLizard-0.6, HunterSeeker-0
