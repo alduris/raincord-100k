@@ -1,9 +1,5 @@
 ﻿using System;
-using System.Collections.Generic;
 using System.Linq;
-using System.Text;
-using System.Text.RegularExpressions;
-using System.Threading.Tasks;
 using DevInterface;
 using UnityEngine;
 
@@ -16,6 +12,19 @@ namespace Raincord100k.Hooks
             // Template picker
             On.DevInterface.RoomSettingsPage.ctor += RoomSettingsPage_ctor;
             On.DevInterface.SoundPage.ctor += SoundPage_ctor;
+
+            // Debug
+            On.DevInterface.RoomPanel.Update += RoomPanel_Update;
+        }
+
+        private static void RoomPanel_Update(On.DevInterface.RoomPanel.orig_Update orig, RoomPanel self)
+        {
+            bool lastMouseOver = self.lastMouseOver;
+            orig(self);
+            if (DebugScavengerMapper.Instance != null && !lastMouseOver && self.lastMouseOver)
+            {
+                self.Title += ", scav:" + DebugScavengerMapper.Instance.accessibleRooms.Contains(self.roomRep.room.name);
+            }
         }
 
         private static void RoomSettingsPage_ctor(On.DevInterface.RoomSettingsPage.orig_ctor orig, RoomSettingsPage self, DevUI owner, string IDstring, DevUINode parentNode, string name)
