@@ -11,6 +11,7 @@ namespace Raincord100k.Damoonlord.Peanut
         {
             Content.Register(new PeanutFisob());
             RegisterValues();
+            On.AbstractConsumable.IsTypeConsumable += AbstractConsumable_IsTypeConsumable;
             On.Room.Loaded += LoadPeanutToRoom;
             On.DevInterface.ObjectsPage.DevObjectGetCategoryFromPlacedType += PlaceInCategory;
             On.PlacedObject.GenerateEmptyData += GenerateEmptyData;
@@ -36,6 +37,11 @@ namespace Raincord100k.Damoonlord.Peanut
         {
             if (Peanut_Jump != null) { Peanut_Jump.Unregister(); Peanut_Jump = null; }
             if (PlacedPeanut != null) { PlacedPeanut.Unregister(); PlacedPeanut = null; }
+        }
+
+        private static bool AbstractConsumable_IsTypeConsumable(On.AbstractConsumable.orig_IsTypeConsumable orig, AbstractPhysicalObject.AbstractObjectType type)
+        {
+            return orig(type) || type == PeanutFisob.AbstractPeanut;
         }
 
         internal static ObjectsPage.DevObjectCategories PlaceInCategory(On.DevInterface.ObjectsPage.orig_DevObjectGetCategoryFromPlacedType orig, ObjectsPage self, PlacedObject.Type type)

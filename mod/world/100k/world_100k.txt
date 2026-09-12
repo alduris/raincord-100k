@@ -248,9 +248,9 @@ ROOMS
 100K_WARF_january_1 : 100K_WARE_zar4za_1
 100K_WARG_crafterz_1 : 100K_WARG_reincarnid_1, 100K_WARB_hallowfish_1
 100K_WARG_reincarnid_1 : 100K_WARG_crafterz_1, DISCONNECTED
-100K_WAUA_flanace_1 : 100K_WAUA_pur._1, 100K_WAUA_nopuddles_1
-100K_WAUA_nopuddles_1 : 100K_WAUA_pur._1, 100K_WAUA_flanace_1
-100K_WAUA_pur._1 : 100K_WAUA_nopuddles_1, 100K_WAUA_flanace_1, 100K_WRSA_wednesday77.648am_1, 100K_WAUA_alduris_1
+100K_WAUA_flanace_1 : 100K_WAUA_pur_1, 100K_WAUA_nopuddles_1
+100K_WAUA_nopuddles_1 : 100K_WAUA_pur_1, 100K_WAUA_flanace_1
+100K_WAUA_pur_1 : 100K_WAUA_nopuddles_1, 100K_WAUA_flanace_1, 100K_WRSA_wednesday77648am_1, 100K_WAUA_alduris_1
 100K_WBLA_greenca_1 : 100K_WBLA_thysi_2, 100K_WBLA_thysi_1
 100K_WBLA_inspectnerd_1 : 100K_WBLA_thysi_2, 100K_WTDA_gonterhaoz_1
 100K_WBLA_thysi_1 : DISCONNECTED, DISCONNECTED, 100K_WBLA_greenca_1, DISCONNECTED
@@ -261,7 +261,7 @@ ROOMS
 100K_WHIR_creativegamer03_1 : 100K_WHIR_creativegamer03_2, 100K_WSSR_ko5i_1, 100K_WSUR_novatheskeledragon_1, 100K_WGWR_creativegamer03_1
 100K_WHIR_creativegamer03_2 : 100K_WHIR_creativegamer03_1 : SHELTER
 100K_WORA_anubisrah_1 : 100K_WORA_kemkemkemkemkemkem_1, DISCONNECTED, 100K_WORA_draxiomatica_1, DISCONNECTED, DISCONNECTED, DISCONNECTED
-100K_WORA_dakras_1 : 100K_WRSA_wednesday77.648am_1, 100K_WORA_puffballcrafter_1
+100K_WORA_dakras_1 : 100K_WRSA_wednesday77648am_1, 100K_WORA_puffballcrafter_1
 100K_WORA_draxiomatica_1 : 100K_WORA_puffballcrafter_1, 100K_WORA_anubisrah_1
 100K_WORA_kemkemkemkemkemkem_1 : 100K_WORA_nopuddles_1, 100K_WORA_anubisrah_1
 100K_WORA_nopuddles_1 : 100K_WORA_kemkemkemkemkemkem_1, 100K_WGWR_creativegamer03_1
@@ -280,7 +280,7 @@ ROOMS
 100K_WRRA_0rchid_1 : 100K_WSKB_haizlbliek_1, 100K_WRFA_blobtic73391_1, 100K_WRRA_kemkemkemkemkemkem_1
 100K_WRRA_blobtic73391_1 : 100K_WRRA_kemkemkemkemkemkem_1, DISCONNECTED
 100K_WRRA_kemkemkemkemkemkem_1 : 100K_WRRA_0rchid_1, 100K_WRRA_blobtic73391_1
-100K_WRSA_wednesday77.648am_1 : 100K_WAUA_pur._1, 100K_WORA_dakras_1
+100K_WRSA_wednesday77648am_1 : 100K_WAUA_pur_1, 100K_WORA_dakras_1
 100K_WSKB_haizlbliek_1 : 100K_WSKD_scoutriley_1, DISCONNECTED, 100K_WRRA_0rchid_1, 100K_WRFA_blobtic73391_1
 100K_WSKC_forthfora_1 : 100K_WSKD_scoutriley_1, 100K_WSKX_alduris_1
 100K_WSKD_scoutriley_1 : 100K_WSKC_forthfora_1, 100K_WSKB_haizlbliek_1
@@ -311,7 +311,7 @@ ROOMS
 100K_VS_av3ry_1 : 100K_VS_inspectnerd_1 : SHELTER
 100K_SL_alduris_2 : 100K_SL_alduris_1 : SHELTER
 100K_SB_alduris_2 : 100K_SB_slithersss_1 : SHELTER
-100K_WAUA_alduris_1 : 100K_WAUA_pur._1 : SHELTER
+100K_WAUA_alduris_1 : 100K_WAUA_pur_1 : SHELTER
 100K_WTDB_alduris_3 : 100K_WTDB_alduris_2 : SHELTER
 100K_GW_damoonlord_2 : 100K_GW_january_1 : SHELTER
 100K_HI_damoonlord_2 : 100K_HI_ethanwantsfood_1 : SHELTER

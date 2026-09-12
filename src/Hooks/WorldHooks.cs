@@ -8,16 +8,6 @@ namespace Raincord100k.Hooks
         internal static void Apply()
         {
             IL.RainWorldGame.Update += RainWorldGame_Update;
-            On.World.ctor += World_ctor;
-        }
-
-        private static void World_ctor(On.World.orig_ctor orig, World self, RainWorldGame game, Region region, string name, bool singleRoomWorld)
-        {
-            orig(self, game, region, name, singleRoomWorld);
-            if (self.name == "100K")
-            {
-                self.AddWorldProcess(new DebugScavengerMapper(self));
-            }
         }
 
         private static void RainWorldGame_Update(ILContext il)
