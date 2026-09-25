@@ -1,16 +1,15 @@
 {
-	"id": "Slugcat_Prototype",
-	"scene_folder": "scenes/slugcat - prototype",
+	"id": "Slugcat_Raincord100k",
+	"scene_folder": "scenes/slugcat - raincord_100k",
 	"images": [
-		{ "name": "Background", "pos": [492, 297], "depth": 3.7, "shader": "Basic" },
-		{ "name": "Slugcat",    "pos": [605, 427], "depth": 2.8, "shader": "Basic" },
-		{ "name": "Grass 3",    "pos": [602, 264], "depth": 2.2, "shader": "Basic" },
-		{ "name": "Grass 2",    "pos": [446, 283], "depth": 2.0, "shader": "Basic" },
-		{ "name": "Grass 1",    "pos": [515, 265], "depth": 1.8, "shader": "Basic" }
+		{ "name": "4", "pos": [171, 0], "depth": 3.7, "shader": "Basic" },
+		{ "name": "3", "pos": [171, 0], "depth": 2.8, "shader": "Basic" },
+		{ "name": "2", "pos": [171, 0], "depth": 2.2, "shader": "Basic" },
+		{ "name": "1", "pos": [171, 0], "depth": 2.0, "shader": "Basic" }
 	],
 	"idle_depths": [ 2.8 ],
-	"glow_pos": [688, 484],
-	"mark_pos": [689, 583],
+	"glow_pos": [-9999, -9999],
+	"mark_pos": [-9999, -9999],
 	"select_menu_pos": [0, 0],
 	"slugcat_depth": 2.8
 }

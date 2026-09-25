@@ -19,6 +19,6 @@
 		"world_state": "Raincord100k_Present",
 		
 		"select_menu_scene": "Slugcat_Raincord100k",
-		"select_menu_scene_ascended": "Ghost_Raincord100k"
+		"sleep_scene": "Sleep_Raincord100k"
 	}
 }
