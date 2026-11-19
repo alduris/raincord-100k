@@ -29,10 +29,9 @@ namespace Raincord100k.Hooks
 
         private static void WarpPoint_SuckInCreatures(ILContext il)
         {
-            // Prevent neuron flies from being sucked in but only in 100K
-
             var c = new ILCursor(il);
 
+            // Goal 1: prevent neuron flies from being sucked in but only in 100K
             c.GotoNext(MoveType.After, x => x.MatchCallOrCallvirt(typeof(List<AbstractPhysicalObject.AbstractObjectType>).GetMethod("Contains")));
 
             c.Emit(OpCodes.Ldarg_0);
@@ -40,6 +39,19 @@ namespace Raincord100k.Hooks
             c.EmitDelegate((bool blacklisted, WarpPoint self, PhysicalObject pObj) =>
             {
                 return blacklisted || (self.room.world.name.ToUpperInvariant() == "100K" && pObj is SSOracleSwarmer);
+            });
+
+            // Goal 2: drop spears and slugs on back
+            c.GotoNext(MoveType.After, x => x.MatchCallOrCallvirt<Creature>(nameof(Creature.LoseAllGrasps)));
+
+            c.Emit(OpCodes.Ldloc, 9);
+            c.EmitDelegate((Creature creature) =>
+            {
+                if (creature is Player player)
+                {
+                    player.spearOnBack?.DropSpear();
+                    player.slugOnBack?.DropSlug();
+                }
             });
         }
     }

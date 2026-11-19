@@ -16,7 +16,7 @@ namespace Raincord100k.Damoonlord.Peanut
             On.DevInterface.ObjectsPage.DevObjectGetCategoryFromPlacedType += PlaceInCategory;
             On.PlacedObject.GenerateEmptyData += GenerateEmptyData;
             On.DevInterface.ObjectsPage.CreateObjRep += CreateObjRepresentation;
-            On.AImap.TileAccessibleToCreature_IntVector2_CreatureTemplate += PeanutPathFinding;
+            //On.AImap.TileAccessibleToCreature_IntVector2_CreatureTemplate += PeanutPathFinding;
         }
 
         public static void Disable()
