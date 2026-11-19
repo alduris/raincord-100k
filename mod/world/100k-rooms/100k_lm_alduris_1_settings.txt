@@ -1,0 +1,6 @@
+Template: 100k_settingstemplate_lm-wall
+EffectColorA: 7
+Effects: BkgOnlyLightning-1-39-135, ZeroGSpecks-0.1956522-312-133, GreenSparks-0.1630435-294-84, 
+PlacedObjects: GreenSparksDir><368.8689><634.0892><0.9988683~-0.04756137, 
+FadePalette: 35, 0.6847826, 0.6739131
+MorePalette0: 10, 0.5326087, 0.5

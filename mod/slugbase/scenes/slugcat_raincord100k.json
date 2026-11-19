@@ -2,10 +2,10 @@
 	"id": "Slugcat_Raincord100k",
 	"scene_folder": "scenes/slugcat - raincord_100k",
 	"images": [
-		{ "name": "4", "pos": [171, 0], "depth": 3.7, "shader": "Basic" },
-		{ "name": "3", "pos": [171, 0], "depth": 2.8, "shader": "Basic" },
-		{ "name": "2", "pos": [171, 0], "depth": 2.2, "shader": "Basic" },
-		{ "name": "1", "pos": [171, 0], "depth": 2.0, "shader": "Basic" }
+		{ "name": "4", "pos": [427, 256], "depth": 3.7, "shader": "Basic" },
+		{ "name": "3", "pos": [427, 256], "depth": 2.8, "shader": "Basic" },
+		{ "name": "2", "pos": [427, 256], "depth": 2.2, "shader": "Basic" },
+		{ "name": "1", "pos": [427, 256], "depth": 2.0, "shader": "Basic" }
 	],
 	"idle_depths": [ 2.8 ],
 	"glow_pos": [-9999, -9999],

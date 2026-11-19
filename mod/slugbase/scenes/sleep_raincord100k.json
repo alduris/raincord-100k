@@ -2,9 +2,9 @@
 	"id": "Sleep_Raincord100k",
 	"scene_folder": "scenes/sleep - raincord_100k",
 	"images": [
-		{ "name": "3", "pos": [171, 0], "depth": 2.8, "shader": "Basic" },
-		{ "name": "2", "pos": [171, 0], "depth": 2.2, "shader": "Basic" },
-		{ "name": "1", "pos": [171, 0], "depth": 2.0, "shader": "Basic" }
+		{ "name": "3", "pos": [800, 180], "depth": 2.8, "shader": "Basic" },
+		{ "name": "2", "pos": [800, 180], "depth": 2.2, "shader": "Basic" },
+		{ "name": "1", "pos": [800, 150], "depth": 2.0, "shader": "Basic" }
 	],
 	"idle_depths": [ 2.2 ],
 	"glow_pos": [-9999, -9999],
